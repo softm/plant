@@ -27,8 +27,7 @@
 
 #### # 페페로미아 클루시폴리아(peperomia clusifolia)
   - 서인도제도, 배네수엘라 원산이며 성장이 느리다. 영명 레드 엣지 페페로미아(red edge peperomia)에서 알 수 있듯이 진하고 어두운 초록색 잎 가장자리에 붉은 빛이 돈다.
-
-<img src="페페로미아_클루시폴리아(peperomia_clusifolia).jpeg"/>
+![](페페로미아_클루시폴리아(peperomia_clusifolia).jpeg)
 
 #### # 페페로미아 산데르시이 알기레이아(peperomia sandersii var, argyreia)   
   - 동근 잎에 두껍고 진한 초록색 바탕에 회백색 세로줄 무늬가 특징으로 수박과 비슷하다고 하여 흔히 수박페페로미아라고 불린다. 선명한 무늬를 유지하려면 밝은 장소애서 키우는 것이 좋다. 
