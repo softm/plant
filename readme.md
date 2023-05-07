@@ -8,6 +8,5 @@
  - [2023년.02월.18일.토요일.수성_아이비](2023년.02월.18일.토요일.수성_아이비)
  - [XX.페페로미아](XX.페페로미아)
  - [XX.피토니아](XX.피토니아)
- - [XX_몬테스라_알보](XX_%EB%AA%AC%ED%85%8C%EC%8A%A4%EB%9D%BC_%EC%95%8C%EB%B3%B4.md)
- - [XX_몬테스라_알보](XX_%EB%AA%AC%ED%85%8C%EC%8A%A4%EB%9D%BC_%EC%95%8C%EB%B3%B4.md)
+ - [XX_몬테스라_알보](XX_%EB%AA%AC%ED%85%8C%EC%8A%A4%EB%9D%BC_%EC%95%8C%EB%B3%B4.html)
 
