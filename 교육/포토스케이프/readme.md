@@ -1,5 +1,10 @@
+
+### # 문자표.
+  - https://url.kr/web_tools/charmap/
+
 ### # 포토스케이프 설치
   - Download : http://photoscape.co.kr/ps/main/download.php
+  
 ### #  화면구성
   - 사진뷰어
   - 사진편집 : Shfit + Enter
