@@ -1,0 +1,67 @@
+<pre id="code_1626513930042" class="java" data-ke-language="java" data-ke-type="codeblock"><code class="hljs language-java">&lt;html xmlns:th=<span class="hljs-string"><span class="hljs-string">"http://www.thymeleaf.org"</span></span>&gt;
+    &lt;body&gt;
+    &lt;div <span class="hljs-class"><span class="hljs-keyword">class</span></span>=<span class="hljs-string"><span class="hljs-string">"container"</span></span>&gt;
+        &lt;div th:replace=<span class="hljs-string"><span class="hljs-string">"fragments/bodyHeader :: bodyHeader"</span></span>/&gt;
+        &lt;form role=<span class="hljs-string"><span class="hljs-string">"form"</span></span> action=<span class="hljs-string"><span class="hljs-string">"/members/new"</span></span> th:object=<span class="hljs-string"><span class="hljs-string">"${memberForm}"</span></span> method=<span class="hljs-string"><span class="hljs-string">"post"</span></span>&gt;
+            &lt;div <span class="hljs-class"><span class="hljs-keyword">class</span></span>=<span class="hljs-string"><span class="hljs-string">"form-group"</span></span>&gt;
+                &lt;label th:<span class="hljs-keyword"><span class="hljs-keyword">for</span></span>=<span class="hljs-string"><span class="hljs-string">"name"</span></span>&gt;이름&lt;/label&gt;
+                &lt;input type=<span class="hljs-string"><span class="hljs-string">"text"</span></span> th:field=<span class="hljs-string"><span class="hljs-string">"*{name}"</span></span> <span class="hljs-class"><span class="hljs-keyword">class</span></span>=<span class="hljs-string"><span class="hljs-string">"form-control"</span></span> placeholder=<span class="hljs-string"><span class="hljs-string">"이름을 입력하세요"</span></span>
+                       th:<span class="hljs-class"><span class="hljs-keyword">class</span></span>=<span class="hljs-string"><span class="hljs-string">"${#fields.hasErrors('name')}? 'form-control  fieldError' : 'form-control'"</span></span>&gt;
+                &lt;p th:<span class="hljs-keyword"><span class="hljs-keyword">if</span></span>=<span class="hljs-string"><span class="hljs-string">"${#fields.hasErrors('name')}"</span></span> th:errors=<span class="hljs-string"><span class="hljs-string">"*{name}"</span></span>&gt;Incorrect date&lt;/p&gt;
+            &lt;/div&gt;
+            &lt;div <span class="hljs-class"><span class="hljs-keyword">class</span></span>=<span class="hljs-string"><span class="hljs-string">"form-group"</span></span>&gt;
+                &lt;label th:<span class="hljs-keyword"><span class="hljs-keyword">for</span></span>=<span class="hljs-string"><span class="hljs-string">"zipcode"</span></span>&gt;우편번호&lt;/label&gt;
+                &lt;input type=<span class="hljs-string"><span class="hljs-string">"text"</span></span> th:field=<span class="hljs-string"><span class="hljs-string">"*{zipcode}"</span></span> <span class="hljs-class"><span class="hljs-keyword">class</span></span>=<span class="hljs-string"><span class="hljs-string">"form-control"</span></span> placeholder=<span class="hljs-string"><span class="hljs-string">"우편번호를 입력하세요"</span></span> readonly onclick=<span class="hljs-string"><span class="hljs-string">"findAddr()"</span></span>&gt;
+            &lt;/div&gt;
+            &lt;div <span class="hljs-class"><span class="hljs-keyword">class</span></span>=<span class="hljs-string"><span class="hljs-string">"form-group"</span></span>&gt;
+                &lt;label th:<span class="hljs-keyword"><span class="hljs-keyword">for</span></span>=<span class="hljs-string"><span class="hljs-string">"streetAdr"</span></span>&gt;도로명 주소&lt;/label&gt;
+                &lt;input type=<span class="hljs-string"><span class="hljs-string">"text"</span></span> th:field=<span class="hljs-string"><span class="hljs-string">"*{streetAdr}"</span></span> <span class="hljs-class"><span class="hljs-keyword">class</span></span>=<span class="hljs-string"><span class="hljs-string">"form-control"</span></span> placeholder=<span class="hljs-string"><span class="hljs-string">"도로명 주소를 입력하세요"</span></span> readonly&gt;
+            &lt;/div&gt;
+            &lt;div <span class="hljs-class"><span class="hljs-keyword">class</span></span>=<span class="hljs-string"><span class="hljs-string">"form-group"</span></span>&gt;
+                &lt;label th:<span class="hljs-keyword"><span class="hljs-keyword">for</span></span>=<span class="hljs-string"><span class="hljs-string">"detailAdr"</span></span>&gt;상세주소&lt;/label&gt;
+                &lt;input type=<span class="hljs-string"><span class="hljs-string">"text"</span></span> th:field=<span class="hljs-string"><span class="hljs-string">"*{detailAdr}"</span></span> <span class="hljs-class"><span class="hljs-keyword">class</span></span>=<span class="hljs-string"><span class="hljs-string">"form-control"</span></span> placeholder=<span class="hljs-string"><span class="hljs-string">"상세주소를 입력하세요"</span></span>&gt;
+            &lt;/div&gt;
+            &lt;br/&gt;
+            &lt;button type=<span class="hljs-string"><span class="hljs-string">"submit"</span></span> <span class="hljs-class"><span class="hljs-keyword">class</span></span>=<span class="hljs-string"><span class="hljs-string">"btn btn-primary"</span></span>&gt;입력&lt;/button&gt;
+        &lt;/form&gt;
+        &lt;br/&gt;
+        &lt;div th:replace=<span class="hljs-string"><span class="hljs-string">"fragments/footer :: footer"</span></span>/&gt;
+    &lt;/div&gt;
+    &lt;/body&gt;
+    &lt;script&gt;
+        <span class="hljs-function">function </span><span class="hljs-title function_"><span class="hljs-function"><span class="hljs-title">findAddr</span></span></span><span class="hljs-params"><span class="hljs-function"><span class="hljs-params">()</span></span></span><span class="hljs-function"> </span>{
+            <span class="hljs-keyword"><span class="hljs-keyword">new</span></span> <span class="hljs-title class_">daum</span>.Postcode({
+                oncomplete: function(data) {
+    
+                    <span class="hljs-type"><span class="hljs-keyword">var</span></span> <span class="hljs-variable">addr</span> <span class="hljs-operator">=</span> <span class="hljs-string"><span class="hljs-string">''</span></span>; <span class="hljs-comment"><span class="hljs-comment">// 주소 변수</span></span>
+                    <span class="hljs-type"><span class="hljs-keyword">var</span></span> <span class="hljs-variable">extraAddr</span> <span class="hljs-operator">=</span> <span class="hljs-string"><span class="hljs-string">''</span></span>; <span class="hljs-comment"><span class="hljs-comment">// 참고항목 변수</span></span>
+    
+                    <span class="hljs-keyword"><span class="hljs-keyword">if</span></span> (data.userSelectedType === <span class="hljs-string"><span class="hljs-string">'R'</span></span>) { <span class="hljs-comment"><span class="hljs-comment">// 사용자가 도로명 주소를 선택했을 경우</span></span>
+                        addr = data.roadAddress;
+                    } <span class="hljs-keyword"><span class="hljs-keyword">else</span></span> { <span class="hljs-comment"><span class="hljs-comment">// 사용자가 지번 주소를 선택했을 경우(J)</span></span>
+                        addr = data.jibunAddress;
+                    }
+    
+                    <span class="hljs-keyword"><span class="hljs-keyword">if</span></span>(data.userSelectedType === <span class="hljs-string"><span class="hljs-string">'R'</span></span>){
+                        <span class="hljs-keyword"><span class="hljs-keyword">if</span></span>(data.bname !== <span class="hljs-string"><span class="hljs-string">''</span></span> &amp;&amp; /[동|로|가]$/g.test(data.bname)){
+                            extraAddr += data.bname;
+                        }
+                        <span class="hljs-keyword"><span class="hljs-keyword">if</span></span>(data.buildingName !== <span class="hljs-string"><span class="hljs-string">''</span></span> &amp;&amp; data.apartment === <span class="hljs-string"><span class="hljs-string">'Y'</span></span>){
+                            extraAddr += (extraAddr !== <span class="hljs-string"><span class="hljs-string">''</span></span> ? <span class="hljs-string"><span class="hljs-string">', '</span></span> + data.buildingName : data.buildingName);
+                        }
+                        <span class="hljs-keyword"><span class="hljs-keyword">if</span></span>(extraAddr !== <span class="hljs-string"><span class="hljs-string">''</span></span>){
+                            extraAddr = <span class="hljs-string"><span class="hljs-string">' ('</span></span> + extraAddr + <span class="hljs-string"><span class="hljs-string">')'</span></span>;
+                        }
+                        document.getElementById(<span class="hljs-string"><span class="hljs-string">"detailAdr"</span></span>).value = extraAddr;
+                    } <span class="hljs-keyword"><span class="hljs-keyword">else</span></span> {
+                        document.getElementById(<span class="hljs-string"><span class="hljs-string">"detailAdr"</span></span>).value = <span class="hljs-string"><span class="hljs-string">''</span></span>;
+                    }
+                    document.getElementById(<span class="hljs-string"><span class="hljs-string">'zipcode'</span></span>).value = data.zonecode;
+                    document.getElementById(<span class="hljs-string"><span class="hljs-string">"streetAdr"</span></span>).value = addr;
+                    document.getElementById(<span class="hljs-string"><span class="hljs-string">"detailAdr"</span></span>).focus();
+                }
+            }).open();
+        }
+    &lt;/script&gt;
+    &lt;script src=<span class="hljs-string"><span class="hljs-string">"//t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"</span></span>&gt;&lt;/script&gt;
+    &lt;/html&gt;</code></pre>
