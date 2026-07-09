@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>디렉토리 인덱스</title>
+    <title>메인</title>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; line-height: 1.6; margin: 0; display: flex; flex-direction: column; height: 100vh; }
         nav { 
             background-color: #f8f9fa; 
-            padding: 10px 20px; 
+            padding: 8px 16px; 
             border-bottom: 1px solid #ccc; 
             display: flex; 
             flex-wrap: wrap; 
@@ -18,14 +18,14 @@
             z-index: 5;
             flex-shrink: 0;
         }
-        nav a { margin-right: 15px; text-decoration: none; color: #0366d6; font-weight: bold; }
+        nav a { margin-right: 12px; text-decoration: none; color: #0366d6; font-weight: bold; }
         .container { display: flex; flex-grow: 1; overflow: hidden; }
-        #file-list { width: 350px; border-right: 1px solid #ccc; padding: 0 20px 20px; overflow-y: auto; box-sizing: border-box; flex-shrink: 0; }
+        #file-list { width: clamp(260px, 23vw, 320px); border-right: 1px solid #ccc; padding: 0 14px 14px; overflow-y: auto; box-sizing: border-box; flex-shrink: 0; }
         #file-content {
             flex-grow: 1;
             min-width: 0;
             min-height: 0;
-            padding: 20px;
+            padding: 6px;
             overflow: hidden;
             display: flex;
             flex-direction: column;
@@ -34,21 +34,27 @@
         .loaded-filter-panel {
             flex-shrink: 0;
             border: 1px solid #e4e9f2;
-            border-radius: 12px;
+            border-radius: 8px;
             background: rgba(248, 250, 252, 0.92);
-            padding: 12px;
-            margin-bottom: 14px;
-            box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
+            padding: 6px;
+            margin-bottom: 6px;
+            box-shadow: 0 4px 12px rgba(15, 23, 42, 0.04);
         }
         .loaded-filter-head {
             display: flex;
             align-items: center;
             justify-content: space-between;
-            gap: 10px;
-            margin-bottom: 10px;
+            gap: 6px;
+            margin-bottom: 5px;
             color: #1f2937;
-            font-size: 0.92em;
+            font-size: 0.86em;
             font-weight: 800;
+        }
+        .loaded-filter-actions {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            flex-shrink: 0;
         }
         .loaded-filter-head button,
         .loaded-filter-chip {
@@ -60,24 +66,24 @@
             font: inherit;
         }
         .loaded-filter-head button {
-            padding: 5px 10px;
-            font-size: 0.82em;
+            padding: 3px 8px;
+            font-size: 0.78em;
             font-weight: 700;
         }
         .loaded-filter-chips {
             display: flex;
             flex-wrap: wrap;
-            gap: 8px;
-            max-height: 82px;
+            gap: 5px;
+            max-height: 64px;
             overflow: auto;
         }
         .loaded-filter-chip {
             display: inline-flex;
             align-items: center;
-            gap: 6px;
-            min-height: 30px;
-            padding: 5px 10px;
-            font-size: 0.84em;
+            gap: 5px;
+            min-height: 24px;
+            padding: 2px 7px;
+            font-size: 0.78em;
             white-space: nowrap;
         }
         .loaded-filter-chip:hover,
@@ -95,6 +101,130 @@
         .loaded-filter-chip[aria-pressed="true"] .loaded-filter-count {
             color: inherit;
         }
+        .loaded-filter-panel.is-collapsed {
+            padding-bottom: 6px;
+        }
+        .loaded-filter-panel.is-collapsed .loaded-filter-head {
+            margin-bottom: 0;
+        }
+        .loaded-filter-panel.is-collapsed .loaded-filter-chips {
+            display: none;
+        }
+        /* SOFTM-publishing-github 2026-07-09: 관리자 퍼블리싱 GitHub 반영 패널/토글 스타일 시작 */
+        .publishing-panel {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 8px;
+            border: 1px solid #d8e0ec;
+            border-radius: 8px;
+            background: #f8fafc;
+            padding: 8px;
+            margin-bottom: 8px;
+            color: #334155;
+            font-size: 0.86em;
+        }
+        .publishing-token-label {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            font-weight: 800;
+        }
+        .publishing-token-input {
+            width: min(280px, 42vw);
+            min-height: 32px;
+            border: 1px solid #cbd5e1;
+            border-radius: 7px;
+            padding: 0 8px;
+            font: inherit;
+        }
+        .publishing-save-button,
+        .publishing-toggle {
+            border: 1px solid #cbd5e1;
+            border-radius: 999px;
+            background: #fff;
+            color: #1f2937;
+            cursor: pointer;
+            font: inherit;
+            font-weight: 800;
+        }
+        .publishing-save-button {
+            min-height: 32px;
+            padding: 0 10px;
+        }
+        .publishing-save-button:not(:disabled):hover,
+        .publishing-toggle:hover {
+            border-color: #0b63d1;
+            color: #0b63d1;
+        }
+        .publishing-save-button:disabled {
+            cursor: default;
+            opacity: 0.55;
+        }
+        .publishing-refresh-button.is-attention:not(:disabled) {
+            border-color: #f79009;
+            background: #fffaeb;
+            color: #b54708;
+        }
+        .publishing-toggle {
+            flex: 0 0 auto;
+            min-height: 26px;
+            padding: 0 8px;
+            font-size: 0.78em;
+            line-height: 1;
+            white-space: nowrap; /* SOFTM-publishing-current-state 2026-07-09: 현재 게시 상태 문구가 파일 행에서 줄바꿈되지 않게 고정 */
+        }
+        .publishing-toggle[data-published="false"] {
+            border-color: #f1b8b8;
+            background: #fff7ed;
+            color: #b42318;
+        }
+        .publishing-meta {
+            font-weight: 800;
+            color: #64748b;
+        }
+        .publishing-sync-chip {
+            display: inline-flex;
+            align-items: center;
+            min-height: 24px;
+            border: 1px solid #cbd5e1;
+            border-radius: 999px;
+            padding: 0 8px;
+            background: #fff;
+            color: #475467;
+            font-weight: 800;
+            white-space: nowrap;
+        }
+        .publishing-sync-chip[data-type="success"] {
+            border-color: #abefc6;
+            background: #ecfdf3;
+            color: #067647;
+        }
+        .publishing-sync-chip[data-type="pending"] {
+            border-color: #fedf89;
+            background: #fffaeb;
+            color: #b54708;
+        }
+        .publishing-sync-chip[data-type="error"] {
+            border-color: #fecdca;
+            background: #fef3f2;
+            color: #b42318;
+        } /* SOFTM-publishing-sync-notice 2026-07-10: 원격 grant SHA 기준 동기화 상태 chip 스타일 추가 */
+        .publishing-status {
+            flex: 1 1 180px;
+            min-width: 160px;
+            color: #64748b;
+        }
+        .publishing-status[data-type="error"] {
+            color: #b42318;
+        }
+        .publishing-status[data-type="success"] {
+            color: #067647;
+        }
+        .directory-item-publishing {
+            margin-left: 0;
+        }
+        /* SOFTM-publishing-github 2026-07-09: 관리자 퍼블리싱 GitHub 반영 패널/토글 스타일 끝 */
         h1, h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
         ul { list-style-type: none; padding-left: 0; }
         li {
@@ -129,17 +259,184 @@
         a { text-decoration: none; color: #0366d6; }
         a:hover { text-decoration: underline; }
         img { max-width: 100%; height: auto; }
-        #searchInput { width: 100%; padding: 8px; box-sizing: border-box; }
+        #searchInput,
+        #mainDirectorySearchInput {
+            width: 100%;
+            padding: 9px 10px;
+            box-sizing: border-box;
+            border: 1px solid #d8e0ec;
+            border-radius: 10px;
+            font: inherit;
+        }
+        .publishing-condition-row {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            gap: 6px;
+            align-items: center;
+        }
+        .publishing-condition-row > input {
+            min-width: 0;
+        }
+        .publishing-condition-field {
+            display: block;
+            min-width: 0;
+        }
+        .publishing-condition-select {
+            width: 92px;
+            height: 40px;
+            box-sizing: border-box;
+            border: 1px solid #d8e0ec;
+            border-radius: 10px;
+            background: #fff;
+            color: #24292f;
+            font: inherit;
+            font-size: 0.86em;
+            font-weight: 700;
+            padding: 0 24px 0 10px;
+        } /* SOFTM-publishing-filter-inline 2026-07-10: 게시 조건 row를 없애고 검색 입력 줄 오른쪽에 배치 */
         .list-header {
             position: sticky;
             top: 0;
             z-index: 2;
             background-color: #fff;
-            padding: 20px 0 12px;
+            padding: 14px 0 8px;
+        }
+        .list-header-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
         }
         .list-header h1 {
             margin-top: 0;
-            margin-bottom: 12px;
+            margin-bottom: 8px;
+            font-size: 1.7em;
+            line-height: 1.2;
+        }
+        .mobile-panel-toggle {
+            display: none;
+            border: 1px solid #d8e0ec;
+            border-radius: 999px;
+            background: #fff;
+            color: #0b63d1;
+            cursor: pointer;
+            font: inherit;
+            font-size: 0.86em;
+            font-weight: 800;
+            min-height: 36px;
+            padding: 6px 12px;
+            white-space: nowrap;
+        }
+        .mobile-panel-toggle:focus-visible {
+            outline: 3px solid rgba(11, 99, 209, 0.28);
+            outline-offset: 2px;
+        }
+        .left-menu-tabs {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 6px;
+            margin-bottom: 8px;
+            padding: 4px;
+            border: 1px solid #e0e7f1;
+            border-radius: 12px;
+            background: #f4f7fb;
+        }
+        .left-menu-tab {
+            border: 0;
+            border-radius: 9px;
+            background: transparent;
+            color: #5c6b82;
+            cursor: pointer;
+            font: inherit;
+            font-size: 0.92em;
+            font-weight: 800;
+            padding: 6px 8px;
+        }
+        .left-menu-tab:hover,
+        .left-menu-tab.is-active {
+            background: #fff;
+            color: #0b63d1;
+            box-shadow: 0 4px 14px rgba(15, 23, 42, 0.08);
+        }
+        .left-tab-panel {
+            margin-bottom: 10px;
+        }
+        .left-hidden {
+            display: none !important;
+        }
+        .left-result-list {
+            margin: 0;
+        }
+        .note-list-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            min-width: 0;
+        }
+        .note-list-icon {
+            width: 25px;
+            height: 20px;
+            flex: 0 0 auto;
+            color: #4db2df;
+        }
+        .note-list-icon svg {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+        .note-list-text {
+            min-width: 0;
+            overflow-wrap: anywhere;
+            line-height: 1.45;
+        }
+        .note-list-item--root {
+            border: 1px solid #cfe0f7;
+            background: #f8fbff;
+            font-weight: 900;
+        }
+        .note-list-item--root .note-list-icon {
+            color: #0b63d1;
+        }
+        .note-list-item--child {
+            position: relative;
+            margin: 4px 0 0 30px;
+            padding-left: 18px;
+        }
+        #mainDirectories.note-list-tree .note-list-item--root {
+            margin-bottom: 6px;
+        }
+        #mainDirectories.note-list-tree .note-list-item--child::before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: -10px;
+            bottom: 50%;
+            width: 13px;
+            border-left: 2px solid #d9e2ef;
+            border-bottom: 2px solid #d9e2ef;
+            border-bottom-left-radius: 10px;
+        }
+        #mainDirectories.note-list-tree .note-list-item--child::after {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 50%;
+            bottom: -10px;
+            border-left: 2px solid #d9e2ef;
+        }
+        #mainDirectories.note-list-tree .note-list-item--child:last-child::after {
+            display: none;
+        }
+        #mainDirectories li.selected-note,
+        #mainDirectories li.selected-note:hover {
+            background-color: #0b63d1;
+            color: #fff;
+        }
+        #mainDirectories li.selected-note::before {
+            display: none;
+        }
+        #mainDirectories li.selected-note .note-list-text {
+            color: inherit;
         }
         .search-controls {
             display: flex;
@@ -243,12 +540,12 @@
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            width: 48px;
-            height: 48px;
-            border-radius: 12px;
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
             background-color: #e6ecfa;
             color: #1c3a71;
-            font-size: 0.8em;
+            font-size: 0.72em;
             font-weight: 600;
             letter-spacing: 0.04em;
             text-transform: uppercase;
@@ -270,6 +567,7 @@
             background-color: #f0f0f0;
             color: #555;
         }
+        /* SOFTM-share-url-box 2026-06-03: SNS 아이콘 행과 URL 복사 입력형 공유 패널 시작 */
         .share-section {
             position: relative;
             display: inline-flex;
@@ -277,21 +575,23 @@
             justify-content: flex-end;
         }
         .share-toggle-button,
-        .share-button {
+        .share-button,
+        .share-url-copy {
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            width: 42px;
-            height: 42px;
-            border-radius: 50%;
             border: none;
             cursor: pointer;
-            transition: background-color 0.2s ease, transform 0.2s ease;
+            font: inherit;
+            transition: background-color 0.2s ease, transform 0.2s ease, filter 0.2s ease;
         }
         .share-toggle-button {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
             background-color: #1f2937;
             color: #fff;
-            box-shadow: 0 6px 16px rgba(15, 23, 42, 0.18);
+            box-shadow: 0 4px 10px rgba(15, 23, 42, 0.16);
         }
         .share-toggle-button:hover,
         .share-section.is-open .share-toggle-button {
@@ -299,16 +599,17 @@
             transform: translateY(-1px);
         }
         .share-toggle-button svg {
-            width: 21px;
-            height: 21px;
+            width: 17px;
+            height: 17px;
         }
         .share-panel {
             position: fixed;
             z-index: 3000;
-            min-width: 286px;
-            padding: 10px;
-            border: 1px solid #dde3ed;
-            border-radius: 14px;
+            box-sizing: border-box;
+            width: min(424px, calc(100vw - 24px));
+            padding: 14px;
+            border: 1px solid #cfd6e1;
+            border-radius: 8px;
             background-color: #fff;
             box-shadow: 0 18px 42px rgba(15, 23, 42, 0.18);
         }
@@ -318,20 +619,58 @@
         .share-buttons {
             display: flex;
             flex-wrap: wrap;
-            gap: 8px;
-            justify-content: flex-end;
-            margin-bottom: 8px;
+            gap: 10px;
+            justify-content: center;
+            margin-bottom: 12px;
+        }
+        .share-variant-buttons {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 2px;
+            width: max-content;
+            max-width: 100%;
+            margin: 0 auto 12px;
+            padding: 2px;
+            border: 1px solid #d8e0ec;
+            border-radius: 999px;
+            background: #f1f5f9;
+        }
+        .share-variant-button {
+            border: 0;
+            border-radius: 999px;
+            background: transparent;
+            color: #1f2937;
+            cursor: pointer;
+            font: inherit;
+            font-weight: 700;
+            min-width: 48px;
+            padding: 4px 10px;
+            text-align: center;
+            font-size: 0.82em;
+        }
+        .share-variant-button:hover {
+            background: #eaf2ff;
+        }
+        .share-variant-button[aria-pressed="true"] {
+            background: #4b5563;
+            color: #fff;
         }
         .share-button {
-            background-color: #e6edf8;
-            color: #1d3b70;
+            width: 54px;
+            height: 54px;
+            padding: 0;
+            border-radius: 10px;
+            color: #fff;
         }
         .share-button svg {
-            width: 20px;
-            height: 20px;
+            width: 38px;
+            height: 38px;
         }
         .share-toggle-button:focus-visible,
-        .share-button:focus-visible {
+        .share-button:focus-visible,
+        .share-url-copy:focus-visible,
+        .share-url-input:focus-visible {
             outline: 3px solid rgba(3, 102, 214, 0.45);
             outline-offset: 2px;
         }
@@ -341,68 +680,79 @@
             justify-content: center;
         }
         .share-button:hover {
-            background-color: #d6e3f5;
+            filter: brightness(0.96);
             transform: translateY(-1px);
-        }
-        .share-button[data-network="facebook"] {
-            background-color: #1877f2;
-            color: #fff;
-        }
-        .share-button[data-network="facebook"]:hover {
-            background-color: #0f5dc8;
-        }
-        .share-button[data-network="x"] {
-            background-color: #111;
-            color: #fff;
-        }
-        .share-button[data-network="x"]:hover {
-            background-color: #333;
-        }
-        .share-button[data-network="linkedin"] {
-            background-color: #0a66c2;
-            color: #fff;
-        }
-        .share-button[data-network="linkedin"]:hover {
-            background-color: #084f97;
-        }
-        .share-button[data-network="threads"] {
-            background-color: #111;
-            color: #fff;
-        }
-        .share-button[data-network="threads"]:hover {
-            background-color: #333;
         }
         .share-button[data-network="kakao"] {
             background-color: #fee500;
-            color: #371d1e;
+            color: #3c1e1e;
         }
-        .share-button[data-network="kakao"]:hover {
-            background-color: #f2d900;
+        .share-button[data-network="line"] {
+            background-color: #06c755;
         }
-        .share-button[data-network="email"] {
-            background-color: #f97316;
-            color: #fff;
+        .share-button[data-network="facebook"] {
+            background-color: #1877f2;
         }
-        .share-button[data-network="email"]:hover {
-            background-color: #ea580c;
+        .share-button[data-network="twitter"] {
+            background-color: #55acee;
         }
-        .share-button[data-network="native"],
-        .share-button[data-network="copy"] {
-            background-color: #efefef;
-            color: #333;
+        .share-button[data-network="band"] {
+            background-color: #37b24d;
         }
-        .share-button[data-network="native"]:hover,
-        .share-button[data-network="copy"]:hover {
-            background-color: #e0e0e0;
+        .share-url-row {
+            display: flex;
+            width: 100%;
+            overflow: hidden;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            background-color: #fff;
+        }
+        .share-url-input {
+            flex: 1 1 auto;
+            min-width: 0;
+            height: 42px;
+            border: 0;
+            border-right: 1px solid #cbd5e1;
+            padding: 0 12px;
+            background-color: #eef2f7;
+            color: #202a37;
+            font: inherit;
+            font-size: 1em;
+        }
+        .share-url-copy {
+            flex: 0 0 auto;
+            min-width: 96px;
+            height: 42px;
+            padding: 0 14px;
+            background-color: #fff;
+            color: #475569;
+            font-weight: 700;
+            white-space: nowrap;
+        }
+        .share-url-copy:hover {
+            background-color: #f8fafc;
         }
         .share-feedback {
             min-height: 18px;
+            margin-top: 6px;
+            text-align: right;
             font-size: 0.85em;
             color: #1d3b70;
         }
         .share-feedback.share-feedback--error {
             color: #a11;
         }
+        .directory-viewer-nav .share-section--viewer .share-toggle-button {
+            width: 32px;
+            height: 32px;
+            padding: 0;
+            border: 0;
+        }
+        .directory-viewer-nav .share-section--viewer .share-variant-button {
+            min-width: 48px;
+            padding: 4px 10px;
+        }
+        /* SOFTM-share-url-box 2026-06-03: SNS 아이콘 행과 URL 복사 입력형 공유 패널 끝 */
         #content {
             flex: 1 1 auto;
             min-height: 0;
@@ -411,6 +761,7 @@
         }
         .markdown-viewer {
             width: 100%;
+            box-sizing: border-box; /* SOFTM-markdown-viewer-sizing 2026-07-10: 좁은 미리보기 패널에서 padding 포함 폭으로 계산 */
             min-height: 500px;
             border: 1px solid #ccc;
             border-radius: 8px;
@@ -422,15 +773,27 @@
         }
         .markdown-viewer h1,
         .markdown-viewer h2,
-        .markdown-viewer h3 {
+        .markdown-viewer h3,
+        .markdown-viewer h4,
+        .markdown-viewer h5,
+        .markdown-viewer h6 {
             margin: 1.2em 0 0.55em;
             border-bottom: 1px solid #e5e7eb;
             padding-bottom: 0.25em;
         }
         .markdown-viewer h1:first-child,
         .markdown-viewer h2:first-child,
-        .markdown-viewer h3:first-child {
+        .markdown-viewer h3:first-child,
+        .markdown-viewer h4:first-child,
+        .markdown-viewer h5:first-child,
+        .markdown-viewer h6:first-child {
             margin-top: 0;
+        }
+        .markdown-viewer h4,
+        .markdown-viewer h5,
+        .markdown-viewer h6 {
+            border-bottom: 0;
+            padding-bottom: 0;
         }
         .markdown-viewer p {
             margin: 0.7em 0;
@@ -440,6 +803,9 @@
             margin: 0.7em 0;
             padding-left: 1.5em;
             list-style: revert;
+        }
+        .markdown-viewer li input[type="checkbox"] {
+            margin-right: 0.4em;
         }
         .markdown-viewer pre {
             overflow: auto;
@@ -464,12 +830,37 @@
             color: #59636e;
             border-left: 4px solid #d6deea;
         }
+        .markdown-viewer hr {
+            border: 0;
+            border-top: 1px solid #d8dee4;
+            margin: 1.1em 0;
+        }
+        .markdown-viewer table {
+            width: 100%;
+            margin: 0.9em 0;
+            border-collapse: collapse;
+            font-size: 0.95em;
+        }
+        .markdown-viewer th,
+        .markdown-viewer td {
+            border: 1px solid #d8dee4;
+            padding: 8px 10px;
+            text-align: left;
+            vertical-align: top;
+        }
+        .markdown-viewer th {
+            background: #f6f8fa;
+            font-weight: 700;
+        }
+        .markdown-viewer tr:nth-child(even) td {
+            background: #fbfcfe;
+        }
         .markdown-viewer img {
             max-width: 100%;
             height: auto;
         }
         .directory-browser {
-            margin-top: 18px;
+            margin-top: 4px;
             border: 1px solid #dde3ed;
             border-radius: 8px;
             background: #fff;
@@ -483,15 +874,17 @@
             display: flex;
             align-items: center;
             justify-content: space-between;
-            gap: 12px;
-            padding: 12px 14px;
+            gap: 5px;
+            padding: 5px 6px;
             border-bottom: 1px solid #e5e9f0;
             background: #f7f9fc;
             flex-shrink: 0;
         }
         .directory-browser-title {
             display: flex;
-            flex-direction: column;
+            flex-direction: row;
+            align-items: center;
+            gap: 6px;
             min-width: 0;
         }
         .directory-browser-title strong {
@@ -499,7 +892,7 @@
             color: #1f2937;
         }
         .directory-browser-title span {
-            font-size: 1.06em;
+            font-size: 0.96em;
             font-weight: 700;
             color: #667085;
             white-space: nowrap;
@@ -560,22 +953,22 @@
         .directory-browser-actions {
             display: inline-flex;
             align-items: center;
-            gap: 8px;
+            gap: 4px;
             flex-shrink: 0;
         }
         .view-mode-control {
             display: inline-flex;
             align-items: center;
             gap: 2px;
-            padding: 3px;
+            padding: 2px;
             border: 1px solid #ccd3df;
             border-radius: 999px;
             background: #eef2f7;
             flex-shrink: 0;
         }
         .view-mode-button {
-            width: 34px;
-            height: 30px;
+            width: 26px;
+            height: 25px;
             border: 0;
             border-radius: 999px;
             background: transparent;
@@ -587,8 +980,8 @@
             padding: 0;
         }
         .view-mode-button svg {
-            width: 20px;
-            height: 20px;
+            width: 15px;
+            height: 15px;
             display: block;
         }
         .view-mode-button[aria-pressed="true"] {
@@ -596,8 +989,8 @@
             color: #fff;
         }
         .preview-toggle-button {
-            width: 34px;
-            height: 30px;
+            width: 26px;
+            height: 25px;
             border: 0;
             border-radius: 999px;
             background: transparent;
@@ -609,13 +1002,44 @@
             padding: 0;
         }
         .preview-toggle-button svg {
-            width: 21px;
-            height: 21px;
+            width: 15px;
+            height: 15px;
             display: block;
         }
         .preview-toggle-button[aria-pressed="true"] {
             background: #4b5563;
             color: #fff;
+        }
+        .directory-viewer-open-button {
+            min-height: 25px;
+            border: 1px solid #ccd3df;
+            border-radius: 999px;
+            background: #fff;
+            color: #344054;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0 7px;
+            font: inherit;
+            font-weight: 800;
+            line-height: 1;
+            white-space: nowrap;
+        }
+        .directory-viewer-open-button svg {
+            width: 15px;
+            height: 15px;
+        }
+        .directory-viewer-open-button:not(:disabled):hover,
+        .directory-viewer-open-button:not(:disabled):focus-visible {
+            background: #eef4ff;
+            border-color: #9db7dc;
+            color: #0b63ce;
+            outline: none;
+        }
+        .directory-viewer-open-button:disabled {
+            opacity: 0.45;
+            cursor: default;
         }
         .directory-browser-layout {
             min-width: 0;
@@ -624,10 +1048,11 @@
             overflow: hidden;
         }
         .directory-items {
-            padding: 14px;
+            padding: 5px;
             min-height: 0;
             overflow-y: auto;
             overscroll-behavior: contain;
+            user-select: none;
         }
         .directory-item {
             color: #1f2937;
@@ -639,6 +1064,57 @@
             min-width: 0;
             font: inherit;
             text-align: left;
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+        .directory-item-open-button {
+            display: none;
+            width: 32px;
+            height: 32px;
+            border: 1px solid #d1d9e6;
+            border-radius: 8px;
+            background: #fff;
+            color: #4b5563;
+            cursor: pointer;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            padding: 0;
+            margin-left: auto;
+            margin-right: 5px;
+            transition: all 0.2s;
+        }
+        .directory-item:hover .directory-item-open-button {
+            display: inline-flex;
+        }
+        .directory-item-open-button:hover {
+            background: #0b63d1;
+            border-color: #0b63d1;
+            color: #fff;
+            box-shadow: 0 4px 12px rgba(11, 99, 209, 0.2);
+        }
+        .directory-item-open-button svg {
+            width: 18px;
+            height: 18px;
+        }
+        .directory-item-actions {
+            display: inline-flex;
+            align-items: center;
+            justify-content: flex-end;
+            gap: 6px;
+            margin-left: auto;
+            flex: 0 0 auto;
+            white-space: nowrap;
+        } /* SOFTM-publishing-state-label 2026-07-09: 게시 상태 버튼과 뷰어 아이콘을 같은 줄 끝 액션 영역으로 정렬 */
+        .directory-item-actions .directory-item-open-button {
+            margin-left: 0;
+            margin-right: 0;
+        }
+        @media (max-width: 768px) {
+            .directory-item-open-button {
+                display: none !important;
+            }
         }
         .directory-item:hover,
         .directory-item:focus {
@@ -725,8 +1201,15 @@
             height: 22px;
             filter: drop-shadow(0 4px 10px rgba(15, 23, 42, 0.28));
         }
-        .directory-item[data-kind="directory"] .directory-item-icon {
+        .directory-item[data-kind="directory"] .directory-item-icon,
+        .directory-item[data-kind="parent"] .directory-item-icon {
             color: #064f7a;
+        }
+        .directory-item[data-kind="parent"] {
+            color: #344054;
+        }
+        .directory-item[data-kind="parent"] .directory-item-name {
+            font-weight: 800;
         }
         .directory-item-main {
             min-width: 0;
@@ -744,25 +1227,29 @@
         }
         .directory-browser[data-view-mode="grid"] .directory-items {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-            gap: 14px;
+            grid-template-columns: repeat(auto-fill, minmax(118px, 1fr));
+            gap: 8px;
         }
         .directory-browser[data-view-mode="grid"] .directory-item {
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 10px;
-            padding: 14px 10px;
+            gap: 7px;
+            padding: 10px 8px;
             text-align: center;
         }
+        .directory-browser[data-view-mode="grid"] .directory-item-actions {
+            margin-left: 0;
+            justify-content: center;
+        }
         .directory-browser[data-view-mode="grid"] .directory-item-icon {
-            width: 82px;
-            height: 82px;
-            border-radius: 14px;
+            width: 58px;
+            height: 58px;
+            border-radius: 12px;
         }
         .directory-browser[data-view-mode="grid"] .directory-folder-icon svg {
-            width: 82px;
-            height: 62px;
+            width: 58px;
+            height: 44px;
         }
         .directory-browser[data-view-mode="grid"] .directory-item-name {
             display: -webkit-box;
@@ -777,10 +1264,13 @@
         }
         .directory-browser[data-view-mode="list"] .directory-item {
             display: grid;
-            grid-template-columns: 44px minmax(0, 1fr) 150px;
+            grid-template-columns: 44px minmax(0, 1fr) auto;
             align-items: center;
             gap: 12px;
             padding: 8px 10px;
+        }
+        .directory-browser[data-view-mode="list"] .directory-item-actions {
+            justify-self: end;
         }
         .directory-browser[data-view-mode="list"] .directory-item-meta {
             margin-top: 0;
@@ -806,10 +1296,14 @@
         .directory-column .directory-item {
             width: 100%;
             display: grid;
-            grid-template-columns: 38px minmax(0, 1fr) 18px;
+            grid-template-columns: 38px minmax(0, 1fr) auto;
             align-items: center;
             gap: 10px;
             padding: 7px 8px;
+        }
+        .directory-column .directory-item-actions {
+            gap: 4px;
+            justify-self: end;
         }
         .directory-column .directory-item-icon {
             width: 32px;
@@ -836,8 +1330,11 @@
             text-align: right;
         }
         .directory-preview {
-            padding: 18px;
+            padding: 12px;
             color: #1f2937;
+        }
+        .directory-mobile-sheet-bar {
+            display: none;
         }
         .directory-preview[role="button"] {
             cursor: pointer;
@@ -856,11 +1353,11 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            min-height: 220px;
+            min-height: 180px;
             border-radius: 8px;
             background: #eef2f7;
             overflow: hidden;
-            margin-bottom: 14px;
+            margin-bottom: 10px;
         }
         .directory-preview-visual[role="button"] {
             cursor: pointer;
@@ -878,10 +1375,10 @@
             display: block;
         }
         .directory-preview-visual .file-badge {
-            width: 86px;
-            height: 86px;
-            border-radius: 18px;
-            font-size: 1em;
+            width: 62px;
+            height: 62px;
+            border-radius: 14px;
+            font-size: 0.84em;
         }
         .directory-preview-visual--viewer {
             align-items: stretch;
@@ -947,7 +1444,7 @@
         }
         .directory-preview-name {
             display: block;
-            font-size: 1.05em;
+            font-size: 0.98em;
             word-break: break-word;
         }
         .directory-preview-type {
@@ -959,9 +1456,9 @@
         .directory-preview-info {
             display: grid;
             grid-template-columns: 70px minmax(0, 1fr);
-            gap: 8px 12px;
-            margin: 18px 0 0;
-            font-size: 0.9em;
+            gap: 6px 10px;
+            margin: 12px 0 0;
+            font-size: 0.86em;
         }
         .directory-preview-info dt {
             color: #667085;
@@ -974,38 +1471,42 @@
         }
         .directory-browser[data-view-mode="gallery"] .directory-items {
             display: flex;
-            gap: 10px;
+            gap: 8px;
             overflow-x: auto;
             overflow-y: hidden;
-            padding: 14px;
+            padding: 8px;
             scroll-snap-type: x proximity;
         }
         .directory-browser[data-view-mode="gallery"] .directory-item {
-            flex: 0 0 112px;
+            flex: 0 0 92px;
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 8px;
-            padding: 10px 8px;
+            gap: 6px;
+            padding: 7px 6px;
             text-align: center;
             scroll-snap-align: start;
         }
+        .directory-browser[data-view-mode="gallery"] .directory-item-actions {
+            margin-left: 0;
+            justify-content: center;
+        }
         .directory-browser[data-view-mode="gallery"] .directory-item-icon {
-            width: 72px;
-            height: 72px;
-            border-radius: 12px;
-            font-size: 1em;
+            width: 50px;
+            height: 50px;
+            border-radius: 10px;
+            font-size: 0.78em;
         }
         .directory-browser[data-view-mode="gallery"] .directory-folder-icon svg {
-            width: 72px;
-            height: 54px;
+            width: 50px;
+            height: 38px;
         }
         .directory-browser[data-view-mode="gallery"] .directory-item-name {
             display: -webkit-box;
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
-            font-size: 0.86em;
+            font-size: 0.78em;
         }
         .directory-browser[data-view-mode="gallery"] .directory-item-meta {
             display: none;
@@ -1014,24 +1515,27 @@
             background: #eef2f7;
             border-color: #ccd3df;
         }
+        /* SOFTM-directory-splitter-fill 2026-07-10: 스플릿터 조정 후 미리보기 컬럼이 남은 폭을 채우도록 조정 시작 */
         .directory-browser-layout {
             display: grid;
-            grid-template-columns: minmax(220px, var(--directory-list-width, 1fr)) 8px minmax(280px, 34%);
+            grid-template-columns: minmax(180px, var(--directory-list-width, 70%)) 6px minmax(280px, 1fr);
+            width: 100%;
             min-height: 0;
         }
+        /* SOFTM-directory-splitter-fill 2026-07-10: 스플릿터 조정 후 미리보기 컬럼이 남은 폭을 채우도록 조정 끝 */
         .directory-items {
             grid-column: 1;
         }
         .directory-splitter {
             grid-column: 2;
-            min-width: 8px;
+            min-width: 6px;
             cursor: col-resize;
-            background: linear-gradient(90deg, transparent 0, transparent 3px, #d8dee9 3px, #d8dee9 5px, transparent 5px);
+            background: linear-gradient(90deg, transparent 0, transparent 2px, #d8dee9 2px, #d8dee9 4px, transparent 4px);
             touch-action: none;
         }
         .directory-splitter:hover,
         .directory-browser.is-resizing .directory-splitter {
-            background: linear-gradient(90deg, transparent 0, transparent 2px, #0b63d1 2px, #0b63d1 6px, transparent 6px);
+            background: linear-gradient(90deg, transparent 0, transparent 1px, #0b63d1 1px, #0b63d1 5px, transparent 5px);
         }
         .directory-browser.is-resizing,
         .directory-browser.is-resizing * {
@@ -1043,7 +1547,7 @@
             display: block;
             min-width: 0;
             min-height: 0;
-            overflow-y: auto;
+            overflow: auto; /* SOFTM-directory-splitter-fill 2026-07-10: 미리보기 내용이 좁은 폭에서 잘릴 때 가로/세로 스크롤 허용 */
             border-left: 1px solid #e5e9f0;
             background: #fbfcff;
             overscroll-behavior: contain;
@@ -1056,19 +1560,33 @@
         .directory-browser .directory-item.is-selected .directory-item-meta {
             color: rgba(255, 255, 255, 0.78);
         }
+        .directory-browser.is-drag-selecting,
+        .directory-browser.is-drag-selecting * {
+            cursor: crosshair;
+            user-select: none;
+        }
+        .directory-drag-selection-box {
+            position: fixed;
+            z-index: 1800;
+            display: none;
+            pointer-events: none;
+            border: 1px solid rgba(9, 105, 218, 0.78);
+            background: rgba(9, 105, 218, 0.16);
+            box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.42) inset;
+        } /* SOFTM-main-drag-select-feedback 2026-05-17: 메인 탐색기 드래그 선택 영역을 시각적으로 표시 */
         .directory-browser[data-view-mode="gallery"] .directory-browser-layout {
             display: grid;
             grid-template-columns: 1fr;
-            grid-template-rows: minmax(260px, var(--directory-gallery-preview-height, 1fr)) 8px auto;
+            grid-template-rows: minmax(220px, 1fr) 6px var(--directory-gallery-list-height, 92px);
         }
         .directory-browser[data-view-mode="gallery"] .directory-splitter {
             display: block;
             grid-row: 2;
             grid-column: 1;
-            min-height: 8px;
+            min-height: 6px;
             min-width: 0;
             cursor: row-resize;
-            background: linear-gradient(0deg, transparent 0, transparent 3px, #d8dee9 3px, #d8dee9 5px, transparent 5px);
+            background: linear-gradient(0deg, transparent 0, transparent 2px, #d8dee9 2px, #d8dee9 4px, transparent 4px);
         }
         .directory-browser[data-view-mode="gallery"] .directory-splitter:hover,
         .directory-browser[data-view-mode="gallery"].is-resizing .directory-splitter {
@@ -1088,7 +1606,7 @@
         .directory-browser[data-view-mode="gallery"] .directory-preview {
             height: 100%;
             display: grid;
-            grid-template-columns: minmax(320px, 1fr) 8px minmax(240px, var(--directory-gallery-info-width, 34%));
+            grid-template-columns: minmax(360px, 1fr) 6px minmax(210px, var(--directory-gallery-info-width, 28%));
             grid-template-rows: auto auto minmax(0, 1fr);
             gap: 0;
             padding: 0;
@@ -1103,7 +1621,7 @@
             margin: 0;
             border-radius: 0;
             background: #eef2f7;
-            padding: 24px;
+            padding: 8px;
             box-sizing: border-box;
         }
         .directory-browser[data-view-mode="gallery"] .directory-preview-visual > img {
@@ -1155,9 +1673,9 @@
         .directory-browser[data-view-mode="gallery"] .directory-gallery-info-splitter {
             grid-column: 2;
             grid-row: 1 / -1;
-            min-width: 8px;
+            min-width: 6px;
             cursor: col-resize;
-            background: linear-gradient(90deg, transparent 0, transparent 3px, #d8dee9 3px, #d8dee9 5px, transparent 5px);
+            background: linear-gradient(90deg, transparent 0, transparent 2px, #d8dee9 2px, #d8dee9 4px, transparent 4px);
             touch-action: none;
         }
         .directory-browser[data-view-mode="gallery"] .directory-gallery-info-splitter:hover,
@@ -1173,12 +1691,12 @@
         .directory-browser[data-view-mode="gallery"] .directory-preview-type,
         .directory-browser[data-view-mode="gallery"] .directory-preview-info {
             grid-column: 3;
-            padding-left: 18px;
-            padding-right: 18px;
+            padding-left: 14px;
+            padding-right: 14px;
         }
         .directory-browser[data-view-mode="gallery"] .directory-preview-name {
             grid-row: 1;
-            padding-top: 18px;
+            padding-top: 14px;
         }
         .directory-browser[data-view-mode="gallery"] .directory-preview-type {
             grid-row: 2;
@@ -1190,7 +1708,7 @@
         .directory-browser[data-view-mode="gallery"] .directory-items {
             grid-row: 3;
             grid-column: 1;
-            min-height: 108px;
+            min-height: 0;
             background: #fff;
         }
         .directory-browser[data-preview-visible="false"]:not([data-view-mode="gallery"]) .directory-browser-layout {
@@ -1228,12 +1746,19 @@
         .directory-action-menu {
             position: fixed;
             z-index: 2000;
-            min-width: 116px;
+            min-width: 168px;
             padding: 6px;
             border: 1px solid #cfd6e2;
             border-radius: 10px;
             background: #fff;
             box-shadow: 0 14px 36px rgba(15, 23, 42, 0.18);
+        }
+        .directory-action-menu-title {
+            padding: 7px 10px 8px;
+            border-bottom: 1px solid #edf1f7;
+            color: #667085;
+            font-size: 0.82em;
+            font-weight: 700;
         }
         .directory-action-menu button {
             display: block;
@@ -1255,8 +1780,8 @@
         }
         .directory-viewer {
             display: grid;
-            grid-template-columns: minmax(0, 1fr) 180px;
-            gap: 14px;
+            grid-template-columns: minmax(0, 1fr) 142px;
+            gap: 8px;
             height: 100%;
             min-height: 0;
         }
@@ -1267,27 +1792,101 @@
             min-height: 0;
         }
         .directory-viewer-nav {
-            display: flex;
+            display: grid;
+            grid-template-columns: auto minmax(0, 1fr) auto;
             align-items: center;
-            justify-content: center;
-            gap: 12px;
-            padding-bottom: 10px;
+            justify-content: stretch;
+            gap: 8px;
+            padding-bottom: 6px;
         }
+        .directory-viewer-nav-spacer {
+            min-width: 0;
+        }
+        .directory-viewer-nav-controls,
+        .directory-viewer-nav-actions {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            min-width: 0;
+        }
+        .directory-viewer-nav-controls {
+            justify-content: flex-start;
+        }
+        .directory-viewer-nav-actions {
+            justify-content: flex-end;
+        }
+        /* SOFTM-viewer-nav-align 2026-05-16: 이전/다음은 왼쪽, 목록/공유/전체화면은 오른쪽 끝으로 정렬 */
         .directory-viewer-nav button {
             border: 1px solid #ccd3df;
             border-radius: 999px;
             background: #f3f6fb;
             color: #1f2937;
             cursor: pointer;
-            padding: 6px 12px;
+            min-height: 32px;
+            padding: 4px 9px;
             font: inherit;
         }
         .directory-viewer-nav button:disabled {
             opacity: 0.45;
             cursor: default;
         }
+        .directory-viewer-icon-button,
+        .document-viewer-zoom-button,
+        .directory-viewer-fullscreen-button,
+        .document-viewer-fullscreen-button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .directory-viewer-icon-button svg,
+        .document-viewer-zoom-button svg,
+        .directory-viewer-fullscreen-button svg,
+        .document-viewer-fullscreen-button svg {
+            width: 17px;
+            height: 17px;
+            flex: 0 0 auto;
+        }
+        .directory-viewer-rail-toggle {
+            display: none;
+        }
+        .directory-viewer-fullscreen-button,
+        .document-viewer-fullscreen-button {
+            font-weight: 700;
+            white-space: nowrap;
+        }
+        .document-viewer-toolbar svg {
+            width: 16px;
+            height: 16px;
+        }
+        .directory-viewer:fullscreen,
+        .directory-viewer.is-pseudo-fullscreen,
+        .directory-viewer-pane:fullscreen {
+            width: 100vw;
+            height: 100vh;
+            padding: 8px;
+            box-sizing: border-box;
+            background: #fff;
+        }
+        .directory-viewer.is-pseudo-fullscreen {
+            position: fixed;
+            inset: 0;
+            z-index: 5000;
+        }
+        .directory-viewer:fullscreen,
+        .directory-viewer.is-pseudo-fullscreen {
+            grid-template-columns: minmax(0, 1fr) 132px;
+            gap: 8px;
+        }
+        .directory-viewer:fullscreen .directory-viewer-content,
+        .directory-viewer.is-pseudo-fullscreen .directory-viewer-content,
+        .directory-viewer-pane:fullscreen {
+            border-radius: 0;
+        }
+        .directory-viewer-pane:fullscreen iframe {
+            min-height: calc(100vh - 54px);
+        }
         .directory-viewer-counter {
-            min-width: 64px;
+            min-width: 54px;
             text-align: center;
             color: #667085;
             font-size: 0.9em;
@@ -1303,7 +1902,7 @@
         .directory-viewer-pane {
             width: 100%;
             height: 100%;
-            min-height: 360px;
+            min-height: 320px;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -1321,7 +1920,7 @@
         .directory-viewer-pane iframe {
             width: 100%;
             height: 100%;
-            min-height: 560px;
+            min-height: 520px;
             border: 0;
             background: #fff;
         }
@@ -1341,31 +1940,58 @@
             flex-shrink: 0;
             display: flex;
             justify-content: flex-end;
-            gap: 8px;
-            padding: 10px;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 6px;
+            padding: 7px;
             border-bottom: 1px solid #dde3ed;
             background: #f7f9fc;
         }
-        .markdown-source-toolbar button {
+        .markdown-source-toolbar button,
+        .markdown-source-toolbar a {
             border: 1px solid #ccd3df;
             border-radius: 999px;
             background: #fff;
             color: #1f2937;
             cursor: pointer;
-            padding: 6px 12px;
+            padding: 5px 10px;
             font: inherit;
             font-size: 0.9em;
+            text-decoration: none;
         }
-        .markdown-source-toolbar button[aria-pressed="true"] {
+        .markdown-source-toolbar button[aria-pressed="true"],
+        .markdown-source-toolbar a[aria-pressed="true"] {
             background: #4b5563;
             border-color: #4b5563;
             color: #fff;
+        }
+        .markdown-source-toolbar button:disabled {
+            cursor: default;
+            opacity: 1;
+        }
+        .source-language-label {
+            margin-right: auto;
+            border: 1px solid #d8e0ec;
+            border-radius: 999px;
+            padding: 4px 9px;
+            background: #eef4ff;
+            color: #344054;
+            font-size: 0.76em;
+            font-weight: 800;
+            letter-spacing: 0;
         }
         .markdown-source-preview {
             flex: 1 1 auto;
             min-height: 0;
             border: 0;
             border-radius: 0;
+        }
+        .html-source-preview {
+            flex: 1 1 auto;
+            min-height: 0;
+            width: 100%;
+            border: 0;
+            background: #fff;
         }
         .markdown-source-code {
             flex: 1 1 auto;
@@ -1378,7 +2004,59 @@
             font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
             font-size: 13px;
             line-height: 1.6;
+            white-space: pre;
+        }
+        .source-code-block {
+            tab-size: 4;
+        }
+        .source-code-block.is-wrapped {
             white-space: pre-wrap;
+            overflow-wrap: anywhere;
+        }
+        .source-line {
+            display: grid;
+            grid-template-columns: 3.4em minmax(0, 1fr);
+            min-width: max-content;
+        }
+        .source-code-block.is-wrapped .source-line {
+            min-width: 0;
+        }
+        .source-line-number {
+            user-select: none;
+            padding-right: 14px;
+            color: #64748b;
+            text-align: right;
+        }
+        .source-code-block:not(.has-line-numbers) .source-line {
+            display: block;
+        }
+        .source-code-block:not(.has-line-numbers) .source-line-number {
+            display: none;
+        }
+        .source-line-code {
+            min-width: 0;
+        }
+        .syntax-keyword { color: #93c5fd; font-weight: 700; }
+        .syntax-string { color: #86efac; }
+        .syntax-number { color: #fbbf24; }
+        .syntax-comment { color: #94a3b8; font-style: italic; }
+        .syntax-function { color: #c4b5fd; }
+        .syntax-constant { color: #fca5a5; }
+        .syntax-property,
+        .syntax-attribute { color: #67e8f9; }
+        .syntax-tag { color: #f0abfc; }
+        @media (max-width: 700px) {
+            .source-language-label {
+                width: 100%;
+                margin-right: 0;
+                box-sizing: border-box;
+            }
+            .source-line {
+                grid-template-columns: 2.8em minmax(0, 1fr);
+            }
+            .source-line-number {
+                padding-right: 10px;
+            }
         }
         .directory-viewer-fallback {
             display: flex;
@@ -1392,20 +2070,20 @@
             border: 1px solid #dde3ed;
             border-radius: 8px;
             background: #fff;
-            padding: 8px;
+            padding: 6px;
             display: flex;
             flex-direction: column;
-            gap: 8px;
+            gap: 6px;
         }
         .directory-viewer-thumb {
             border: 1px solid transparent;
             border-radius: 8px;
             background: #fff;
             cursor: pointer;
-            padding: 8px;
+            padding: 6px;
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 6px;
             color: #1f2937;
             font: inherit;
             text-align: left;
@@ -1416,12 +2094,12 @@
             background: #eef4ff;
         }
         .directory-viewer-thumb .directory-item-icon {
-            width: 42px;
-            height: 42px;
+            width: 32px;
+            height: 32px;
         }
         .directory-viewer-thumb .directory-folder-icon svg {
-            width: 42px;
-            height: 32px;
+            width: 32px;
+            height: 24px;
         }
         .directory-viewer-thumb span:last-child {
             min-width: 0;
@@ -1430,7 +2108,7 @@
             display: -webkit-box;
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
-            font-size: 0.84em;
+            font-size: 0.76em;
         }
         #scrollTopBtn {
             display: none;
@@ -1501,59 +2179,258 @@
         }
 
         @media (max-width: 768px) {
+            .modal-content {
+                width: 95%;
+                height: 95%;
+                margin: 2% auto;
+                padding: 10px;
+            }
+            .modal-header {
+                padding-bottom: 5px;
+            }
+            .modal-title {
+                font-size: 1em;
+            }
+            body.modal-viewer-sheet-open {
+                overflow: hidden;
+            }
+            .modal.modal--mobile-viewer-sheet {
+                z-index: 1100;
+                overflow: hidden;
+                background-color: rgba(15, 23, 42, 0.46);
+            }
+            .modal.modal--mobile-viewer-sheet .modal-content {
+                position: fixed;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                width: 100%;
+                height: min(88dvh, 760px);
+                margin: 0;
+                padding: 7px;
+                border: 0;
+                border-radius: 16px 16px 0 0;
+                box-sizing: border-box;
+                box-shadow: 0 -18px 44px rgba(15, 23, 42, 0.32);
+            }
+            .modal.modal--mobile-viewer-sheet .modal-header {
+                flex: 0 0 auto;
+                min-height: 34px;
+                padding: 3px 5px 7px;
+            }
+            .modal.modal--mobile-viewer-sheet .modal-title {
+                min-width: 0;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+            .modal.modal--mobile-viewer-sheet .modal-body {
+                flex: 1 1 auto;
+                min-height: 0;
+                padding-top: 5px;
+                overflow: hidden;
+            }
+            .modal.modal--mobile-viewer-sheet .close {
+                flex: 0 0 auto;
+                font-size: 26px;
+                line-height: 1;
+                padding: 0 4px;
+            }
+            /* SOFTM-mobile-viewer-modal-sheet 2026-05-15: 모바일에서는 기존 뷰어 팝업을 하단 시트처럼 표시 */
+            html {
+                height: auto;
+            }
+            body {
+                height: auto;
+                min-height: 100dvh;
+                overflow-x: hidden;
+                line-height: 1.42;
+                font-size: 14px;
+            }
+            nav {
+                flex-wrap: nowrap;
+                justify-content: flex-start;
+                gap: 12px;
+                overflow-x: auto;
+                padding: 7px 10px;
+                scrollbar-width: none;
+            }
+            nav::-webkit-scrollbar {
+                display: none;
+            }
+            nav a {
+                margin-right: 0;
+                flex: 0 0 auto;
+                font-size: 0.9em;
+            }
             .container {
-                flex-direction: column;
+                display: block;
+                overflow: visible;
+                min-height: 0;
             }
             #file-list {
                 width: 100%;
                 border-right: none;
-                border-bottom: 1px solid #ccc;
-                overflow-y: auto; /* Ensure scrollability */
-                height: 100%; /* Fill the container height */
+                border-bottom: 1px solid #d8dee9;
+                padding: 0 8px 8px;
+                overflow: visible;
+                height: auto;
+                max-height: none;
+                background: #fff;
             }
             .container.mobile-content-visible #file-list {
-                height: 50vh; /* Occupy top half when content is visible */
+                max-height: 34dvh;
+                overflow-y: auto;
+                overscroll-behavior: contain;
+            }
+            .container.mobile-content-visible.mobile-sidebar-collapsed #file-list {
+                max-height: 46px;
+                overflow: hidden;
+                padding-bottom: 0;
+            }
+            .list-header {
+                padding: 7px 0 6px;
+            }
+            .list-header-top {
+                position: sticky;
+                top: 0;
+                z-index: 4;
+                background: #fff;
+                padding-bottom: 5px;
+            }
+            .list-header h1 {
+                margin-bottom: 0;
+                border-bottom: 0;
+                font-size: 1.05rem;
+                line-height: 1.25;
+            }
+            .mobile-panel-toggle {
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                min-height: 30px;
+                padding: 4px 9px;
+                font-size: 0.82em;
+            }
+            .left-menu-tabs {
+                gap: 3px;
+                margin-bottom: 7px;
+                padding: 3px;
+                border-radius: 10px;
+            }
+            .left-menu-tab {
+                min-height: 32px;
+                padding: 5px 8px;
+                font-size: 0.9em;
+            }
+            #searchInput,
+            #mainDirectorySearchInput {
+                min-height: 36px;
+                padding: 7px 9px;
+                border-radius: 9px;
+            }
+            .search-controls {
+                gap: 7px;
+            }
+            .search-option {
+                font-size: 0.84em;
+            }
+            #attachment-filter-options,
+            .extension-options {
+                gap: 5px;
+            }
+            .extension-option {
+                min-height: 24px;
+                padding: 0 7px;
+            }
+            .container.mobile-sidebar-collapsed .left-menu-tabs,
+            .container.mobile-sidebar-collapsed .left-tab-panel,
+            .container.mobile-sidebar-collapsed .left-result-list {
+                display: none !important;
             }
             #file-content {
-                display: none; /* Hide by default on mobile */
-                padding: 15px;
-                max-height: 50vh;
-                overflow: hidden;
+                display: none;
+                padding: 6px;
+                max-height: none;
+                overflow: visible;
+                min-height: 0;
             }
             .loaded-filter-panel {
-                margin-bottom: 10px;
+                margin-bottom: 6px;
+                padding: 6px;
+                border-radius: 8px;
             }
             .loaded-filter-chips {
                 flex-wrap: nowrap;
                 overflow-x: auto;
                 overflow-y: hidden;
                 max-height: none;
+                gap: 5px;
             }
             .container.mobile-content-visible #file-content {
-                display: flex; /* Show when a file is selected */
-            }
-            nav {
-                justify-content: center;
+                display: flex;
             }
             .share-buttons {
                 justify-content: flex-start;
+                gap: 8px;
             }
             .share-button {
-                width: 44px;
-            }
+                width: 48px;
+                height: 48px;
+                min-height: 48px;
+            } /* SOFTM-share-url-box 2026-06-03: 모바일 공유 패널에서도 SNS 아이콘 크기를 복사형 레이아웃에 맞춤 */
             .directory-browser-toolbar {
-                align-items: flex-start;
+                position: sticky;
+                top: 0;
+                z-index: 3;
+                align-items: stretch;
                 flex-direction: column;
+                gap: 3px;
+                padding: 4px;
             }
-            .view-mode-control {
+            .directory-browser-title span {
+                font-size: 0.9em;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+            .directory-browser-title strong {
+                font-size: 0.82em;
+            }
+            .directory-browser-actions {
                 width: 100%;
                 justify-content: space-between;
+                gap: 4px;
+            }
+            .view-mode-control {
+                flex: 1 1 auto;
+                min-width: 0;
+                justify-content: space-between;
+                padding: 2px;
             }
             .view-mode-button {
                 flex: 1 1 auto;
+                min-width: 26px;
+                height: 25px;
+            }
+            .view-mode-button svg,
+            .preview-toggle-button svg {
+                width: 15px;
+                height: 15px;
+            }
+            .preview-toggle-button {
+                width: 28px;
+                height: 25px;
+            }
+            .directory-viewer-open-button {
+                min-height: 25px;
+                padding: 0 6px;
+                font-size: 0.78em;
             }
             .directory-browser[data-view-mode="list"] .directory-item {
-                grid-template-columns: 40px minmax(0, 1fr);
+                grid-template-columns: 34px minmax(0, 1fr) auto;
+                gap: 8px;
+                padding: 6px 7px;
             }
             .directory-browser[data-view-mode="list"] .directory-item-meta {
                 grid-column: 2;
@@ -1561,24 +2438,363 @@
             }
             .directory-browser-layout,
             .directory-browser[data-view-mode="gallery"] .directory-browser-layout {
-                grid-template-columns: 1fr;
+                display: flex;
+                flex-direction: column;
+                overflow: visible;
             }
             .directory-splitter {
                 display: none;
             }
+            .directory-browser {
+                margin-top: 6px;
+                min-height: 76dvh;
+                overflow: visible;
+                border-radius: 7px;
+            }
+            .directory-items {
+                max-height: none;
+                overflow: visible;
+                padding: 6px;
+            }
+            .directory-browser[data-view-mode="grid"] .directory-items {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+                gap: 6px;
+            }
+            .directory-browser[data-view-mode="grid"] .directory-item {
+                min-height: 104px;
+                gap: 6px;
+                padding: 8px 5px;
+            }
+            .directory-browser[data-view-mode="grid"] .directory-item-icon {
+                width: 46px;
+                height: 46px;
+                border-radius: 10px;
+            }
+            .directory-browser[data-view-mode="grid"] .directory-folder-icon svg {
+                width: 46px;
+                height: 36px;
+            }
+            .directory-item-name {
+                font-size: 0.88em;
+            }
+            .directory-item-meta {
+                margin-top: 2px;
+                font-size: 0.74em;
+            }
+            .directory-browser[data-view-mode="columns"] .directory-items {
+                min-height: 0;
+                overflow-x: auto;
+            }
+            .directory-column {
+                flex-basis: 236px;
+                min-width: 220px;
+                padding: 5px;
+            }
+            .directory-column .directory-item {
+                grid-template-columns: 30px minmax(0, 1fr) auto;
+                gap: 7px;
+                padding: 6px;
+            }
+            .directory-column .directory-item-icon {
+                width: 28px;
+                height: 28px;
+            }
             .directory-preview-mount,
             .directory-browser[data-view-mode="gallery"] .directory-preview-mount {
+                display: none;
+            }
+            body.directory-preview-sheet-open {
+                overflow: hidden;
+            }
+            body.directory-preview-sheet-open::before {
+                content: "";
+                position: fixed;
+                inset: 0;
+                z-index: 998;
+                background: rgba(15, 23, 42, 0.42);
+            }
+            .directory-browser.is-mobile-preview-sheet-open .directory-preview-mount {
+                display: flex;
+                flex-direction: column;
+                position: fixed;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                z-index: 999;
+                height: min(82dvh, 720px);
+                max-height: 82dvh;
+                overflow: hidden;
                 border-left: 0;
-                border-top: 1px solid #e5e9f0;
+                border-top: 1px solid #d8dee9;
+                border-radius: 16px 16px 0 0;
+                background: #fff;
+                box-shadow: 0 -18px 42px rgba(15, 23, 42, 0.28);
+            }
+            .directory-mobile-sheet-bar {
+                display: grid;
+                grid-template-columns: 1fr;
+                align-items: start;
+                gap: 6px;
+                min-height: 46px;
+                padding: 6px 8px;
+                border-bottom: 1px solid #e5e9f0;
+                background: #f8fafc;
+                flex: 0 0 auto;
+            }
+            .directory-mobile-sheet-bar strong {
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                font-size: 0.9em;
+            }
+            .directory-mobile-sheet-actions {
+                display: inline-flex;
+                flex-wrap: wrap;
+                justify-content: flex-end;
+                gap: 4px;
+            }
+            .directory-mobile-sheet-actions button {
+                min-height: 27px;
+                padding: 0 8px;
+                border: 1px solid #cbd5e1;
+                border-radius: 999px;
+                background: #fff;
+                color: #1f2a44;
+                font-weight: 700;
+                font-size: 0.76em;
+            }
+            /* SOFTM-mobile-sheet-actions 2026-05-15: 모바일 시트 액션을 여러 개 배치해도 좁은 화면에서 줄바꿈되도록 조정 */
+            .directory-preview {
+                flex: 1 1 auto;
+                min-height: 0;
+                height: auto;
+                overflow: auto;
+                padding: 6px;
+            }
+            .directory-preview-visual {
+                min-height: 180px;
+            }
+            .directory-browser[data-view-mode="gallery"] .directory-preview {
+                height: auto;
+                display: flex;
+                flex-direction: column;
+            }
+            .directory-browser[data-view-mode="gallery"] .directory-preview-visual {
+                min-height: 190px;
+            }
+            .directory-browser[data-view-mode="gallery"] .directory-items {
+                order: 2;
+                padding: 6px;
+                gap: 6px;
             }
             .directory-viewer {
                 grid-template-columns: 1fr;
+                gap: 6px;
+            }
+            .directory-viewer:fullscreen {
+                grid-template-columns: 1fr;
+                padding: 6px;
+            }
+            .directory-viewer.is-pseudo-fullscreen {
+                grid-template-columns: 1fr;
+                padding: 6px;
+            }
+            .directory-viewer:fullscreen .directory-viewer-rail,
+            .directory-viewer.is-pseudo-fullscreen .directory-viewer-rail {
+                display: none;
             }
             .directory-viewer-rail {
-                max-height: 180px;
+                max-height: none;
+                display: flex;
+                overflow-x: auto;
+                overflow-y: hidden;
+                gap: 6px;
+                padding: 6px;
+            }
+            .directory-viewer-thumb {
+                flex: 0 0 112px;
+                padding: 6px;
+            }
+            .directory-viewer-thumb .file-badge,
+            .directory-viewer-thumb img {
+                width: 34px;
+                height: 34px;
+                border-radius: 7px;
+            }
+            .directory-viewer-nav {
+                grid-template-columns: auto minmax(0, 1fr) auto;
+                gap: 5px;
+                padding-bottom: 5px;
+            }
+            .directory-viewer-nav-spacer {
+                display: block;
+            }
+            .directory-viewer-nav-controls,
+            .directory-viewer-nav-actions {
+                min-width: 0;
+            }
+            .directory-viewer-nav-controls {
+                justify-content: flex-start;
+            }
+            .directory-viewer-nav-actions {
+                justify-content: flex-end;
+            }
+            .directory-viewer-nav button {
+                min-height: 30px;
+                padding: 3px 8px;
+                font-size: 0.9em;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer {
+                position: relative;
+                height: 100%;
+                grid-template-columns: 1fr;
+                gap: 4px;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-main {
+                min-height: 0;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-nav {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 4px;
+                align-items: center;
+                justify-content: space-between;
+                padding-bottom: 4px;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-nav-spacer {
+                display: block;
+                flex: 1 1 auto;
+                min-width: 0;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-nav-controls,
+            .modal.modal--mobile-viewer-sheet .directory-viewer-nav-actions {
+                gap: 4px;
+                flex-wrap: nowrap;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-nav-controls {
+                justify-content: flex-start;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-nav-actions {
+                justify-content: flex-end;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-rail-toggle {
+                display: inline-flex;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-icon-button,
+            .modal.modal--mobile-viewer-sheet .directory-viewer-fullscreen-button,
+            .modal.modal--mobile-viewer-sheet .share-toggle-button {
+                width: 28px;
+                height: 28px;
+                min-height: 28px;
+                padding: 0;
+                border-radius: 999px;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-counter {
+                min-width: 38px;
+                font-size: 0.78em;
+            }
+            .modal.modal--mobile-viewer-sheet .share-toggle-button svg,
+            .modal.modal--mobile-viewer-sheet .directory-viewer-icon-button svg,
+            .modal.modal--mobile-viewer-sheet .directory-viewer-fullscreen-button svg {
+                width: 15px;
+                height: 15px;
+            }
+            .modal.modal--mobile-viewer-sheet .document-viewer-toolbar {
+                min-height: 0;
+                padding: 2px 3px !important;
+                gap: 3px !important;
+            }
+            .modal.modal--mobile-viewer-sheet .document-viewer-zoom-button {
+                width: 24px !important;
+                height: 24px !important;
+                min-height: 24px;
+                border-radius: 6px !important;
+            }
+            .modal.modal--mobile-viewer-sheet .document-viewer-zoom-button svg {
+                width: 14px;
+                height: 14px;
+            }
+            /* SOFTM-compact-viewer-toolbar 2026-05-16: 모바일 뷰어 주요 액션을 아이콘형으로 압축해 본문 영역을 우선 확보 */
+            .modal.modal--mobile-viewer-sheet .directory-viewer-rail {
+                display: none;
+                position: absolute;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                z-index: 6;
+                max-height: min(24dvh, 150px);
+                overflow-x: hidden;
+                overflow-y: auto;
+                flex-direction: column;
+                gap: 4px;
+                padding: 4px;
+                border-radius: 10px 10px 0 0;
+                box-shadow: 0 -12px 26px rgba(15, 23, 42, 0.24);
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-thumb {
+                flex: 0 0 auto;
+                min-height: 42px;
+                padding: 5px;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-thumb .file-badge,
+            .modal.modal--mobile-viewer-sheet .directory-viewer-thumb img {
+                width: 30px;
+                height: 30px;
+                border-radius: 7px;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-thumb span:last-child {
+                -webkit-line-clamp: 1;
+            }
+            /* SOFTM-mobile-viewer-rail-compact 2026-05-16: 모바일 뷰어 파일 목록 높이를 줄이고 세로 스크롤로 전환 */
+            .modal.modal--mobile-viewer-sheet .directory-viewer.is-rail-open .directory-viewer-rail {
+                display: flex;
+            }
+            .modal.modal--mobile-viewer-sheet .directory-viewer-content {
+                min-height: 0;
+            }
+            /* SOFTM-mobile-viewer-rail-toggle 2026-05-15: 모바일 뷰어 목록은 기본 접고 오버레이로 열어 본문 영역을 확보 */
+            .directory-viewer-content {
+                border-radius: 7px;
             }
             #document-viewer {
-                min-height: 260px;
+                min-height: 220px;
+            }
+            .markdown-viewer {
+                padding: 12px;
+                font-size: 14px;
+                line-height: 1.55;
+            }
+            .markdown-viewer table {
+                font-size: 0.9em;
+            }
+            .markdown-viewer th,
+            .markdown-viewer td {
+                padding: 6px 7px;
+            }
+            .markdown-viewer hr {
+                margin: 0.8em 0;
+            }
+            .markdown-source-toolbar {
+                padding: 6px;
+                gap: 5px;
+            }
+            .markdown-source-toolbar button {
+                padding: 4px 8px;
+                font-size: 0.82em;
+            }
+            .markdown-source-code {
+                padding: 10px;
+                font-size: 12px;
+                line-height: 1.5;
+            }
+            #scrollTopBtn {
+                right: 10px;
+                bottom: 10px;
+                width: 44px;
+                height: 44px;
+                border-radius: 12px;
+                font-size: 0.78em;
+                padding: 0;
             }
             .lg-current img,
             .lg-current video {
@@ -1586,6 +2802,36 @@
                 max-height: 100vh !important;
                 width: auto !important;
                 height: auto !important;
+            }
+        }
+        @media (max-width: 420px) {
+            body {
+                font-size: 13px;
+            }
+            nav {
+                gap: 10px;
+                padding: 6px 8px;
+            }
+            #file-list {
+                padding-left: 6px;
+                padding-right: 6px;
+            }
+            #file-content {
+                padding: 4px;
+            }
+            .directory-browser[data-view-mode="grid"] .directory-items {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+            .directory-browser[data-view-mode="grid"] .directory-item {
+                min-height: 96px;
+            }
+            .directory-browser[data-view-mode="grid"] .directory-item-icon {
+                width: 42px;
+                height: 42px;
+            }
+            .directory-browser[data-view-mode="grid"] .directory-folder-icon svg {
+                width: 42px;
+                height: 32px;
             }
         }
     </style>
@@ -1602,11 +2848,39 @@
     <div class="container">
         <div id="file-list">
             <div class="list-header">
-                <h1>디렉토리 인덱스</h1>
-                <div class="search-controls">
-                    <input type="text" id="searchInput" onkeyup="searchFiles()" placeholder="파일 검색...">
+                <div class="list-header-top">
+                    <h1>메인</h1>
+                    <button type="button" id="mobilePanelToggle" class="mobile-panel-toggle" aria-expanded="true" aria-controls="mainDirectoryPanel searchPanel mainDirectories files">탐색 접기</button>
+                </div>
+                <div class="left-menu-tabs" role="tablist" aria-label="왼쪽 메뉴">
+                    <button type="button" class="left-menu-tab is-active" data-left-tab="main" role="tab" aria-selected="true" aria-controls="mainDirectoryPanel">메인</button>
+                    <button type="button" class="left-menu-tab" data-left-tab="search" role="tab" aria-selected="false" aria-controls="searchPanel">검색</button>
+                </div>
+                <div id="mainDirectoryPanel" class="left-tab-panel" role="tabpanel">
+                    <div class="publishing-condition-row">
+                        <input type="search" id="mainDirectorySearchInput" placeholder="디렉토리 검색" autocomplete="off">
+                        <label class="publishing-condition-field">
+                        <select id="mainPublishingFilter" class="publishing-condition-select" aria-label="메인 게시 상태 조건" title="게시 상태">
+                            <option value="all">전체</option>
+                            <option value="published">게시</option>
+                            <option value="unpublished">미게시</option>
+                        </select>
+                        </label>
+                    </div><!-- SOFTM-publishing-filter-inline 2026-07-10: 메인 게시 조건을 검색 입력 줄에 통합 -->
+                </div>
+                <div id="searchPanel" class="search-controls left-tab-panel left-hidden" role="tabpanel">
+                    <div class="publishing-condition-row">
+                        <input type="text" id="searchInput" onkeyup="searchFiles()" placeholder="파일 검색...">
+                        <label class="publishing-condition-field">
+                        <select id="searchPublishingFilter" class="publishing-condition-select" aria-label="검색 게시 상태 조건" title="게시 상태">
+                            <option value="all">전체</option>
+                            <option value="published">게시</option>
+                            <option value="unpublished">미게시</option>
+                        </select>
+                        </label>
+                    </div><!-- SOFTM-publishing-filter-inline 2026-07-10: 검색 게시 조건을 검색 입력 줄에 통합 -->
                     <label class="search-option">
-                        <input type="checkbox" id="titleOnlyCheckbox" checked onchange="searchFiles()">
+                        <input type="checkbox" id="titleOnlyCheckbox" onchange="searchFiles()">
                         디렉토리만 검색
                     </label>
                     <div id="attachment-filter-options">
@@ -1641,14 +2915,18 @@
                     </div>
                 </div>
             </div>
-            <ul id="files"></ul>
+            <ul id="mainDirectories" class="left-result-list"></ul>
+            <ul id="files" class="left-result-list left-hidden"></ul>
         </div>
         <div id="file-content">
-            <section id="loadedFilterPanel" class="loaded-filter-panel" aria-label="현재 로드된 파일 목록 필터">
+            <section id="loadedFilterPanel" class="loaded-filter-panel left-hidden" aria-label="검색 필터">
                 <input type="hidden" id="loadedListFilter" value="all">
                 <div class="loaded-filter-head">
-                    <span>현재 목록 필터</span>
-                    <button type="button" id="loadedFilterReset">전체</button>
+                    <span>검색 필터</span>
+                    <div class="loaded-filter-actions">
+                        <button type="button" id="loadedFilterCollapse" aria-expanded="true" aria-controls="loadedFilterChips">접기</button>
+                        <button type="button" id="loadedFilterReset">전체</button>
+                    </div>
                 </div>
                 <div id="loadedFilterChips" class="loaded-filter-chips"></div>
             </section>
@@ -1656,9 +2934,13 @@
         </div>
     </div>
 
-    <script src="lib/attachment-utils.js"></script>
-    <script src="lib/files-index-utils.js"></script>
-    <script src="lib/index-page.js"></script>
+    <script src="https://softm.github.io/gitpages-explorer/lib/attachment-utils.js?v=20260513-parent-folder-up"></script>
+    <script src="lib/files-index-utils.js?v=20260710-publishing-condition-filter"></script><!-- SOFTM-publishing-condition-filter 2026-07-10: 게시 상태 조건 필터용 공통 유틸 캐시 갱신 -->
+    <script src="lib/document-viewer.js?v=20260604-mobile-pdf-viewer"></script><!-- SOFTM-mobile-pdf-viewer 2026-06-04: 모바일 PDF.js 렌더러 반영 및 로컬 검증을 위해 공통 뷰어 로컬 경로 사용 -->
+    <script src="https://softm.github.io/gitpages-explorer/lib/source-viewer-utils.js?v=20260513-file-actions2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+    <script src="lib/publishing-utils.js?v=20260710-publishing-filter-local-only"></script><!-- SOFTM-publishing-filter-local-only 2026-07-10: 게시 상태 검색 조건을 로컬 전용으로 제한하는 공통 유틸 캐시 갱신 -->
+    <script src="lib/index-page.js?v=20260710-publishing-filter-local-only"></script><!-- SOFTM-publishing-filter-local-only 2026-07-10: 메인/검색 게시 상태 조건 로컬 전용 처리 캐시 갱신 -->
     <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.7.2/lightgallery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.7.2/plugins/video/lg-video.min.js"></script>
     <button onclick="scrollToTop()" id="scrollTopBtn" title="Go to top">TOP</button>
@@ -1677,41 +2959,18 @@
     <script>
         function navigateWithSearch(event, target) {
             event.preventDefault();
-            const searchInput = document.getElementById('searchInput');
-            const titleOnly = document.getElementById('titleOnlyCheckbox');
-            const filterTypes = ['image', 'video', 'audio', 'document'];
-
             const params = new URLSearchParams();
-            if (searchInput && searchInput.value.trim()) {
-                params.set('search', searchInput.value.trim());
-            }
-
-            if (titleOnly) {
-                params.set('titleOnly', titleOnly.checked ? '1' : '0');
-            }
-
-            filterTypes.forEach(type => {
-                const filterCheckbox = document.getElementById(`${type}Filter`);
-                if (filterCheckbox) {
-                    params.set(type, filterCheckbox.checked ? '1' : '0');
-
-                    if (filterCheckbox.checked) {
-                        const extensionContainer = document.getElementById(`${type}Extensions`);
-                        if (extensionContainer) {
-                            const checkedExtensions = Array.from(extensionContainer.querySelectorAll('input[type="checkbox"]:checked'))
-                                .map(input => input.value);
-                            if (checkedExtensions.length > 0) {
-                                params.set(`${type}_ext`, checkedExtensions.join(','));
-                            }
-                        }
-                    }
-                }
-            });
-
+            const publishingFilterEnabled = window.PublishingUtils && typeof window.PublishingUtils.isPublishingFilterEnabled === 'function' && window.PublishingUtils.isPublishingFilterEnabled();
+            const activeSearchPanel = document.getElementById('searchPanel');
+            const publishingFilter = activeSearchPanel && !activeSearchPanel.classList.contains('left-hidden')
+                ? document.getElementById('searchPublishingFilter')
+                : document.getElementById('mainPublishingFilter');
+            if (publishingFilterEnabled && publishingFilter && publishingFilter.value && publishingFilter.value !== 'all') {
+                params.set('publish', publishingFilter.value);
+            } // SOFTM-publishing-filter-local-only 2026-07-10: 로컬 점검 환경에서만 게시 조건을 메뉴 이동 URL에 유지
             const query = params.toString();
-            const url = query ? `${target}?${query}` : target;
-            window.location.href = url;
+            window.location.href = query ? `${target}?${query}` : target;
         }
-    </script>
+    </script><!-- SOFTM-publishing-filter-local-only 2026-07-10: 원격 공개 화면에서는 게시 상태 조건 URL 전달 제외 -->
 </body>
 </html>

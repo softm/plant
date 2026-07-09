@@ -45,9 +45,14 @@
         h1 { margin: 0 0 12px; font-size: 28px; letter-spacing: 0; }
         .controls {
             display: grid;
-            grid-template-columns: minmax(0, 1fr) 180px;
+            grid-template-columns: minmax(0, 1fr) auto auto;
             gap: 10px;
             align-items: center;
+        } /* SOFTM-publishing-filter-compact 2026-07-10: 워드클라우드 select 고정폭을 내용 기준 compact 폭으로 축소 */
+        .controls input { min-width: 0; }
+        .controls select {
+            width: 96px;
+            min-width: 0;
         }
         input, select {
             height: 40px;
@@ -119,7 +124,8 @@
         @media (max-width: 900px) {
             main { padding: 16px; }
             .layout { grid-template-columns: 1fr; }
-            .controls { grid-template-columns: 1fr; }
+            .controls { grid-template-columns: minmax(0, 1fr) auto auto; }
+            .controls input { grid-column: 1 / -1; }
             .header { top: 43px; }
         }
     </style>
@@ -140,6 +146,11 @@
                     <option value="120" selected>120개</option>
                     <option value="200">200개</option>
                 </select>
+                <select id="publishingFilter" aria-label="게시 상태 조건">
+                    <option value="all">전체</option>
+                    <option value="published">게시</option>
+                    <option value="unpublished">미게시</option>
+                </select><!-- SOFTM-publishing-condition-filter 2026-07-10: 워드클라우드 게시 상태 조건 추가 -->
             </div>
         </div>
         <div id="meta"></div>
@@ -154,8 +165,9 @@
             </section>
         </div>
     </main>
-    <script src="lib/files-index-utils.js"></script>
-    <script src="lib/wordcloud-page.js"></script>
+    <script src="lib/files-index-utils.js?v=20260710-publishing-condition-filter"></script><!-- SOFTM-publishing-condition-filter 2026-07-10: 게시 상태 조건으로 워드클라우드 집계 필터링 -->
+    <script src="lib/publishing-utils.js?v=20260710-publishing-filter-local-only"></script><!-- SOFTM-publishing-filter-local-only 2026-07-10: 게시 상태 검색 조건을 로컬 전용으로 제한하는 공통 유틸 캐시 갱신 -->
+    <script src="lib/wordcloud-page.js?v=20260710-publishing-filter-local-only"></script><!-- SOFTM-publishing-filter-local-only 2026-07-10: 워드클라우드 게시 상태 조건 로컬 전용 처리 캐시 갱신 -->
     <script>
         function navigateWithSearch(event, target) {
             event.preventDefault();
@@ -164,6 +176,11 @@
             if (searchInput && searchInput.value.trim()) {
                 params.set('search', searchInput.value.trim());
             }
+            const publishingFilterEnabled = window.PublishingUtils && typeof window.PublishingUtils.isPublishingFilterEnabled === 'function' && window.PublishingUtils.isPublishingFilterEnabled();
+            const publishingFilter = document.getElementById('publishingFilter');
+            if (publishingFilterEnabled && publishingFilter && publishingFilter.value && publishingFilter.value !== 'all') {
+                params.set('publish', publishingFilter.value);
+            } // SOFTM-publishing-filter-local-only 2026-07-10: 로컬 점검 환경에서만 워드클라우드 게시 조건 URL 유지
             const query = params.toString();
             window.location.href = query ? `${target}?${query}` : target;
         }

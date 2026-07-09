@@ -5,13 +5,19 @@ from __future__ import annotations
 
 import html
 import argparse
+import hashlib
 import json
 import mimetypes
 import os
+import re
+import shutil
+import subprocess
+import zipfile
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote
+import xml.etree.ElementTree as ET
 
 
 ROOT = Path.cwd()
@@ -20,13 +26,28 @@ SELF = Path(__file__).resolve()
 HTML_OUTPUT = ROOT / "files.html"
 OLD_HTML_OUTPUT = ROOT / "index.html"
 WORDCLOUD_HTML_OUTPUT = ROOT / "wordcloud.html"
+PREVIEW_DIRNAME = ".viewer-previews"
 GENERATED_NAMES = {"files.json", "files_info.json", "attach_files.json", "wordcloud.json", "files.html", "grant.json", "admin.json"}
-EXCLUDED_NAMES = {".DS_Store", ".git", "__pycache__", *GENERATED_NAMES}
-EXCLUDED_PATHS = {"lib", "lib/baguetteBox", "python"}
+EXCLUDED_NAMES = {".DS_Store", ".git", ".github", "__pycache__", *GENERATED_NAMES}
+EXCLUDED_PATHS = {"lib", "lib/baguetteBox", "python", PREVIEW_DIRNAME}
+ROOT_OPERATION_FILES = {
+    ".gitignore",
+    "AGENTS.md",
+    "GEMINI.md",
+    "IMPLEMENTATION_SUMMARY.md",
+    "admin.html",
+    "attach.js",
+    "dataroom.html",
+    "index.html",
+    "play.md",
+    "wordcloud.html",
+    "work.md",
+}  # SOFTM-root-operational-hide 2026-07-10: 루트의 앱 구동/관리 파일은 탐색 목록에서 제외
 OUTPUT_ALIASES = ("json", "html")
 GRANT_FILENAME = "grant.json"
 GRANT_OUTPUT = ROOT / GRANT_FILENAME
-GRANT_RULES: dict[str, Any] = {"private_paths": []}
+GRANT_RULES: dict[str, Any] = {"private_paths": [], "public_paths": []}
+PREVIEWABLE_EXTENSIONS = {"hwp", "hwpx", "pptx"}
 
 
 def iso_time(timestamp: float) -> str:
@@ -57,6 +78,102 @@ def classify(path: Path) -> tuple[str, str]:
     return ext, group
 
 
+def clean_extracted_text(text: str) -> str:
+    return re.sub(r"\n{3,}", "\n\n", re.sub(r"[ \t]+\n", "\n", text.replace("\r\n", "\n").replace("\r", "\n"))).strip()
+
+
+def xml_text_values(xml_bytes: bytes, tag_names: set[str]) -> list[str]:
+    try:
+        root = ET.fromstring(xml_bytes)
+    except ET.ParseError:
+        return []
+    values: list[str] = []
+    for elem in root.iter():
+        local_name = elem.tag.rsplit("}", 1)[-1].lower()
+        if local_name in tag_names and elem.text and elem.text.strip():
+            values.append(elem.text.strip())
+    return values
+
+
+def extract_pptx_text(path: Path) -> str:
+    parts: list[str] = []
+    with zipfile.ZipFile(path) as archive:
+        slide_names = sorted(
+            (name for name in archive.namelist() if re.match(r"ppt/slides/slide\d+\.xml$", name, re.I)),
+            key=lambda name: int(re.search(r"slide(\d+)\.xml", name, re.I).group(1)),
+        )
+        for index, name in enumerate(slide_names, start=1):
+            values = xml_text_values(archive.read(name), {"t"})
+            if values:
+                parts.append(f"[Slide {index}]\n" + "\n".join(values))
+    return clean_extracted_text("\n\n".join(parts))
+
+
+def extract_hwpx_text(path: Path) -> str:
+    parts: list[str] = []
+    with zipfile.ZipFile(path) as archive:
+        names = sorted(
+            name for name in archive.namelist()
+            if name.lower().endswith(".xml") and re.match(r"contents?/", name, re.I)
+        )
+        for name in names:
+            values = xml_text_values(archive.read(name), {"t", "text"})
+            if values:
+                parts.append("\n".join(values))
+    return clean_extracted_text("\n\n".join(parts))
+
+
+def extract_hwp_text(path: Path) -> str:
+    hwp5txt = shutil.which("hwp5txt")
+    if not hwp5txt:
+        return ""
+    try:
+        result = subprocess.run(
+            [hwp5txt, str(path)],
+            check=False,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.DEVNULL,
+            text=True,
+            timeout=30,
+        )
+    except (OSError, subprocess.TimeoutExpired):
+        return ""
+    return clean_extracted_text(result.stdout if result.returncode == 0 else result.stdout)
+
+
+def preview_path_for(rel_path: str, ext: str) -> Path:
+    digest = hashlib.sha1(rel_path.encode("utf-8")).hexdigest()[:16]
+    return ROOT / PREVIEW_DIRNAME / f"{digest}.{ext}.txt"
+
+
+def build_text_preview(path: Path, rel_path: str, ext: str) -> dict[str, Any] | None:
+    if ext not in PREVIEWABLE_EXTENSIONS:
+        return None
+    extractors = {
+        "hwp": extract_hwp_text,
+        "hwpx": extract_hwpx_text,
+        "pptx": extract_pptx_text,
+    }
+    try:
+        text = extractors[ext](path)
+    except (OSError, zipfile.BadZipFile, RuntimeError):
+        text = ""
+    if not text:
+        return {"available": False, "kind": "text", "error": "no-text-extracted"}
+
+    output_path = preview_path_for(rel_path, ext)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(text, encoding="utf-8")
+    preview_rel = output_path.relative_to(ROOT).as_posix()
+    return {
+        "available": True,
+        "kind": "text",
+        "path": preview_rel,
+        "size": output_path.stat().st_size,
+        "size_human": human_size(output_path.stat().st_size),
+    }
+
+
 def is_private_name(name: str) -> bool:
     stem = Path(name).stem if "." in name else name
     return stem.endswith("-private")
@@ -65,46 +182,83 @@ def is_private_name(name: str) -> bool:
 def load_grant_rules(root: Path) -> dict[str, Any]:
     grant_path = root / GRANT_FILENAME
     if not grant_path.exists():
-        return {"schema_version": 1, "private_paths": []}
+        return {"schema_version": 1, "private_paths": [], "public_paths": []}
     try:
         data = json.loads(grant_path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
-        return {"schema_version": 1, "private_paths": []}
-    paths = data.get("private_paths", [])
-    if not isinstance(paths, list):
-        paths = []
+        return {"schema_version": 1, "private_paths": [], "public_paths": []}
+    private_paths = data.get("private_paths", [])
+    public_paths = data.get("public_paths", [])
+    if not isinstance(private_paths, list):
+        private_paths = []
+    if not isinstance(public_paths, list):
+        public_paths = []
     return {
-        "schema_version": 1,
-        "private_paths": sorted({str(path) for path in paths if str(path).strip()}),
+        "schema_version": int(data.get("schema_version", 1) or 1),
+        "private_paths": sorted({str(path) for path in private_paths if str(path).strip()}),
+        "public_paths": sorted({str(path) for path in public_paths if str(path).strip()}),
     }
 
 
 def write_grant_rules(root: Path, rules: dict[str, Any]) -> Path:
     grant_path = root / GRANT_FILENAME
+    private_paths = sorted({str(path) for path in rules.get("private_paths", []) if str(path).strip()})
+    public_paths = sorted({str(path) for path in rules.get("public_paths", []) if str(path).strip()})
     grant_path.write_text(
         json.dumps({
-            "schema_version": 1,
-            "private_paths": sorted({str(path) for path in rules.get("private_paths", []) if str(path).strip()}),
+            "schema_version": 2 if public_paths else int(rules.get("schema_version", 1) or 1),
+            "private_paths": private_paths,
+            "public_paths": public_paths,
         }, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
     return grant_path
 
 
+def grant_path_matches(rel_path: str, grant_path: str) -> bool:
+    normalized = str(rel_path or ".").strip("/")
+    configured = str(grant_path or ".").strip("/")
+    return bool(configured and configured != "." and (normalized == configured or normalized.startswith(f"{configured}/")))
+
+
+def grant_path_score(path: str) -> int:
+    normalized = str(path or ".").strip("/")
+    return len([part for part in normalized.split("/") if part]) * 10000 + len(normalized)
+
+
+def find_matching_grant_path(rel_path: str, paths: list[str]) -> str:
+    matches = [path for path in paths if grant_path_matches(rel_path, path)]
+    return sorted(matches, key=grant_path_score, reverse=True)[0] if matches else ""
+
+
+def grant_visibility(rel_path: str) -> tuple[bool, str]:
+    private_match = find_matching_grant_path(str(rel_path or "."), GRANT_RULES.get("private_paths", []))
+    public_match = find_matching_grant_path(str(rel_path or "."), GRANT_RULES.get("public_paths", []))
+    if public_match and (not private_match or grant_path_score(public_match) > grant_path_score(private_match)):
+        return False, "public-grant"
+    if private_match:
+        return True, "grant"
+    return False, "public"
+
+
 def is_private_path(rel_path: str) -> bool:
     normalized = str(rel_path or ".")
-    configured = set(GRANT_RULES.get("private_paths", []))
-    if normalized in configured:
-        return True
     parts = [part for part in normalized.split("/") if part and part != "."]
-    return any(is_private_name(part) for part in parts)
+    if any(is_private_name(part) for part in parts):
+        return True
+    private, _source = grant_visibility(normalized)
+    return private  # SOFTM-publishing-public-exception 2026-07-10: public_paths가 더 구체적이면 부모 미게시 아래 파일도 게시 처리
 
 
 def security_meta(rel_path: str) -> dict[str, Any]:
-    private = is_private_path(rel_path)
+    normalized = str(rel_path or ".")
+    parts = [part for part in normalized.split("/") if part and part != "."]
+    suffix_private = any(is_private_name(part) for part in parts)
+    grant_private, grant_source = grant_visibility(normalized)
+    private = suffix_private or grant_private
     return {
         "private": private,
-        "source": "suffix-or-grant" if private else "public",
+        "source": "suffix" if suffix_private else (grant_source if grant_source != "public" else "public"),
     }
 
 
@@ -144,6 +298,8 @@ def scan_directory(path: Path, root: Path, errors: list[dict[str, str]]) -> dict
             continue
 
         child_rel = entry.relative_to(root).as_posix()
+        if path == root and entry.is_file() and entry.name in ROOT_OPERATION_FILES:
+            continue  # SOFTM-root-operational-hide 2026-07-10: 루트 운영 파일만 숨기고 하위 콘텐츠 파일은 유지
         if child_rel in EXCLUDED_PATHS or any(child_rel.startswith(f"{excluded}/") for excluded in EXCLUDED_PATHS):
             continue
         try:
@@ -169,6 +325,9 @@ def scan_directory(path: Path, root: Path, errors: list[dict[str, str]]) -> dict
                 "modified": iso_time(stat_result.st_mtime),
                 "security": security_meta(child_rel),
             }
+            preview = build_text_preview(entry, child_rel, ext)
+            if preview:
+                file_node["preview"] = preview
             node["children"].append(file_node)
             node["file_count"] += 1
             node["total_size"] += stat_result.st_size
@@ -475,22 +634,46 @@ def iter_target_roots(targets: list[Path], recursive_targets: bool) -> list[Path
     return roots
 
 
-def update_grant_for_root(root: Path, add_paths: list[str], remove_paths: list[str], list_only: bool) -> bool:
+def update_grant_for_root(
+    root: Path,
+    add_paths: list[str],
+    remove_paths: list[str],
+    public_add_paths: list[str],
+    public_remove_paths: list[str],
+    list_only: bool
+) -> bool:
     rules = load_grant_rules(root)
     paths = {str(path) for path in rules.get("private_paths", []) if str(path).strip()}
+    public_paths = {str(path) for path in rules.get("public_paths", []) if str(path).strip()}
     for path in add_paths:
-        paths.add(str(Path(path).as_posix()).strip())
+        value = str(Path(path).as_posix()).strip()
+        paths.add(value)
+        public_paths.discard(value)
     for path in remove_paths:
         paths.discard(str(Path(path).as_posix()).strip())
-    changed = bool(add_paths or remove_paths)
+    for path in public_add_paths:
+        value = str(Path(path).as_posix()).strip()
+        public_paths.add(value)
+        paths.discard(value)
+    for path in public_remove_paths:
+        public_paths.discard(str(Path(path).as_posix()).strip())
+    changed = bool(add_paths or remove_paths or public_add_paths or public_remove_paths)
     rules["private_paths"] = sorted(path for path in paths if path)
+    rules["public_paths"] = sorted(path for path in public_paths if path)
     if changed:
         written = write_grant_rules(root, rules)
         print(f"Grant updated: {written}")
     if list_only or changed:
         print(f"\nGrant: {root / GRANT_FILENAME}")
+        print("Private paths:")
         if rules["private_paths"]:
             for path in rules["private_paths"]:
+                print(f"- {path}")
+        else:
+            print("(empty)")
+        print("Public paths:")
+        if rules["public_paths"]:
+            for path in rules["public_paths"]:
                 print(f"- {path}")
         else:
             print("(empty)")
@@ -559,6 +742,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--grant-list", action="store_true", help="List private paths from grant.json and exit.")
     parser.add_argument("--grant-add", action="append", default=[], help="Add a private path to grant.json.")
     parser.add_argument("--grant-remove", action="append", default=[], help="Remove a private path from grant.json.")
+    parser.add_argument("--grant-public-add", action="append", default=[], help="Add a public exception path to grant.json.")  # SOFTM-publishing-public-exception 2026-07-10: 부모 미게시 아래 개별 게시 경로 CLI 지원
+    parser.add_argument("--grant-public-remove", action="append", default=[], help="Remove a public exception path from grant.json.")  # SOFTM-publishing-public-exception 2026-07-10: 공개 예외 제거 CLI 지원
     return parser.parse_args()
 
 
@@ -571,8 +756,8 @@ def main() -> None:
 
     print(f"Targets: {len(target_roots):,}")
     for target_root in target_roots:
-        if update_grant_for_root(target_root, args.grant_add, args.grant_remove, args.grant_list):
-            if args.grant_list and not args.grant_add and not args.grant_remove:
+        if update_grant_for_root(target_root, args.grant_add, args.grant_remove, args.grant_public_add, args.grant_public_remove, args.grant_list):
+            if args.grant_list and not args.grant_add and not args.grant_remove and not args.grant_public_add and not args.grant_public_remove:
                 continue
         generate_for_root(target_root, outputs, args.recursive_targets)
 
