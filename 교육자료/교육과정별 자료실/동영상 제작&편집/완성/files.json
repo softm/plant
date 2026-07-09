@@ -1,0 +1,846 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/동영상 제작&편집/완성",
+    "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 27,
+    "directory_count": 0,
+    "direct_file_count": 27,
+    "direct_directory_count": 0,
+    "total_size": 289890257,
+    "total_size_human": "276.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "완성",
+    "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성",
+    "index": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/files.json",
+    "modified": "2026-07-09T17:48:51+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "[SHANA][SHANA]북경.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/[SHANA][SHANA]북경.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 1108128,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "[SHANA]데이지.wmv",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/[SHANA]데이지.wmv",
+        "extension": "wmv",
+        "group": "video",
+        "mime_type": "video/x-ms-wmv",
+        "size": 40992879,
+        "size_human": "39.1 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "[SHANA]북경.mkv",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/[SHANA]북경.mkv",
+        "extension": "mkv",
+        "group": "video",
+        "mime_type": "video/x-matroska",
+        "size": 5078254,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "baby.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/baby.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 6361673,
+        "size_human": "6.1 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "baby.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/baby.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 1337,
+        "size_human": "1.3 KB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Fish.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/Fish.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 7155283,
+        "size_human": "6.8 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Fish.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/Fish.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 1302,
+        "size_human": "1.3 KB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "ufo.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/ufo.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 18737295,
+        "size_human": "17.9 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "ufo.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/ufo.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 23613,
+        "size_human": "23.1 KB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "겨울.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/겨울.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 22127257,
+        "size_human": "21.1 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "겨울.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/겨울.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 1297,
+        "size_human": "1.3 KB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "새해.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/새해.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 18417207,
+        "size_human": "17.6 MB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "새해.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/새해.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 1876,
+        "size_human": "1.8 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "소녀.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/소녀.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 19793899,
+        "size_human": "18.9 MB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "소녀.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/소녀.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 22684,
+        "size_human": "22.2 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "승부.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/승부.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 37882888,
+        "size_human": "36.1 MB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "승부.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/승부.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 18168,
+        "size_human": "17.7 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "에펠탑.mov",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/에펠탑.mov",
+        "extension": "mov",
+        "group": "video",
+        "mime_type": "video/quicktime",
+        "size": 30818790,
+        "size_human": "29.4 MB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "에펠탑.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/에펠탑.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 1374,
+        "size_human": "1.3 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "여행.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/여행.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 18448328,
+        "size_human": "17.6 MB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "여행.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/여행.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 25727,
+        "size_human": "25.1 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "코끼리사진.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/코끼리사진.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 15707873,
+        "size_human": "15.0 MB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "코끼리사진.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/코끼리사진.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 14491,
+        "size_human": "14.2 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "펭귄.mov",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/펭귄.mov",
+        "extension": "mov",
+        "group": "video",
+        "mime_type": "video/quicktime",
+        "size": 39364416,
+        "size_human": "37.5 MB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "펭귄.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/펭귄.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 27845,
+        "size_human": "27.2 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "홍콩.mov",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/홍콩.mov",
+        "extension": "mov",
+        "group": "video",
+        "mime_type": "video/quicktime",
+        "size": 7755653,
+        "size_human": "7.4 MB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "홍콩.vmpr",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/홍콩.vmpr",
+        "extension": "vmpr",
+        "group": "other",
+        "mime_type": null,
+        "size": 720,
+        "size_human": "720 B",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 27,
+    "directory_count": 0,
+    "total_size": 289890257,
+    "total_size_human": "276.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "[SHANA][SHANA]북경.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/[SHANA][SHANA]북경.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 1108128,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "[SHANA]데이지.wmv",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/[SHANA]데이지.wmv",
+      "extension": "wmv",
+      "group": "video",
+      "mime_type": "video/x-ms-wmv",
+      "size": 40992879,
+      "size_human": "39.1 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "[SHANA]북경.mkv",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/[SHANA]북경.mkv",
+      "extension": "mkv",
+      "group": "video",
+      "mime_type": "video/x-matroska",
+      "size": 5078254,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "baby.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/baby.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 6361673,
+      "size_human": "6.1 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "baby.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/baby.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 1337,
+      "size_human": "1.3 KB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Fish.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/Fish.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 7155283,
+      "size_human": "6.8 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Fish.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/Fish.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 1302,
+      "size_human": "1.3 KB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "ufo.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/ufo.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 18737295,
+      "size_human": "17.9 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "ufo.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/ufo.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 23613,
+      "size_human": "23.1 KB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "겨울.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/겨울.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 22127257,
+      "size_human": "21.1 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "겨울.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/겨울.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 1297,
+      "size_human": "1.3 KB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "새해.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/새해.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 18417207,
+      "size_human": "17.6 MB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "새해.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/새해.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 1876,
+      "size_human": "1.8 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "소녀.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/소녀.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 19793899,
+      "size_human": "18.9 MB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "소녀.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/소녀.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 22684,
+      "size_human": "22.2 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "승부.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/승부.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 37882888,
+      "size_human": "36.1 MB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "승부.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/승부.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 18168,
+      "size_human": "17.7 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "에펠탑.mov",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/에펠탑.mov",
+      "extension": "mov",
+      "group": "video",
+      "mime_type": "video/quicktime",
+      "size": 30818790,
+      "size_human": "29.4 MB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "에펠탑.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/에펠탑.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 1374,
+      "size_human": "1.3 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "여행.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/여행.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 18448328,
+      "size_human": "17.6 MB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "여행.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/여행.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 25727,
+      "size_human": "25.1 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "코끼리사진.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/코끼리사진.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 15707873,
+      "size_human": "15.0 MB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "코끼리사진.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/코끼리사진.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 14491,
+      "size_human": "14.2 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "펭귄.mov",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/펭귄.mov",
+      "extension": "mov",
+      "group": "video",
+      "mime_type": "video/quicktime",
+      "size": 39364416,
+      "size_human": "37.5 MB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "펭귄.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/펭귄.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 27845,
+      "size_human": "27.2 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "홍콩.mov",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/홍콩.mov",
+      "extension": "mov",
+      "group": "video",
+      "mime_type": "video/quicktime",
+      "size": 7755653,
+      "size_human": "7.4 MB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "홍콩.vmpr",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/완성/홍콩.vmpr",
+      "extension": "vmpr",
+      "group": "other",
+      "mime_type": null,
+      "size": 720,
+      "size_human": "720 B",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,1446 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 47,
+    "directory_count": 0,
+    "direct_file_count": 47,
+    "direct_directory_count": 0,
+    "total_size": 156879467,
+    "total_size_human": "149.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.슈퍼오닝농업대학.열린강좌.07.11.06",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06",
+    "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/files.json",
+    "modified": "2026-07-09T17:48:31+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "2023.11.06.07강.md",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/2023.11.06.07강.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 2158,
+        "size_human": "2.1 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_160000.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160000.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1837995,
+        "size_human": "1.8 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_160005.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160005.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2169399,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_160007.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160007.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2155264,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_160134.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160134.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2604245,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_160140.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160140.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2035798,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_160419.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160419.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1874840,
+        "size_human": "1.8 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_161634.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_161634.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2456942,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_161656.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_161656.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3173856,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_161730.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_161730.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3451515,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_164925.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_164925.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1323771,
+        "size_human": "1.3 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_164940.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_164940.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2764659,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_165217.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_165217.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3293050,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_165230.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_165230.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3217405,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_175708.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_175708.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2755386,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_175839.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_175839.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2594352,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_175845.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_175845.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2625749,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231106_175912.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_175912.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3148438,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 042_sd.m4a",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/음성 042_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 40009217,
+        "size_human": "38.2 MB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 043_sd.m4a",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/음성 043_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 48834860,
+        "size_human": "46.6 MB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 044_sd.m4a",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/음성 044_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 16183634,
+        "size_human": "15.4 MB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_01.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_01.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 337529,
+        "size_human": "329.6 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_02.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_02.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 393149,
+        "size_human": "383.9 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_03.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_03.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 299678,
+        "size_human": "292.7 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_04.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_04.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 310061,
+        "size_human": "302.8 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_05.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_05.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 314417,
+        "size_human": "307.0 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_06.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_06.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 352799,
+        "size_human": "344.5 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_07.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_07.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 392497,
+        "size_human": "383.3 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_08.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_08.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 338133,
+        "size_human": "330.2 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_09.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_09.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 352271,
+        "size_human": "344.0 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_10.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_10.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 332422,
+        "size_human": "324.6 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_11.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_11.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 304349,
+        "size_human": "297.2 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_12.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_12.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 274484,
+        "size_human": "268.1 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_13.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_13.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 284626,
+        "size_human": "278.0 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_14.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_14.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 357953,
+        "size_human": "349.6 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_15.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_15.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 257957,
+        "size_human": "251.9 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_16.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_16.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 285907,
+        "size_human": "279.2 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_17.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_17.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 286188,
+        "size_human": "279.5 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_18.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_18.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 256712,
+        "size_human": "250.7 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_19.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_19.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 244922,
+        "size_human": "239.2 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_20.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_20.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 374715,
+        "size_human": "365.9 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_21.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_21.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 362474,
+        "size_human": "354.0 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_22.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_22.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 293443,
+        "size_human": "286.6 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_23.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_23.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 296057,
+        "size_human": "289.1 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_24.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_24.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 372495,
+        "size_human": "363.8 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_25.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_25.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 400812,
+        "size_human": "391.4 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브_엣센셜.가랜드_26.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_26.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 290884,
+        "size_human": "284.1 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 47,
+    "directory_count": 0,
+    "total_size": 156879467,
+    "total_size_human": "149.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2023.11.06.07강.md",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/2023.11.06.07강.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 2158,
+      "size_human": "2.1 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_160000.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160000.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1837995,
+      "size_human": "1.8 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_160005.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160005.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2169399,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_160007.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160007.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2155264,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_160134.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160134.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2604245,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_160140.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160140.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2035798,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_160419.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_160419.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1874840,
+      "size_human": "1.8 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_161634.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_161634.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2456942,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_161656.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_161656.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3173856,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_161730.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_161730.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3451515,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_164925.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_164925.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1323771,
+      "size_human": "1.3 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_164940.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_164940.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2764659,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_165217.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_165217.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3293050,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_165230.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_165230.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3217405,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_175708.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_175708.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2755386,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_175839.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_175839.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2594352,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_175845.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_175845.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2625749,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231106_175912.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/20231106_175912.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3148438,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 042_sd.m4a",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/음성 042_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 40009217,
+      "size_human": "38.2 MB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 043_sd.m4a",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/음성 043_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 48834860,
+      "size_human": "46.6 MB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 044_sd.m4a",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/음성 044_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 16183634,
+      "size_human": "15.4 MB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_01.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_01.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 337529,
+      "size_human": "329.6 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_02.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_02.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 393149,
+      "size_human": "383.9 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_03.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_03.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 299678,
+      "size_human": "292.7 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_04.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_04.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 310061,
+      "size_human": "302.8 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_05.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_05.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 314417,
+      "size_human": "307.0 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_06.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_06.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 352799,
+      "size_human": "344.5 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_07.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_07.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 392497,
+      "size_human": "383.3 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_08.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_08.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 338133,
+      "size_human": "330.2 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_09.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_09.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 352271,
+      "size_human": "344.0 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_10.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_10.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 332422,
+      "size_human": "324.6 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_11.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_11.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 304349,
+      "size_human": "297.2 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_12.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_12.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 274484,
+      "size_human": "268.1 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_13.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_13.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 284626,
+      "size_human": "278.0 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_14.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_14.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 357953,
+      "size_human": "349.6 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_15.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_15.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 257957,
+      "size_human": "251.9 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_16.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_16.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 285907,
+      "size_human": "279.2 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_17.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_17.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 286188,
+      "size_human": "279.5 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_18.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_18.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 256712,
+      "size_human": "250.7 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_19.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_19.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 244922,
+      "size_human": "239.2 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_20.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_20.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 374715,
+      "size_human": "365.9 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_21.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_21.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 362474,
+      "size_human": "354.0 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_22.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_22.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 293443,
+      "size_human": "286.6 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_23.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_23.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 296057,
+      "size_human": "289.1 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_24.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_24.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 372495,
+      "size_human": "363.8 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_25.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_25.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 400812,
+      "size_human": "391.4 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브_엣센셜.가랜드_26.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/허브_엣센셜.가랜드_26.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 290884,
+      "size_human": "284.1 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

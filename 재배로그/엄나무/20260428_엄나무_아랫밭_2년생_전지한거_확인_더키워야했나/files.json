@@ -1,0 +1,576 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나",
+    "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 18,
+    "directory_count": 0,
+    "direct_file_count": 18,
+    "direct_directory_count": 0,
+    "total_size": 118885601,
+    "total_size_human": "113.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나",
+    "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나",
+    "index": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/files.json",
+    "modified": "2026-07-09T17:50:11+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260428_134427.jpg",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134427.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4138365,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134431.mp4",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134431.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 11357308,
+        "size_human": "10.8 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134442.mp4",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134442.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 21160385,
+        "size_human": "20.2 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134510.mp4",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134510.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 2503109,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134513.jpg",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134513.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3380209,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134516.mp4",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134516.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 9451243,
+        "size_human": "9.0 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134524.jpg",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134524.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3464924,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134526.jpg",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134526.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4402598,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134531.jpg",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134531.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3371470,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134645.jpg",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134645.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6093233,
+        "size_human": "5.8 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134649.jpg",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134649.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6215601,
+        "size_human": "5.9 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134651.mp4",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134651.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 5820247,
+        "size_human": "5.6 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134657.jpg",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134657.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6226011,
+        "size_human": "5.9 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134704.jpg",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134704.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3429465,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134706.mp4",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134706.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 12353475,
+        "size_human": "11.8 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134719.mp4",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134719.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 7278831,
+        "size_human": "6.9 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134739.jpg",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134739.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5223881,
+        "size_human": "5.0 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260428_134743.jpg",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134743.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3015246,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 18,
+    "directory_count": 0,
+    "total_size": 118885601,
+    "total_size_human": "113.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260428_134427.jpg",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134427.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4138365,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134431.mp4",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134431.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 11357308,
+      "size_human": "10.8 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134442.mp4",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134442.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 21160385,
+      "size_human": "20.2 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134510.mp4",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134510.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 2503109,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134513.jpg",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134513.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3380209,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134516.mp4",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134516.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 9451243,
+      "size_human": "9.0 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134524.jpg",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134524.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3464924,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134526.jpg",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134526.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4402598,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134531.jpg",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134531.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3371470,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134645.jpg",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134645.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6093233,
+      "size_human": "5.8 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134649.jpg",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134649.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6215601,
+      "size_human": "5.9 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134651.mp4",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134651.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 5820247,
+      "size_human": "5.6 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134657.jpg",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134657.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6226011,
+      "size_human": "5.9 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134704.jpg",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134704.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3429465,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134706.mp4",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134706.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 12353475,
+      "size_human": "11.8 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134719.mp4",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134719.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 7278831,
+      "size_human": "6.9 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134739.jpg",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134739.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5223881,
+      "size_human": "5.0 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260428_134743.jpg",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/20260428_134743.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3015246,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

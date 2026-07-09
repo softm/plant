@@ -1,0 +1,606 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 19,
+    "directory_count": 0,
+    "direct_file_count": 19,
+    "direct_directory_count": 0,
+    "total_size": 140363640,
+    "total_size_human": "133.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.슈퍼오닝농업대학.열린강좌.06.10.31",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31",
+    "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/files.json",
+    "modified": "2026-07-09T17:48:30+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "2023.10.31.06강.md",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/2023.10.31.06강.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 13136,
+        "size_human": "12.8 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20231031_140616.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/20231031_140616.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4211178,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 035_sd.m4a",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/음성 035_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 94954645,
+        "size_human": "90.6 MB",
+        "modified": "2026-07-09T17:48:27+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 036_sd.m4a",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/음성 036_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 36221039,
+        "size_human": "34.5 MB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_01.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_01.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 293683,
+        "size_human": "286.8 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_02.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_02.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 292851,
+        "size_human": "286.0 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_03.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_03.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 265376,
+        "size_human": "259.2 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_04.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_04.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 348671,
+        "size_human": "340.5 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_05.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_05.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 320966,
+        "size_human": "313.4 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_06.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_06.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 415491,
+        "size_human": "405.8 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_07.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_07.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 230929,
+        "size_human": "225.5 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_08.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_08.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 480105,
+        "size_human": "468.9 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_09.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_09.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 406538,
+        "size_human": "397.0 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_10.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_10.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 366703,
+        "size_human": "358.1 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_11.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_11.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 340576,
+        "size_human": "332.6 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_12.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_12.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 357047,
+        "size_human": "348.7 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_13.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_13.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 318651,
+        "size_human": "311.2 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_14.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_14.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 308667,
+        "size_human": "301.4 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "치유농업_15.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_15.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 217388,
+        "size_human": "212.3 KB",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 19,
+    "directory_count": 0,
+    "total_size": 140363640,
+    "total_size_human": "133.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2023.10.31.06강.md",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/2023.10.31.06강.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 13136,
+      "size_human": "12.8 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20231031_140616.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/20231031_140616.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4211178,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 035_sd.m4a",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/음성 035_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 94954645,
+      "size_human": "90.6 MB",
+      "modified": "2026-07-09T17:48:27+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 036_sd.m4a",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/음성 036_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 36221039,
+      "size_human": "34.5 MB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_01.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_01.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 293683,
+      "size_human": "286.8 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_02.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_02.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 292851,
+      "size_human": "286.0 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_03.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_03.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 265376,
+      "size_human": "259.2 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_04.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_04.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 348671,
+      "size_human": "340.5 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_05.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_05.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 320966,
+      "size_human": "313.4 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_06.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_06.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 415491,
+      "size_human": "405.8 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_07.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_07.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 230929,
+      "size_human": "225.5 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_08.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_08.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 480105,
+      "size_human": "468.9 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_09.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_09.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 406538,
+      "size_human": "397.0 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_10.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_10.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 366703,
+      "size_human": "358.1 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_11.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_11.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 340576,
+      "size_human": "332.6 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_12.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_12.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 357047,
+      "size_human": "348.7 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_13.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_13.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 318651,
+      "size_human": "311.2 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_14.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_14.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 308667,
+      "size_human": "301.4 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "치유농업_15.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/치유농업_15.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 217388,
+      "size_human": "212.3 KB",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

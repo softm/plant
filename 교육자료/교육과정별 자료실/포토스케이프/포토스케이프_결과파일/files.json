@@ -1,0 +1,366 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 69,
+    "directory_count": 13,
+    "direct_file_count": 0,
+    "direct_directory_count": 11,
+    "total_size": 41965086,
+    "total_size_human": "40.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "포토스케이프_결과파일",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일",
+    "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "02장 결과",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 7,
+        "directory_count": 1,
+        "total_size": 1053067,
+        "total_size_human": "1.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "03장 결과",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/03장 결과",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/03장 결과/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 7723935,
+        "total_size_human": "7.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "04장 결과",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 7,
+        "directory_count": 1,
+        "total_size": 3049498,
+        "total_size_human": "2.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "05장 결과",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 6,
+        "directory_count": 0,
+        "total_size": 10555237,
+        "total_size_human": "10.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "06장 결과",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 4,
+        "directory_count": 0,
+        "total_size": 2634347,
+        "total_size_human": "2.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "07장 결과",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/07장 결과",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/07장 결과/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 4,
+        "directory_count": 0,
+        "total_size": 3545774,
+        "total_size_human": "3.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "08장 결과",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/08장 결과",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/08장 결과/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 608941,
+        "total_size_human": "594.7 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "09장 결과",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/09장 결과",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/09장 결과/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 4051447,
+        "total_size_human": "3.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "10장 결과",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/10장 결과",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/10장 결과/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 4,
+        "directory_count": 0,
+        "total_size": 1002162,
+        "total_size_human": "978.7 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "11장 결과",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/11장 결과",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/11장 결과/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 18,
+        "directory_count": 0,
+        "total_size": 1024293,
+        "total_size_human": "1000.3 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "12장 결과",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/12장 결과",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/12장 결과/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 4,
+        "directory_count": 0,
+        "total_size": 6716385,
+        "total_size_human": "6.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 69,
+    "directory_count": 13,
+    "total_size": 41965086,
+    "total_size_human": "40.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "02장 결과",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 7,
+      "directory_count": 1,
+      "total_size": 1053067,
+      "total_size_human": "1.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "03장 결과",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/03장 결과",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/03장 결과/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 7723935,
+      "total_size_human": "7.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "04장 결과",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 7,
+      "directory_count": 1,
+      "total_size": 3049498,
+      "total_size_human": "2.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "05장 결과",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 6,
+      "directory_count": 0,
+      "total_size": 10555237,
+      "total_size_human": "10.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "06장 결과",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 4,
+      "directory_count": 0,
+      "total_size": 2634347,
+      "total_size_human": "2.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "07장 결과",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/07장 결과",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/07장 결과/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 4,
+      "directory_count": 0,
+      "total_size": 3545774,
+      "total_size_human": "3.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "08장 결과",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/08장 결과",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/08장 결과/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 608941,
+      "total_size_human": "594.7 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "09장 결과",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/09장 결과",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/09장 결과/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 4051447,
+      "total_size_human": "3.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "10장 결과",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/10장 결과",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/10장 결과/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 4,
+      "directory_count": 0,
+      "total_size": 1002162,
+      "total_size_human": "978.7 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "11장 결과",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/11장 결과",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/11장 결과/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 18,
+      "directory_count": 0,
+      "total_size": 1024293,
+      "total_size_human": "1000.3 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "12장 결과",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/12장 결과",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/12장 결과/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 4,
+      "directory_count": 0,
+      "total_size": 6716385,
+      "total_size_human": "6.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

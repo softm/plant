@@ -1,0 +1,740 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/블로그/여행앨범",
+    "path": "교육자료/교육과정별 자료실/블로그/여행앨범",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 23,
+    "directory_count": 0,
+    "direct_file_count": 23,
+    "direct_directory_count": 0,
+    "total_size": 12341998,
+    "total_size_human": "11.8 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "여행앨범",
+    "path": "교육자료/교육과정별 자료실/블로그/여행앨범",
+    "index": "교육자료/교육과정별 자료실/블로그/여행앨범/files.json",
+    "modified": "2026-07-09T17:48:51+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "01.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/01.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 88872,
+        "size_human": "86.8 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "02.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/02.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 55545,
+        "size_human": "54.2 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "03.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/03.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 66509,
+        "size_human": "65.0 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "04.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/04.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 74048,
+        "size_human": "72.3 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "05.jpg",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/05.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 7074,
+        "size_human": "6.9 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "06.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/06.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 10154,
+        "size_human": "9.9 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "07.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/07.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 5596,
+        "size_human": "5.5 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "08.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/08.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 6876,
+        "size_human": "6.7 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "09.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/09.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 70148,
+        "size_human": "68.5 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "10.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/10.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 202360,
+        "size_human": "197.6 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "11.jpg",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/11.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 117621,
+        "size_human": "114.9 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "12.jpg",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/12.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 175822,
+        "size_human": "171.7 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "13.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/13.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 34012,
+        "size_human": "33.2 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "14.jpg",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/14.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 270400,
+        "size_human": "264.1 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "15.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/15.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 34743,
+        "size_human": "33.9 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "16.jpg",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/16.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 198694,
+        "size_human": "194.0 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "17.jpg",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/17.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 195196,
+        "size_human": "190.6 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "18.jpg",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/18.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 229362,
+        "size_human": "224.0 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "19.png",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/19.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 93354,
+        "size_human": "91.2 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20.jpg",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/20.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 134415,
+        "size_human": "131.3 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "여행을 떠나요.mp3",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/여행을 떠나요.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 3844546,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "예스폼_파워포인트배경여행드라이브.pptx",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/예스폼_파워포인트배경여행드라이브.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 6414147,
+        "size_human": "6.1 MB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/f1d138a6527a605b.pptx.txt",
+          "size": 578,
+          "size_human": "578 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "향상.JPG",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범/향상.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 12504,
+        "size_human": "12.2 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 23,
+    "directory_count": 0,
+    "total_size": 12341998,
+    "total_size_human": "11.8 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "01.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/01.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 88872,
+      "size_human": "86.8 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "02.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/02.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 55545,
+      "size_human": "54.2 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "03.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/03.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 66509,
+      "size_human": "65.0 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "04.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/04.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 74048,
+      "size_human": "72.3 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "05.jpg",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/05.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 7074,
+      "size_human": "6.9 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "06.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/06.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 10154,
+      "size_human": "9.9 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "07.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/07.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 5596,
+      "size_human": "5.5 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "08.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/08.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 6876,
+      "size_human": "6.7 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "09.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/09.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 70148,
+      "size_human": "68.5 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "10.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/10.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 202360,
+      "size_human": "197.6 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "11.jpg",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/11.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 117621,
+      "size_human": "114.9 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "12.jpg",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/12.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 175822,
+      "size_human": "171.7 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "13.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/13.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 34012,
+      "size_human": "33.2 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "14.jpg",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/14.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 270400,
+      "size_human": "264.1 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "15.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/15.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 34743,
+      "size_human": "33.9 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "16.jpg",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/16.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 198694,
+      "size_human": "194.0 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "17.jpg",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/17.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 195196,
+      "size_human": "190.6 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "18.jpg",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/18.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 229362,
+      "size_human": "224.0 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "19.png",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/19.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 93354,
+      "size_human": "91.2 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20.jpg",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/20.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 134415,
+      "size_human": "131.3 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "여행을 떠나요.mp3",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/여행을 떠나요.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 3844546,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "예스폼_파워포인트배경여행드라이브.pptx",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/예스폼_파워포인트배경여행드라이브.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 6414147,
+      "size_human": "6.1 MB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/f1d138a6527a605b.pptx.txt",
+        "size": 578,
+        "size_human": "578 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "향상.JPG",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범/향상.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 12504,
+      "size_human": "12.2 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

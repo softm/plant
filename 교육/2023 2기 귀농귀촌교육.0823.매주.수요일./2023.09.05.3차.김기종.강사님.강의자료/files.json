@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 209586946,
+    "total_size_human": "199.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.09.05.3차.김기종.강사님.강의자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료",
+    "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료/files.json",
+    "modified": "2026-07-09T17:48:13+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "음성 001.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료/음성 001.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 53397477,
+        "size_human": "50.9 MB",
+        "modified": "2026-07-09T17:48:13+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 002.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료/음성 002.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 57887527,
+        "size_human": "55.2 MB",
+        "modified": "2026-07-09T17:48:13+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 003.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료/음성 003.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 40629995,
+        "size_human": "38.7 MB",
+        "modified": "2026-07-09T17:48:13+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 004.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료/음성 004.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 57671947,
+        "size_human": "55.0 MB",
+        "modified": "2026-07-09T17:48:13+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 209586946,
+    "total_size_human": "199.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "음성 001.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료/음성 001.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 53397477,
+      "size_human": "50.9 MB",
+      "modified": "2026-07-09T17:48:13+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 002.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료/음성 002.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 57887527,
+      "size_human": "55.2 MB",
+      "modified": "2026-07-09T17:48:13+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 003.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료/음성 003.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 40629995,
+      "size_human": "38.7 MB",
+      "modified": "2026-07-09T17:48:13+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 004.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.05.3차.김기종.강사님.강의자료/음성 004.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 57671947,
+      "size_human": "55.0 MB",
+      "modified": "2026-07-09T17:48:13+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

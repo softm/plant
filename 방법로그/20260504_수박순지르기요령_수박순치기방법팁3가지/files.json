@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/방법로그/20260504_수박순지르기요령_수박순치기방법팁3가지",
+    "path": "방법로그/20260504_수박순지르기요령_수박순치기방법팁3가지",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 15651793,
+    "total_size_human": "14.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260504_수박순지르기요령_수박순치기방법팁3가지",
+    "path": "방법로그/20260504_수박순지르기요령_수박순치기방법팁3가지",
+    "index": "방법로그/20260504_수박순지르기요령_수박순치기방법팁3가지/files.json",
+    "modified": "2026-07-09T17:49:07+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "수박순지르기요령_수박순치기방법팁3가지.md",
+        "path": "방법로그/20260504_수박순지르기요령_수박순치기방법팁3가지/수박순지르기요령_수박순치기방법팁3가지.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 32,
+        "size_human": "32 B",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "수박순지르기요령_수박순치기방법팁3가지.pdf",
+        "path": "방법로그/20260504_수박순지르기요령_수박순치기방법팁3가지/수박순지르기요령_수박순치기방법팁3가지.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 5759731,
+        "size_human": "5.5 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "수박순지르기요령_수박순치기방법팁3가지.png",
+        "path": "방법로그/20260504_수박순지르기요령_수박순치기방법팁3가지/수박순지르기요령_수박순치기방법팁3가지.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 9892030,
+        "size_human": "9.4 MB",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 15651793,
+    "total_size_human": "14.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "수박순지르기요령_수박순치기방법팁3가지.md",
+      "path": "방법로그/20260504_수박순지르기요령_수박순치기방법팁3가지/수박순지르기요령_수박순치기방법팁3가지.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 32,
+      "size_human": "32 B",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "수박순지르기요령_수박순치기방법팁3가지.pdf",
+      "path": "방법로그/20260504_수박순지르기요령_수박순치기방법팁3가지/수박순지르기요령_수박순치기방법팁3가지.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 5759731,
+      "size_human": "5.5 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "수박순지르기요령_수박순치기방법팁3가지.png",
+      "path": "방법로그/20260504_수박순지르기요령_수박순치기방법팁3가지/수박순지르기요령_수박순치기방법팁3가지.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 9892030,
+      "size_human": "9.4 MB",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

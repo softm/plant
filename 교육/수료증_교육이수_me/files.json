@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/수료증_교육이수_me",
+    "path": "교육/수료증_교육이수_me",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 692115,
+    "total_size_human": "675.9 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "수료증_교육이수_me",
+    "path": "교육/수료증_교육이수_me",
+    "index": "교육/수료증_교육이수_me/files.json",
+    "modified": "2026-07-09T17:48:49+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "수료증_증서.평택시농업기술센터.2023년귀농귀촌반교육2기.40시간.jpeg",
+        "path": "교육/수료증_교육이수_me/수료증_증서.평택시농업기술센터.2023년귀농귀촌반교육2기.40시간.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 218851,
+        "size_human": "213.7 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "수료증_표지.평택시농업기술센터.2023년귀농귀촌반교육2기.40시간.jpg",
+        "path": "교육/수료증_교육이수_me/수료증_표지.평택시농업기술센터.2023년귀농귀촌반교육2기.40시간.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 390754,
+        "size_human": "381.6 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "평택농업기술센터.2023.농업교육이수확인서.pdf",
+        "path": "교육/수료증_교육이수_me/평택농업기술센터.2023.농업교육이수확인서.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 82510,
+        "size_human": "80.6 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 692115,
+    "total_size_human": "675.9 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "수료증_증서.평택시농업기술센터.2023년귀농귀촌반교육2기.40시간.jpeg",
+      "path": "교육/수료증_교육이수_me/수료증_증서.평택시농업기술센터.2023년귀농귀촌반교육2기.40시간.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 218851,
+      "size_human": "213.7 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "수료증_표지.평택시농업기술센터.2023년귀농귀촌반교육2기.40시간.jpg",
+      "path": "교육/수료증_교육이수_me/수료증_표지.평택시농업기술센터.2023년귀농귀촌반교육2기.40시간.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 390754,
+      "size_human": "381.6 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "평택농업기술센터.2023.농업교육이수확인서.pdf",
+      "path": "교육/수료증_교육이수_me/평택농업기술센터.2023.농업교육이수확인서.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 82510,
+      "size_human": "80.6 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

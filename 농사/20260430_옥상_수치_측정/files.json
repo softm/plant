@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농사/20260430_옥상_수치_측정",
+    "path": "농사/20260430_옥상_수치_측정",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 2570576,
+    "total_size_human": "2.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260430_옥상_수치_측정",
+    "path": "농사/20260430_옥상_수치_측정",
+    "index": "농사/20260430_옥상_수치_측정/files.json",
+    "modified": "2026-07-09T17:49:03+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-30-15-53-57.jpeg",
+        "path": "농사/20260430_옥상_수치_측정/KakaoTalk_Photo_2026-04-30-15-53-57.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1048996,
+        "size_human": "1.0 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-30-15-54-00.jpeg",
+        "path": "농사/20260430_옥상_수치_측정/KakaoTalk_Photo_2026-04-30-15-54-00.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 730940,
+        "size_human": "713.8 KB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-30-15-55-14.jpeg",
+        "path": "농사/20260430_옥상_수치_측정/KakaoTalk_Photo_2026-04-30-15-55-14.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 790640,
+        "size_human": "772.1 KB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 2570576,
+    "total_size_human": "2.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-30-15-53-57.jpeg",
+      "path": "농사/20260430_옥상_수치_측정/KakaoTalk_Photo_2026-04-30-15-53-57.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1048996,
+      "size_human": "1.0 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-30-15-54-00.jpeg",
+      "path": "농사/20260430_옥상_수치_측정/KakaoTalk_Photo_2026-04-30-15-54-00.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 730940,
+      "size_human": "713.8 KB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-30-15-55-14.jpeg",
+      "path": "농사/20260430_옥상_수치_측정/KakaoTalk_Photo_2026-04-30-15-55-14.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 790640,
+      "size_human": "772.1 KB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

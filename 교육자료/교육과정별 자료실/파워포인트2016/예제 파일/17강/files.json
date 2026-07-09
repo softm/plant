@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/파워포인트2016/예제 파일/17강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/17강",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 2,
+    "directory_count": 0,
+    "direct_file_count": 2,
+    "direct_directory_count": 0,
+    "total_size": 24277155,
+    "total_size_human": "23.2 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "17강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/17강",
+    "index": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/17강/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "17강.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/17강/17강.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 24052430,
+        "size_human": "22.9 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/aa95dfcaf457f216.pptx.txt",
+          "size": 1146,
+          "size_human": "1.1 KB"
+        }
+      },
+      {
+        "type": "file",
+        "name": "로고.png",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/17강/로고.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 224725,
+        "size_human": "219.5 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 2,
+    "directory_count": 0,
+    "total_size": 24277155,
+    "total_size_human": "23.2 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "17강.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/17강/17강.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 24052430,
+      "size_human": "22.9 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/aa95dfcaf457f216.pptx.txt",
+        "size": 1146,
+        "size_human": "1.1 KB"
+      }
+    },
+    {
+      "type": "file",
+      "name": "로고.png",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/17강/로고.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 224725,
+      "size_human": "219.5 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/엑셀2016/예제 파일/8장",
+    "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/8장",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 32614,
+    "total_size_human": "31.8 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "8장",
+    "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/8장",
+    "index": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/8장/files.json",
+    "modified": "2026-07-09T17:48:51+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "급여 내역.xlsx",
+        "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/8장/급여 내역.xlsx",
+        "extension": "xlsx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 11105,
+        "size_human": "10.8 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "여행 결산.xlsx",
+        "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/8장/여행 결산.xlsx",
+        "extension": "xlsx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 11354,
+        "size_human": "11.1 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "참가비 내역.xlsx",
+        "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/8장/참가비 내역.xlsx",
+        "extension": "xlsx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 10155,
+        "size_human": "9.9 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 32614,
+    "total_size_human": "31.8 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "급여 내역.xlsx",
+      "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/8장/급여 내역.xlsx",
+      "extension": "xlsx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 11105,
+      "size_human": "10.8 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "여행 결산.xlsx",
+      "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/8장/여행 결산.xlsx",
+      "extension": "xlsx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 11354,
+      "size_human": "11.1 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "참가비 내역.xlsx",
+      "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/8장/참가비 내역.xlsx",
+      "extension": "xlsx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 10155,
+      "size_human": "9.9 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

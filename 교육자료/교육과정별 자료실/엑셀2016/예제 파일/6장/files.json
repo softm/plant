@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/엑셀2016/예제 파일/6장",
+    "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/6장",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 1,
+    "directory_count": 0,
+    "direct_file_count": 1,
+    "direct_directory_count": 0,
+    "total_size": 10908,
+    "total_size_human": "10.7 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "6장",
+    "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/6장",
+    "index": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/6장/files.json",
+    "modified": "2026-07-09T17:48:51+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "여행 일정.xlsx",
+        "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/6장/여행 일정.xlsx",
+        "extension": "xlsx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 10908,
+        "size_human": "10.7 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 1,
+    "directory_count": 0,
+    "total_size": 10908,
+    "total_size_human": "10.7 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "여행 일정.xlsx",
+      "path": "교육자료/교육과정별 자료실/엑셀2016/예제 파일/6장/여행 일정.xlsx",
+      "extension": "xlsx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 10908,
+      "size_human": "10.7 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

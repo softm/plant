@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_결과파일/10장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/10장 결과",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 1002162,
+    "total_size_human": "978.7 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "10장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/10장 결과",
+    "index": "교육자료/포토스케이프/포토스케이프_결과파일/10장 결과/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "강아지-결과.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/10장 결과/강아지-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 193948,
+        "size_human": "189.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "꽃-결과.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/10장 결과/꽃-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 455661,
+        "size_human": "445.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "반지-결과.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/10장 결과/반지-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 139743,
+        "size_human": "136.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아기-결과.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/10장 결과/아기-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 212810,
+        "size_human": "207.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 1002162,
+    "total_size_human": "978.7 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "강아지-결과.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/10장 결과/강아지-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 193948,
+      "size_human": "189.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "꽃-결과.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/10장 결과/꽃-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 455661,
+      "size_human": "445.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "반지-결과.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/10장 결과/반지-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 139743,
+      "size_human": "136.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아기-결과.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/10장 결과/아기-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 212810,
+      "size_human": "207.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

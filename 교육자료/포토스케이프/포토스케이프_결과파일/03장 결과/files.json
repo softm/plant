@@ -1,0 +1,246 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_결과파일/03장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 7,
+    "directory_count": 0,
+    "direct_file_count": 7,
+    "direct_directory_count": 0,
+    "total_size": 7723935,
+    "total_size_human": "7.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "03장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과",
+    "index": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "골목-결과.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/골목-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 401712,
+        "size_human": "392.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "분홍꽃-결과.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/분홍꽃-결과.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3278435,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "수영-결과.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/수영-결과.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2075117,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "역광-결과.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/역광-결과.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 223809,
+        "size_human": "218.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "파스타-결과.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/파스타-결과.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 370638,
+        "size_human": "362.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "현경-결과.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/현경-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 466508,
+        "size_human": "455.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "홍학-결과.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/홍학-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 907716,
+        "size_human": "886.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 7,
+    "directory_count": 0,
+    "total_size": 7723935,
+    "total_size_human": "7.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "골목-결과.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/골목-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 401712,
+      "size_human": "392.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "분홍꽃-결과.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/분홍꽃-결과.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3278435,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "수영-결과.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/수영-결과.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2075117,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "역광-결과.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/역광-결과.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 223809,
+      "size_human": "218.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "파스타-결과.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/파스타-결과.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 370638,
+      "size_human": "362.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "현경-결과.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/현경-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 466508,
+      "size_human": "455.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "홍학-결과.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/03장 결과/홍학-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 907716,
+      "size_human": "886.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

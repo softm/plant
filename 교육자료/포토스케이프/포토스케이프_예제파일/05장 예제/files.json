@@ -1,0 +1,246 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_예제파일/05장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 7,
+    "directory_count": 0,
+    "direct_file_count": 7,
+    "direct_directory_count": 0,
+    "total_size": 10840401,
+    "total_size_human": "10.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "05장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제",
+    "index": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 34816,
+        "size_human": "34.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "놀이기구.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/놀이기구.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 883635,
+        "size_human": "862.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스키.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/스키.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1594532,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스페인.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/스페인.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 758907,
+        "size_human": "741.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "엠티.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/엠티.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5006704,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "트램안.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/트램안.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1657396,
+        "size_human": "1.6 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "항구.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/항구.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 904411,
+        "size_human": "883.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 7,
+    "directory_count": 0,
+    "total_size": 10840401,
+    "total_size_human": "10.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 34816,
+      "size_human": "34.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "놀이기구.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/놀이기구.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 883635,
+      "size_human": "862.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스키.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/스키.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1594532,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스페인.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/스페인.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 758907,
+      "size_human": "741.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "엠티.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/엠티.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5006704,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "트램안.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/트램안.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1657396,
+      "size_human": "1.6 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "항구.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/항구.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 904411,
+      "size_human": "883.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

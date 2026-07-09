@@ -1,0 +1,816 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/20250425_화곡 도라지 수확",
+    "path": "재배로그/20250425_화곡 도라지 수확",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 26,
+    "directory_count": 0,
+    "direct_file_count": 26,
+    "direct_directory_count": 0,
+    "total_size": 151319980,
+    "total_size_human": "144.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20250425_화곡 도라지 수확",
+    "path": "재배로그/20250425_화곡 도라지 수확",
+    "index": "재배로그/20250425_화곡 도라지 수확/files.json",
+    "modified": "2026-07-09T17:49:17+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20250425_121919.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121919.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5988107,
+        "size_human": "5.7 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121920.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121920.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5188842,
+        "size_human": "4.9 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121921.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121921.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4100349,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121923.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121923.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4764375,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121928.mp4",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121928.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 26357806,
+        "size_human": "25.1 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121947.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121947.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6006825,
+        "size_human": "5.7 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121948.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121948.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5710466,
+        "size_human": "5.4 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121949.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121949.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6084494,
+        "size_human": "5.8 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121950.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121950.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6078970,
+        "size_human": "5.8 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121951(0).jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121951(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4298913,
+        "size_human": "4.1 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121951.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121951.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4164312,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121952.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121952.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5572665,
+        "size_human": "5.3 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121953(0).jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121953(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5230174,
+        "size_human": "5.0 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121953.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121953.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6333119,
+        "size_human": "6.0 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121956(0).jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121956(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4811656,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121956.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121956.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3408170,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121958(0).jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121958(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3828236,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_121958.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_121958.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3921014,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_122000(0).jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_122000(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4998339,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_122000.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_122000.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4035404,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_122001.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_122001.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4075974,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_122002.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_122002.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6379411,
+        "size_human": "6.1 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_122003.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_122003.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6649884,
+        "size_human": "6.3 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_122010.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_122010.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3913271,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_122014.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_122014.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5552939,
+        "size_human": "5.3 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_122016.jpg",
+        "path": "재배로그/20250425_화곡 도라지 수확/20250425_122016.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3866265,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 26,
+    "directory_count": 0,
+    "total_size": 151319980,
+    "total_size_human": "144.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20250425_121919.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121919.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5988107,
+      "size_human": "5.7 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121920.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121920.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5188842,
+      "size_human": "4.9 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121921.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121921.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4100349,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121923.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121923.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4764375,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121928.mp4",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121928.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 26357806,
+      "size_human": "25.1 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121947.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121947.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6006825,
+      "size_human": "5.7 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121948.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121948.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5710466,
+      "size_human": "5.4 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121949.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121949.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6084494,
+      "size_human": "5.8 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121950.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121950.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6078970,
+      "size_human": "5.8 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121951(0).jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121951(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4298913,
+      "size_human": "4.1 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121951.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121951.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4164312,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121952.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121952.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5572665,
+      "size_human": "5.3 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121953(0).jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121953(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5230174,
+      "size_human": "5.0 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121953.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121953.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6333119,
+      "size_human": "6.0 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121956(0).jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121956(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4811656,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121956.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121956.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3408170,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121958(0).jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121958(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3828236,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_121958.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_121958.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3921014,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_122000(0).jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_122000(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4998339,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_122000.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_122000.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4035404,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_122001.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_122001.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4075974,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_122002.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_122002.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6379411,
+      "size_human": "6.1 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_122003.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_122003.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6649884,
+      "size_human": "6.3 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_122010.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_122010.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3913271,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_122014.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_122014.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5552939,
+      "size_human": "5.3 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_122016.jpg",
+      "path": "재배로그/20250425_화곡 도라지 수확/20250425_122016.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3866265,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

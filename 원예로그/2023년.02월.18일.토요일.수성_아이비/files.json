@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/원예로그/2023년.02월.18일.토요일.수성_아이비",
+    "path": "원예로그/2023년.02월.18일.토요일.수성_아이비",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 6991691,
+    "total_size_human": "6.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023년.02월.18일.토요일.수성_아이비",
+    "path": "원예로그/2023년.02월.18일.토요일.수성_아이비",
+    "index": "원예로그/2023년.02월.18일.토요일.수성_아이비/files.json",
+    "modified": "2026-07-09T17:49:11+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "readme.md",
+        "path": "원예로그/2023년.02월.18일.토요일.수성_아이비/readme.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 3383,
+        "size_human": "3.3 KB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "수성_아이비_01.jpeg",
+        "path": "원예로그/2023년.02월.18일.토요일.수성_아이비/수성_아이비_01.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3469695,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "수성_아이비_02.jpeg",
+        "path": "원예로그/2023년.02월.18일.토요일.수성_아이비/수성_아이비_02.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3399930,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "수성_아이비_03.jpeg",
+        "path": "원예로그/2023년.02월.18일.토요일.수성_아이비/수성_아이비_03.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 118683,
+        "size_human": "115.9 KB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 6991691,
+    "total_size_human": "6.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "readme.md",
+      "path": "원예로그/2023년.02월.18일.토요일.수성_아이비/readme.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 3383,
+      "size_human": "3.3 KB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "수성_아이비_01.jpeg",
+      "path": "원예로그/2023년.02월.18일.토요일.수성_아이비/수성_아이비_01.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3469695,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "수성_아이비_02.jpeg",
+      "path": "원예로그/2023년.02월.18일.토요일.수성_아이비/수성_아이비_02.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3399930,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "수성_아이비_03.jpeg",
+      "path": "원예로그/2023년.02월.18일.토요일.수성_아이비/수성_아이비_03.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 118683,
+      "size_human": "115.9 KB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

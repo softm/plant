@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_예제파일/08장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 0,
+    "direct_file_count": 5,
+    "direct_directory_count": 0,
+    "total_size": 1130838,
+    "total_size_human": "1.1 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "08장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제",
+    "index": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 11264,
+        "size_human": "11.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "돋보기.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/돋보기.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 207685,
+        "size_human": "202.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "드림캐쳐.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/드림캐쳐.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 244647,
+        "size_human": "238.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "들꽃배경.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/들꽃배경.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 211289,
+        "size_human": "206.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "라일락.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/라일락.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 455953,
+        "size_human": "445.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 0,
+    "total_size": 1130838,
+    "total_size_human": "1.1 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 11264,
+      "size_human": "11.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "돋보기.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/돋보기.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 207685,
+      "size_human": "202.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "드림캐쳐.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/드림캐쳐.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 244647,
+      "size_human": "238.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "들꽃배경.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/들꽃배경.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 211289,
+      "size_human": "206.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "라일락.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/라일락.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 455953,
+      "size_human": "445.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

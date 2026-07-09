@@ -1,0 +1,516 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그",
+    "path": "재배로그",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 1840,
+    "directory_count": 72,
+    "direct_file_count": 0,
+    "direct_directory_count": 16,
+    "total_size": 12492735575,
+    "total_size_human": "11.6 GB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "재배로그",
+    "path": "재배로그",
+    "index": "재배로그/files.json",
+    "modified": "2026-07-09T17:50:16+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20241124_화곡 열무 수확",
+        "path": "재배로그/20241124_화곡 열무 수확",
+        "index": "재배로그/20241124_화곡 열무 수확/files.json",
+        "modified": "2026-07-09T17:49:14+00:00",
+        "file_count": 24,
+        "directory_count": 0,
+        "total_size": 177262879,
+        "total_size_human": "169.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2024_참깨",
+        "path": "재배로그/2024_참깨",
+        "index": "재배로그/2024_참깨/files.json",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "file_count": 46,
+        "directory_count": 4,
+        "total_size": 332210278,
+        "total_size_human": "316.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250329_육묘_기타",
+        "path": "재배로그/20250329_육묘_기타",
+        "index": "재배로그/20250329_육묘_기타/files.json",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "file_count": 47,
+        "directory_count": 0,
+        "total_size": 218427834,
+        "total_size_human": "208.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250425_화곡 도라지 수확",
+        "path": "재배로그/20250425_화곡 도라지 수확",
+        "index": "재배로그/20250425_화곡 도라지 수확/files.json",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "file_count": 26,
+        "directory_count": 0,
+        "total_size": 151319980,
+        "total_size_human": "144.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250512_육묘",
+        "path": "재배로그/20250512_육묘",
+        "index": "재배로그/20250512_육묘/files.json",
+        "modified": "2026-07-09T17:49:17+00:00",
+        "file_count": 16,
+        "directory_count": 0,
+        "total_size": 60848684,
+        "total_size_human": "58.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260418_복숭아",
+        "path": "재배로그/20260418_복숭아",
+        "index": "재배로그/20260418_복숭아/files.json",
+        "modified": "2026-07-09T17:49:18+00:00",
+        "file_count": 18,
+        "directory_count": 0,
+        "total_size": 84140027,
+        "total_size_human": "80.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "감자",
+        "path": "재배로그/감자",
+        "index": "재배로그/감자/files.json",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "file_count": 628,
+        "directory_count": 13,
+        "total_size": 5271636841,
+        "total_size_human": "4.9 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "고구마",
+        "path": "재배로그/고구마",
+        "index": "재배로그/고구마/files.json",
+        "modified": "2026-07-09T17:49:44+00:00",
+        "file_count": 61,
+        "directory_count": 7,
+        "total_size": 518934823,
+        "total_size_human": "494.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "들깨",
+        "path": "재배로그/들깨",
+        "index": "재배로그/들깨/files.json",
+        "modified": "2026-07-09T17:49:53+00:00",
+        "file_count": 180,
+        "directory_count": 5,
+        "total_size": 1433033086,
+        "total_size_human": "1.3 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "박",
+        "path": "재배로그/박",
+        "index": "재배로그/박/files.json",
+        "modified": "2026-07-09T17:50:00+00:00",
+        "file_count": 418,
+        "directory_count": 6,
+        "total_size": 2106856793,
+        "total_size_human": "2.0 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "신선초",
+        "path": "재배로그/신선초",
+        "index": "재배로그/신선초/files.json",
+        "modified": "2026-07-09T17:50:05+00:00",
+        "file_count": 67,
+        "directory_count": 4,
+        "total_size": 413393847,
+        "total_size_human": "394.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "엄나무",
+        "path": "재배로그/엄나무",
+        "index": "재배로그/엄나무/files.json",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "file_count": 209,
+        "directory_count": 8,
+        "total_size": 1129181984,
+        "total_size_human": "1.1 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "옥수수",
+        "path": "재배로그/옥수수",
+        "index": "재배로그/옥수수/files.json",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "file_count": 29,
+        "directory_count": 3,
+        "total_size": 114809191,
+        "total_size_human": "109.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "울릉도쑥부쟁이",
+        "path": "재배로그/울릉도쑥부쟁이",
+        "index": "재배로그/울릉도쑥부쟁이/files.json",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "file_count": 23,
+        "directory_count": 1,
+        "total_size": 139744472,
+        "total_size_human": "133.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "쪽파",
+        "path": "재배로그/쪽파",
+        "index": "재배로그/쪽파/files.json",
+        "modified": "2026-07-09T17:50:15+00:00",
+        "file_count": 23,
+        "directory_count": 3,
+        "total_size": 155011427,
+        "total_size_human": "147.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "표고",
+        "path": "재배로그/표고",
+        "index": "재배로그/표고/files.json",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "file_count": 25,
+        "directory_count": 2,
+        "total_size": 185923429,
+        "total_size_human": "177.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 1840,
+    "directory_count": 72,
+    "total_size": 12492735575,
+    "total_size_human": "11.6 GB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20241124_화곡 열무 수확",
+      "path": "재배로그/20241124_화곡 열무 수확",
+      "index": "재배로그/20241124_화곡 열무 수확/files.json",
+      "modified": "2026-07-09T17:49:14+00:00",
+      "file_count": 24,
+      "directory_count": 0,
+      "total_size": 177262879,
+      "total_size_human": "169.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2024_참깨",
+      "path": "재배로그/2024_참깨",
+      "index": "재배로그/2024_참깨/files.json",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "file_count": 46,
+      "directory_count": 4,
+      "total_size": 332210278,
+      "total_size_human": "316.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250329_육묘_기타",
+      "path": "재배로그/20250329_육묘_기타",
+      "index": "재배로그/20250329_육묘_기타/files.json",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "file_count": 47,
+      "directory_count": 0,
+      "total_size": 218427834,
+      "total_size_human": "208.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250425_화곡 도라지 수확",
+      "path": "재배로그/20250425_화곡 도라지 수확",
+      "index": "재배로그/20250425_화곡 도라지 수확/files.json",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "file_count": 26,
+      "directory_count": 0,
+      "total_size": 151319980,
+      "total_size_human": "144.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250512_육묘",
+      "path": "재배로그/20250512_육묘",
+      "index": "재배로그/20250512_육묘/files.json",
+      "modified": "2026-07-09T17:49:17+00:00",
+      "file_count": 16,
+      "directory_count": 0,
+      "total_size": 60848684,
+      "total_size_human": "58.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260418_복숭아",
+      "path": "재배로그/20260418_복숭아",
+      "index": "재배로그/20260418_복숭아/files.json",
+      "modified": "2026-07-09T17:49:18+00:00",
+      "file_count": 18,
+      "directory_count": 0,
+      "total_size": 84140027,
+      "total_size_human": "80.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "감자",
+      "path": "재배로그/감자",
+      "index": "재배로그/감자/files.json",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "file_count": 628,
+      "directory_count": 13,
+      "total_size": 5271636841,
+      "total_size_human": "4.9 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "고구마",
+      "path": "재배로그/고구마",
+      "index": "재배로그/고구마/files.json",
+      "modified": "2026-07-09T17:49:44+00:00",
+      "file_count": 61,
+      "directory_count": 7,
+      "total_size": 518934823,
+      "total_size_human": "494.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "들깨",
+      "path": "재배로그/들깨",
+      "index": "재배로그/들깨/files.json",
+      "modified": "2026-07-09T17:49:53+00:00",
+      "file_count": 180,
+      "directory_count": 5,
+      "total_size": 1433033086,
+      "total_size_human": "1.3 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "박",
+      "path": "재배로그/박",
+      "index": "재배로그/박/files.json",
+      "modified": "2026-07-09T17:50:00+00:00",
+      "file_count": 418,
+      "directory_count": 6,
+      "total_size": 2106856793,
+      "total_size_human": "2.0 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "신선초",
+      "path": "재배로그/신선초",
+      "index": "재배로그/신선초/files.json",
+      "modified": "2026-07-09T17:50:05+00:00",
+      "file_count": 67,
+      "directory_count": 4,
+      "total_size": 413393847,
+      "total_size_human": "394.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "엄나무",
+      "path": "재배로그/엄나무",
+      "index": "재배로그/엄나무/files.json",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "file_count": 209,
+      "directory_count": 8,
+      "total_size": 1129181984,
+      "total_size_human": "1.1 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "옥수수",
+      "path": "재배로그/옥수수",
+      "index": "재배로그/옥수수/files.json",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "file_count": 29,
+      "directory_count": 3,
+      "total_size": 114809191,
+      "total_size_human": "109.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "울릉도쑥부쟁이",
+      "path": "재배로그/울릉도쑥부쟁이",
+      "index": "재배로그/울릉도쑥부쟁이/files.json",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "file_count": 23,
+      "directory_count": 1,
+      "total_size": 139744472,
+      "total_size_human": "133.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "쪽파",
+      "path": "재배로그/쪽파",
+      "index": "재배로그/쪽파/files.json",
+      "modified": "2026-07-09T17:50:15+00:00",
+      "file_count": 23,
+      "directory_count": 3,
+      "total_size": 155011427,
+      "total_size_human": "147.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "표고",
+      "path": "재배로그/표고",
+      "index": "재배로그/표고/files.json",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "file_count": 25,
+      "directory_count": 2,
+      "total_size": 185923429,
+      "total_size_human": "177.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/엄나무/20250425_화곡 엄나무 재배중",
+    "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 6,
+    "directory_count": 0,
+    "direct_file_count": 6,
+    "direct_directory_count": 0,
+    "total_size": 57351607,
+    "total_size_human": "54.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20250425_화곡 엄나무 재배중",
+    "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중",
+    "index": "재배로그/엄나무/20250425_화곡 엄나무 재배중/files.json",
+    "modified": "2026-07-09T17:50:06+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20250425_171210.mp4",
+        "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_171210.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 15932493,
+        "size_human": "15.2 MB",
+        "modified": "2026-07-09T17:50:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_172210.jpg",
+        "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_172210.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3042494,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:50:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_172212.mp4",
+        "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_172212.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 26507666,
+        "size_human": "25.3 MB",
+        "modified": "2026-07-09T17:50:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_172231.jpg",
+        "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_172231.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4223788,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:50:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_172239.jpg",
+        "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_172239.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4003362,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:50:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250425_172240.jpg",
+        "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_172240.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3641804,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:50:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 6,
+    "directory_count": 0,
+    "total_size": 57351607,
+    "total_size_human": "54.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20250425_171210.mp4",
+      "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_171210.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 15932493,
+      "size_human": "15.2 MB",
+      "modified": "2026-07-09T17:50:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_172210.jpg",
+      "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_172210.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3042494,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:50:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_172212.mp4",
+      "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_172212.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 26507666,
+      "size_human": "25.3 MB",
+      "modified": "2026-07-09T17:50:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_172231.jpg",
+      "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_172231.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4223788,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:50:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_172239.jpg",
+      "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_172239.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4003362,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:50:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250425_172240.jpg",
+      "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중/20250425_172240.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3641804,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:50:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

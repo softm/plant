@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 2634347,
+    "total_size_human": "2.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "06장 결과",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과",
+    "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "숙녀-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과/숙녀-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 644037,
+        "size_human": "628.9 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "얼굴-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과/얼굴-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 633845,
+        "size_human": "619.0 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "카메라-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과/카메라-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 473157,
+        "size_human": "462.1 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "커피-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과/커피-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 883308,
+        "size_human": "862.6 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 2634347,
+    "total_size_human": "2.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "숙녀-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과/숙녀-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 644037,
+      "size_human": "628.9 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "얼굴-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과/얼굴-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 633845,
+      "size_human": "619.0 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "카메라-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과/카메라-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 473157,
+      "size_human": "462.1 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "커피-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/06장 결과/커피-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 883308,
+      "size_human": "862.6 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

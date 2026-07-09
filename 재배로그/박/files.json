@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/박",
+    "path": "재배로그/박",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 418,
+    "directory_count": 6,
+    "direct_file_count": 0,
+    "direct_directory_count": 4,
+    "total_size": 2106856793,
+    "total_size_human": "2.0 GB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "박",
+    "path": "재배로그/박",
+    "index": "재배로그/박/files.json",
+    "modified": "2026-07-09T17:50:00+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "2024_박",
+        "path": "재배로그/박/2024_박",
+        "index": "재배로그/박/2024_박/files.json",
+        "modified": "2026-07-09T17:49:55+00:00",
+        "file_count": 56,
+        "directory_count": 2,
+        "total_size": 390655747,
+        "total_size_human": "372.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250513_화곡 박 정식",
+        "path": "재배로그/박/20250513_화곡 박 정식",
+        "index": "재배로그/박/20250513_화곡 박 정식/files.json",
+        "modified": "2026-07-09T17:50:00+00:00",
+        "file_count": 187,
+        "directory_count": 0,
+        "total_size": 945948110,
+        "total_size_human": "902.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260423_박농사_육묘_시작",
+        "path": "재배로그/박/20260423_박농사_육묘_시작",
+        "index": "재배로그/박/20260423_박농사_육묘_시작/files.json",
+        "modified": "2026-07-09T17:50:00+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 9949396,
+        "total_size_human": "9.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260527_오이잎벌레_모스킬",
+        "path": "재배로그/박/20260527_오이잎벌레_모스킬",
+        "index": "재배로그/박/20260527_오이잎벌레_모스킬/files.json",
+        "modified": "2026-07-09T17:50:04+00:00",
+        "file_count": 172,
+        "directory_count": 0,
+        "total_size": 760303540,
+        "total_size_human": "725.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 418,
+    "directory_count": 6,
+    "total_size": 2106856793,
+    "total_size_human": "2.0 GB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "2024_박",
+      "path": "재배로그/박/2024_박",
+      "index": "재배로그/박/2024_박/files.json",
+      "modified": "2026-07-09T17:49:55+00:00",
+      "file_count": 56,
+      "directory_count": 2,
+      "total_size": 390655747,
+      "total_size_human": "372.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250513_화곡 박 정식",
+      "path": "재배로그/박/20250513_화곡 박 정식",
+      "index": "재배로그/박/20250513_화곡 박 정식/files.json",
+      "modified": "2026-07-09T17:50:00+00:00",
+      "file_count": 187,
+      "directory_count": 0,
+      "total_size": 945948110,
+      "total_size_human": "902.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260423_박농사_육묘_시작",
+      "path": "재배로그/박/20260423_박농사_육묘_시작",
+      "index": "재배로그/박/20260423_박농사_육묘_시작/files.json",
+      "modified": "2026-07-09T17:50:00+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 9949396,
+      "total_size_human": "9.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260527_오이잎벌레_모스킬",
+      "path": "재배로그/박/20260527_오이잎벌레_모스킬",
+      "index": "재배로그/박/20260527_오이잎벌레_모스킬/files.json",
+      "modified": "2026-07-09T17:50:04+00:00",
+      "file_count": 172,
+      "directory_count": 0,
+      "total_size": 760303540,
+      "total_size_human": "725.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

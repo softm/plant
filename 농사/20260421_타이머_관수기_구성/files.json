@@ -1,0 +1,636 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농사/20260421_타이머_관수기_구성",
+    "path": "농사/20260421_타이머_관수기_구성",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 20,
+    "directory_count": 0,
+    "direct_file_count": 20,
+    "direct_directory_count": 0,
+    "total_size": 3072382,
+    "total_size_human": "2.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260421_타이머_관수기_구성",
+    "path": "농사/20260421_타이머_관수기_구성",
+    "index": "농사/20260421_타이머_관수기_구성/files.json",
+    "modified": "2026-07-09T17:49:01+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "01_원터치 수도꼭지 연결구.jpeg",
+        "path": "농사/20260421_타이머_관수기_구성/01_원터치 수도꼭지 연결구.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 48090,
+        "size_human": "47.0 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "02_20mm 원터치 숫나사 연결구.jpeg",
+        "path": "농사/20260421_타이머_관수기_구성/02_20mm 원터치 숫나사 연결구.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 52937,
+        "size_human": "51.7 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "03_워터타이머 수동.jpeg",
+        "path": "농사/20260421_타이머_관수기_구성/03_워터타이머 수동.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 51180,
+        "size_human": "50.0 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "04_원터치 수도호스 연결구.jpeg",
+        "path": "농사/20260421_타이머_관수기_구성/04_원터치 수도호스 연결구.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 53845,
+        "size_human": "52.6 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "05_원터치 수도호스 커넥터.jpeg",
+        "path": "농사/20260421_타이머_관수기_구성/05_원터치 수도호스 커넥터.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 59150,
+        "size_human": "57.8 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "06_원터치 LD호스 연결구.jpeg",
+        "path": "농사/20260421_타이머_관수기_구성/06_원터치 LD호스 연결구.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 55633,
+        "size_human": "54.3 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "07_13mm 연질관.jpeg",
+        "path": "농사/20260421_타이머_관수기_구성/07_13mm 연질관.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 77589,
+        "size_human": "75.8 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "08_조립세트 미스트 40L 100cm 설치.jpeg",
+        "path": "농사/20260421_타이머_관수기_구성/08_조립세트 미스트 40L 100cm 설치.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 46663,
+        "size_human": "45.6 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "09_점적테이프 앤드 고리식.jpeg",
+        "path": "농사/20260421_타이머_관수기_구성/09_점적테이프 앤드 고리식.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 42736,
+        "size_human": "41.7 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260421_타이머_관수기_구성.md",
+        "path": "농사/20260421_타이머_관수기_구성/20260421_타이머_관수기_구성.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 2862,
+        "size_human": "2.8 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260421_타이머_관수기_구성.png",
+        "path": "농사/20260421_타이머_관수기_구성/20260421_타이머_관수기_구성.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 187155,
+        "size_human": "182.8 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260421_타이머_관수기_구성_수동.png",
+        "path": "농사/20260421_타이머_관수기_구성/20260421_타이머_관수기_구성_수동.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 188515,
+        "size_human": "184.1 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "image-1.png",
+        "path": "농사/20260421_타이머_관수기_구성/image-1.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 91373,
+        "size_human": "89.2 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "image-2.png",
+        "path": "농사/20260421_타이머_관수기_구성/image-2.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 169885,
+        "size_human": "165.9 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "image-3.png",
+        "path": "농사/20260421_타이머_관수기_구성/image-3.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 100254,
+        "size_human": "97.9 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "image-4.png",
+        "path": "농사/20260421_타이머_관수기_구성/image-4.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 243959,
+        "size_human": "238.2 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "image-5.png",
+        "path": "농사/20260421_타이머_관수기_구성/image-5.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 431520,
+        "size_human": "421.4 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "image-6.png",
+        "path": "농사/20260421_타이머_관수기_구성/image-6.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 758697,
+        "size_human": "740.9 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "image.png",
+        "path": "농사/20260421_타이머_관수기_구성/image.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 394259,
+        "size_human": "385.0 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "동명농자재_구성도_KakaoTalk_Photo_2026-04-21-20-03-17.png",
+        "path": "농사/20260421_타이머_관수기_구성/동명농자재_구성도_KakaoTalk_Photo_2026-04-21-20-03-17.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 16080,
+        "size_human": "15.7 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 20,
+    "directory_count": 0,
+    "total_size": 3072382,
+    "total_size_human": "2.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "01_원터치 수도꼭지 연결구.jpeg",
+      "path": "농사/20260421_타이머_관수기_구성/01_원터치 수도꼭지 연결구.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 48090,
+      "size_human": "47.0 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "02_20mm 원터치 숫나사 연결구.jpeg",
+      "path": "농사/20260421_타이머_관수기_구성/02_20mm 원터치 숫나사 연결구.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 52937,
+      "size_human": "51.7 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "03_워터타이머 수동.jpeg",
+      "path": "농사/20260421_타이머_관수기_구성/03_워터타이머 수동.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 51180,
+      "size_human": "50.0 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "04_원터치 수도호스 연결구.jpeg",
+      "path": "농사/20260421_타이머_관수기_구성/04_원터치 수도호스 연결구.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 53845,
+      "size_human": "52.6 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "05_원터치 수도호스 커넥터.jpeg",
+      "path": "농사/20260421_타이머_관수기_구성/05_원터치 수도호스 커넥터.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 59150,
+      "size_human": "57.8 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "06_원터치 LD호스 연결구.jpeg",
+      "path": "농사/20260421_타이머_관수기_구성/06_원터치 LD호스 연결구.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 55633,
+      "size_human": "54.3 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "07_13mm 연질관.jpeg",
+      "path": "농사/20260421_타이머_관수기_구성/07_13mm 연질관.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 77589,
+      "size_human": "75.8 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "08_조립세트 미스트 40L 100cm 설치.jpeg",
+      "path": "농사/20260421_타이머_관수기_구성/08_조립세트 미스트 40L 100cm 설치.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 46663,
+      "size_human": "45.6 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "09_점적테이프 앤드 고리식.jpeg",
+      "path": "농사/20260421_타이머_관수기_구성/09_점적테이프 앤드 고리식.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 42736,
+      "size_human": "41.7 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260421_타이머_관수기_구성.md",
+      "path": "농사/20260421_타이머_관수기_구성/20260421_타이머_관수기_구성.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 2862,
+      "size_human": "2.8 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260421_타이머_관수기_구성.png",
+      "path": "농사/20260421_타이머_관수기_구성/20260421_타이머_관수기_구성.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 187155,
+      "size_human": "182.8 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260421_타이머_관수기_구성_수동.png",
+      "path": "농사/20260421_타이머_관수기_구성/20260421_타이머_관수기_구성_수동.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 188515,
+      "size_human": "184.1 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "image-1.png",
+      "path": "농사/20260421_타이머_관수기_구성/image-1.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 91373,
+      "size_human": "89.2 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "image-2.png",
+      "path": "농사/20260421_타이머_관수기_구성/image-2.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 169885,
+      "size_human": "165.9 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "image-3.png",
+      "path": "농사/20260421_타이머_관수기_구성/image-3.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 100254,
+      "size_human": "97.9 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "image-4.png",
+      "path": "농사/20260421_타이머_관수기_구성/image-4.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 243959,
+      "size_human": "238.2 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "image-5.png",
+      "path": "농사/20260421_타이머_관수기_구성/image-5.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 431520,
+      "size_human": "421.4 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "image-6.png",
+      "path": "농사/20260421_타이머_관수기_구성/image-6.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 758697,
+      "size_human": "740.9 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "image.png",
+      "path": "농사/20260421_타이머_관수기_구성/image.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 394259,
+      "size_human": "385.0 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "동명농자재_구성도_KakaoTalk_Photo_2026-04-21-20-03-17.png",
+      "path": "농사/20260421_타이머_관수기_구성/동명농자재_구성도_KakaoTalk_Photo_2026-04-21-20-03-17.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 16080,
+      "size_human": "15.7 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

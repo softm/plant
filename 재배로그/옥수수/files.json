@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/옥수수",
+    "path": "재배로그/옥수수",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 29,
+    "directory_count": 3,
+    "direct_file_count": 0,
+    "direct_directory_count": 1,
+    "total_size": 114809191,
+    "total_size_human": "109.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "옥수수",
+    "path": "재배로그/옥수수",
+    "index": "재배로그/옥수수/files.json",
+    "modified": "2026-07-09T17:50:11+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "2024_옥수수",
+        "path": "재배로그/옥수수/2024_옥수수",
+        "index": "재배로그/옥수수/2024_옥수수/files.json",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "file_count": 29,
+        "directory_count": 2,
+        "total_size": 114809191,
+        "total_size_human": "109.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 29,
+    "directory_count": 3,
+    "total_size": 114809191,
+    "total_size_human": "109.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "2024_옥수수",
+      "path": "재배로그/옥수수/2024_옥수수",
+      "index": "재배로그/옥수수/2024_옥수수/files.json",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "file_count": 29,
+      "directory_count": 2,
+      "total_size": 114809191,
+      "total_size_human": "109.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

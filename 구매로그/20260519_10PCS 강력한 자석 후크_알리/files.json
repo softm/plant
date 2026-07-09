@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/구매로그/20260519_10PCS 강력한 자석 후크_알리",
+    "path": "구매로그/20260519_10PCS 강력한 자석 후크_알리",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 1,
+    "directory_count": 0,
+    "direct_file_count": 1,
+    "direct_directory_count": 0,
+    "total_size": 2701724,
+    "total_size_human": "2.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260519_10PCS 강력한 자석 후크_알리",
+    "path": "구매로그/20260519_10PCS 강력한 자석 후크_알리",
+    "index": "구매로그/20260519_10PCS 강력한 자석 후크_알리/files.json",
+    "modified": "2026-07-09T17:48:59+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260519_115222.jpg",
+        "path": "구매로그/20260519_10PCS 강력한 자석 후크_알리/20260519_115222.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2701724,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 1,
+    "directory_count": 0,
+    "total_size": 2701724,
+    "total_size_human": "2.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260519_115222.jpg",
+      "path": "구매로그/20260519_10PCS 강력한 자석 후크_알리/20260519_115222.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2701724,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/표고/20250423_화곡 표고재배중",
+    "path": "재배로그/표고/20250423_화곡 표고재배중",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 0,
+    "direct_file_count": 5,
+    "direct_directory_count": 0,
+    "total_size": 20533602,
+    "total_size_human": "19.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20250423_화곡 표고재배중",
+    "path": "재배로그/표고/20250423_화곡 표고재배중",
+    "index": "재배로그/표고/20250423_화곡 표고재배중/files.json",
+    "modified": "2026-07-09T17:50:16+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20250423_123756.jpg",
+        "path": "재배로그/표고/20250423_화곡 표고재배중/20250423_123756.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4383082,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250423_123759.jpg",
+        "path": "재배로그/표고/20250423_화곡 표고재배중/20250423_123759.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4562803,
+        "size_human": "4.4 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250423_123803.jpg",
+        "path": "재배로그/표고/20250423_화곡 표고재배중/20250423_123803.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5016320,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250423_123818.jpg",
+        "path": "재배로그/표고/20250423_화곡 표고재배중/20250423_123818.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2976222,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250423_123821.jpg",
+        "path": "재배로그/표고/20250423_화곡 표고재배중/20250423_123821.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3595175,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 0,
+    "total_size": 20533602,
+    "total_size_human": "19.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20250423_123756.jpg",
+      "path": "재배로그/표고/20250423_화곡 표고재배중/20250423_123756.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4383082,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250423_123759.jpg",
+      "path": "재배로그/표고/20250423_화곡 표고재배중/20250423_123759.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4562803,
+      "size_human": "4.4 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250423_123803.jpg",
+      "path": "재배로그/표고/20250423_화곡 표고재배중/20250423_123803.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5016320,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250423_123818.jpg",
+      "path": "재배로그/표고/20250423_화곡 표고재배중/20250423_123818.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2976222,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250423_123821.jpg",
+      "path": "재배로그/표고/20250423_화곡 표고재배중/20250423_123821.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3595175,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

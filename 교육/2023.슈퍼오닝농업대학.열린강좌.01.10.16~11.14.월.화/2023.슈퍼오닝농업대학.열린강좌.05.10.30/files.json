@@ -1,0 +1,996 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 32,
+    "directory_count": 0,
+    "direct_file_count": 32,
+    "direct_directory_count": 0,
+    "total_size": 136419895,
+    "total_size_human": "130.1 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.슈퍼오닝농업대학.열린강좌.05.10.30",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30",
+    "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/files.json",
+    "modified": "2026-07-09T17:48:26+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "05_01.m4a",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/05_01.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 64167117,
+        "size_human": "61.2 MB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "05_02.m4a",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/05_02.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 43559048,
+        "size_human": "41.5 MB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "05_03.m4a",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/05_03.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 18302402,
+        "size_human": "17.5 MB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023.10.30.05강.md",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/2023.10.30.05강.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 14587,
+        "size_human": "14.2 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_01.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_01.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 427750,
+        "size_human": "417.7 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_02.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_02.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 289555,
+        "size_human": "282.8 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_03.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_03.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 409465,
+        "size_human": "399.9 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_04.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_04.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 366938,
+        "size_human": "358.3 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_05.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_05.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 376780,
+        "size_human": "367.9 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_06.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_06.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 275402,
+        "size_human": "268.9 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_07.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_07.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 432011,
+        "size_human": "421.9 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_08.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_08.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 385183,
+        "size_human": "376.2 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_09.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_09.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 392273,
+        "size_human": "383.1 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_10.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_10.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 284219,
+        "size_human": "277.6 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_11.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_11.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 307943,
+        "size_human": "300.7 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_12.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_12.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 378417,
+        "size_human": "369.5 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_13.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_13.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 326575,
+        "size_human": "318.9 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_14.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_14.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 396623,
+        "size_human": "387.3 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_15.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_15.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 289962,
+        "size_human": "283.2 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_16.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_16.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 334639,
+        "size_human": "326.8 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_17.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_17.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 380459,
+        "size_human": "371.5 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_18.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_18.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 335086,
+        "size_human": "327.2 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_19.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_19.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 333344,
+        "size_human": "325.5 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_20.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_20.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 362369,
+        "size_human": "353.9 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_21.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_21.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 352322,
+        "size_human": "344.1 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_22.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_22.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 429352,
+        "size_human": "419.3 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_23.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_23.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 397773,
+        "size_human": "388.5 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_24.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_24.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 339110,
+        "size_human": "331.2 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_25.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_25.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 432920,
+        "size_human": "422.8 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_26.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_26.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 388864,
+        "size_human": "379.8 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_27.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_27.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 564442,
+        "size_human": "551.2 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "건강하게 기르는 법_28.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_28.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 386965,
+        "size_human": "377.9 KB",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 32,
+    "directory_count": 0,
+    "total_size": 136419895,
+    "total_size_human": "130.1 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "05_01.m4a",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/05_01.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 64167117,
+      "size_human": "61.2 MB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "05_02.m4a",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/05_02.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 43559048,
+      "size_human": "41.5 MB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "05_03.m4a",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/05_03.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 18302402,
+      "size_human": "17.5 MB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023.10.30.05강.md",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/2023.10.30.05강.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 14587,
+      "size_human": "14.2 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_01.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_01.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 427750,
+      "size_human": "417.7 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_02.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_02.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 289555,
+      "size_human": "282.8 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_03.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_03.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 409465,
+      "size_human": "399.9 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_04.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_04.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 366938,
+      "size_human": "358.3 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_05.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_05.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 376780,
+      "size_human": "367.9 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_06.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_06.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 275402,
+      "size_human": "268.9 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_07.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_07.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 432011,
+      "size_human": "421.9 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_08.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_08.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 385183,
+      "size_human": "376.2 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_09.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_09.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 392273,
+      "size_human": "383.1 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_10.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_10.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 284219,
+      "size_human": "277.6 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_11.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_11.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 307943,
+      "size_human": "300.7 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_12.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_12.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 378417,
+      "size_human": "369.5 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_13.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_13.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 326575,
+      "size_human": "318.9 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_14.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_14.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 396623,
+      "size_human": "387.3 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_15.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_15.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 289962,
+      "size_human": "283.2 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_16.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_16.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 334639,
+      "size_human": "326.8 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_17.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_17.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 380459,
+      "size_human": "371.5 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_18.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_18.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 335086,
+      "size_human": "327.2 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_19.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_19.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 333344,
+      "size_human": "325.5 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_20.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_20.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 362369,
+      "size_human": "353.9 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_21.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_21.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 352322,
+      "size_human": "344.1 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_22.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_22.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 429352,
+      "size_human": "419.3 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_23.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_23.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 397773,
+      "size_human": "388.5 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_24.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_24.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 339110,
+      "size_human": "331.2 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_25.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_25.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 432920,
+      "size_human": "422.8 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_26.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_26.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 388864,
+      "size_human": "379.8 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_27.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_27.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 564442,
+      "size_human": "551.2 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "건강하게 기르는 법_28.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/건강하게 기르는 법_28.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 386965,
+      "size_human": "377.9 KB",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

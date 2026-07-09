@@ -1,0 +1,636 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙",
+    "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 20,
+    "directory_count": 0,
+    "direct_file_count": 20,
+    "direct_directory_count": 0,
+    "total_size": 165389827,
+    "total_size_human": "157.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20250328_화곡 표고종균 참나무_호경당숙",
+    "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙",
+    "index": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/files.json",
+    "modified": "2026-07-09T17:50:16+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20250328_113204.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113204.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4495673,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_113207.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113207.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5315222,
+        "size_human": "5.1 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_113210.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113210.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5539966,
+        "size_human": "5.3 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_113215.mp4",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113215.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 16805534,
+        "size_human": "16.0 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_113235.mp4",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113235.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 36510615,
+        "size_human": "34.8 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_113304.mp4",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113304.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 10462094,
+        "size_human": "10.0 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_120240.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_120240.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2703029,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_120242.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_120242.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4145729,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_120248.mp4",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_120248.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 16777303,
+        "size_human": "16.0 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_120305.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_120305.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5420491,
+        "size_human": "5.2 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_133028.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133028.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4281481,
+        "size_human": "4.1 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_133030.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133030.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3446998,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_133032(0).jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133032(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3689638,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_133032.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133032.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2337364,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_133034.mp4",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133034.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 7675786,
+        "size_human": "7.3 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_133043.mp4",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133043.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 11643348,
+        "size_human": "11.1 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_153913.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_153913.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4695612,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_153959.mp4",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_153959.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 8794606,
+        "size_human": "8.4 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_154006.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_154006.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5952229,
+        "size_human": "5.7 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250328_154010.jpg",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_154010.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4697109,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 20,
+    "directory_count": 0,
+    "total_size": 165389827,
+    "total_size_human": "157.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20250328_113204.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113204.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4495673,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_113207.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113207.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5315222,
+      "size_human": "5.1 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_113210.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113210.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5539966,
+      "size_human": "5.3 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_113215.mp4",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113215.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 16805534,
+      "size_human": "16.0 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_113235.mp4",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113235.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 36510615,
+      "size_human": "34.8 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_113304.mp4",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_113304.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 10462094,
+      "size_human": "10.0 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_120240.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_120240.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2703029,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_120242.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_120242.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4145729,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_120248.mp4",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_120248.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 16777303,
+      "size_human": "16.0 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_120305.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_120305.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5420491,
+      "size_human": "5.2 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_133028.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133028.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4281481,
+      "size_human": "4.1 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_133030.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133030.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3446998,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_133032(0).jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133032(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3689638,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_133032.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133032.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2337364,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_133034.mp4",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133034.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 7675786,
+      "size_human": "7.3 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_133043.mp4",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_133043.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 11643348,
+      "size_human": "11.1 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_153913.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_153913.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4695612,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_153959.mp4",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_153959.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 8794606,
+      "size_human": "8.4 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_154006.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_154006.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5952229,
+      "size_human": "5.7 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250328_154010.jpg",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/20250328_154010.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4697109,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

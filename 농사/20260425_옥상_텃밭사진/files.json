@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농사/20260425_옥상_텃밭사진",
+    "path": "농사/20260425_옥상_텃밭사진",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 8,
+    "directory_count": 0,
+    "direct_file_count": 8,
+    "direct_directory_count": 0,
+    "total_size": 17500770,
+    "total_size_human": "16.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260425_옥상_텃밭사진",
+    "path": "농사/20260425_옥상_텃밭사진",
+    "index": "농사/20260425_옥상_텃밭사진/files.json",
+    "modified": "2026-07-09T17:49:02+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-25-21-06-58.jpeg",
+        "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-06-58.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2281587,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-25-21-07-01.jpeg",
+        "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-01.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1556151,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-25-21-07-03.jpeg",
+        "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-03.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2424143,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-25-21-07-05.jpeg",
+        "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-05.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2331453,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-25-21-07-07.jpeg",
+        "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-07.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2371426,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-25-21-07-09.jpeg",
+        "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-09.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2147461,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-25-21-07-11.jpeg",
+        "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-11.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2229818,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-25-21-07-14.jpeg",
+        "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-14.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2158731,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 8,
+    "directory_count": 0,
+    "total_size": 17500770,
+    "total_size_human": "16.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-25-21-06-58.jpeg",
+      "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-06-58.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2281587,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-25-21-07-01.jpeg",
+      "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-01.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1556151,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-25-21-07-03.jpeg",
+      "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-03.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2424143,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-25-21-07-05.jpeg",
+      "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-05.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2331453,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-25-21-07-07.jpeg",
+      "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-07.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2371426,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-25-21-07-09.jpeg",
+      "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-09.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2147461,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-25-21-07-11.jpeg",
+      "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-11.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2229818,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-25-21-07-14.jpeg",
+      "path": "농사/20260425_옥상_텃밭사진/KakaoTalk_Photo_2026-04-25-21-07-14.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2158731,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

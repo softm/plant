@@ -1,0 +1,1296 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/엄나무/20260324_화곡_엄나무_200주",
+    "path": "재배로그/엄나무/20260324_화곡_엄나무_200주",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 42,
+    "directory_count": 0,
+    "direct_file_count": 42,
+    "direct_directory_count": 0,
+    "total_size": 203352107,
+    "total_size_human": "193.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260324_화곡_엄나무_200주",
+    "path": "재배로그/엄나무/20260324_화곡_엄나무_200주",
+    "index": "재배로그/엄나무/20260324_화곡_엄나무_200주/files.json",
+    "modified": "2026-07-09T17:50:10+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260324_120733.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_120733.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2460923,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:50:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_120736.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_120736.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2926173,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:50:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_120737.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_120737.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2928393,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:50:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_120740.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_120740.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2717073,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:50:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_120742.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_120742.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3114262,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:50:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_122540.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_122540.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2018111,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_122543.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_122543.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2846692,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_122558.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_122558.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1194725,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_124909.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_124909.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4148983,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_124912.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_124912.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3502486,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_130511.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_130511.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6831925,
+        "size_human": "6.5 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_132332.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_132332.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4408053,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_132337.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_132337.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4199817,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_140047.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140047.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5368960,
+        "size_human": "5.1 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_140048.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140048.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5721861,
+        "size_human": "5.5 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_140049(0).jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140049(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5625441,
+        "size_human": "5.4 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_140049.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140049.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6157302,
+        "size_human": "5.9 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_140050(0).jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140050(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4158021,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_140050.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140050.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4805604,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:50:09+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_140059.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140059.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4750105,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_140103.mp4",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140103.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 12048764,
+        "size_human": "11.5 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_140114.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140114.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5562170,
+        "size_human": "5.3 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170108.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170108.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4781906,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170110.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170110.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4902697,
+        "size_human": "4.7 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170114.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170114.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5192364,
+        "size_human": "5.0 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170119.mp4",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170119.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 24792607,
+        "size_human": "23.6 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170142.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170142.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3546524,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170146.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170146.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4365510,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170148.mp4",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170148.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 13524725,
+        "size_human": "12.9 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170204.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170204.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3351081,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170225.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170225.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3942266,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170229.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170229.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3332261,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170231.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170231.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2636817,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170235.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170235.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3602377,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_170237.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170237.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3632567,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260324_화곡_엄나무_200주.md",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_화곡_엄나무_200주.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 480,
+        "size_human": "480 B",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260325_131210.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260325_131210.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4527867,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260325_131213.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260325_131213.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4520683,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260325_131214(0).jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260325_131214(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4393108,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260325_131214.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260325_131214.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4445445,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260325_131215.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260325_131215.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4382821,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20260324_130614_A phone.jpg",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/Screenshot_20260324_130614_A phone.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1982157,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 42,
+    "directory_count": 0,
+    "total_size": 203352107,
+    "total_size_human": "193.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260324_120733.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_120733.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2460923,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:50:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_120736.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_120736.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2926173,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:50:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_120737.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_120737.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2928393,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:50:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_120740.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_120740.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2717073,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:50:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_120742.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_120742.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3114262,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:50:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_122540.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_122540.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2018111,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_122543.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_122543.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2846692,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_122558.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_122558.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1194725,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_124909.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_124909.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4148983,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_124912.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_124912.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3502486,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_130511.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_130511.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6831925,
+      "size_human": "6.5 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_132332.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_132332.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4408053,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_132337.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_132337.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4199817,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_140047.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140047.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5368960,
+      "size_human": "5.1 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_140048.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140048.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5721861,
+      "size_human": "5.5 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_140049(0).jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140049(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5625441,
+      "size_human": "5.4 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_140049.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140049.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6157302,
+      "size_human": "5.9 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_140050(0).jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140050(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4158021,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_140050.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140050.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4805604,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:50:09+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_140059.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140059.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4750105,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_140103.mp4",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140103.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 12048764,
+      "size_human": "11.5 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_140114.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_140114.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5562170,
+      "size_human": "5.3 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170108.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170108.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4781906,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170110.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170110.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4902697,
+      "size_human": "4.7 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170114.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170114.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5192364,
+      "size_human": "5.0 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170119.mp4",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170119.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 24792607,
+      "size_human": "23.6 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170142.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170142.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3546524,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170146.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170146.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4365510,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170148.mp4",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170148.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 13524725,
+      "size_human": "12.9 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170204.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170204.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3351081,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170225.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170225.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3942266,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170229.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170229.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3332261,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170231.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170231.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2636817,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170235.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170235.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3602377,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_170237.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_170237.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3632567,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260324_화곡_엄나무_200주.md",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260324_화곡_엄나무_200주.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 480,
+      "size_human": "480 B",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260325_131210.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260325_131210.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4527867,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260325_131213.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260325_131213.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4520683,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260325_131214(0).jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260325_131214(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4393108,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260325_131214.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260325_131214.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4445445,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260325_131215.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/20260325_131215.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4382821,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20260324_130614_A phone.jpg",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주/Screenshot_20260324_130614_A phone.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1982157,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

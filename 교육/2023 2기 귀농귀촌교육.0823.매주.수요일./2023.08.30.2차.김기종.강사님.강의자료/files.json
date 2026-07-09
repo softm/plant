@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.08.30.2차.김기종.강사님.강의자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.08.30.2차.김기종.강사님.강의자료",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 9483777,
+    "total_size_human": "9.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.08.30.2차.김기종.강사님.강의자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.08.30.2차.김기종.강사님.강의자료",
+    "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.08.30.2차.김기종.강사님.강의자료/files.json",
+    "modified": "2026-07-09T17:48:12+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "2023년 상반기 귀농 농업창업 및 주택구입 지원사업 시행지침.hwp",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.08.30.2차.김기종.강사님.강의자료/2023년 상반기 귀농 농업창업 및 주택구입 지원사업 시행지침.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 136704,
+        "size_human": "133.5 KB",
+        "modified": "2026-07-09T17:48:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "230830 평택농기센터)귀농창업및 주택구입지원사업신청.pptx",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.08.30.2차.김기종.강사님.강의자료/230830 평택농기센터)귀농창업및 주택구입지원사업신청.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 1576699,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/c043d1b5f7c9d68e.pptx.txt",
+          "size": 25094,
+          "size_human": "24.5 KB"
+        }
+      },
+      {
+        "type": "file",
+        "name": "[원고 1] 귀농귀촌의 이해.pptx",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.08.30.2차.김기종.강사님.강의자료/[원고 1] 귀농귀촌의 이해.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 7770374,
+        "size_human": "7.4 MB",
+        "modified": "2026-07-09T17:48:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/0980882417cb1ad3.pptx.txt",
+          "size": 21461,
+          "size_human": "21.0 KB"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 9483777,
+    "total_size_human": "9.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2023년 상반기 귀농 농업창업 및 주택구입 지원사업 시행지침.hwp",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.08.30.2차.김기종.강사님.강의자료/2023년 상반기 귀농 농업창업 및 주택구입 지원사업 시행지침.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 136704,
+      "size_human": "133.5 KB",
+      "modified": "2026-07-09T17:48:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "230830 평택농기센터)귀농창업및 주택구입지원사업신청.pptx",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.08.30.2차.김기종.강사님.강의자료/230830 평택농기센터)귀농창업및 주택구입지원사업신청.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 1576699,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/c043d1b5f7c9d68e.pptx.txt",
+        "size": 25094,
+        "size_human": "24.5 KB"
+      }
+    },
+    {
+      "type": "file",
+      "name": "[원고 1] 귀농귀촌의 이해.pptx",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.08.30.2차.김기종.강사님.강의자료/[원고 1] 귀농귀촌의 이해.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 7770374,
+      "size_human": "7.4 MB",
+      "modified": "2026-07-09T17:48:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/0980882417cb1ad3.pptx.txt",
+        "size": 21461,
+        "size_human": "21.0 KB"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

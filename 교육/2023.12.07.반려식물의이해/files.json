@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023.12.07.반려식물의이해",
+    "path": "교육/2023.12.07.반려식물의이해",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 81334186,
+    "total_size_human": "77.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.12.07.반려식물의이해",
+    "path": "교육/2023.12.07.반려식물의이해",
+    "index": "교육/2023.12.07.반려식물의이해/files.json",
+    "modified": "2026-07-09T17:48:24+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "2023.12.07.반려식물의이해.md",
+        "path": "교육/2023.12.07.반려식물의이해/2023.12.07.반려식물의이해.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 7266,
+        "size_human": "7.1 KB",
+        "modified": "2026-07-09T17:48:24+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 062_sd.m4a",
+        "path": "교육/2023.12.07.반려식물의이해/음성 062_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 79551427,
+        "size_human": "75.9 MB",
+        "modified": "2026-07-09T17:48:24+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "조경가든대학.jpeg",
+        "path": "교육/2023.12.07.반려식물의이해/조경가든대학.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1775493,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:24+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 81334186,
+    "total_size_human": "77.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2023.12.07.반려식물의이해.md",
+      "path": "교육/2023.12.07.반려식물의이해/2023.12.07.반려식물의이해.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 7266,
+      "size_human": "7.1 KB",
+      "modified": "2026-07-09T17:48:24+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 062_sd.m4a",
+      "path": "교육/2023.12.07.반려식물의이해/음성 062_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 79551427,
+      "size_human": "75.9 MB",
+      "modified": "2026-07-09T17:48:24+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "조경가든대학.jpeg",
+      "path": "교육/2023.12.07.반려식물의이해/조경가든대학.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1775493,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:24+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,4296 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비",
+    "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 142,
+    "directory_count": 0,
+    "direct_file_count": 142,
+    "direct_directory_count": 0,
+    "total_size": 462725682,
+    "total_size_human": "441.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20250513_구거_매입_준비",
+    "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비",
+    "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/files.json",
+    "modified": "2026-07-09T17:49:05+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20250513_094653.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_094653.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3293138,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_094715.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_094715.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3698605,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_094901.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_094901.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3918388,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_094936.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_094936.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4034112,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095002.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095002.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3324190,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095031.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095031.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4118998,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095103.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095103.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4003162,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095145.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095145.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3573998,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095213.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095213.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4180381,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095251.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095251.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3670779,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095333.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095333.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3415389,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095420.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095420.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3430970,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095450.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095450.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2750387,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095523.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095523.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3640471,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095701.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095701.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5012812,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095716.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095716.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4844637,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095736.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095736.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4752323,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_095802.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095802.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4742728,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100001.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100001.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4443523,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100043.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100043.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4344913,
+        "size_human": "4.1 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100129.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100129.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3938658,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100153.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100153.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4961652,
+        "size_human": "4.7 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100207.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100207.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4830003,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100338.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100338.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4450352,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100431.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100431.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5166742,
+        "size_human": "4.9 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100437.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100437.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3882898,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100440.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100440.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3947807,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100523.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100523.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4236674,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100528.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100528.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4142962,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100532.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100532.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4152702,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100628.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100628.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4523167,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100633.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100633.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4704053,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100714.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100714.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4226179,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100801.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100801.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3833880,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100804.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100804.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4144527,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100835.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100835.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3973439,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100837.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100837.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3876353,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100919.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100919.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3837338,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_100923.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100923.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3947481,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101040.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101040.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4150458,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101043.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101043.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4200847,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101121.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101121.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4248441,
+        "size_human": "4.1 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101124.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101124.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4165985,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101202.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101202.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4170733,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101205.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101205.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4052094,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101230.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101230.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3847350,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101300.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101300.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4084844,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101302.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101302.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3420661,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101321.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101321.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4804408,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101324.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101324.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4206703,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101414.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101414.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4133579,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101417.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101417.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4104511,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101537.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101537.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3091402,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101947.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101947.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2939863,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_101950.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101950.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3168168,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102002.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102002.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3046950,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102035.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102035.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3515146,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102129.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102129.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3554992,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102136.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102136.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3385519,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102211.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102211.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3496245,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102241.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102241.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3813008,
+        "size_human": "3.6 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102344.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102344.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4210657,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102348.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102348.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3745180,
+        "size_human": "3.6 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102354.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102354.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3250877,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102357.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102357.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3117009,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102445.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102445.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4680752,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102533.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102533.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3739207,
+        "size_human": "3.6 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102543.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102543.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3390469,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102548.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102548.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3223762,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102739.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102739.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3954873,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:04+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102742.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102742.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3824962,
+        "size_human": "3.6 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102850.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102850.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5083567,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102853.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102853.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4271987,
+        "size_human": "4.1 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_102959.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102959.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4224516,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103024.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103024.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3769661,
+        "size_human": "3.6 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103028.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103028.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3880687,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103054.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103054.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4462939,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103057.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103057.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3673896,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103122.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103122.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4471047,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103123.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103123.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3610237,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103125.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103125.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3498550,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103145.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103145.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4705554,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103148.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103148.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4579321,
+        "size_human": "4.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103211.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103211.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5079085,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103212.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103212.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3927641,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103214.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103214.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3735976,
+        "size_human": "3.6 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103238.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103238.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5251619,
+        "size_human": "5.0 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103239.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103239.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4088921,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103318.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103318.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3701657,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103323.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103323.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3746052,
+        "size_human": "3.6 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250513_103331.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103331.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3501534,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_094641_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_094641_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2188873,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_094854_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_094854_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2418073,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_094956_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_094956_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2423542,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_095025_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095025_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2460881,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_095056_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095056_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2470050,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_095136_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095136_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2456738,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_095204_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095204_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2480880,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_095243_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095243_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2453858,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_095326_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095326_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2459121,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_095413_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095413_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1782261,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_095442_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095442_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1772438,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_095517_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095517_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1778369,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_095653_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095653_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1630134,
+        "size_human": "1.6 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_095954_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095954_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1617243,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100035_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100035_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1621406,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100102_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100102_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1621052,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100122_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100122_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1624091,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100149_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100149_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1623711,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100330_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100330_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1627283,
+        "size_human": "1.6 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100425_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100425_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2211504,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100515_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100515_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2211388,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100621_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100621_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2218786,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100659_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100659_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2214581,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100701_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100701_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2287441,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100752_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100752_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1621677,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100830_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100830_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1621420,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_100911_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100911_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2319046,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_101032_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101032_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1634637,
+        "size_human": "1.6 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_101107_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101107_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1623296,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_101154_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101154_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2227591,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_101224_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101224_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2227382,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_101254_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101254_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2349712,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_101314_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101314_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2371865,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_101940_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101940_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1492489,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_102117_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102117_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1505113,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_102158_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102158_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1504995,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_102237_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102237_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1505213,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_102337_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102337_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1478012,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_102440_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102440_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1477474,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_102529_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102529_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1485154,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_102734_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102734_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1494261,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_102835_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102835_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1574212,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_102844_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102844_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1578464,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_102949_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102949_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1523269,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_103016_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103016_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2068308,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_103046_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103046_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2069099,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_103117_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103117_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2069293,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_103139_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103139_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2069035,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_103205_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103205_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2068665,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_103231_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103231_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2068485,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Screenshot_20250513_103309_KakaoMap.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103309_KakaoMap.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2068938,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 142,
+    "directory_count": 0,
+    "total_size": 462725682,
+    "total_size_human": "441.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20250513_094653.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_094653.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3293138,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_094715.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_094715.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3698605,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_094901.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_094901.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3918388,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_094936.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_094936.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4034112,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095002.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095002.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3324190,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095031.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095031.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4118998,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095103.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095103.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4003162,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095145.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095145.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3573998,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095213.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095213.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4180381,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095251.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095251.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3670779,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095333.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095333.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3415389,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095420.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095420.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3430970,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095450.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095450.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2750387,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095523.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095523.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3640471,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095701.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095701.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5012812,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095716.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095716.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4844637,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095736.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095736.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4752323,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_095802.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_095802.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4742728,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100001.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100001.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4443523,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100043.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100043.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4344913,
+      "size_human": "4.1 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100129.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100129.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3938658,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100153.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100153.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4961652,
+      "size_human": "4.7 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100207.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100207.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4830003,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100338.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100338.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4450352,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100431.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100431.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5166742,
+      "size_human": "4.9 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100437.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100437.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3882898,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100440.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100440.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3947807,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100523.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100523.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4236674,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100528.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100528.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4142962,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100532.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100532.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4152702,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100628.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100628.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4523167,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100633.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100633.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4704053,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100714.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100714.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4226179,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100801.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100801.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3833880,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100804.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100804.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4144527,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100835.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100835.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3973439,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100837.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100837.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3876353,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100919.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100919.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3837338,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_100923.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_100923.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3947481,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101040.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101040.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4150458,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101043.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101043.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4200847,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101121.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101121.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4248441,
+      "size_human": "4.1 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101124.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101124.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4165985,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101202.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101202.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4170733,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101205.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101205.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4052094,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101230.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101230.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3847350,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101300.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101300.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4084844,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101302.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101302.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3420661,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101321.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101321.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4804408,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101324.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101324.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4206703,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101414.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101414.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4133579,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101417.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101417.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4104511,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101537.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101537.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3091402,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101947.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101947.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2939863,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_101950.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_101950.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3168168,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102002.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102002.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3046950,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102035.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102035.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3515146,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102129.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102129.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3554992,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102136.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102136.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3385519,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102211.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102211.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3496245,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102241.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102241.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3813008,
+      "size_human": "3.6 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102344.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102344.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4210657,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102348.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102348.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3745180,
+      "size_human": "3.6 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102354.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102354.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3250877,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102357.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102357.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3117009,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102445.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102445.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4680752,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102533.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102533.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3739207,
+      "size_human": "3.6 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102543.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102543.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3390469,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102548.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102548.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3223762,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102739.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102739.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3954873,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:04+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102742.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102742.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3824962,
+      "size_human": "3.6 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102850.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102850.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5083567,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102853.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102853.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4271987,
+      "size_human": "4.1 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_102959.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_102959.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4224516,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103024.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103024.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3769661,
+      "size_human": "3.6 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103028.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103028.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3880687,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103054.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103054.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4462939,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103057.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103057.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3673896,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103122.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103122.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4471047,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103123.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103123.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3610237,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103125.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103125.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3498550,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103145.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103145.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4705554,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103148.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103148.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4579321,
+      "size_human": "4.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103211.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103211.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5079085,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103212.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103212.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3927641,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103214.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103214.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3735976,
+      "size_human": "3.6 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103238.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103238.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5251619,
+      "size_human": "5.0 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103239.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103239.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4088921,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103318.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103318.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3701657,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103323.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103323.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3746052,
+      "size_human": "3.6 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250513_103331.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/20250513_103331.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3501534,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_094641_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_094641_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2188873,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_094854_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_094854_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2418073,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_094956_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_094956_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2423542,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_095025_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095025_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2460881,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_095056_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095056_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2470050,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_095136_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095136_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2456738,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_095204_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095204_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2480880,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_095243_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095243_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2453858,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_095326_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095326_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2459121,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_095413_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095413_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1782261,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_095442_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095442_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1772438,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_095517_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095517_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1778369,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_095653_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095653_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1630134,
+      "size_human": "1.6 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_095954_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_095954_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1617243,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100035_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100035_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1621406,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100102_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100102_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1621052,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100122_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100122_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1624091,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100149_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100149_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1623711,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100330_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100330_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1627283,
+      "size_human": "1.6 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100425_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100425_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2211504,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100515_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100515_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2211388,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100621_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100621_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2218786,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100659_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100659_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2214581,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100701_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100701_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2287441,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100752_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100752_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1621677,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100830_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100830_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1621420,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_100911_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_100911_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2319046,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_101032_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101032_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1634637,
+      "size_human": "1.6 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_101107_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101107_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1623296,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_101154_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101154_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2227591,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_101224_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101224_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2227382,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_101254_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101254_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2349712,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_101314_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101314_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2371865,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_101940_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_101940_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1492489,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_102117_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102117_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1505113,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_102158_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102158_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1504995,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_102237_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102237_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1505213,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_102337_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102337_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1478012,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_102440_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102440_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1477474,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_102529_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102529_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1485154,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_102734_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102734_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1494261,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_102835_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102835_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1574212,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_102844_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102844_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1578464,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_102949_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_102949_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1523269,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_103016_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103016_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2068308,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_103046_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103046_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2069099,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_103117_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103117_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2069293,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_103139_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103139_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2069035,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_103205_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103205_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2068665,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_103231_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103231_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2068485,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Screenshot_20250513_103309_KakaoMap.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/Screenshot_20250513_103309_KakaoMap.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2068938,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

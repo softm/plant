@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 7,
+    "directory_count": 1,
+    "direct_file_count": 3,
+    "direct_directory_count": 1,
+    "total_size": 202725543,
+    "total_size_human": "193.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.09.20.5차.임영춘.강사님.강의자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료",
+    "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/files.json",
+    "modified": "2026-07-09T17:48:14+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료",
+        "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료/files.json",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "file_count": 4,
+        "directory_count": 0,
+        "total_size": 101671701,
+        "total_size_human": "97.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "05_01.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/05_01.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 55327014,
+        "size_human": "52.8 MB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "05_02.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/05_02.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 23538800,
+        "size_human": "22.4 MB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "05_03.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/05_03.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 22188028,
+        "size_human": "21.2 MB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 7,
+    "directory_count": 1,
+    "total_size": 202725543,
+    "total_size_human": "193.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "05_01.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/05_01.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 55327014,
+      "size_human": "52.8 MB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "05_02.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/05_02.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 23538800,
+      "size_human": "22.4 MB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "05_03.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/05_03.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 22188028,
+      "size_human": "21.2 MB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료",
+      "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료/files.json",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "file_count": 4,
+      "directory_count": 0,
+      "total_size": 101671701,
+      "total_size_human": "97.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

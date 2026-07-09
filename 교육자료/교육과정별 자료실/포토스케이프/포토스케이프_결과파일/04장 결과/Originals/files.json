@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/Originals",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/Originals",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 1,
+    "directory_count": 0,
+    "direct_file_count": 1,
+    "direct_directory_count": 0,
+    "total_size": 109610,
+    "total_size_human": "107.0 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "Originals",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/Originals",
+    "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/Originals/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "모녀-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/Originals/모녀-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 109610,
+        "size_human": "107.0 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 1,
+    "directory_count": 0,
+    "total_size": 109610,
+    "total_size_human": "107.0 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "모녀-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/Originals/모녀-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 109610,
+      "size_human": "107.0 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,247 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 7,
+    "directory_count": 1,
+    "direct_file_count": 6,
+    "direct_directory_count": 1,
+    "total_size": 3049498,
+    "total_size_human": "2.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "04장 결과",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과",
+    "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "Originals",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/Originals",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/Originals/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 1,
+        "directory_count": 0,
+        "total_size": 109610,
+        "total_size_human": "107.0 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "눈동자-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/눈동자-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 137702,
+        "size_human": "134.5 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "모녀-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/모녀-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 404339,
+        "size_human": "394.9 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "제천-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/제천-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 860965,
+        "size_human": "840.8 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "지하철-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/지하철-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 671526,
+        "size_human": "655.8 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "타투-결과.tif",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/타투-결과.tif",
+        "extension": "tif",
+        "group": "image",
+        "mime_type": "image/tiff",
+        "size": 807712,
+        "size_human": "788.8 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "후두티-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/후두티-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 57644,
+        "size_human": "56.3 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 7,
+    "directory_count": 1,
+    "total_size": 3049498,
+    "total_size_human": "2.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "눈동자-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/눈동자-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 137702,
+      "size_human": "134.5 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "모녀-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/모녀-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 404339,
+      "size_human": "394.9 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "제천-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/제천-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 860965,
+      "size_human": "840.8 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "지하철-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/지하철-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 671526,
+      "size_human": "655.8 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "타투-결과.tif",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/타투-결과.tif",
+      "extension": "tif",
+      "group": "image",
+      "mime_type": "image/tiff",
+      "size": 807712,
+      "size_human": "788.8 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "후두티-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/후두티-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 57644,
+      "size_human": "56.3 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "Originals",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/Originals",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/04장 결과/Originals/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 1,
+      "directory_count": 0,
+      "total_size": 109610,
+      "total_size_human": "107.0 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

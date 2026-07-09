@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 6,
+    "directory_count": 0,
+    "direct_file_count": 6,
+    "direct_directory_count": 0,
+    "total_size": 10555237,
+    "total_size_human": "10.1 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "05장 결과",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과",
+    "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "놀이기구-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/놀이기구-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1077965,
+        "size_human": "1.0 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스키-결과.JPG",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/스키-결과.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1103647,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스페인-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/스페인-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1959982,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "엠티-결과.JPG",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/엠티-결과.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4234851,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "트램안-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/트램안-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1172363,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "항구-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/항구-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1006429,
+        "size_human": "982.8 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 6,
+    "directory_count": 0,
+    "total_size": 10555237,
+    "total_size_human": "10.1 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "놀이기구-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/놀이기구-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1077965,
+      "size_human": "1.0 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스키-결과.JPG",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/스키-결과.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1103647,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스페인-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/스페인-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1959982,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "엠티-결과.JPG",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/엠티-결과.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4234851,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "트램안-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/트램안-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1172363,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "항구-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/05장 결과/항구-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1006429,
+      "size_human": "982.8 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

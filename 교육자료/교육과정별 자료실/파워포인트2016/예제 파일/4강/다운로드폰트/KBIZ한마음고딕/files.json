@@ -1,0 +1,306 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 9,
+    "directory_count": 0,
+    "direct_file_count": 9,
+    "direct_directory_count": 0,
+    "total_size": 62508996,
+    "total_size_human": "59.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "KBIZ한마음고딕",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕",
+    "index": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "KBIZ한마음고딕 B.ttf",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음고딕 B.ttf",
+        "extension": "ttf",
+        "group": "font",
+        "mime_type": "font/ttf",
+        "size": 3535208,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KBIZ한마음고딕 H.ttf",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음고딕 H.ttf",
+        "extension": "ttf",
+        "group": "font",
+        "mime_type": "font/ttf",
+        "size": 3224772,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KBIZ한마음고딕 L.ttf",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음고딕 L.ttf",
+        "extension": "ttf",
+        "group": "font",
+        "mime_type": "font/ttf",
+        "size": 3125844,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KBIZ한마음고딕 M.ttf",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음고딕 M.ttf",
+        "extension": "ttf",
+        "group": "font",
+        "mime_type": "font/ttf",
+        "size": 3704880,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KBIZ한마음고딕 R.ttf",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음고딕 R.ttf",
+        "extension": "ttf",
+        "group": "font",
+        "mime_type": "font/ttf",
+        "size": 3658240,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KBIZ한마음명조 B.ttf",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음명조 B.ttf",
+        "extension": "ttf",
+        "group": "font",
+        "mime_type": "font/ttf",
+        "size": 11946164,
+        "size_human": "11.4 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KBIZ한마음명조 L.ttf",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음명조 L.ttf",
+        "extension": "ttf",
+        "group": "font",
+        "mime_type": "font/ttf",
+        "size": 7093268,
+        "size_human": "6.8 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KBIZ한마음명조 M.ttf",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음명조 M.ttf",
+        "extension": "ttf",
+        "group": "font",
+        "mime_type": "font/ttf",
+        "size": 14272792,
+        "size_human": "13.6 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KBIZ한마음명조 R.ttf",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음명조 R.ttf",
+        "extension": "ttf",
+        "group": "font",
+        "mime_type": "font/ttf",
+        "size": 11947828,
+        "size_human": "11.4 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 9,
+    "directory_count": 0,
+    "total_size": 62508996,
+    "total_size_human": "59.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "KBIZ한마음고딕 B.ttf",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음고딕 B.ttf",
+      "extension": "ttf",
+      "group": "font",
+      "mime_type": "font/ttf",
+      "size": 3535208,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KBIZ한마음고딕 H.ttf",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음고딕 H.ttf",
+      "extension": "ttf",
+      "group": "font",
+      "mime_type": "font/ttf",
+      "size": 3224772,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KBIZ한마음고딕 L.ttf",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음고딕 L.ttf",
+      "extension": "ttf",
+      "group": "font",
+      "mime_type": "font/ttf",
+      "size": 3125844,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KBIZ한마음고딕 M.ttf",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음고딕 M.ttf",
+      "extension": "ttf",
+      "group": "font",
+      "mime_type": "font/ttf",
+      "size": 3704880,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KBIZ한마음고딕 R.ttf",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음고딕 R.ttf",
+      "extension": "ttf",
+      "group": "font",
+      "mime_type": "font/ttf",
+      "size": 3658240,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KBIZ한마음명조 B.ttf",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음명조 B.ttf",
+      "extension": "ttf",
+      "group": "font",
+      "mime_type": "font/ttf",
+      "size": 11946164,
+      "size_human": "11.4 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KBIZ한마음명조 L.ttf",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음명조 L.ttf",
+      "extension": "ttf",
+      "group": "font",
+      "mime_type": "font/ttf",
+      "size": 7093268,
+      "size_human": "6.8 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KBIZ한마음명조 M.ttf",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음명조 M.ttf",
+      "extension": "ttf",
+      "group": "font",
+      "mime_type": "font/ttf",
+      "size": 14272792,
+      "size_human": "13.6 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KBIZ한마음명조 R.ttf",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/KBIZ한마음고딕/KBIZ한마음명조 R.ttf",
+      "extension": "ttf",
+      "group": "font",
+      "mime_type": "font/ttf",
+      "size": 11947828,
+      "size_human": "11.4 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

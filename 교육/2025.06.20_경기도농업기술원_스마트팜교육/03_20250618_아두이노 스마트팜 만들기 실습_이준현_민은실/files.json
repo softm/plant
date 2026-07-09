@@ -1,0 +1,2406 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실",
+    "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 79,
+    "directory_count": 0,
+    "direct_file_count": 79,
+    "direct_directory_count": 0,
+    "total_size": 1012818675,
+    "total_size_human": "965.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실",
+    "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실",
+    "index": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/files.json",
+    "modified": "2026-07-09T17:48:43+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20250618_094811.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094811.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1476592,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_094812.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094812.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1403523,
+        "size_human": "1.3 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_094820.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094820.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2337467,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_094828.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094828.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1967821,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_094837.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094837.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1768783,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_094852.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094852.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1382680,
+        "size_human": "1.3 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_095655.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_095655.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2066721,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_095700.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_095700.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1850446,
+        "size_human": "1.8 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_100129.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_100129.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2401405,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_100131.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_100131.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1316924,
+        "size_human": "1.3 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_100921.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_100921.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1731263,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_100923.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_100923.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2676306,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_125113.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_125113.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2351153,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_131836.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_131836.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1433974,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_132627.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_132627.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1593616,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_132629.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_132629.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1466422,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_132632.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_132632.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1257986,
+        "size_human": "1.2 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_132634.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_132634.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1191134,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_132636.mp4",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_132636.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 5701510,
+        "size_human": "5.4 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153326.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153326.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2823261,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153333_002.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153333_002.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1717746,
+        "size_human": "1.6 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153343.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153343.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1178485,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.001",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.001",
+        "extension": "001",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.002",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.002",
+        "extension": "002",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.003",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.003",
+        "extension": "003",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.004",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.004",
+        "extension": "004",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.005",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.005",
+        "extension": "005",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.006",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.006",
+        "extension": "006",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.007",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.007",
+        "extension": "007",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.008",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.008",
+        "extension": "008",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.009",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.009",
+        "extension": "009",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.010",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.010",
+        "extension": "010",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.011",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.011",
+        "extension": "011",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.012",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.012",
+        "extension": "012",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.013",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.013",
+        "extension": "013",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.014",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.014",
+        "extension": "014",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.015",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.015",
+        "extension": "015",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.016",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.016",
+        "extension": "016",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:39+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.017",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.017",
+        "extension": "017",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:40+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.018",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.018",
+        "extension": "018",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:40+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.019",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.019",
+        "extension": "019",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:40+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.020",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.020",
+        "extension": "020",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:40+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.021",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.021",
+        "extension": "021",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:40+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.022",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.022",
+        "extension": "022",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:40+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.023",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.023",
+        "extension": "023",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:40+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.024",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.024",
+        "extension": "024",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:40+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.025",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.025",
+        "extension": "025",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:40+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.026",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.026",
+        "extension": "026",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:41+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.027",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.027",
+        "extension": "027",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.028",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.028",
+        "extension": "028",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.029",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.029",
+        "extension": "029",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.030",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.030",
+        "extension": "030",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.031",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.031",
+        "extension": "031",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_153351.mp4.zip.032",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.032",
+        "extension": "032",
+        "group": "other",
+        "mime_type": null,
+        "size": 11319236,
+        "size_human": "10.8 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_154045.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154045.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1783191,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_154049.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154049.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2961015,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_154051.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154051.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1957535,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_154113.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154113.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1887108,
+        "size_human": "1.8 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_154114.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154114.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1646154,
+        "size_human": "1.6 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_154134.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154134.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1823281,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_162749.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_162749.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1161673,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_162751.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_162751.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4288564,
+        "size_human": "4.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_162852.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_162852.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2175296,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_163154.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_163154.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2927462,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250618_경기도농업기술원.m4a",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_경기도농업기술원.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 38811224,
+        "size_human": "37.0 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.001",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.001",
+        "extension": "001",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.002",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.002",
+        "extension": "002",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.003",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.003",
+        "extension": "003",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.004",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.004",
+        "extension": "004",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.005",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.005",
+        "extension": "005",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.006",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.006",
+        "extension": "006",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.007",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.007",
+        "extension": "007",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.008",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.008",
+        "extension": "008",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.009",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.009",
+        "extension": "009",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.010",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.010",
+        "extension": "010",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.011",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.011",
+        "extension": "011",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.012",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.012",
+        "extension": "012",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.013",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.013",
+        "extension": "013",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.014",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.014",
+        "extension": "014",
+        "group": "other",
+        "mime_type": null,
+        "size": 16981718,
+        "size_human": "16.2 MB",
+        "modified": "2026-07-09T17:48:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 79,
+    "directory_count": 0,
+    "total_size": 1012818675,
+    "total_size_human": "965.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20250618_094811.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094811.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1476592,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_094812.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094812.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1403523,
+      "size_human": "1.3 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_094820.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094820.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2337467,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_094828.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094828.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1967821,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_094837.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094837.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1768783,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_094852.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_094852.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1382680,
+      "size_human": "1.3 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_095655.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_095655.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2066721,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_095700.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_095700.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1850446,
+      "size_human": "1.8 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_100129.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_100129.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2401405,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_100131.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_100131.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1316924,
+      "size_human": "1.3 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_100921.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_100921.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1731263,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_100923.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_100923.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2676306,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_125113.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_125113.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2351153,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_131836.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_131836.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1433974,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_132627.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_132627.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1593616,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_132629.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_132629.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1466422,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_132632.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_132632.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1257986,
+      "size_human": "1.2 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_132634.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_132634.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1191134,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_132636.mp4",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_132636.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 5701510,
+      "size_human": "5.4 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153326.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153326.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2823261,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153333_002.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153333_002.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1717746,
+      "size_human": "1.6 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153343.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153343.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1178485,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.001",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.001",
+      "extension": "001",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.002",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.002",
+      "extension": "002",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.003",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.003",
+      "extension": "003",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.004",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.004",
+      "extension": "004",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.005",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.005",
+      "extension": "005",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.006",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.006",
+      "extension": "006",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.007",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.007",
+      "extension": "007",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.008",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.008",
+      "extension": "008",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.009",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.009",
+      "extension": "009",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.010",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.010",
+      "extension": "010",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.011",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.011",
+      "extension": "011",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.012",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.012",
+      "extension": "012",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.013",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.013",
+      "extension": "013",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.014",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.014",
+      "extension": "014",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.015",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.015",
+      "extension": "015",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.016",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.016",
+      "extension": "016",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:39+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.017",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.017",
+      "extension": "017",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:40+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.018",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.018",
+      "extension": "018",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:40+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.019",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.019",
+      "extension": "019",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:40+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.020",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.020",
+      "extension": "020",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:40+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.021",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.021",
+      "extension": "021",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:40+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.022",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.022",
+      "extension": "022",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:40+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.023",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.023",
+      "extension": "023",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:40+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.024",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.024",
+      "extension": "024",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:40+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.025",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.025",
+      "extension": "025",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:40+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.026",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.026",
+      "extension": "026",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:41+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.027",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.027",
+      "extension": "027",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.028",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.028",
+      "extension": "028",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.029",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.029",
+      "extension": "029",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.030",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.030",
+      "extension": "030",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.031",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.031",
+      "extension": "031",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_153351.mp4.zip.032",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_153351.mp4.zip.032",
+      "extension": "032",
+      "group": "other",
+      "mime_type": null,
+      "size": 11319236,
+      "size_human": "10.8 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_154045.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154045.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1783191,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_154049.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154049.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2961015,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_154051.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154051.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1957535,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_154113.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154113.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1887108,
+      "size_human": "1.8 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_154114.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154114.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1646154,
+      "size_human": "1.6 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_154134.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_154134.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1823281,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_162749.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_162749.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1161673,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_162751.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_162751.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4288564,
+      "size_human": "4.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_162852.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_162852.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2175296,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_163154.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_163154.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2927462,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250618_경기도농업기술원.m4a",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/20250618_경기도농업기술원.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 38811224,
+      "size_human": "37.0 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.001",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.001",
+      "extension": "001",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.002",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.002",
+      "extension": "002",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.003",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.003",
+      "extension": "003",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.004",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.004",
+      "extension": "004",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.005",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.005",
+      "extension": "005",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.006",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.006",
+      "extension": "006",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.007",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.007",
+      "extension": "007",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.008",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.008",
+      "extension": "008",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.009",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.009",
+      "extension": "009",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.010",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.010",
+      "extension": "010",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.011",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.011",
+      "extension": "011",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.012",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.012",
+      "extension": "012",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.013",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.013",
+      "extension": "013",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.014",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/03_20250618_아두이노 스마트팜 만들기 실습_이준현_민은실/아카이브.zip.014",
+      "extension": "014",
+      "group": "other",
+      "mime_type": null,
+      "size": 16981718,
+      "size_human": "16.2 MB",
+      "modified": "2026-07-09T17:48:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

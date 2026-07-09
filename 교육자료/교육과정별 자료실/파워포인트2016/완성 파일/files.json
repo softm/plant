@@ -1,0 +1,771 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/파워포인트2016/완성 파일",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 24,
+    "directory_count": 1,
+    "direct_file_count": 16,
+    "direct_directory_count": 1,
+    "total_size": 138095158,
+    "total_size_human": "131.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "완성 파일",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일",
+    "index": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "연습문제완성",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성",
+        "index": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 8,
+        "directory_count": 0,
+        "total_size": 2523140,
+        "total_size_human": "2.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "10강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/10강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 1613538,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/a49c11ced3e7da33.pptx.txt",
+          "size": 171,
+          "size_human": "171 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "11강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/11강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 1885973,
+        "size_human": "1.8 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/a3cb292c3f0929cc.pptx.txt",
+          "size": 171,
+          "size_human": "171 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "12강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/12강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 2668450,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/ac7e3f3ff1868842.pptx.txt",
+          "size": 227,
+          "size_human": "227 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "13강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/13강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 2818415,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/98155124a30f0b66.pptx.txt",
+          "size": 279,
+          "size_human": "279 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "14강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/14강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 4473975,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/79b04c9b7e0d32be.pptx.txt",
+          "size": 427,
+          "size_human": "427 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "15강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/15강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 23955719,
+        "size_human": "22.8 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/d4293a919ffe67d7.pptx.txt",
+          "size": 483,
+          "size_human": "483 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "16강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/16강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 24052453,
+        "size_human": "22.9 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/5c6d5a746e3a53f7.pptx.txt",
+          "size": 1146,
+          "size_human": "1.1 KB"
+        }
+      },
+      {
+        "type": "file",
+        "name": "17강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/17강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 24281966,
+        "size_human": "23.2 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/78d1821e0c2258e3.pptx.txt",
+          "size": 1240,
+          "size_human": "1.2 KB"
+        }
+      },
+      {
+        "type": "file",
+        "name": "18강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/18강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 24283183,
+        "size_human": "23.2 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/f293ba95071971e1.pptx.txt",
+          "size": 1240,
+          "size_human": "1.2 KB"
+        }
+      },
+      {
+        "type": "file",
+        "name": "19강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/19강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 24281633,
+        "size_human": "23.2 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/37546c8b0268e918.pptx.txt",
+          "size": 1240,
+          "size_human": "1.2 KB"
+        }
+      },
+      {
+        "type": "file",
+        "name": "4강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/4강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 34127,
+        "size_human": "33.3 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/da52a7b99abc2a76.pptx.txt",
+          "size": 95,
+          "size_human": "95 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "5강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/5강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 36335,
+        "size_human": "35.5 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/5e7dec65dd0832d8.pptx.txt",
+          "size": 325,
+          "size_human": "325 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "6강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/6강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 37813,
+        "size_human": "36.9 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/2675cc96fc953d62.pptx.txt",
+          "size": 325,
+          "size_human": "325 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "7강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/7강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 467509,
+        "size_human": "456.6 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/50495d761fcd70a5.pptx.txt",
+          "size": 366,
+          "size_human": "366 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "8강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/8강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 33254,
+        "size_human": "32.5 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/7e6f2318acae0a4e.pptx.txt",
+          "size": 68,
+          "size_human": "68 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "9강완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/9강완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 647675,
+        "size_human": "632.5 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/6f42f9da1d9f7d18.pptx.txt",
+          "size": 68,
+          "size_human": "68 B"
+        }
+      }
+    ],
+    "file_count": 24,
+    "directory_count": 1,
+    "total_size": 138095158,
+    "total_size_human": "131.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "10강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/10강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 1613538,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/a49c11ced3e7da33.pptx.txt",
+        "size": 171,
+        "size_human": "171 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "11강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/11강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 1885973,
+      "size_human": "1.8 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/a3cb292c3f0929cc.pptx.txt",
+        "size": 171,
+        "size_human": "171 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "12강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/12강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 2668450,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/ac7e3f3ff1868842.pptx.txt",
+        "size": 227,
+        "size_human": "227 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "13강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/13강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 2818415,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/98155124a30f0b66.pptx.txt",
+        "size": 279,
+        "size_human": "279 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "14강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/14강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 4473975,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/79b04c9b7e0d32be.pptx.txt",
+        "size": 427,
+        "size_human": "427 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "15강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/15강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 23955719,
+      "size_human": "22.8 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/d4293a919ffe67d7.pptx.txt",
+        "size": 483,
+        "size_human": "483 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "16강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/16강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 24052453,
+      "size_human": "22.9 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/5c6d5a746e3a53f7.pptx.txt",
+        "size": 1146,
+        "size_human": "1.1 KB"
+      }
+    },
+    {
+      "type": "file",
+      "name": "17강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/17강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 24281966,
+      "size_human": "23.2 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/78d1821e0c2258e3.pptx.txt",
+        "size": 1240,
+        "size_human": "1.2 KB"
+      }
+    },
+    {
+      "type": "file",
+      "name": "18강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/18강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 24283183,
+      "size_human": "23.2 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/f293ba95071971e1.pptx.txt",
+        "size": 1240,
+        "size_human": "1.2 KB"
+      }
+    },
+    {
+      "type": "file",
+      "name": "19강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/19강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 24281633,
+      "size_human": "23.2 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/37546c8b0268e918.pptx.txt",
+        "size": 1240,
+        "size_human": "1.2 KB"
+      }
+    },
+    {
+      "type": "file",
+      "name": "4강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/4강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 34127,
+      "size_human": "33.3 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/da52a7b99abc2a76.pptx.txt",
+        "size": 95,
+        "size_human": "95 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "5강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/5강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 36335,
+      "size_human": "35.5 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/5e7dec65dd0832d8.pptx.txt",
+        "size": 325,
+        "size_human": "325 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "6강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/6강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 37813,
+      "size_human": "36.9 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/2675cc96fc953d62.pptx.txt",
+        "size": 325,
+        "size_human": "325 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "7강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/7강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 467509,
+      "size_human": "456.6 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/50495d761fcd70a5.pptx.txt",
+        "size": 366,
+        "size_human": "366 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "8강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/8강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 33254,
+      "size_human": "32.5 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/7e6f2318acae0a4e.pptx.txt",
+        "size": 68,
+        "size_human": "68 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "9강완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/9강완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 647675,
+      "size_human": "632.5 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/6f42f9da1d9f7d18.pptx.txt",
+        "size": 68,
+        "size_human": "68 B"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "연습문제완성",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성",
+      "index": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 8,
+      "directory_count": 0,
+      "total_size": 2523140,
+      "total_size_human": "2.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

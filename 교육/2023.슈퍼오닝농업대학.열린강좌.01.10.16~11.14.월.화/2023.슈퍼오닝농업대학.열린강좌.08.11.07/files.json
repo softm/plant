@@ -1,0 +1,546 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 17,
+    "directory_count": 0,
+    "direct_file_count": 17,
+    "direct_directory_count": 0,
+    "total_size": 158694323,
+    "total_size_human": "151.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.슈퍼오닝농업대학.열린강좌.08.11.07",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07",
+    "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/files.json",
+    "modified": "2026-07-09T17:48:31+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "2023.11.07.08강.md",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/2023.11.07.08강.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 6703,
+        "size_human": "6.5 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_01.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_01.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 233241,
+        "size_human": "227.8 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_02.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_02.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 378073,
+        "size_human": "369.2 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_03.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_03.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 346854,
+        "size_human": "338.7 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_04.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_04.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 433975,
+        "size_human": "423.8 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_05.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_05.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 320080,
+        "size_human": "312.6 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_06.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_06.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 325817,
+        "size_human": "318.2 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_07.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_07.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 261545,
+        "size_human": "255.4 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_08.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_08.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 327187,
+        "size_human": "319.5 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_09.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_09.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 345151,
+        "size_human": "337.1 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_10.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_10.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 342703,
+        "size_human": "334.7 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_11.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_11.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 433366,
+        "size_human": "423.2 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지제도와_상속법의이해_12.jpg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_12.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 144417,
+        "size_human": "141.0 KB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "알아두면 쓸모있는 농지제도.농지법.농지.pdf",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/알아두면 쓸모있는 농지제도.농지법.농지.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 1379019,
+        "size_human": "1.3 MB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 044_sd.m4a",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/음성 044_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 47963476,
+        "size_human": "45.7 MB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 045_sd.m4a",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/음성 045_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 55673918,
+        "size_human": "53.1 MB",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 046_sd.m4a",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/음성 046_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 49778798,
+        "size_human": "47.5 MB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 17,
+    "directory_count": 0,
+    "total_size": 158694323,
+    "total_size_human": "151.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2023.11.07.08강.md",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/2023.11.07.08강.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 6703,
+      "size_human": "6.5 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_01.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_01.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 233241,
+      "size_human": "227.8 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_02.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_02.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 378073,
+      "size_human": "369.2 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_03.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_03.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 346854,
+      "size_human": "338.7 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_04.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_04.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 433975,
+      "size_human": "423.8 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_05.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_05.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 320080,
+      "size_human": "312.6 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_06.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_06.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 325817,
+      "size_human": "318.2 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_07.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_07.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 261545,
+      "size_human": "255.4 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_08.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_08.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 327187,
+      "size_human": "319.5 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_09.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_09.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 345151,
+      "size_human": "337.1 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_10.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_10.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 342703,
+      "size_human": "334.7 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_11.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_11.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 433366,
+      "size_human": "423.2 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지제도와_상속법의이해_12.jpg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/농지제도와_상속법의이해_12.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 144417,
+      "size_human": "141.0 KB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "알아두면 쓸모있는 농지제도.농지법.농지.pdf",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/알아두면 쓸모있는 농지제도.농지법.농지.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 1379019,
+      "size_human": "1.3 MB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 044_sd.m4a",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/음성 044_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 47963476,
+      "size_human": "45.7 MB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 045_sd.m4a",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/음성 045_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 55673918,
+      "size_human": "53.1 MB",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 046_sd.m4a",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/음성 046_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 49778798,
+      "size_human": "47.5 MB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

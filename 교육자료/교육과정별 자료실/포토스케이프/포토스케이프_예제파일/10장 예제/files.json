@@ -1,0 +1,606 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 19,
+    "directory_count": 0,
+    "direct_file_count": 19,
+    "direct_directory_count": 0,
+    "total_size": 3017769,
+    "total_size_human": "2.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "10장 예제",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제",
+    "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "강아지1.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/강아지1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 131797,
+        "size_human": "128.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "강아지2.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/강아지2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 82041,
+        "size_human": "80.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "강아지3.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/강아지3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 127436,
+        "size_human": "124.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "강아지4.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/강아지4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 110901,
+        "size_human": "108.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "꽃1.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 231509,
+        "size_human": "226.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "꽃2.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 167890,
+        "size_human": "164.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "꽃3.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 189580,
+        "size_human": "185.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "꽃4.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 284697,
+        "size_human": "278.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "꽃5.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃5.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 158058,
+        "size_human": "154.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "꽃6.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃6.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 189664,
+        "size_human": "185.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "반지1.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/반지1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 172131,
+        "size_human": "168.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "반지2.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/반지2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 76075,
+        "size_human": "74.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "반지3.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/반지3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 120330,
+        "size_human": "117.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "반지4.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/반지4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 190690,
+        "size_human": "186.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아기1.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/아기1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 156266,
+        "size_human": "152.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아기2.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/아기2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 156859,
+        "size_human": "153.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아기3.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/아기3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 157738,
+        "size_human": "154.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아기4.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/아기4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 159074,
+        "size_human": "155.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아기5.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/아기5.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 155033,
+        "size_human": "151.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 19,
+    "directory_count": 0,
+    "total_size": 3017769,
+    "total_size_human": "2.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "강아지1.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/강아지1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 131797,
+      "size_human": "128.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "강아지2.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/강아지2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 82041,
+      "size_human": "80.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "강아지3.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/강아지3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 127436,
+      "size_human": "124.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "강아지4.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/강아지4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 110901,
+      "size_human": "108.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "꽃1.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 231509,
+      "size_human": "226.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "꽃2.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 167890,
+      "size_human": "164.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "꽃3.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 189580,
+      "size_human": "185.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "꽃4.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 284697,
+      "size_human": "278.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "꽃5.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃5.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 158058,
+      "size_human": "154.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "꽃6.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/꽃6.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 189664,
+      "size_human": "185.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "반지1.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/반지1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 172131,
+      "size_human": "168.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "반지2.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/반지2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 76075,
+      "size_human": "74.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "반지3.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/반지3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 120330,
+      "size_human": "117.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "반지4.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/반지4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 190690,
+      "size_human": "186.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아기1.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/아기1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 156266,
+      "size_human": "152.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아기2.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/아기2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 156859,
+      "size_human": "153.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아기3.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/아기3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 157738,
+      "size_human": "154.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아기4.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/아기4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 159074,
+      "size_human": "155.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아기5.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/아기5.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 155033,
+      "size_human": "151.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

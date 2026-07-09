@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/표고",
+    "path": "재배로그/표고",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 25,
+    "directory_count": 2,
+    "direct_file_count": 0,
+    "direct_directory_count": 2,
+    "total_size": 185923429,
+    "total_size_human": "177.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "표고",
+    "path": "재배로그/표고",
+    "index": "재배로그/표고/files.json",
+    "modified": "2026-07-09T17:50:16+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20250328_화곡 표고종균 참나무_호경당숙",
+        "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙",
+        "index": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/files.json",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "file_count": 20,
+        "directory_count": 0,
+        "total_size": 165389827,
+        "total_size_human": "157.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250423_화곡 표고재배중",
+        "path": "재배로그/표고/20250423_화곡 표고재배중",
+        "index": "재배로그/표고/20250423_화곡 표고재배중/files.json",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 20533602,
+        "total_size_human": "19.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 25,
+    "directory_count": 2,
+    "total_size": 185923429,
+    "total_size_human": "177.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20250328_화곡 표고종균 참나무_호경당숙",
+      "path": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙",
+      "index": "재배로그/표고/20250328_화곡 표고종균 참나무_호경당숙/files.json",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "file_count": 20,
+      "directory_count": 0,
+      "total_size": 165389827,
+      "total_size_human": "157.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250423_화곡 표고재배중",
+      "path": "재배로그/표고/20250423_화곡 표고재배중",
+      "index": "재배로그/표고/20250423_화곡 표고재배중/files.json",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 20533602,
+      "total_size_human": "19.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

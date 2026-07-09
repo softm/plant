@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농사/20250610_지하수개발공사",
+    "path": "농사/20250610_지하수개발공사",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 0,
+    "direct_file_count": 5,
+    "direct_directory_count": 0,
+    "total_size": 3808526,
+    "total_size_human": "3.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20250610_지하수개발공사",
+    "path": "농사/20250610_지하수개발공사",
+    "index": "농사/20250610_지하수개발공사/files.json",
+    "modified": "2026-07-09T17:49:01+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260306_윌로펌프_고장_ERR_02.md",
+        "path": "농사/20250610_지하수개발공사/20260306_윌로펌프_고장_ERR_02.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 263,
+        "size_human": "263 B",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "동양개발_견적서_지하수개발공사_KakaoTalk_Photo_2025-06-10-19-21-21.jpeg",
+        "path": "농사/20250610_지하수개발공사/동양개발_견적서_지하수개발공사_KakaoTalk_Photo_2025-06-10-19-21-21.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 231146,
+        "size_human": "225.7 KB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "윌로펌프_제어기_KakaoTalk_Photo_2026-03-08-13-00-47.jpeg",
+        "path": "농사/20250610_지하수개발공사/윌로펌프_제어기_KakaoTalk_Photo_2026-03-08-13-00-47.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2515917,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "지하수_먹는물_수질검사_성적서_발급_주_금강환경연구원_20250718.jpeg",
+        "path": "농사/20250610_지하수개발공사/지하수_먹는물_수질검사_성적서_발급_주_금강환경연구원_20250718.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1060550,
+        "size_human": "1.0 MB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "지하수개발공사.md",
+        "path": "농사/20250610_지하수개발공사/지하수개발공사.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 650,
+        "size_human": "650 B",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 0,
+    "total_size": 3808526,
+    "total_size_human": "3.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260306_윌로펌프_고장_ERR_02.md",
+      "path": "농사/20250610_지하수개발공사/20260306_윌로펌프_고장_ERR_02.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 263,
+      "size_human": "263 B",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "동양개발_견적서_지하수개발공사_KakaoTalk_Photo_2025-06-10-19-21-21.jpeg",
+      "path": "농사/20250610_지하수개발공사/동양개발_견적서_지하수개발공사_KakaoTalk_Photo_2025-06-10-19-21-21.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 231146,
+      "size_human": "225.7 KB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "윌로펌프_제어기_KakaoTalk_Photo_2026-03-08-13-00-47.jpeg",
+      "path": "농사/20250610_지하수개발공사/윌로펌프_제어기_KakaoTalk_Photo_2026-03-08-13-00-47.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2515917,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "지하수_먹는물_수질검사_성적서_발급_주_금강환경연구원_20250718.jpeg",
+      "path": "농사/20250610_지하수개발공사/지하수_먹는물_수질검사_성적서_발급_주_금강환경연구원_20250718.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1060550,
+      "size_human": "1.0 MB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "지하수개발공사.md",
+      "path": "농사/20250610_지하수개발공사/지하수개발공사.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 650,
+      "size_human": "650 B",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

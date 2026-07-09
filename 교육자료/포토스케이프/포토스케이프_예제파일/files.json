@@ -1,0 +1,637 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_예제파일",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 232,
+    "directory_count": 17,
+    "direct_file_count": 5,
+    "direct_directory_count": 15,
+    "total_size": 229104220,
+    "total_size_human": "218.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "포토스케이프_예제파일",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일",
+    "index": "교육자료/포토스케이프/포토스케이프_예제파일/files.json",
+    "modified": "2026-07-09T17:48:59+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "01장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 9,
+        "directory_count": 0,
+        "total_size": 19732378,
+        "total_size_human": "18.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "02장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 18,
+        "directory_count": 1,
+        "total_size": 29551353,
+        "total_size_human": "28.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "03장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/03장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/03장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 8,
+        "directory_count": 0,
+        "total_size": 16068972,
+        "total_size_human": "15.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "04장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/04장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/04장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 8,
+        "directory_count": 0,
+        "total_size": 5614087,
+        "total_size_human": "5.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "05장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 10840401,
+        "total_size_human": "10.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "06장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/06장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/06장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 9,
+        "directory_count": 0,
+        "total_size": 2734003,
+        "total_size_human": "2.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "07장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 16,
+        "directory_count": 0,
+        "total_size": 4971576,
+        "total_size_human": "4.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "08장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 1130838,
+        "total_size_human": "1.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "09장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/09장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/09장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 3613356,
+        "total_size_human": "3.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "10장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/10장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/10장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 19,
+        "directory_count": 0,
+        "total_size": 3017769,
+        "total_size_human": "2.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "11장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 18,
+        "directory_count": 0,
+        "total_size": 3651933,
+        "total_size_human": "3.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "12장 예제",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/12장 예제",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/12장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 10,
+        "directory_count": 0,
+        "total_size": 2467560,
+        "total_size_human": "2.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Originals",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/Originals",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/Originals/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 196946,
+        "total_size_human": "192.3 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "편집사진",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 72,
+        "directory_count": 1,
+        "total_size": 90609773,
+        "total_size_human": "86.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "평택.농업기술원.교육.선택사진",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/평택.농업기술원.교육.선택사진",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/평택.농업기술원.교육.선택사진/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 22,
+        "directory_count": 0,
+        "total_size": 31900704,
+        "total_size_human": "30.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "free-icon-cloud-7093412.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/free-icon-cloud-7093412.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 16338,
+        "size_human": "16.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "leaf.png.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/leaf.png.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 19832,
+        "size_human": "19.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "leaf2.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/leaf2.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 40617,
+        "size_human": "39.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 9216,
+        "size_human": "9.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "pngwing.com.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/pngwing.com.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 2916568,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 232,
+    "directory_count": 17,
+    "total_size": 229104220,
+    "total_size_human": "218.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "free-icon-cloud-7093412.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/free-icon-cloud-7093412.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 16338,
+      "size_human": "16.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "leaf.png.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/leaf.png.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 19832,
+      "size_human": "19.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "leaf2.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/leaf2.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 40617,
+      "size_human": "39.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 9216,
+      "size_human": "9.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "pngwing.com.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/pngwing.com.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 2916568,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "01장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 9,
+      "directory_count": 0,
+      "total_size": 19732378,
+      "total_size_human": "18.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "02장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 18,
+      "directory_count": 1,
+      "total_size": 29551353,
+      "total_size_human": "28.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "03장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/03장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/03장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 8,
+      "directory_count": 0,
+      "total_size": 16068972,
+      "total_size_human": "15.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "04장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/04장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/04장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 8,
+      "directory_count": 0,
+      "total_size": 5614087,
+      "total_size_human": "5.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "05장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/05장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 10840401,
+      "total_size_human": "10.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "06장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/06장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/06장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 9,
+      "directory_count": 0,
+      "total_size": 2734003,
+      "total_size_human": "2.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "07장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 16,
+      "directory_count": 0,
+      "total_size": 4971576,
+      "total_size_human": "4.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "08장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/08장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 1130838,
+      "total_size_human": "1.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "09장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/09장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/09장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 3613356,
+      "total_size_human": "3.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "10장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/10장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/10장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 19,
+      "directory_count": 0,
+      "total_size": 3017769,
+      "total_size_human": "2.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "11장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 18,
+      "directory_count": 0,
+      "total_size": 3651933,
+      "total_size_human": "3.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "12장 예제",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/12장 예제",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/12장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 10,
+      "directory_count": 0,
+      "total_size": 2467560,
+      "total_size_human": "2.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Originals",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/Originals",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/Originals/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 196946,
+      "total_size_human": "192.3 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "편집사진",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 72,
+      "directory_count": 1,
+      "total_size": 90609773,
+      "total_size_human": "86.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "평택.농업기술원.교육.선택사진",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/평택.농업기술원.교육.선택사진",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/평택.농업기술원.교육.선택사진/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 22,
+      "directory_count": 0,
+      "total_size": 31900704,
+      "total_size_human": "30.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

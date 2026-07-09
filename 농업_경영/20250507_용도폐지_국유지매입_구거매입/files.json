@@ -1,0 +1,497 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/20250507_용도폐지_국유지매입_구거매입",
+    "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 305,
+    "directory_count": 5,
+    "direct_file_count": 9,
+    "direct_directory_count": 5,
+    "total_size": 969086874,
+    "total_size_human": "924.2 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20250507_용도폐지_국유지매입_구거매입",
+    "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입",
+    "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/files.json",
+    "modified": "2026-07-09T17:49:06+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20250513_구거_매입_준비",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비",
+        "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/files.json",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "file_count": 142,
+        "directory_count": 0,
+        "total_size": 462725682,
+        "total_size_human": "441.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "국유_농도로_구매",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매",
+        "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매/files.json",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 8038175,
+        "total_size_human": "7.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "사진촬영_원본_QuickShare_2505131202",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/사진촬영_원본_QuickShare_2505131202",
+        "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/사진촬영_원본_QuickShare_2505131202/files.json",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "file_count": 142,
+        "directory_count": 0,
+        "total_size": 462725682,
+        "total_size_human": "441.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "신청서류",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류",
+        "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/files.json",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "file_count": 6,
+        "directory_count": 0,
+        "total_size": 8640440,
+        "total_size_human": "8.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "현황도",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/현황도",
+        "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/현황도/files.json",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 1328395,
+        "total_size_human": "1.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "(양식)국유재산용도폐지신청서.hwp",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/(양식)국유재산용도폐지신청서.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 38400,
+        "size_human": "37.5 KB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "@용도폐지 신청서(샘플).hwp",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/@용도폐지 신청서(샘플).hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 87552,
+        "size_human": "85.5 KB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "국유재산사용허가신청서.hwp",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유재산사용허가신청서.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 44032,
+        "size_human": "43.0 KB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "용도폐지 신청서_대산읍_화곡리_29-30-31.hwp",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/용도폐지 신청서_대산읍_화곡리_29-30-31.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 87552,
+        "size_human": "85.5 KB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "용도폐지.국유지.매입.md",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/용도폐지.국유지.매입.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 1810,
+        "size_human": "1.8 KB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "위치도-화곡리-667-29.png",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/위치도-화곡리-667-29.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 8212411,
+        "size_human": "7.8 MB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "위치도-화곡리-667-30.png",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/위치도-화곡리-667-30.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 8535931,
+        "size_human": "8.1 MB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "행정재산의 용도폐지 절차.jpg",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/행정재산의 용도폐지 절차.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 58369,
+        "size_human": "57.0 KB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "화곡리-위치도-667-31.png",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/화곡리-위치도-667-31.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 8562443,
+        "size_human": "8.2 MB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 305,
+    "directory_count": 5,
+    "total_size": 969086874,
+    "total_size_human": "924.2 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "(양식)국유재산용도폐지신청서.hwp",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/(양식)국유재산용도폐지신청서.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 38400,
+      "size_human": "37.5 KB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "@용도폐지 신청서(샘플).hwp",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/@용도폐지 신청서(샘플).hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 87552,
+      "size_human": "85.5 KB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "국유재산사용허가신청서.hwp",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유재산사용허가신청서.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 44032,
+      "size_human": "43.0 KB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "용도폐지 신청서_대산읍_화곡리_29-30-31.hwp",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/용도폐지 신청서_대산읍_화곡리_29-30-31.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 87552,
+      "size_human": "85.5 KB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "용도폐지.국유지.매입.md",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/용도폐지.국유지.매입.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 1810,
+      "size_human": "1.8 KB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "위치도-화곡리-667-29.png",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/위치도-화곡리-667-29.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 8212411,
+      "size_human": "7.8 MB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "위치도-화곡리-667-30.png",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/위치도-화곡리-667-30.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 8535931,
+      "size_human": "8.1 MB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "행정재산의 용도폐지 절차.jpg",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/행정재산의 용도폐지 절차.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 58369,
+      "size_human": "57.0 KB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "화곡리-위치도-667-31.png",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/화곡리-위치도-667-31.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 8562443,
+      "size_human": "8.2 MB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20250513_구거_매입_준비",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비",
+      "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/20250513_구거_매입_준비/files.json",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "file_count": 142,
+      "directory_count": 0,
+      "total_size": 462725682,
+      "total_size_human": "441.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "국유_농도로_구매",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매",
+      "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매/files.json",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 8038175,
+      "total_size_human": "7.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "사진촬영_원본_QuickShare_2505131202",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/사진촬영_원본_QuickShare_2505131202",
+      "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/사진촬영_원본_QuickShare_2505131202/files.json",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "file_count": 142,
+      "directory_count": 0,
+      "total_size": 462725682,
+      "total_size_human": "441.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "신청서류",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류",
+      "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/files.json",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "file_count": 6,
+      "directory_count": 0,
+      "total_size": 8640440,
+      "total_size_human": "8.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "현황도",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/현황도",
+      "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/현황도/files.json",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 1328395,
+      "total_size_human": "1.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

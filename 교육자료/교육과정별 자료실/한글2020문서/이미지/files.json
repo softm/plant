@@ -1,0 +1,1176 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/한글2020문서/이미지",
+    "path": "교육자료/교육과정별 자료실/한글2020문서/이미지",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 38,
+    "directory_count": 0,
+    "direct_file_count": 38,
+    "direct_directory_count": 0,
+    "total_size": 11845328,
+    "total_size_human": "11.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "이미지",
+    "path": "교육자료/교육과정별 자료실/한글2020문서/이미지",
+    "index": "교육자료/교육과정별 자료실/한글2020문서/이미지/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "OCR.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/OCR.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 556366,
+        "size_human": "543.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 156672,
+        "size_human": "153.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "가을.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/가을.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 530530,
+        "size_human": "518.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "강화평화전망대.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/강화평화전망대.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 301859,
+        "size_human": "294.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "구운음식.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/구운음식.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 490604,
+        "size_human": "479.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "눙구.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/눙구.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 181928,
+        "size_human": "177.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "다당류.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/다당류.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 41450,
+        "size_human": "40.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "리움박물관.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/리움박물관.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 297514,
+        "size_human": "290.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "맥아.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/맥아.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 41890,
+        "size_human": "40.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "메이플시럽.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/메이플시럽.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 302250,
+        "size_human": "295.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "모차르트.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/모차르트.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 258957,
+        "size_human": "252.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "미용사.bmp",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/미용사.bmp",
+        "extension": "bmp",
+        "group": "image",
+        "mime_type": "image/bmp",
+        "size": 571384,
+        "size_human": "558.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "배구.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/배구.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 169186,
+        "size_human": "165.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "배영.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/배영.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 235453,
+        "size_human": "229.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "사과.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/사과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 371593,
+        "size_human": "362.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "삶은음식.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/삶은음식.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 474937,
+        "size_human": "463.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "석파정.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/석파정.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 83872,
+        "size_human": "81.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "센과치히로의 행방불명.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/센과치히로의 행방불명.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 436202,
+        "size_human": "426.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "소전.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/소전.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 324474,
+        "size_human": "316.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "송월동동화마을.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/송월동동화마을.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 486968,
+        "size_human": "475.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "안압지.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/안압지.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 197534,
+        "size_human": "192.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "에너지.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/에너지.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 118901,
+        "size_human": "116.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "에너지1.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/에너지1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 606401,
+        "size_human": "592.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "우유.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/우유.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 414627,
+        "size_human": "404.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "월미테마파크.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/월미테마파크.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 108900,
+        "size_human": "106.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "이당류.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/이당류.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 58501,
+        "size_human": "57.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "자동차1.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/자동차1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 489516,
+        "size_human": "478.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "자동차2.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/자동차2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 436061,
+        "size_human": "425.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "자동차3.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/자동차3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 388499,
+        "size_human": "379.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "자유형.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/자유형.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 198147,
+        "size_human": "193.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "접영.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/접영.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 218058,
+        "size_human": "212.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "축구.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/축구.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 323836,
+        "size_human": "316.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "탄수화물.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/탄수화물.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 517902,
+        "size_human": "505.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "탈.png",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/탈.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 131724,
+        "size_human": "128.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "토종음식.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/토종음식.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 177703,
+        "size_human": "173.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "토토로.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/토토로.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 312506,
+        "size_human": "305.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "포도.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/포도.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 420109,
+        "size_human": "410.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "하울성.jpg",
+        "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/하울성.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 412314,
+        "size_human": "402.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 38,
+    "directory_count": 0,
+    "total_size": 11845328,
+    "total_size_human": "11.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "OCR.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/OCR.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 556366,
+      "size_human": "543.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 156672,
+      "size_human": "153.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "가을.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/가을.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 530530,
+      "size_human": "518.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "강화평화전망대.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/강화평화전망대.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 301859,
+      "size_human": "294.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "구운음식.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/구운음식.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 490604,
+      "size_human": "479.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "눙구.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/눙구.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 181928,
+      "size_human": "177.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "다당류.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/다당류.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 41450,
+      "size_human": "40.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "리움박물관.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/리움박물관.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 297514,
+      "size_human": "290.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "맥아.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/맥아.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 41890,
+      "size_human": "40.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "메이플시럽.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/메이플시럽.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 302250,
+      "size_human": "295.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "모차르트.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/모차르트.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 258957,
+      "size_human": "252.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "미용사.bmp",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/미용사.bmp",
+      "extension": "bmp",
+      "group": "image",
+      "mime_type": "image/bmp",
+      "size": 571384,
+      "size_human": "558.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "배구.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/배구.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 169186,
+      "size_human": "165.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "배영.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/배영.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 235453,
+      "size_human": "229.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "사과.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/사과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 371593,
+      "size_human": "362.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "삶은음식.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/삶은음식.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 474937,
+      "size_human": "463.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "석파정.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/석파정.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 83872,
+      "size_human": "81.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "센과치히로의 행방불명.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/센과치히로의 행방불명.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 436202,
+      "size_human": "426.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "소전.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/소전.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 324474,
+      "size_human": "316.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "송월동동화마을.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/송월동동화마을.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 486968,
+      "size_human": "475.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "안압지.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/안압지.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 197534,
+      "size_human": "192.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "에너지.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/에너지.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 118901,
+      "size_human": "116.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "에너지1.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/에너지1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 606401,
+      "size_human": "592.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "우유.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/우유.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 414627,
+      "size_human": "404.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "월미테마파크.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/월미테마파크.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 108900,
+      "size_human": "106.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "이당류.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/이당류.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 58501,
+      "size_human": "57.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "자동차1.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/자동차1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 489516,
+      "size_human": "478.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "자동차2.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/자동차2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 436061,
+      "size_human": "425.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "자동차3.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/자동차3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 388499,
+      "size_human": "379.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "자유형.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/자유형.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 198147,
+      "size_human": "193.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "접영.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/접영.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 218058,
+      "size_human": "212.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "축구.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/축구.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 323836,
+      "size_human": "316.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "탄수화물.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/탄수화물.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 517902,
+      "size_human": "505.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "탈.png",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/탈.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 131724,
+      "size_human": "128.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "토종음식.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/토종음식.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 177703,
+      "size_human": "173.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "토토로.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/토토로.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 312506,
+      "size_human": "305.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "포도.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/포도.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 420109,
+      "size_human": "410.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "하울성.jpg",
+      "path": "교육자료/교육과정별 자료실/한글2020문서/이미지/하울성.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 412314,
+      "size_human": "402.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

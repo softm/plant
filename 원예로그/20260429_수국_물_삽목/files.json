@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/원예로그/20260429_수국_물_삽목",
+    "path": "원예로그/20260429_수국_물_삽목",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 0,
+    "direct_file_count": 5,
+    "direct_directory_count": 0,
+    "total_size": 8772419,
+    "total_size_human": "8.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260429_수국_물_삽목",
+    "path": "원예로그/20260429_수국_물_삽목",
+    "index": "원예로그/20260429_수국_물_삽목/files.json",
+    "modified": "2026-07-09T17:49:12+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-30-15-46-56.jpeg",
+        "path": "원예로그/20260429_수국_물_삽목/KakaoTalk_Photo_2026-04-30-15-46-56.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1342837,
+        "size_human": "1.3 MB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-30-15-46-59.jpeg",
+        "path": "원예로그/20260429_수국_물_삽목/KakaoTalk_Photo_2026-04-30-15-46-59.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1466270,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-30-15-47-02.jpeg",
+        "path": "원예로그/20260429_수국_물_삽목/KakaoTalk_Photo_2026-04-30-15-47-02.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1578234,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-30-15-47-06.jpeg",
+        "path": "원예로그/20260429_수국_물_삽목/KakaoTalk_Photo_2026-04-30-15-47-06.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2397894,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-30-15-47-09.jpeg",
+        "path": "원예로그/20260429_수국_물_삽목/KakaoTalk_Photo_2026-04-30-15-47-09.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1987184,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 0,
+    "total_size": 8772419,
+    "total_size_human": "8.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-30-15-46-56.jpeg",
+      "path": "원예로그/20260429_수국_물_삽목/KakaoTalk_Photo_2026-04-30-15-46-56.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1342837,
+      "size_human": "1.3 MB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-30-15-46-59.jpeg",
+      "path": "원예로그/20260429_수국_물_삽목/KakaoTalk_Photo_2026-04-30-15-46-59.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1466270,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-30-15-47-02.jpeg",
+      "path": "원예로그/20260429_수국_물_삽목/KakaoTalk_Photo_2026-04-30-15-47-02.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1578234,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-30-15-47-06.jpeg",
+      "path": "원예로그/20260429_수국_물_삽목/KakaoTalk_Photo_2026-04-30-15-47-06.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2397894,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-30-15-47-09.jpeg",
+      "path": "원예로그/20260429_수국_물_삽목/KakaoTalk_Photo_2026-04-30-15-47-09.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1987184,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

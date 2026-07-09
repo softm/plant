@@ -1,0 +1,456 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 14,
+    "directory_count": 0,
+    "direct_file_count": 14,
+    "direct_directory_count": 0,
+    "total_size": 177990462,
+    "total_size_human": "169.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.슈퍼오닝농업대학.열린강좌.09.11.13",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13",
+    "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/files.json",
+    "modified": "2026-07-09T17:48:32+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "2023.11.13.09강.md",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/2023.11.13.09강.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 100,
+        "size_human": "100 B",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023_11_13_13_51_53_01.mp3",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/2023_11_13_13_51_53_01.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 62400512,
+        "size_human": "59.5 MB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023_11_13_13_51_53_02.mp3",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/2023_11_13_13_51_53_02.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 58039949,
+        "size_human": "55.4 MB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023_11_13_15_58_16.mp3",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/2023_11_13_15_58_16.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 54117759,
+        "size_human": "51.6 MB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "실생활에 유익한 기초법률지식.1.01.jpeg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.01.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 265499,
+        "size_human": "259.3 KB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "실생활에 유익한 기초법률지식.1.02.jpeg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.02.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 419183,
+        "size_human": "409.4 KB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "실생활에 유익한 기초법률지식.1.03.jpeg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.03.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 310938,
+        "size_human": "303.7 KB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "실생활에 유익한 기초법률지식.1.04.jpeg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.04.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 497164,
+        "size_human": "485.5 KB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "실생활에 유익한 기초법률지식.1.05.jpeg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.05.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 256412,
+        "size_human": "250.4 KB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "실생활에 유익한 기초법률지식.1.06.jpeg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.06.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 404643,
+        "size_human": "395.2 KB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "실생활에 유익한 기초법률지식.1.07.jpeg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.07.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 367365,
+        "size_human": "358.8 KB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "실생활에 유익한 기초법률지식.1.08.jpeg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.08.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 345815,
+        "size_human": "337.7 KB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "실생활에 유익한 기초법률지식.1.09.jpeg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.09.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 352728,
+        "size_human": "344.5 KB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "실생활에 유익한 기초법률지식.1.10.jpeg",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.10.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 212395,
+        "size_human": "207.4 KB",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 14,
+    "directory_count": 0,
+    "total_size": 177990462,
+    "total_size_human": "169.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2023.11.13.09강.md",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/2023.11.13.09강.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 100,
+      "size_human": "100 B",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023_11_13_13_51_53_01.mp3",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/2023_11_13_13_51_53_01.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 62400512,
+      "size_human": "59.5 MB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023_11_13_13_51_53_02.mp3",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/2023_11_13_13_51_53_02.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 58039949,
+      "size_human": "55.4 MB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023_11_13_15_58_16.mp3",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/2023_11_13_15_58_16.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 54117759,
+      "size_human": "51.6 MB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "실생활에 유익한 기초법률지식.1.01.jpeg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.01.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 265499,
+      "size_human": "259.3 KB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "실생활에 유익한 기초법률지식.1.02.jpeg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.02.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 419183,
+      "size_human": "409.4 KB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "실생활에 유익한 기초법률지식.1.03.jpeg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.03.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 310938,
+      "size_human": "303.7 KB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "실생활에 유익한 기초법률지식.1.04.jpeg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.04.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 497164,
+      "size_human": "485.5 KB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "실생활에 유익한 기초법률지식.1.05.jpeg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.05.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 256412,
+      "size_human": "250.4 KB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "실생활에 유익한 기초법률지식.1.06.jpeg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.06.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 404643,
+      "size_human": "395.2 KB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "실생활에 유익한 기초법률지식.1.07.jpeg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.07.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 367365,
+      "size_human": "358.8 KB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "실생활에 유익한 기초법률지식.1.08.jpeg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.08.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 345815,
+      "size_human": "337.7 KB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "실생활에 유익한 기초법률지식.1.09.jpeg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.09.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 352728,
+      "size_human": "344.5 KB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "실생활에 유익한 기초법률지식.1.10.jpeg",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/실생활에 유익한 기초법률지식.1.10.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 212395,
+      "size_human": "207.4 KB",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

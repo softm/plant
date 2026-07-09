@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/농업경영체/20240627_농업경영체_신청/농산물품질관리원_서산시_담당자_농지도_캡처",
+    "path": "농업_경영/농업경영체/20240627_농업경영체_신청/농산물품질관리원_서산시_담당자_농지도_캡처",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 7330703,
+    "total_size_human": "7.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "농산물품질관리원_서산시_담당자_농지도_캡처",
+    "path": "농업_경영/농업경영체/20240627_농업경영체_신청/농산물품질관리원_서산시_담당자_농지도_캡처",
+    "index": "농업_경영/농업경영체/20240627_농업경영체_신청/농산물품질관리원_서산시_담당자_농지도_캡처/files.json",
+    "modified": "2026-07-09T17:49:07+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "Resized_20240805_103113.jpeg",
+        "path": "농업_경영/농업경영체/20240627_농업경영체_신청/농산물품질관리원_서산시_담당자_농지도_캡처/Resized_20240805_103113.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2044499,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Resized_20240805_103220.jpeg",
+        "path": "농업_경영/농업경영체/20240627_농업경영체_신청/농산물품질관리원_서산시_담당자_농지도_캡처/Resized_20240805_103220.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3405216,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Resized_20240805_103918.jpeg",
+        "path": "농업_경영/농업경영체/20240627_농업경영체_신청/농산물품질관리원_서산시_담당자_농지도_캡처/Resized_20240805_103918.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1880988,
+        "size_human": "1.8 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 7330703,
+    "total_size_human": "7.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "Resized_20240805_103113.jpeg",
+      "path": "농업_경영/농업경영체/20240627_농업경영체_신청/농산물품질관리원_서산시_담당자_농지도_캡처/Resized_20240805_103113.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2044499,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Resized_20240805_103220.jpeg",
+      "path": "농업_경영/농업경영체/20240627_농업경영체_신청/농산물품질관리원_서산시_담당자_농지도_캡처/Resized_20240805_103220.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3405216,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Resized_20240805_103918.jpeg",
+      "path": "농업_경영/농업경영체/20240627_농업경영체_신청/농산물품질관리원_서산시_담당자_농지도_캡처/Resized_20240805_103918.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1880988,
+      "size_human": "1.8 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

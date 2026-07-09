@@ -1,0 +1,336 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 10,
+    "directory_count": 0,
+    "direct_file_count": 10,
+    "direct_directory_count": 0,
+    "total_size": 23034854,
+    "total_size_human": "22.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "친환경농업관리실.미생물.견학",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학",
+    "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/files.json",
+    "modified": "2026-07-09T17:48:16+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-10-19-12-12-09 001.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-09 001.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2738673,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-10-19-12-12-11 002.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-11 002.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2120545,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-10-19-12-12-14 003.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-14 003.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1819335,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-10-19-12-12-14 004.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-14 004.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2698328,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-10-19-12-12-19 005.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-19 005.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2635606,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-10-19-12-12-23 006.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-23 006.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1912753,
+        "size_human": "1.8 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-10-19-12-12-27 007.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-27 007.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2326448,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-10-19-12-12-32 008.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-32 008.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2471195,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-10-19-12-12-37 009.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-37 009.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2504494,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-10-19-12-12-41 010.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-41 010.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1807477,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 10,
+    "directory_count": 0,
+    "total_size": 23034854,
+    "total_size_human": "22.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-10-19-12-12-09 001.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-09 001.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2738673,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-10-19-12-12-11 002.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-11 002.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2120545,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-10-19-12-12-14 003.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-14 003.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1819335,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-10-19-12-12-14 004.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-14 004.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2698328,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-10-19-12-12-19 005.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-19 005.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2635606,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-10-19-12-12-23 006.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-23 006.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1912753,
+      "size_human": "1.8 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-10-19-12-12-27 007.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-27 007.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2326448,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-10-19-12-12-32 008.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-32 008.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2471195,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-10-19-12-12-37 009.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-37 009.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2504494,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-10-19-12-12-41 010.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/KakaoTalk_Photo_2023-10-19-12-12-41 010.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1807477,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

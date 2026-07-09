@@ -1,0 +1,1086 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식",
+    "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 35,
+    "directory_count": 0,
+    "direct_file_count": 35,
+    "direct_directory_count": 0,
+    "total_size": 479463753,
+    "total_size_human": "457.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "01_20250611_스마트팜 구축과 사업설계_김영식",
+    "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식",
+    "index": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/files.json",
+    "modified": "2026-07-09T17:48:36+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20250611_091256.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091256.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2754825,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250611_091304_001.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091304_001.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3024237,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250611_091305.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091305.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4015205,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250611_091306.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091306.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3520967,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250611_091308.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091308.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3292182,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250611_091719.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091719.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2327720,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250611_091720.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091720.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2464235,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250611_091725.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091725.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2131282,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250611_093406.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_093406.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1236619,
+        "size_human": "1.2 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250611_100155.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_100155.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1112763,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250611_100828.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_100828.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1421646,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250611_100833.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_100833.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1170109,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.001",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.001",
+        "extension": "001",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.002",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.002",
+        "extension": "002",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.003",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.003",
+        "extension": "003",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.004",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.004",
+        "extension": "004",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.005",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.005",
+        "extension": "005",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.006",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.006",
+        "extension": "006",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.007",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.007",
+        "extension": "007",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.008",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.008",
+        "extension": "008",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.009",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.009",
+        "extension": "009",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.010",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.010",
+        "extension": "010",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.011",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.011",
+        "extension": "011",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.012",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.012",
+        "extension": "012",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.013",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.013",
+        "extension": "013",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.014",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.014",
+        "extension": "014",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.015",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.015",
+        "extension": "015",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.016",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.016",
+        "extension": "016",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.017",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.017",
+        "extension": "017",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.018",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.018",
+        "extension": "018",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.019",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.019",
+        "extension": "019",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.020",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.020",
+        "extension": "020",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.021",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.021",
+        "extension": "021",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.022",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.022",
+        "extension": "022",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.023",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.023",
+        "extension": "023",
+        "group": "other",
+        "mime_type": null,
+        "size": 10991963,
+        "size_human": "10.5 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 35,
+    "directory_count": 0,
+    "total_size": 479463753,
+    "total_size_human": "457.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20250611_091256.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091256.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2754825,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250611_091304_001.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091304_001.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3024237,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250611_091305.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091305.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4015205,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250611_091306.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091306.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3520967,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250611_091308.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091308.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3292182,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250611_091719.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091719.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2327720,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250611_091720.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091720.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2464235,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250611_091725.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_091725.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2131282,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250611_093406.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_093406.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1236619,
+      "size_human": "1.2 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250611_100155.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_100155.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1112763,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250611_100828.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_100828.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1421646,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250611_100833.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/20250611_100833.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1170109,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.001",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.001",
+      "extension": "001",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.002",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.002",
+      "extension": "002",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.003",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.003",
+      "extension": "003",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.004",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.004",
+      "extension": "004",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.005",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.005",
+      "extension": "005",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.006",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.006",
+      "extension": "006",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.007",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.007",
+      "extension": "007",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.008",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.008",
+      "extension": "008",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.009",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.009",
+      "extension": "009",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.010",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.010",
+      "extension": "010",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.011",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.011",
+      "extension": "011",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.012",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.012",
+      "extension": "012",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.013",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.013",
+      "extension": "013",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.014",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.014",
+      "extension": "014",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.015",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.015",
+      "extension": "015",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.016",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.016",
+      "extension": "016",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.017",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.017",
+      "extension": "017",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.018",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.018",
+      "extension": "018",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.019",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.019",
+      "extension": "019",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.020",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.020",
+      "extension": "020",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.021",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.021",
+      "extension": "021",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.022",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.022",
+      "extension": "022",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.023",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/01_20250611_스마트팜 구축과 사업설계_김영식/아카이브.zip.023",
+      "extension": "023",
+      "group": "other",
+      "mime_type": null,
+      "size": 10991963,
+      "size_human": "10.5 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

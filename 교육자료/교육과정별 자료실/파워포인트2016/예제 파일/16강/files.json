@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 26221616,
+    "total_size_human": "25.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "16강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강",
+    "index": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "16강.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강/16강.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 24035201,
+        "size_human": "22.9 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/93699e579c7fc5e2.pptx.txt",
+          "size": 582,
+          "size_human": "582 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "매출1.jpg",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강/매출1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 80000,
+        "size_human": "78.1 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "표사진.png",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강/표사진.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 1801231,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "표연습.jpg",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강/표연습.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 305184,
+        "size_human": "298.0 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 26221616,
+    "total_size_human": "25.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "16강.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강/16강.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 24035201,
+      "size_human": "22.9 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/93699e579c7fc5e2.pptx.txt",
+        "size": 582,
+        "size_human": "582 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "매출1.jpg",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강/매출1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 80000,
+      "size_human": "78.1 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "표사진.png",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강/표사진.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 1801231,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "표연습.jpg",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/16강/표연습.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 305184,
+      "size_human": "298.0 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_결과파일/08장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 0,
+    "direct_file_count": 5,
+    "direct_directory_count": 0,
+    "total_size": 608941,
+    "total_size_human": "594.7 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "08장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과",
+    "index": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "들꽃-배경.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과/들꽃-배경.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 285078,
+        "size_human": "278.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "디딤돌 학습2.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과/디딤돌 학습2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 151225,
+        "size_human": "147.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "쑥이로고-결과.png",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과/쑥이로고-결과.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 14962,
+        "size_human": "14.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "주니-결과.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과/주니-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 145421,
+        "size_human": "142.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "주니로고-결과.png",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과/주니로고-결과.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 12255,
+        "size_human": "12.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 0,
+    "total_size": 608941,
+    "total_size_human": "594.7 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "들꽃-배경.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과/들꽃-배경.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 285078,
+      "size_human": "278.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "디딤돌 학습2.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과/디딤돌 학습2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 151225,
+      "size_human": "147.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "쑥이로고-결과.png",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과/쑥이로고-결과.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 14962,
+      "size_human": "14.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "주니-결과.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과/주니-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 145421,
+      "size_human": "142.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "주니로고-결과.png",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/08장 결과/주니로고-결과.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 12255,
+      "size_human": "12.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

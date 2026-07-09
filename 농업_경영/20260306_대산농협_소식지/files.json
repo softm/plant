@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/20260306_대산농협_소식지",
+    "path": "농업_경영/20260306_대산농협_소식지",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 11863250,
+    "total_size_human": "11.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260306_대산농협_소식지",
+    "path": "농업_경영/20260306_대산농협_소식지",
+    "index": "농업_경영/20260306_대산농협_소식지/files.json",
+    "modified": "2026-07-09T17:49:07+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "01_KakaoTalk_Photo_2026-03-09-09-02-37.jpeg",
+        "path": "농업_경영/20260306_대산농협_소식지/01_KakaoTalk_Photo_2026-03-09-09-02-37.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3631706,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "02_KakaoTalk_Photo_2026-03-09-09-00-01.jpeg",
+        "path": "농업_경영/20260306_대산농협_소식지/02_KakaoTalk_Photo_2026-03-09-09-00-01.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4021815,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "03_KakaoTalk_Photo_2026-03-09-09-00-06.jpeg",
+        "path": "농업_경영/20260306_대산농협_소식지/03_KakaoTalk_Photo_2026-03-09-09-00-06.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4209729,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 11863250,
+    "total_size_human": "11.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "01_KakaoTalk_Photo_2026-03-09-09-02-37.jpeg",
+      "path": "농업_경영/20260306_대산농협_소식지/01_KakaoTalk_Photo_2026-03-09-09-02-37.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3631706,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "02_KakaoTalk_Photo_2026-03-09-09-00-01.jpeg",
+      "path": "농업_경영/20260306_대산농협_소식지/02_KakaoTalk_Photo_2026-03-09-09-00-01.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4021815,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "03_KakaoTalk_Photo_2026-03-09-09-00-06.jpeg",
+      "path": "농업_경영/20260306_대산농협_소식지/03_KakaoTalk_Photo_2026-03-09-09-00-06.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4209729,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

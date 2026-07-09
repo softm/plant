@@ -1,0 +1,607 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/구매로그",
+    "path": "구매로그",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 90,
+    "directory_count": 18,
+    "direct_file_count": 4,
+    "direct_directory_count": 15,
+    "total_size": 193574816,
+    "total_size_human": "184.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "구매로그",
+    "path": "구매로그",
+    "index": "구매로그/files.json",
+    "modified": "2026-07-09T17:49:00+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20260428_루팅파우더_발근제",
+        "path": "구매로그/20260428_루팅파우더_발근제",
+        "index": "구매로그/20260428_루팅파우더_발근제/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 15498633,
+        "total_size_human": "14.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260501_호스릴_호스감개_모자_알리",
+        "path": "구매로그/20260501_호스릴_호스감개_모자_알리",
+        "index": "구매로그/20260501_호스릴_호스감개_모자_알리/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 11,
+        "directory_count": 0,
+        "total_size": 23032378,
+        "total_size_human": "22.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260503_4방향_플라스틱_볼밸브_전지가위_테무",
+        "path": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무",
+        "index": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 8,
+        "directory_count": 0,
+        "total_size": 20245576,
+        "total_size_human": "19.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260509_130,000 RPM으로 작동하는 cordless 핸디형 진공 청소기_테무",
+        "path": "구매로그/20260509_130,000 RPM으로 작동하는 cordless 핸디형 진공 청소기_테무",
+        "index": "구매로그/20260509_130,000 RPM으로 작동하는 cordless 핸디형 진공 청소기_테무/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 6,
+        "directory_count": 0,
+        "total_size": 10952993,
+        "total_size_human": "10.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260512_잡초제거기_삽자루_테무_주문이력",
+        "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력",
+        "index": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 3111678,
+        "total_size_human": "3.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260519_10PCS 강력한 자석 후크_알리",
+        "path": "구매로그/20260519_10PCS 강력한 자석 후크_알리",
+        "index": "구매로그/20260519_10PCS 강력한 자석 후크_알리/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 1,
+        "directory_count": 0,
+        "total_size": 2701724,
+        "total_size_human": "2.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260519_6-in-1 차량용 고속 충전기_4포트 USB2포트 Type-C 차량용 충전기 66W 고속 충전_테무",
+        "path": "구매로그/20260519_6-in-1 차량용 고속 충전기_4포트 USB2포트 Type-C 차량용 충전기 66W 고속 충전_테무",
+        "index": "구매로그/20260519_6-in-1 차량용 고속 충전기_4포트 USB2포트 Type-C 차량용 충전기 66W 고속 충전_테무/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 6,
+        "directory_count": 0,
+        "total_size": 14259010,
+        "total_size_human": "13.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260519_삽자루_테무",
+        "path": "구매로그/20260519_삽자루_테무",
+        "index": "구매로그/20260519_삽자루_테무/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 9,
+        "directory_count": 3,
+        "total_size": 18447666,
+        "total_size_human": "17.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260519_새로운 3-In-1 다기능 양동력 제초기_테무",
+        "path": "구매로그/20260519_새로운 3-In-1 다기능 양동력 제초기_테무",
+        "index": "구매로그/20260519_새로운 3-In-1 다기능 양동력 제초기_테무/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 8,
+        "directory_count": 0,
+        "total_size": 19768431,
+        "total_size_human": "18.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260519_신형 휴대용 무선 청소기 _테무",
+        "path": "구매로그/20260519_신형 휴대용 무선 청소기 _테무",
+        "index": "구매로그/20260519_신형 휴대용 무선 청소기 _테무/files.json",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "file_count": 6,
+        "directory_count": 0,
+        "total_size": 12148003,
+        "total_size_human": "11.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260519_안경세척기_알리",
+        "path": "구매로그/20260519_안경세척기_알리",
+        "index": "구매로그/20260519_안경세척기_알리/files.json",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 4621570,
+        "total_size_human": "4.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260521_X8 브러시리스 터보 제트 팬 블로워 150000RPM 강력한 전기 에어 블로워 진공 먼지 청소기 휴대용_알리",
+        "path": "구매로그/20260521_X8 브러시리스 터보 제트 팬 블로워 150000RPM 강력한 전기 에어 블로워 진공 먼지 청소기 휴대용_알리",
+        "index": "구매로그/20260521_X8 브러시리스 터보 제트 팬 블로워 150000RPM 강력한 전기 에어 블로워 진공 먼지 청소기 휴대용_알리/files.json",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "file_count": 10,
+        "directory_count": 0,
+        "total_size": 21733646,
+        "total_size_human": "20.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무",
+        "path": "구매로그/20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무",
+        "index": "구매로그/20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무/files.json",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 3814356,
+        "total_size_human": "3.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260522_1개 분홍색 휴대용 손잡이 진공청소기_테무",
+        "path": "구매로그/20260522_1개 분홍색 휴대용 손잡이 진공청소기_테무",
+        "index": "구매로그/20260522_1개 분홍색 휴대용 손잡이 진공청소기_테무/files.json",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "file_count": 4,
+        "directory_count": 0,
+        "total_size": 6300115,
+        "total_size_human": "6.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260522_IDOLPA 모션식 자동 회전 스프링클러_테무",
+        "path": "구매로그/20260522_IDOLPA 모션식 자동 회전 스프링클러_테무",
+        "index": "구매로그/20260522_IDOLPA 모션식 자동 회전 스프링클러_테무/files.json",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 6914340,
+        "total_size_human": "6.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260519_온실 후프_25개입_또는 더 넓은 식물 터널용_테무.jpg",
+        "path": "구매로그/20260519_온실 후프_25개입_또는 더 넓은 식물 터널용_테무.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3075484,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260520_4개 치아 - 정원용 다기능 손 잡초_알리.jpg",
+        "path": "구매로그/20260520_4개 치아 - 정원용 다기능 손 잡초_알리.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1996189,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260520_헤비 듀티 금속 제초 및 경계 작업용 삽_알리.jpg",
+        "path": "구매로그/20260520_헤비 듀티 금속 제초 및 경계 작업용 삽_알리.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2403375,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260522_휴대용 접이식 낫-빨간색_손잡이_망간강 재질.jpg",
+        "path": "구매로그/20260522_휴대용 접이식 낫-빨간색_손잡이_망간강 재질.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2549649,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 90,
+    "directory_count": 18,
+    "total_size": 193574816,
+    "total_size_human": "184.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260519_온실 후프_25개입_또는 더 넓은 식물 터널용_테무.jpg",
+      "path": "구매로그/20260519_온실 후프_25개입_또는 더 넓은 식물 터널용_테무.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3075484,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260520_4개 치아 - 정원용 다기능 손 잡초_알리.jpg",
+      "path": "구매로그/20260520_4개 치아 - 정원용 다기능 손 잡초_알리.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1996189,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260520_헤비 듀티 금속 제초 및 경계 작업용 삽_알리.jpg",
+      "path": "구매로그/20260520_헤비 듀티 금속 제초 및 경계 작업용 삽_알리.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2403375,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260522_휴대용 접이식 낫-빨간색_손잡이_망간강 재질.jpg",
+      "path": "구매로그/20260522_휴대용 접이식 낫-빨간색_손잡이_망간강 재질.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2549649,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20260428_루팅파우더_발근제",
+      "path": "구매로그/20260428_루팅파우더_발근제",
+      "index": "구매로그/20260428_루팅파우더_발근제/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 15498633,
+      "total_size_human": "14.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260501_호스릴_호스감개_모자_알리",
+      "path": "구매로그/20260501_호스릴_호스감개_모자_알리",
+      "index": "구매로그/20260501_호스릴_호스감개_모자_알리/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 11,
+      "directory_count": 0,
+      "total_size": 23032378,
+      "total_size_human": "22.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260503_4방향_플라스틱_볼밸브_전지가위_테무",
+      "path": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무",
+      "index": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 8,
+      "directory_count": 0,
+      "total_size": 20245576,
+      "total_size_human": "19.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260509_130,000 RPM으로 작동하는 cordless 핸디형 진공 청소기_테무",
+      "path": "구매로그/20260509_130,000 RPM으로 작동하는 cordless 핸디형 진공 청소기_테무",
+      "index": "구매로그/20260509_130,000 RPM으로 작동하는 cordless 핸디형 진공 청소기_테무/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 6,
+      "directory_count": 0,
+      "total_size": 10952993,
+      "total_size_human": "10.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260512_잡초제거기_삽자루_테무_주문이력",
+      "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력",
+      "index": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 3111678,
+      "total_size_human": "3.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260519_10PCS 강력한 자석 후크_알리",
+      "path": "구매로그/20260519_10PCS 강력한 자석 후크_알리",
+      "index": "구매로그/20260519_10PCS 강력한 자석 후크_알리/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 1,
+      "directory_count": 0,
+      "total_size": 2701724,
+      "total_size_human": "2.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260519_6-in-1 차량용 고속 충전기_4포트 USB2포트 Type-C 차량용 충전기 66W 고속 충전_테무",
+      "path": "구매로그/20260519_6-in-1 차량용 고속 충전기_4포트 USB2포트 Type-C 차량용 충전기 66W 고속 충전_테무",
+      "index": "구매로그/20260519_6-in-1 차량용 고속 충전기_4포트 USB2포트 Type-C 차량용 충전기 66W 고속 충전_테무/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 6,
+      "directory_count": 0,
+      "total_size": 14259010,
+      "total_size_human": "13.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260519_삽자루_테무",
+      "path": "구매로그/20260519_삽자루_테무",
+      "index": "구매로그/20260519_삽자루_테무/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 9,
+      "directory_count": 3,
+      "total_size": 18447666,
+      "total_size_human": "17.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260519_새로운 3-In-1 다기능 양동력 제초기_테무",
+      "path": "구매로그/20260519_새로운 3-In-1 다기능 양동력 제초기_테무",
+      "index": "구매로그/20260519_새로운 3-In-1 다기능 양동력 제초기_테무/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 8,
+      "directory_count": 0,
+      "total_size": 19768431,
+      "total_size_human": "18.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260519_신형 휴대용 무선 청소기 _테무",
+      "path": "구매로그/20260519_신형 휴대용 무선 청소기 _테무",
+      "index": "구매로그/20260519_신형 휴대용 무선 청소기 _테무/files.json",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "file_count": 6,
+      "directory_count": 0,
+      "total_size": 12148003,
+      "total_size_human": "11.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260519_안경세척기_알리",
+      "path": "구매로그/20260519_안경세척기_알리",
+      "index": "구매로그/20260519_안경세척기_알리/files.json",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 4621570,
+      "total_size_human": "4.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260521_X8 브러시리스 터보 제트 팬 블로워 150000RPM 강력한 전기 에어 블로워 진공 먼지 청소기 휴대용_알리",
+      "path": "구매로그/20260521_X8 브러시리스 터보 제트 팬 블로워 150000RPM 강력한 전기 에어 블로워 진공 먼지 청소기 휴대용_알리",
+      "index": "구매로그/20260521_X8 브러시리스 터보 제트 팬 블로워 150000RPM 강력한 전기 에어 블로워 진공 먼지 청소기 휴대용_알리/files.json",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "file_count": 10,
+      "directory_count": 0,
+      "total_size": 21733646,
+      "total_size_human": "20.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무",
+      "path": "구매로그/20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무",
+      "index": "구매로그/20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무/files.json",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 3814356,
+      "total_size_human": "3.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260522_1개 분홍색 휴대용 손잡이 진공청소기_테무",
+      "path": "구매로그/20260522_1개 분홍색 휴대용 손잡이 진공청소기_테무",
+      "index": "구매로그/20260522_1개 분홍색 휴대용 손잡이 진공청소기_테무/files.json",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "file_count": 4,
+      "directory_count": 0,
+      "total_size": 6300115,
+      "total_size_human": "6.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260522_IDOLPA 모션식 자동 회전 스프링클러_테무",
+      "path": "구매로그/20260522_IDOLPA 모션식 자동 회전 스프링클러_테무",
+      "index": "구매로그/20260522_IDOLPA 모션식 자동 회전 스프링클러_테무/files.json",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 6914340,
+      "total_size_human": "6.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

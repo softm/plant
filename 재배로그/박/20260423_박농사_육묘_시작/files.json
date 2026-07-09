@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/박/20260423_박농사_육묘_시작",
+    "path": "재배로그/박/20260423_박농사_육묘_시작",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 9949396,
+    "total_size_human": "9.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260423_박농사_육묘_시작",
+    "path": "재배로그/박/20260423_박농사_육묘_시작",
+    "index": "재배로그/박/20260423_박농사_육묘_시작/files.json",
+    "modified": "2026-07-09T17:50:00+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-25-21-07-17.jpeg",
+        "path": "재배로그/박/20260423_박농사_육묘_시작/KakaoTalk_Photo_2026-04-25-21-07-17.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2918960,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:50:00+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-25-21-07-19.jpeg",
+        "path": "재배로그/박/20260423_박농사_육묘_시작/KakaoTalk_Photo_2026-04-25-21-07-19.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4067832,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:50:00+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-04-25-21-07-21.jpeg",
+        "path": "재배로그/박/20260423_박농사_육묘_시작/KakaoTalk_Photo_2026-04-25-21-07-21.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2962604,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:50:00+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 9949396,
+    "total_size_human": "9.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-25-21-07-17.jpeg",
+      "path": "재배로그/박/20260423_박농사_육묘_시작/KakaoTalk_Photo_2026-04-25-21-07-17.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2918960,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:50:00+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-25-21-07-19.jpeg",
+      "path": "재배로그/박/20260423_박농사_육묘_시작/KakaoTalk_Photo_2026-04-25-21-07-19.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4067832,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:50:00+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-04-25-21-07-21.jpeg",
+      "path": "재배로그/박/20260423_박농사_육묘_시작/KakaoTalk_Photo_2026-04-25-21-07-21.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2962604,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:50:00+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,177 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서",
+    "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 1,
+    "direct_file_count": 3,
+    "direct_directory_count": 1,
+    "total_size": 1735491,
+    "total_size_human": "1.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서",
+    "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서",
+    "index": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/files.json",
+    "modified": "2026-07-09T17:49:07+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송",
+        "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송",
+        "index": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 1081658,
+        "total_size_human": "1.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지대장 신규 및 변경 신청서(자경) (2).hwp",
+        "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/농지대장 신규 및 변경 신청서(자경) (2).hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 261632,
+        "size_human": "255.5 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "이세웅_인감.png",
+        "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/이세웅_인감.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 99337,
+        "size_human": "97.0 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "임대차 합의해지 계약서 (1).hwp",
+        "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/임대차 합의해지 계약서 (1).hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 292864,
+        "size_human": "286.0 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 1,
+    "total_size": 1735491,
+    "total_size_human": "1.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "농지대장 신규 및 변경 신청서(자경) (2).hwp",
+      "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/농지대장 신규 및 변경 신청서(자경) (2).hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 261632,
+      "size_human": "255.5 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "이세웅_인감.png",
+      "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/이세웅_인감.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 99337,
+      "size_human": "97.0 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "임대차 합의해지 계약서 (1).hwp",
+      "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/임대차 합의해지 계약서 (1).hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 292864,
+      "size_human": "286.0 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송",
+      "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송",
+      "index": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 1081658,
+      "total_size_human": "1.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

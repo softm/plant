@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_예제파일/Originals",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/Originals",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 196946,
+    "total_size_human": "192.3 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "Originals",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/Originals",
+    "index": "교육자료/포토스케이프/포토스케이프_예제파일/Originals/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/Originals/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 9216,
+        "size_human": "9.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "주름사진_보정.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/Originals/주름사진_보정.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 93120,
+        "size_human": "90.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "주름사진_복제도장.잡티제거.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/Originals/주름사진_복제도장.잡티제거.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 94610,
+        "size_human": "92.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 196946,
+    "total_size_human": "192.3 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/Originals/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 9216,
+      "size_human": "9.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "주름사진_보정.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/Originals/주름사진_보정.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 93120,
+      "size_human": "90.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "주름사진_복제도장.잡티제거.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/Originals/주름사진_복제도장.잡티제거.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 94610,
+      "size_human": "92.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

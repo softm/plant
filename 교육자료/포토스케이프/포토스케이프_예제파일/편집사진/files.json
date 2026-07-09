@@ -1,0 +1,1957 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_예제파일/편집사진",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 72,
+    "directory_count": 1,
+    "direct_file_count": 63,
+    "direct_directory_count": 1,
+    "total_size": 90609773,
+    "total_size_human": "86.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "편집사진",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진",
+    "index": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/files.json",
+    "modified": "2026-07-09T17:48:59+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "Originals",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 9,
+        "directory_count": 0,
+        "total_size": 13219768,
+        "total_size_human": "12.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 320512,
+        "size_human": "313.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "골목(콘트라스트_자동)_맥.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/골목(콘트라스트_자동)_맥.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 186362,
+        "size_human": "182.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "골목(콭트라스트).jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/골목(콭트라스트).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1998469,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "놀이기구_왜곡.윈도우.박스만들기.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/놀이기구_왜곡.윈도우.박스만들기.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1077965,
+        "size_human": "1.0 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "놀이기구_왜곡.윈도우.박스만들기2.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/놀이기구_왜곡.윈도우.박스만들기2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1078443,
+        "size_human": "1.0 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "놀이기구_왜곡.윈도우.박스만들기3.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/놀이기구_왜곡.윈도우.박스만들기3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1126765,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "놀이기구_왜곡.윈도우.박스만들기4.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/놀이기구_왜곡.윈도우.박스만들기4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1084606,
+        "size_human": "1.0 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "눈동자(빨간눈.적목제거.점.잡티제거).jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/눈동자(빨간눈.적목제거.점.잡티제거).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 767141,
+        "size_human": "749.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "눈동자(적목.깨끗한피부)_맥.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/눈동자(적목.깨끗한피부)_맥.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 95068,
+        "size_human": "92.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "눈동자_적목보정.깨끗한피브.필름느낌.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/눈동자_적목보정.깨끗한피브.필름느낌.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 645986,
+        "size_human": "630.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "단풍배경_포스터.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/단풍배경_포스터.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 681832,
+        "size_human": "665.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "모녀_빛.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/모녀_빛.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 349819,
+        "size_human": "341.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "모녀_빛_페이드.파랑.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/모녀_빛_페이드.파랑.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 384938,
+        "size_human": "375.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "모녀_뽀샤시.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/모녀_뽀샤시.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 402941,
+        "size_human": "393.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "모녀_원형.아웃포커싱.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/모녀_원형.아웃포커싱.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 360383,
+        "size_human": "351.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "모녀_잡음.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/모녀_잡음.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 775932,
+        "size_human": "757.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "미소_뽀샤시_진한모드.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/미소_뽀샤시_진한모드.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 334939,
+        "size_human": "327.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "미소_선형그라데이션.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/미소_선형그라데이션.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 338951,
+        "size_human": "331.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "버스(용량줄임).JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/버스(용량줄임).JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 434714,
+        "size_human": "424.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "버스.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/버스.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 65919,
+        "size_human": "64.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "분홍꽃(밝기조정.커브.채도50.콘트라스트).JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/분홍꽃(밝기조정.커브.채도50.콘트라스트).JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3675312,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "블로그.타이틀.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/블로그.타이틀.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 259692,
+        "size_human": "253.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "블로그_투명.로고.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/블로그_투명.로고.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 11555,
+        "size_human": "11.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "빨간화분.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/빨간화분.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1388691,
+        "size_human": "1.3 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "수영(색상보정.자동콘트라스트)_맥.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/수영(색상보정.자동콘트라스트)_맥.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 185571,
+        "size_human": "181.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "수영(색상보정.콘트라스트.색상강조.감마.채도).jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/수영(색상보정.콘트라스트.색상강조.감마.채도).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2081394,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "숙녀_개체.분장.기본.액자.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/숙녀_개체.분장.기본.액자.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 682161,
+        "size_human": "666.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스키_오래된사진.뽀샤시.진한.영역.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/스키_오래된사진.뽀샤시.진한.영역.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1179274,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스키_오래된사진.뽀샤시.진한.영역_.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/스키_오래된사진.뽀샤시.진한.영역_.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1179274,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스페인_필터.그림처럼.벨비아.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/스페인_필터.그림처럼.벨비아.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1687249,
+        "size_human": "1.6 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "얼굴_개체.액자.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/얼굴_개체.액자.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 350900,
+        "size_human": "342.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "엠티_오래된사진.아그파.강.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/엠티_오래된사진.아그파.강.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4412280,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "엠티_오래된사진.필터.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/엠티_오래된사진.필터.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4157849,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "역광(역광보정).JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/역광(역광보정).JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1603235,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "역광(역광보정)2.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/역광(역광보정)2.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1615922,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "역광(역광보정)_맥.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/역광(역광보정)_맥.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 168787,
+        "size_human": "164.8 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "역광.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/역광.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 168787,
+        "size_human": "164.8 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "점프.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/점프.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 376306,
+        "size_human": "367.5 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "제천(복제도장).jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/제천(복제도장).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3043597,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "제천_도장툴.지우기.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/제천_도장툴.지우기.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3195365,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "주름사진.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/주름사진.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 41794,
+        "size_human": "40.8 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "주름사진_복제도장.잡티제거.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/주름사진_복제도장.잡티제거.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 94610,
+        "size_human": "92.4 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "지하철_모자이크.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/지하철_모자이크.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3194714,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "카메라.개체.여행.기본.액자.필름01.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/카메라.개체.여행.기본.액자.필름01.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 482038,
+        "size_human": "470.7 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "커피_사진.삽입.화병.올리브.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/커피_사진.삽입.화병.올리브.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 800608,
+        "size_human": "781.8 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "커피_사진.삽입.화병.올리브2.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/커피_사진.삽입.화병.올리브2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 800537,
+        "size_human": "781.8 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "커피_사진.삽입.화병.올리브3.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/커피_사진.삽입.화병.올리브3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 800206,
+        "size_human": "781.5 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "커피_사진.삽입.화병.올리브4.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/커피_사진.삽입.화병.올리브4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 807365,
+        "size_human": "788.4 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "커피_사진.삽입.화병.올리브5.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/커피_사진.삽입.화병.올리브5.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 794747,
+        "size_human": "776.1 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "타투_문진제거.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/타투_문진제거.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 242982,
+        "size_human": "237.3 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "트램안_뽀샤지.그림느낌.수채화.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/트램안_뽀샤지.그림느낌.수채화.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2335439,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "트램안_뽀샤지.그림느낌.수채화.유채화.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/트램안_뽀샤지.그림느낌.수채화.유채화.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2288612,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "파스타(밝기조정)_맥.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/파스타(밝기조정)_맥.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 299000,
+        "size_human": "292.0 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "파스타.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/파스타.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3687526,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "파스타_밝기커브.조정.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/파스타_밝기커브.조정.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3687526,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피자배경_포스터.작업.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/피자배경_포스터.작업.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 810492,
+        "size_human": "791.5 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "항구_필터.미너어쳐.비네팅2.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/항구_필터.미너어쳐.비네팅2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 802898,
+        "size_human": "784.1 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "항구_필터.미니어쳐.비네팅.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/항구_필터.미니어쳐.비네팅.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 965786,
+        "size_human": "943.2 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "현경(색편향제거).jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/현경(색편향제거).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2934005,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "현경(화이트밸런스)_맥.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/현경(화이트밸런스)_맥.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 303879,
+        "size_human": "296.8 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "홍학(역광보정.콘트라스트.밝기조정S.화이트밸런스).jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/홍학(역광보정.콘트라스트.밝기조정S.화이트밸런스).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6416467,
+        "size_human": "6.1 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "홍학_맥.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/홍학_맥.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 601325,
+        "size_human": "587.2 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "후두티_모자이크처리.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/후두티_모자이크처리.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 262563,
+        "size_human": "256.4 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 72,
+    "directory_count": 1,
+    "total_size": 90609773,
+    "total_size_human": "86.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 320512,
+      "size_human": "313.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "골목(콘트라스트_자동)_맥.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/골목(콘트라스트_자동)_맥.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 186362,
+      "size_human": "182.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "골목(콭트라스트).jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/골목(콭트라스트).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1998469,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "놀이기구_왜곡.윈도우.박스만들기.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/놀이기구_왜곡.윈도우.박스만들기.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1077965,
+      "size_human": "1.0 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "놀이기구_왜곡.윈도우.박스만들기2.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/놀이기구_왜곡.윈도우.박스만들기2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1078443,
+      "size_human": "1.0 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "놀이기구_왜곡.윈도우.박스만들기3.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/놀이기구_왜곡.윈도우.박스만들기3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1126765,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "놀이기구_왜곡.윈도우.박스만들기4.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/놀이기구_왜곡.윈도우.박스만들기4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1084606,
+      "size_human": "1.0 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "눈동자(빨간눈.적목제거.점.잡티제거).jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/눈동자(빨간눈.적목제거.점.잡티제거).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 767141,
+      "size_human": "749.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "눈동자(적목.깨끗한피부)_맥.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/눈동자(적목.깨끗한피부)_맥.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 95068,
+      "size_human": "92.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "눈동자_적목보정.깨끗한피브.필름느낌.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/눈동자_적목보정.깨끗한피브.필름느낌.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 645986,
+      "size_human": "630.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "단풍배경_포스터.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/단풍배경_포스터.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 681832,
+      "size_human": "665.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "모녀_빛.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/모녀_빛.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 349819,
+      "size_human": "341.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "모녀_빛_페이드.파랑.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/모녀_빛_페이드.파랑.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 384938,
+      "size_human": "375.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "모녀_뽀샤시.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/모녀_뽀샤시.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 402941,
+      "size_human": "393.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "모녀_원형.아웃포커싱.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/모녀_원형.아웃포커싱.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 360383,
+      "size_human": "351.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "모녀_잡음.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/모녀_잡음.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 775932,
+      "size_human": "757.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "미소_뽀샤시_진한모드.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/미소_뽀샤시_진한모드.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 334939,
+      "size_human": "327.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "미소_선형그라데이션.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/미소_선형그라데이션.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 338951,
+      "size_human": "331.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "버스(용량줄임).JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/버스(용량줄임).JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 434714,
+      "size_human": "424.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "버스.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/버스.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 65919,
+      "size_human": "64.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "분홍꽃(밝기조정.커브.채도50.콘트라스트).JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/분홍꽃(밝기조정.커브.채도50.콘트라스트).JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3675312,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "블로그.타이틀.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/블로그.타이틀.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 259692,
+      "size_human": "253.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "블로그_투명.로고.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/블로그_투명.로고.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 11555,
+      "size_human": "11.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "빨간화분.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/빨간화분.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1388691,
+      "size_human": "1.3 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "수영(색상보정.자동콘트라스트)_맥.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/수영(색상보정.자동콘트라스트)_맥.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 185571,
+      "size_human": "181.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "수영(색상보정.콘트라스트.색상강조.감마.채도).jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/수영(색상보정.콘트라스트.색상강조.감마.채도).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2081394,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "숙녀_개체.분장.기본.액자.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/숙녀_개체.분장.기본.액자.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 682161,
+      "size_human": "666.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스키_오래된사진.뽀샤시.진한.영역.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/스키_오래된사진.뽀샤시.진한.영역.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1179274,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스키_오래된사진.뽀샤시.진한.영역_.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/스키_오래된사진.뽀샤시.진한.영역_.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1179274,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스페인_필터.그림처럼.벨비아.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/스페인_필터.그림처럼.벨비아.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1687249,
+      "size_human": "1.6 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "얼굴_개체.액자.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/얼굴_개체.액자.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 350900,
+      "size_human": "342.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "엠티_오래된사진.아그파.강.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/엠티_오래된사진.아그파.강.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4412280,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "엠티_오래된사진.필터.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/엠티_오래된사진.필터.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4157849,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "역광(역광보정).JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/역광(역광보정).JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1603235,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "역광(역광보정)2.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/역광(역광보정)2.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1615922,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "역광(역광보정)_맥.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/역광(역광보정)_맥.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 168787,
+      "size_human": "164.8 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "역광.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/역광.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 168787,
+      "size_human": "164.8 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "점프.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/점프.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 376306,
+      "size_human": "367.5 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "제천(복제도장).jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/제천(복제도장).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3043597,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "제천_도장툴.지우기.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/제천_도장툴.지우기.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3195365,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "주름사진.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/주름사진.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 41794,
+      "size_human": "40.8 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "주름사진_복제도장.잡티제거.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/주름사진_복제도장.잡티제거.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 94610,
+      "size_human": "92.4 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "지하철_모자이크.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/지하철_모자이크.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3194714,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "카메라.개체.여행.기본.액자.필름01.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/카메라.개체.여행.기본.액자.필름01.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 482038,
+      "size_human": "470.7 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "커피_사진.삽입.화병.올리브.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/커피_사진.삽입.화병.올리브.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 800608,
+      "size_human": "781.8 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "커피_사진.삽입.화병.올리브2.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/커피_사진.삽입.화병.올리브2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 800537,
+      "size_human": "781.8 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "커피_사진.삽입.화병.올리브3.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/커피_사진.삽입.화병.올리브3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 800206,
+      "size_human": "781.5 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "커피_사진.삽입.화병.올리브4.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/커피_사진.삽입.화병.올리브4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 807365,
+      "size_human": "788.4 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "커피_사진.삽입.화병.올리브5.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/커피_사진.삽입.화병.올리브5.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 794747,
+      "size_human": "776.1 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "타투_문진제거.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/타투_문진제거.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 242982,
+      "size_human": "237.3 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "트램안_뽀샤지.그림느낌.수채화.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/트램안_뽀샤지.그림느낌.수채화.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2335439,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "트램안_뽀샤지.그림느낌.수채화.유채화.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/트램안_뽀샤지.그림느낌.수채화.유채화.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2288612,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "파스타(밝기조정)_맥.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/파스타(밝기조정)_맥.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 299000,
+      "size_human": "292.0 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "파스타.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/파스타.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3687526,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "파스타_밝기커브.조정.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/파스타_밝기커브.조정.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3687526,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피자배경_포스터.작업.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/피자배경_포스터.작업.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 810492,
+      "size_human": "791.5 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "항구_필터.미너어쳐.비네팅2.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/항구_필터.미너어쳐.비네팅2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 802898,
+      "size_human": "784.1 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "항구_필터.미니어쳐.비네팅.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/항구_필터.미니어쳐.비네팅.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 965786,
+      "size_human": "943.2 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "현경(색편향제거).jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/현경(색편향제거).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2934005,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "현경(화이트밸런스)_맥.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/현경(화이트밸런스)_맥.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 303879,
+      "size_human": "296.8 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "홍학(역광보정.콘트라스트.밝기조정S.화이트밸런스).jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/홍학(역광보정.콘트라스트.밝기조정S.화이트밸런스).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6416467,
+      "size_human": "6.1 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "홍학_맥.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/홍학_맥.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 601325,
+      "size_human": "587.2 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "후두티_모자이크처리.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/후두티_모자이크처리.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 262563,
+      "size_human": "256.4 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "Originals",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 9,
+      "directory_count": 0,
+      "total_size": 13219768,
+      "total_size_human": "12.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

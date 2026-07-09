@@ -1,0 +1,396 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 12,
+    "directory_count": 0,
+    "direct_file_count": 12,
+    "direct_directory_count": 0,
+    "total_size": 170062440,
+    "total_size_human": "162.2 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.09.13.4차.정경환.강사님.강의자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료",
+    "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/files.json",
+    "modified": "2026-07-09T17:48:14+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "04_01.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/04_01.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 40776395,
+        "size_human": "38.9 MB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "04_02.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/04_02.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 65295031,
+        "size_human": "62.3 MB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "04_03.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/04_03.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 26435811,
+        "size_human": "25.2 MB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Image_2023-09-13-18-41-37.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-41-37.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 314111,
+        "size_human": "306.7 KB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Image_2023-09-13-18-41-41.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-41-41.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 342586,
+        "size_human": "334.6 KB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Image_2023-09-13-18-41-46.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-41-46.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 525870,
+        "size_human": "513.5 KB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Image_2023-09-13-18-41-52.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-41-52.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 435064,
+        "size_human": "424.9 KB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Image_2023-09-13-18-41-56.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-41-56.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 596833,
+        "size_human": "582.8 KB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Image_2023-09-13-18-42-01_001.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-42-01_001.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 314288,
+        "size_human": "306.9 KB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Image_2023-09-13-18-42-01_002.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-42-01_002.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 286280,
+        "size_human": "279.6 KB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-09-20-13-32-35.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Photo_2023-09-20-13-32-35.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 211918,
+        "size_human": "207.0 KB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "귀농귀촌 보금자리(토지 및 주택) 관리_정경환(충남귀농귀촌학교).pdf",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/귀농귀촌 보금자리(토지 및 주택) 관리_정경환(충남귀농귀촌학교).pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 34528253,
+        "size_human": "32.9 MB",
+        "modified": "2026-07-09T17:48:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 12,
+    "directory_count": 0,
+    "total_size": 170062440,
+    "total_size_human": "162.2 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "04_01.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/04_01.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 40776395,
+      "size_human": "38.9 MB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "04_02.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/04_02.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 65295031,
+      "size_human": "62.3 MB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "04_03.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/04_03.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 26435811,
+      "size_human": "25.2 MB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Image_2023-09-13-18-41-37.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-41-37.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 314111,
+      "size_human": "306.7 KB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Image_2023-09-13-18-41-41.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-41-41.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 342586,
+      "size_human": "334.6 KB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Image_2023-09-13-18-41-46.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-41-46.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 525870,
+      "size_human": "513.5 KB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Image_2023-09-13-18-41-52.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-41-52.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 435064,
+      "size_human": "424.9 KB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Image_2023-09-13-18-41-56.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-41-56.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 596833,
+      "size_human": "582.8 KB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Image_2023-09-13-18-42-01_001.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-42-01_001.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 314288,
+      "size_human": "306.9 KB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Image_2023-09-13-18-42-01_002.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Image_2023-09-13-18-42-01_002.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 286280,
+      "size_human": "279.6 KB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-09-20-13-32-35.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/KakaoTalk_Photo_2023-09-20-13-32-35.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 211918,
+      "size_human": "207.0 KB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "귀농귀촌 보금자리(토지 및 주택) 관리_정경환(충남귀농귀촌학교).pdf",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.13.4차.정경환.강사님.강의자료/귀농귀촌 보금자리(토지 및 주택) 관리_정경환(충남귀농귀촌학교).pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 34528253,
+      "size_human": "32.9 MB",
+      "modified": "2026-07-09T17:48:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

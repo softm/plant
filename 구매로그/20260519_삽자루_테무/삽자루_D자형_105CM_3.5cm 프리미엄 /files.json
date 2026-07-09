@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/구매로그/20260519_삽자루_테무/삽자루_D자형_105CM_3.5cm 프리미엄 ",
+    "path": "구매로그/20260519_삽자루_테무/삽자루_D자형_105CM_3.5cm 프리미엄 ",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 7006852,
+    "total_size_human": "6.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "삽자루_D자형_105CM_3.5cm 프리미엄 ",
+    "path": "구매로그/20260519_삽자루_테무/삽자루_D자형_105CM_3.5cm 프리미엄 ",
+    "index": "구매로그/20260519_삽자루_테무/삽자루_D자형_105CM_3.5cm 프리미엄 /files.json",
+    "modified": "2026-07-09T17:48:59+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260520_184610.jpg",
+        "path": "구매로그/20260519_삽자루_테무/삽자루_D자형_105CM_3.5cm 프리미엄 /20260520_184610.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2011627,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260520_184707.jpg",
+        "path": "구매로그/20260519_삽자루_테무/삽자루_D자형_105CM_3.5cm 프리미엄 /20260520_184707.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2283863,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260520_184740.jpg",
+        "path": "구매로그/20260519_삽자루_테무/삽자루_D자형_105CM_3.5cm 프리미엄 /20260520_184740.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2711362,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 7006852,
+    "total_size_human": "6.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260520_184610.jpg",
+      "path": "구매로그/20260519_삽자루_테무/삽자루_D자형_105CM_3.5cm 프리미엄 /20260520_184610.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2011627,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260520_184707.jpg",
+      "path": "구매로그/20260519_삽자루_테무/삽자루_D자형_105CM_3.5cm 프리미엄 /20260520_184707.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2283863,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260520_184740.jpg",
+      "path": "구매로그/20260519_삽자루_테무/삽자루_D자형_105CM_3.5cm 프리미엄 /20260520_184740.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2711362,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

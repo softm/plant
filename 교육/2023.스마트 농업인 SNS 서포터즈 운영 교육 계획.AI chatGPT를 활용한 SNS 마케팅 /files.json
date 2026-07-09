@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 ",
+    "path": "교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 ",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 2,
+    "directory_count": 0,
+    "direct_file_count": 2,
+    "direct_directory_count": 0,
+    "total_size": 81212836,
+    "total_size_human": "77.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 ",
+    "path": "교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 ",
+    "index": "교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 /files.json",
+    "modified": "2026-07-09T17:48:33+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "2023 신강의교안(유튜브마케팅)평택농기.pdf",
+        "path": "교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 /2023 신강의교안(유튜브마케팅)평택농기.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 81211188,
+        "size_human": "77.4 MB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023.11.16.01강.md",
+        "path": "교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 /2023.11.16.01강.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 1648,
+        "size_human": "1.6 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 2,
+    "directory_count": 0,
+    "total_size": 81212836,
+    "total_size_human": "77.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2023 신강의교안(유튜브마케팅)평택농기.pdf",
+      "path": "교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 /2023 신강의교안(유튜브마케팅)평택농기.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 81211188,
+      "size_human": "77.4 MB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023.11.16.01강.md",
+      "path": "교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 /2023.11.16.01강.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 1648,
+      "size_human": "1.6 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

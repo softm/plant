@@ -1,0 +1,426 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/원예로그/XX.피토니아",
+    "path": "원예로그/XX.피토니아",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 13,
+    "directory_count": 0,
+    "direct_file_count": 13,
+    "direct_directory_count": 0,
+    "total_size": 1907488,
+    "total_size_human": "1.8 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "XX.피토니아",
+    "path": "원예로그/XX.피토니아",
+    "index": "원예로그/XX.피토니아/files.json",
+    "modified": "2026-07-09T17:49:12+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "orgin_naver_blog_Fittonia.html",
+        "path": "원예로그/XX.피토니아/orgin_naver_blog_Fittonia.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 130178,
+        "size_human": "127.1 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "readme.md",
+        "path": "원예로그/XX.피토니아/readme.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 2807,
+        "size_human": "2.7 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피토니아_레드_1.jpeg",
+        "path": "원예로그/XX.피토니아/피토니아_레드_1.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 107034,
+        "size_human": "104.5 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피토니아_레드_2.jpeg",
+        "path": "원예로그/XX.피토니아/피토니아_레드_2.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 67722,
+        "size_human": "66.1 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피토니아_미니종_1.jpeg",
+        "path": "원예로그/XX.피토니아/피토니아_미니종_1.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 118948,
+        "size_human": "116.2 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피토니아_미니종_2.jpeg",
+        "path": "원예로그/XX.피토니아/피토니아_미니종_2.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 63024,
+        "size_human": "61.5 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피토니아_아르지로네우라.jpg",
+        "path": "원예로그/XX.피토니아/피토니아_아르지로네우라.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 404441,
+        "size_human": "395.0 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피토니아_아르지로네우라_1.jpeg",
+        "path": "원예로그/XX.피토니아/피토니아_아르지로네우라_1.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 374515,
+        "size_human": "365.7 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피토니아_아르지로네우라_2.jpeg",
+        "path": "원예로그/XX.피토니아/피토니아_아르지로네우라_2.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 160639,
+        "size_human": "156.9 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피토니아_핑크스타_1.jpeg",
+        "path": "원예로그/XX.피토니아/피토니아_핑크스타_1.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 93926,
+        "size_human": "91.7 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피토니아_핑크스타_2.jpeg",
+        "path": "원예로그/XX.피토니아/피토니아_핑크스타_2.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 65704,
+        "size_human": "64.2 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피토니아_화이트스타_1.jpeg",
+        "path": "원예로그/XX.피토니아/피토니아_화이트스타_1.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 101091,
+        "size_human": "98.7 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피토니아_화이트스타_2.jpeg",
+        "path": "원예로그/XX.피토니아/피토니아_화이트스타_2.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 217459,
+        "size_human": "212.4 KB",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 13,
+    "directory_count": 0,
+    "total_size": 1907488,
+    "total_size_human": "1.8 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "orgin_naver_blog_Fittonia.html",
+      "path": "원예로그/XX.피토니아/orgin_naver_blog_Fittonia.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 130178,
+      "size_human": "127.1 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "readme.md",
+      "path": "원예로그/XX.피토니아/readme.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 2807,
+      "size_human": "2.7 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피토니아_레드_1.jpeg",
+      "path": "원예로그/XX.피토니아/피토니아_레드_1.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 107034,
+      "size_human": "104.5 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피토니아_레드_2.jpeg",
+      "path": "원예로그/XX.피토니아/피토니아_레드_2.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 67722,
+      "size_human": "66.1 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피토니아_미니종_1.jpeg",
+      "path": "원예로그/XX.피토니아/피토니아_미니종_1.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 118948,
+      "size_human": "116.2 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피토니아_미니종_2.jpeg",
+      "path": "원예로그/XX.피토니아/피토니아_미니종_2.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 63024,
+      "size_human": "61.5 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피토니아_아르지로네우라.jpg",
+      "path": "원예로그/XX.피토니아/피토니아_아르지로네우라.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 404441,
+      "size_human": "395.0 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피토니아_아르지로네우라_1.jpeg",
+      "path": "원예로그/XX.피토니아/피토니아_아르지로네우라_1.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 374515,
+      "size_human": "365.7 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피토니아_아르지로네우라_2.jpeg",
+      "path": "원예로그/XX.피토니아/피토니아_아르지로네우라_2.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 160639,
+      "size_human": "156.9 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피토니아_핑크스타_1.jpeg",
+      "path": "원예로그/XX.피토니아/피토니아_핑크스타_1.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 93926,
+      "size_human": "91.7 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피토니아_핑크스타_2.jpeg",
+      "path": "원예로그/XX.피토니아/피토니아_핑크스타_2.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 65704,
+      "size_human": "64.2 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피토니아_화이트스타_1.jpeg",
+      "path": "원예로그/XX.피토니아/피토니아_화이트스타_1.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 101091,
+      "size_human": "98.7 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피토니아_화이트스타_2.jpeg",
+      "path": "원예로그/XX.피토니아/피토니아_화이트스타_2.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 217459,
+      "size_human": "212.4 KB",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

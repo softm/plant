@@ -1,0 +1,212 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 101671701,
+    "total_size_human": "97.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료",
+    "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료/files.json",
+    "modified": "2026-07-09T17:48:15+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "1교시 서류-1.pptx",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료/1교시 서류-1.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 43679891,
+        "size_human": "41.7 MB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/bf6b34db19825ff2.pptx.txt",
+          "size": 20707,
+          "size_human": "20.2 KB"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2교시 두류-1.pptx",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료/2교시 두류-1.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 23798426,
+        "size_human": "22.7 MB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/fba2253bb2e39968.pptx.txt",
+          "size": 20682,
+          "size_human": "20.2 KB"
+        }
+      },
+      {
+        "type": "file",
+        "name": "3교시 잡곡-1.pptx",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료/3교시 잡곡-1.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 19606248,
+        "size_human": "18.7 MB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/848c2161d512b4a1.pptx.txt",
+          "size": 25731,
+          "size_human": "25.1 KB"
+        }
+      },
+      {
+        "type": "file",
+        "name": "4교시 맥류-1.pptx",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료/4교시 맥류-1.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 14587136,
+        "size_human": "13.9 MB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/f323cf2f963d1b19.pptx.txt",
+          "size": 21785,
+          "size_human": "21.3 KB"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 101671701,
+    "total_size_human": "97.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "1교시 서류-1.pptx",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료/1교시 서류-1.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 43679891,
+      "size_human": "41.7 MB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/bf6b34db19825ff2.pptx.txt",
+        "size": 20707,
+        "size_human": "20.2 KB"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2교시 두류-1.pptx",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료/2교시 두류-1.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 23798426,
+      "size_human": "22.7 MB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/fba2253bb2e39968.pptx.txt",
+        "size": 20682,
+        "size_human": "20.2 KB"
+      }
+    },
+    {
+      "type": "file",
+      "name": "3교시 잡곡-1.pptx",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료/3교시 잡곡-1.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 19606248,
+      "size_human": "18.7 MB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/848c2161d512b4a1.pptx.txt",
+        "size": 25731,
+        "size_human": "25.1 KB"
+      }
+    },
+    {
+      "type": "file",
+      "name": "4교시 맥류-1.pptx",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.09.20.5차.임영춘.강사님.강의자료/9월 20일 \"밭작물 및 특용작물의 이해  \" 임영춘 강사님 자료/4교시 맥류-1.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 14587136,
+      "size_human": "13.9 MB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/f323cf2f963d1b19.pptx.txt",
+        "size": 21785,
+        "size_human": "21.3 KB"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/구매로그/20260512_잡초제거기_삽자루_테무_주문이력",
+    "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 3111678,
+    "total_size_human": "3.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260512_잡초제거기_삽자루_테무_주문이력",
+    "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력",
+    "index": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력/files.json",
+    "modified": "2026-07-09T17:48:59+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-05-15-16-17-48.jpeg",
+        "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력/KakaoTalk_Photo_2026-05-15-16-17-48.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 861081,
+        "size_human": "840.9 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-05-15-16-17-59.jpeg",
+        "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력/KakaoTalk_Photo_2026-05-15-16-17-59.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1380269,
+        "size_human": "1.3 MB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-05-15-16-18-02.jpeg",
+        "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력/KakaoTalk_Photo_2026-05-15-16-18-02.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 870328,
+        "size_human": "849.9 KB",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 3111678,
+    "total_size_human": "3.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-05-15-16-17-48.jpeg",
+      "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력/KakaoTalk_Photo_2026-05-15-16-17-48.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 861081,
+      "size_human": "840.9 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-05-15-16-17-59.jpeg",
+      "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력/KakaoTalk_Photo_2026-05-15-16-17-59.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1380269,
+      "size_human": "1.3 MB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-05-15-16-18-02.jpeg",
+      "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력/KakaoTalk_Photo_2026-05-15-16-18-02.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 870328,
+      "size_human": "849.9 KB",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

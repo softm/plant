@@ -1,0 +1,227 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/농업경영체",
+    "path": "농업_경영/농업경영체",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 39,
+    "directory_count": 7,
+    "direct_file_count": 3,
+    "direct_directory_count": 3,
+    "total_size": 43000473,
+    "total_size_human": "41.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "농업경영체",
+    "path": "농업_경영/농업경영체",
+    "index": "농업_경영/농업경영체/files.json",
+    "modified": "2026-07-09T17:49:07+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20240627_농업경영체_신청",
+        "path": "농업_경영/농업경영체/20240627_농업경영체_신청",
+        "index": "농업_경영/농업경영체/20240627_농업경영체_신청/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 26,
+        "directory_count": 4,
+        "total_size": 25494326,
+        "total_size_human": "24.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "김지훈_농업경영체_실사_통화및_지도",
+        "path": "농업_경영/농업경영체/김지훈_농업경영체_실사_통화및_지도",
+        "index": "농업_경영/농업경영체/김지훈_농업경영체_실사_통화및_지도/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 12498886,
+        "total_size_human": "11.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "농업경영체_등록확인서",
+        "path": "농업_경영/농업경영체/농업경영체_등록확인서",
+        "index": "농업_경영/농업경영체/농업경영체_등록확인서/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 4873002,
+        "total_size_human": "4.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2. 농지법 시행규칙 일부개정령안_농지임대차계약서.hwp",
+        "path": "농업_경영/농업경영체/2. 농지법 시행규칙 일부개정령안_농지임대차계약서.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 83456,
+        "size_human": "81.5 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농업경영체등록.md",
+        "path": "농업_경영/농업경영체/농업경영체등록.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 3069,
+        "size_human": "3.0 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지임대차계약서.pdf",
+        "path": "농업_경영/농업경영체/농지임대차계약서.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 47734,
+        "size_human": "46.6 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 39,
+    "directory_count": 7,
+    "total_size": 43000473,
+    "total_size_human": "41.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2. 농지법 시행규칙 일부개정령안_농지임대차계약서.hwp",
+      "path": "농업_경영/농업경영체/2. 농지법 시행규칙 일부개정령안_농지임대차계약서.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 83456,
+      "size_human": "81.5 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농업경영체등록.md",
+      "path": "농업_경영/농업경영체/농업경영체등록.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 3069,
+      "size_human": "3.0 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지임대차계약서.pdf",
+      "path": "농업_경영/농업경영체/농지임대차계약서.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 47734,
+      "size_human": "46.6 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20240627_농업경영체_신청",
+      "path": "농업_경영/농업경영체/20240627_농업경영체_신청",
+      "index": "농업_경영/농업경영체/20240627_농업경영체_신청/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 26,
+      "directory_count": 4,
+      "total_size": 25494326,
+      "total_size_human": "24.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "김지훈_농업경영체_실사_통화및_지도",
+      "path": "농업_경영/농업경영체/김지훈_농업경영체_실사_통화및_지도",
+      "index": "농업_경영/농업경영체/김지훈_농업경영체_실사_통화및_지도/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 12498886,
+      "total_size_human": "11.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "농업경영체_등록확인서",
+      "path": "농업_경영/농업경영체/농업경영체_등록확인서",
+      "index": "농업_경영/농업경영체/농업경영체_등록확인서/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 4873002,
+      "total_size_human": "4.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,247 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영",
+    "path": "농업_경영",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 418,
+    "directory_count": 25,
+    "direct_file_count": 1,
+    "direct_directory_count": 6,
+    "total_size": 1126296359,
+    "total_size_human": "1.0 GB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "농업_경영",
+    "path": "농업_경영",
+    "index": "농업_경영/files.json",
+    "modified": "2026-07-09T17:49:07+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20250507_용도폐지_국유지매입_구거매입",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입",
+        "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/files.json",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "file_count": 305,
+        "directory_count": 5,
+        "total_size": 969086874,
+        "total_size_human": "924.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260306_대산농협_소식지",
+        "path": "농업_경영/20260306_대산농협_소식지",
+        "index": "농업_경영/20260306_대산농협_소식지/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 11863250,
+        "total_size_human": "11.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260630_농막_가설건축물존치기간만료예정_조치",
+        "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치",
+        "index": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 12385223,
+        "total_size_human": "11.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260630_농막전기_한국전력_사용량검토",
+        "path": "농업_경영/20260630_농막전기_한국전력_사용량검토",
+        "index": "농업_경영/20260630_농막전기_한국전력_사용량검토/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 1,
+        "directory_count": 0,
+        "total_size": 61154,
+        "total_size_human": "59.7 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "농업경영체",
+        "path": "농업_경영/농업경영체",
+        "index": "농업_경영/농업경영체/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 39,
+        "directory_count": 7,
+        "total_size": 43000473,
+        "total_size_human": "41.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "농지대장",
+        "path": "농업_경영/농지대장",
+        "index": "농업_경영/농지대장/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 62,
+        "directory_count": 7,
+        "total_size": 89898867,
+        "total_size_human": "85.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "다믈농장.농업컨설팅.md",
+        "path": "농업_경영/다믈농장.농업컨설팅.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 518,
+        "size_human": "518 B",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 418,
+    "directory_count": 25,
+    "total_size": 1126296359,
+    "total_size_human": "1.0 GB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "다믈농장.농업컨설팅.md",
+      "path": "농업_경영/다믈농장.농업컨설팅.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 518,
+      "size_human": "518 B",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20250507_용도폐지_국유지매입_구거매입",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입",
+      "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/files.json",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "file_count": 305,
+      "directory_count": 5,
+      "total_size": 969086874,
+      "total_size_human": "924.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260306_대산농협_소식지",
+      "path": "농업_경영/20260306_대산농협_소식지",
+      "index": "농업_경영/20260306_대산농협_소식지/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 11863250,
+      "total_size_human": "11.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260630_농막_가설건축물존치기간만료예정_조치",
+      "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치",
+      "index": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 12385223,
+      "total_size_human": "11.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260630_농막전기_한국전력_사용량검토",
+      "path": "농업_경영/20260630_농막전기_한국전력_사용량검토",
+      "index": "농업_경영/20260630_농막전기_한국전력_사용량검토/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 1,
+      "directory_count": 0,
+      "total_size": 61154,
+      "total_size_human": "59.7 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "농업경영체",
+      "path": "농업_경영/농업경영체",
+      "index": "농업_경영/농업경영체/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 39,
+      "directory_count": 7,
+      "total_size": 43000473,
+      "total_size_human": "41.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "농지대장",
+      "path": "농업_경영/농지대장",
+      "index": "농업_경영/농지대장/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 62,
+      "directory_count": 7,
+      "total_size": 89898867,
+      "total_size_human": "85.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

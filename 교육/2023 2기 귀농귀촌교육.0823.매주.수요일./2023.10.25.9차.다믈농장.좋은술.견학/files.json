@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 0,
+    "direct_file_count": 5,
+    "direct_directory_count": 0,
+    "total_size": 14179086,
+    "total_size_human": "13.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.10.25.9차.다믈농장.좋은술.견학",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학",
+    "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학/files.json",
+    "modified": "2026-07-09T17:48:16+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "b6df9fa9e11a65606cea7ede1c0c59e1_db_flat.mp4",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학/b6df9fa9e11a65606cea7ede1c0c59e1_db_flat.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 6714691,
+        "size_human": "6.4 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-11-01-19-28-55.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학/KakaoTalk_Photo_2023-11-01-19-28-55.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 799015,
+        "size_human": "780.3 KB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-11-01-19-29-20.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학/KakaoTalk_Photo_2023-11-01-19-29-20.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2477257,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-11-01-19-29-25.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학/KakaoTalk_Photo_2023-11-01-19-29-25.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2810987,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2023-11-01-19-29-30.jpeg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학/KakaoTalk_Photo_2023-11-01-19-29-30.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1377136,
+        "size_human": "1.3 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 0,
+    "total_size": 14179086,
+    "total_size_human": "13.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "b6df9fa9e11a65606cea7ede1c0c59e1_db_flat.mp4",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학/b6df9fa9e11a65606cea7ede1c0c59e1_db_flat.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 6714691,
+      "size_human": "6.4 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-11-01-19-28-55.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학/KakaoTalk_Photo_2023-11-01-19-28-55.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 799015,
+      "size_human": "780.3 KB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-11-01-19-29-20.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학/KakaoTalk_Photo_2023-11-01-19-29-20.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2477257,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-11-01-19-29-25.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학/KakaoTalk_Photo_2023-11-01-19-29-25.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2810987,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2023-11-01-19-29-30.jpeg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.25.9차.다믈농장.좋은술.견학/KakaoTalk_Photo_2023-11-01-19-29-30.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1377136,
+      "size_human": "1.3 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

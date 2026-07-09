@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 13,
+    "directory_count": 4,
+    "direct_file_count": 0,
+    "direct_directory_count": 1,
+    "total_size": 83345076,
+    "total_size_human": "79.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "4강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강",
+    "index": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "다운로드폰트",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트",
+        "index": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 13,
+        "directory_count": 3,
+        "total_size": 83345076,
+        "total_size_human": "79.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 13,
+    "directory_count": 4,
+    "total_size": 83345076,
+    "total_size_human": "79.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "다운로드폰트",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트",
+      "index": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 13,
+      "directory_count": 3,
+      "total_size": 83345076,
+      "total_size_human": "79.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

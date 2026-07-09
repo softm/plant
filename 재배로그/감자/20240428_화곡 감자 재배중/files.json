@@ -1,0 +1,546 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/감자/20240428_화곡 감자 재배중",
+    "path": "재배로그/감자/20240428_화곡 감자 재배중",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 17,
+    "directory_count": 0,
+    "direct_file_count": 17,
+    "direct_directory_count": 0,
+    "total_size": 196236162,
+    "total_size_human": "187.1 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20240428_화곡 감자 재배중",
+    "path": "재배로그/감자/20240428_화곡 감자 재배중",
+    "index": "재배로그/감자/20240428_화곡 감자 재배중/files.json",
+    "modified": "2026-07-09T17:49:31+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20240428_083542.jpg",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083542.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5082962,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_083546.mp4",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083546.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 6383595,
+        "size_human": "6.1 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_083640.mp4",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083640.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 43727092,
+        "size_human": "41.7 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_083717.jpg",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083717.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4955104,
+        "size_human": "4.7 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_083732.jpg",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083732.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4806248,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_083737.jpg",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083737.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5002665,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_083742.mp4",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083742.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 31059222,
+        "size_human": "29.6 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_083810.jpg",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083810.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5776885,
+        "size_human": "5.5 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_083814.jpg",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083814.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4582825,
+        "size_human": "4.4 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_083832.jpg",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083832.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5826772,
+        "size_human": "5.6 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_092549.jpg",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092549.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5847635,
+        "size_human": "5.6 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_092552.mp4",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092552.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 25153132,
+        "size_human": "24.0 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_092717.jpg",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092717.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5856472,
+        "size_human": "5.6 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_092720.jpg",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092720.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5811483,
+        "size_human": "5.5 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_092728.mp4",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092728.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 15941016,
+        "size_human": "15.2 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_092803.jpg",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092803.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3933398,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240428_092811.mp4",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092811.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 16489656,
+        "size_human": "15.7 MB",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 17,
+    "directory_count": 0,
+    "total_size": 196236162,
+    "total_size_human": "187.1 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20240428_083542.jpg",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083542.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5082962,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_083546.mp4",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083546.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 6383595,
+      "size_human": "6.1 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_083640.mp4",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083640.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 43727092,
+      "size_human": "41.7 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_083717.jpg",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083717.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4955104,
+      "size_human": "4.7 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_083732.jpg",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083732.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4806248,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_083737.jpg",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083737.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5002665,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_083742.mp4",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083742.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 31059222,
+      "size_human": "29.6 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_083810.jpg",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083810.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5776885,
+      "size_human": "5.5 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_083814.jpg",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083814.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4582825,
+      "size_human": "4.4 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_083832.jpg",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_083832.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5826772,
+      "size_human": "5.6 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_092549.jpg",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092549.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5847635,
+      "size_human": "5.6 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_092552.mp4",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092552.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 25153132,
+      "size_human": "24.0 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_092717.jpg",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092717.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5856472,
+      "size_human": "5.6 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_092720.jpg",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092720.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5811483,
+      "size_human": "5.5 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_092728.mp4",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092728.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 15941016,
+      "size_human": "15.2 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_092803.jpg",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092803.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3933398,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240428_092811.mp4",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중/20240428_092811.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 16489656,
+      "size_human": "15.7 MB",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

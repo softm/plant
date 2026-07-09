@@ -1,0 +1,547 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/농지대장",
+    "path": "농업_경영/농지대장",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 62,
+    "directory_count": 7,
+    "direct_file_count": 12,
+    "direct_directory_count": 5,
+    "total_size": 89898867,
+    "total_size_human": "85.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "농지대장",
+    "path": "농업_경영/농지대장",
+    "index": "농업_경영/농지대장/files.json",
+    "modified": "2026-07-09T17:49:07+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20240626_농지.자경.김지훈_농지대장",
+        "path": "농업_경영/농지대장/20240626_농지.자경.김지훈_농지대장",
+        "index": "농업_경영/농지대장/20240626_농지.자경.김지훈_농지대장/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 2335160,
+        "total_size_human": "2.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20240718_농지.자경.이세웅_농지대장",
+        "path": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장",
+        "index": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 2338638,
+        "total_size_human": "2.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250325_아버지.농지대장_아버지자경_변경전",
+        "path": "농업_경영/농지대장/20250325_아버지.농지대장_아버지자경_변경전",
+        "index": "농업_경영/농지대장/20250325_아버지.농지대장_아버지자경_변경전/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 22,
+        "directory_count": 0,
+        "total_size": 17461933,
+        "total_size_human": "16.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250523_농지.자경.아버지_농지대장_자경변경후",
+        "path": "농업_경영/농지대장/20250523_농지.자경.아버지_농지대장_자경변경후",
+        "index": "농업_경영/농지대장/20250523_농지.자경.아버지_농지대장_자경변경후/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 17,
+        "directory_count": 1,
+        "total_size": 13086100,
+        "total_size_human": "12.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서",
+        "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서",
+        "index": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 5,
+        "directory_count": 1,
+        "total_size": 1735491,
+        "total_size_human": "1.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "01_이세웅_스크린샷 2025-03-25 오후 5.48.29.png",
+        "path": "농업_경영/농지대장/01_이세웅_스크린샷 2025-03-25 오후 5.48.29.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 7390561,
+        "size_human": "7.0 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "02_김지훈_스크린샷 2025-03-25 오후 5.49.40.png",
+        "path": "농업_경영/농지대장/02_김지훈_스크린샷 2025-03-25 오후 5.49.40.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 7298537,
+        "size_human": "7.0 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "03_아버지_스크린샷 2025-03-25 오후 5.57.40.png",
+        "path": "농업_경영/농지대장/03_아버지_스크린샷 2025-03-25 오후 5.57.40.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 7219994,
+        "size_human": "6.9 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "04_전체_스크린샷 2025-03-25 오후 5.53.35.png",
+        "path": "농업_경영/농지대장/04_전체_스크린샷 2025-03-25 오후 5.53.35.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 7578275,
+        "size_human": "7.2 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260629_아버지농지_세웅아저씨_계약서_KakaoTalk_Photo_2026-06-29-12-54-37.jpeg",
+        "path": "농업_경영/농지대장/20260629_아버지농지_세웅아저씨_계약서_KakaoTalk_Photo_2026-06-29-12-54-37.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2173772,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스크린샷 2025-03-26 오후 2.56.48.png",
+        "path": "농업_경영/농지대장/스크린샷 2025-03-26 오후 2.56.48.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 11444276,
+        "size_human": "10.9 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스크린샷 2025-03-26 오후 3.12.37.png",
+        "path": "농업_경영/농지대장/스크린샷 2025-03-26 오후 3.12.37.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 6159440,
+        "size_human": "5.9 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아버지_정부24_농지대장_목록.jpg",
+        "path": "농업_경영/농지대장/아버지_정부24_농지대장_목록.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 560475,
+        "size_human": "547.3 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "웅도리-66-0-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "path": "농업_경영/농지대장/웅도리-66-0-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 782423,
+        "size_human": "764.1 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "화곡리-667-23-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "path": "농업_경영/농지대장/화곡리-667-23-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 780375,
+        "size_human": "762.1 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "화곡리-667-32-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "path": "농업_경영/농지대장/화곡리-667-32-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 776452,
+        "size_human": "758.3 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "화곡리-667-33-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "path": "농업_경영/농지대장/화곡리-667-33-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 776965,
+        "size_human": "758.8 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 62,
+    "directory_count": 7,
+    "total_size": 89898867,
+    "total_size_human": "85.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "01_이세웅_스크린샷 2025-03-25 오후 5.48.29.png",
+      "path": "농업_경영/농지대장/01_이세웅_스크린샷 2025-03-25 오후 5.48.29.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 7390561,
+      "size_human": "7.0 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "02_김지훈_스크린샷 2025-03-25 오후 5.49.40.png",
+      "path": "농업_경영/농지대장/02_김지훈_스크린샷 2025-03-25 오후 5.49.40.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 7298537,
+      "size_human": "7.0 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "03_아버지_스크린샷 2025-03-25 오후 5.57.40.png",
+      "path": "농업_경영/농지대장/03_아버지_스크린샷 2025-03-25 오후 5.57.40.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 7219994,
+      "size_human": "6.9 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "04_전체_스크린샷 2025-03-25 오후 5.53.35.png",
+      "path": "농업_경영/농지대장/04_전체_스크린샷 2025-03-25 오후 5.53.35.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 7578275,
+      "size_human": "7.2 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260629_아버지농지_세웅아저씨_계약서_KakaoTalk_Photo_2026-06-29-12-54-37.jpeg",
+      "path": "농업_경영/농지대장/20260629_아버지농지_세웅아저씨_계약서_KakaoTalk_Photo_2026-06-29-12-54-37.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2173772,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스크린샷 2025-03-26 오후 2.56.48.png",
+      "path": "농업_경영/농지대장/스크린샷 2025-03-26 오후 2.56.48.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 11444276,
+      "size_human": "10.9 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스크린샷 2025-03-26 오후 3.12.37.png",
+      "path": "농업_경영/농지대장/스크린샷 2025-03-26 오후 3.12.37.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 6159440,
+      "size_human": "5.9 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아버지_정부24_농지대장_목록.jpg",
+      "path": "농업_경영/농지대장/아버지_정부24_농지대장_목록.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 560475,
+      "size_human": "547.3 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "웅도리-66-0-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "path": "농업_경영/농지대장/웅도리-66-0-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 782423,
+      "size_human": "764.1 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "화곡리-667-23-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "path": "농업_경영/농지대장/화곡리-667-23-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 780375,
+      "size_human": "762.1 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "화곡리-667-32-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "path": "농업_경영/농지대장/화곡리-667-32-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 776452,
+      "size_human": "758.3 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "화곡리-667-33-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "path": "농업_경영/농지대장/화곡리-667-33-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 776965,
+      "size_human": "758.8 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20240626_농지.자경.김지훈_농지대장",
+      "path": "농업_경영/농지대장/20240626_농지.자경.김지훈_농지대장",
+      "index": "농업_경영/농지대장/20240626_농지.자경.김지훈_농지대장/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 2335160,
+      "total_size_human": "2.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20240718_농지.자경.이세웅_농지대장",
+      "path": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장",
+      "index": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 2338638,
+      "total_size_human": "2.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250325_아버지.농지대장_아버지자경_변경전",
+      "path": "농업_경영/농지대장/20250325_아버지.농지대장_아버지자경_변경전",
+      "index": "농업_경영/농지대장/20250325_아버지.농지대장_아버지자경_변경전/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 22,
+      "directory_count": 0,
+      "total_size": 17461933,
+      "total_size_human": "16.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250523_농지.자경.아버지_농지대장_자경변경후",
+      "path": "농업_경영/농지대장/20250523_농지.자경.아버지_농지대장_자경변경후",
+      "index": "농업_경영/농지대장/20250523_농지.자경.아버지_농지대장_자경변경후/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 17,
+      "directory_count": 1,
+      "total_size": 13086100,
+      "total_size_human": "12.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서",
+      "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서",
+      "index": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 5,
+      "directory_count": 1,
+      "total_size": 1735491,
+      "total_size_human": "1.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

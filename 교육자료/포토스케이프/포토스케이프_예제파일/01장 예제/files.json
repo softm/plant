@@ -1,0 +1,306 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_예제파일/01장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 9,
+    "directory_count": 0,
+    "direct_file_count": 9,
+    "direct_directory_count": 0,
+    "total_size": 19732378,
+    "total_size_human": "18.8 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "01장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제",
+    "index": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 34816,
+        "size_human": "34.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음악 - Morning.mp3",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/음악 - Morning.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 7502184,
+        "size_human": "7.2 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음악 - Sunlight.mp3",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/음악 - Sunlight.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 9332316,
+        "size_human": "8.9 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "이미지-001.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-001.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 561799,
+        "size_human": "548.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "이미지-002.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-002.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 626699,
+        "size_human": "612.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "이미지-003.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-003.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 191944,
+        "size_human": "187.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "이미지-004.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-004.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 374271,
+        "size_human": "365.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "이미지-005.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-005.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 561050,
+        "size_human": "547.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "이미지-006.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-006.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 547299,
+        "size_human": "534.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 9,
+    "directory_count": 0,
+    "total_size": 19732378,
+    "total_size_human": "18.8 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 34816,
+      "size_human": "34.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음악 - Morning.mp3",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/음악 - Morning.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 7502184,
+      "size_human": "7.2 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음악 - Sunlight.mp3",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/음악 - Sunlight.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 9332316,
+      "size_human": "8.9 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "이미지-001.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-001.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 561799,
+      "size_human": "548.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "이미지-002.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-002.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 626699,
+      "size_human": "612.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "이미지-003.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-003.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 191944,
+      "size_human": "187.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "이미지-004.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-004.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 374271,
+      "size_human": "365.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "이미지-005.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-005.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 561050,
+      "size_human": "547.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "이미지-006.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/01장 예제/이미지-006.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 547299,
+      "size_human": "534.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

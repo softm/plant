@@ -1,0 +1,2316 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규",
+    "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 76,
+    "directory_count": 0,
+    "direct_file_count": 76,
+    "direct_directory_count": 0,
+    "total_size": 456471780,
+    "total_size_human": "435.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규",
+    "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규",
+    "index": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/files.json",
+    "modified": "2026-07-09T17:48:48+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20250625_120849.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_120849.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2205449,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:48:44+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_120932.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_120932.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3639426,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:48:44+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_120936.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_120936.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2750429,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_120946.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_120946.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2869288,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_121058.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121058.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2533261,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_121103.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121103.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2640378,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_121106.mp4",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121106.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 12826250,
+        "size_human": "12.2 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_121120.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121120.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2857442,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_121124.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121124.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2604078,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_121129.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121129.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2649061,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_122314.mp4",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_122314.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 18480415,
+        "size_human": "17.6 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_122756.mp4",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_122756.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 3004572,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_122800.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_122800.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2237661,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123101.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123101.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3260465,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123104.mp4",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123104.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 9942527,
+        "size_human": "9.5 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123112(0).jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123112(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2940594,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123112.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123112.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2895479,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123329.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123329.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3211017,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123332.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123332.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3118895,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123337.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123337.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3038372,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123338.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123338.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2074737,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123344.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123344.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2784127,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123347.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123347.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2777240,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123350.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123350.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2723856,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123456.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123456.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3511438,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123504.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123504.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2816260,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_123959.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123959.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3970212,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_124000.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124000.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4010979,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_124001.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124001.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4021724,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_124003.mp4",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124003.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 5719258,
+        "size_human": "5.5 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_124338.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124338.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1612377,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_124544.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124544.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1777667,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_124546.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124546.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3561823,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_124548.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124548.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3475455,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_124550.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124550.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3403175,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_124552(0).jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124552(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1590239,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_124552.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124552.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1551927,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_124634.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124634.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2321086,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_142116.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142116.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3701845,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_142119.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142119.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4391487,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_142122.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142122.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3089046,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_142132.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142132.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2598908,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_142140.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142140.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3419526,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_142141(0).jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142141(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3531068,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_142141.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142141.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3430373,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_142144.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142144.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4371893,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_144941.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_144941.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3827737,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_144943.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_144943.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4334461,
+        "size_human": "4.1 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_144945.mp4",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_144945.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 31554825,
+        "size_human": "30.1 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_145833.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_145833.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3698657,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:48:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_145837.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_145837.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4494661,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_145841.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_145841.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3532848,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_150307.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_150307.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2669743,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_152843.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_152843.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2116246,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_152850.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_152850.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2749466,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_152858.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_152858.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2171083,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_152900.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_152900.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1809069,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_152921.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_152921.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1539677,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_153024.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153024.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1845096,
+        "size_human": "1.8 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_153112.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153112.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1608084,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_153219.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153219.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1732763,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_153221.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153221.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1586981,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_153440.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153440.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1498149,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250625_153443.jpg",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153443.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2235976,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.001",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.001",
+        "extension": "001",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.002",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.002",
+        "extension": "002",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.003",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.003",
+        "extension": "003",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.004",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.004",
+        "extension": "004",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.005",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.005",
+        "extension": "005",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.006",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.006",
+        "extension": "006",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.007",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.007",
+        "extension": "007",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:47+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.008",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.008",
+        "extension": "008",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.009",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.009",
+        "extension": "009",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.010",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.010",
+        "extension": "010",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.011",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.011",
+        "extension": "011",
+        "group": "other",
+        "mime_type": null,
+        "size": 8243896,
+        "size_human": "7.9 MB",
+        "modified": "2026-07-09T17:48:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 250625_124645.m4a",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/음성 250625_124645.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 1279577,
+        "size_human": "1.2 MB",
+        "modified": "2026-07-09T17:48:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 76,
+    "directory_count": 0,
+    "total_size": 456471780,
+    "total_size_human": "435.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20250625_120849.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_120849.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2205449,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:48:44+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_120932.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_120932.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3639426,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:48:44+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_120936.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_120936.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2750429,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_120946.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_120946.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2869288,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_121058.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121058.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2533261,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_121103.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121103.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2640378,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_121106.mp4",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121106.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 12826250,
+      "size_human": "12.2 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_121120.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121120.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2857442,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_121124.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121124.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2604078,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_121129.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_121129.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2649061,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_122314.mp4",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_122314.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 18480415,
+      "size_human": "17.6 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_122756.mp4",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_122756.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 3004572,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_122800.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_122800.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2237661,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123101.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123101.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3260465,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123104.mp4",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123104.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 9942527,
+      "size_human": "9.5 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123112(0).jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123112(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2940594,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123112.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123112.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2895479,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123329.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123329.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3211017,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123332.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123332.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3118895,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123337.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123337.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3038372,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123338.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123338.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2074737,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123344.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123344.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2784127,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123347.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123347.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2777240,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123350.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123350.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2723856,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123456.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123456.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3511438,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123504.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123504.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2816260,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_123959.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_123959.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3970212,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_124000.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124000.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4010979,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_124001.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124001.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4021724,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_124003.mp4",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124003.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 5719258,
+      "size_human": "5.5 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_124338.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124338.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1612377,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_124544.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124544.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1777667,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_124546.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124546.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3561823,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_124548.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124548.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3475455,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_124550.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124550.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3403175,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_124552(0).jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124552(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1590239,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_124552.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124552.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1551927,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_124634.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_124634.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2321086,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_142116.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142116.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3701845,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_142119.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142119.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4391487,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_142122.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142122.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3089046,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_142132.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142132.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2598908,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_142140.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142140.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3419526,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_142141(0).jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142141(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3531068,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_142141.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142141.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3430373,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_142144.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_142144.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4371893,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_144941.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_144941.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3827737,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_144943.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_144943.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4334461,
+      "size_human": "4.1 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_144945.mp4",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_144945.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 31554825,
+      "size_human": "30.1 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_145833.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_145833.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3698657,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:48:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_145837.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_145837.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4494661,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_145841.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_145841.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3532848,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_150307.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_150307.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2669743,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_152843.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_152843.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2116246,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_152850.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_152850.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2749466,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_152858.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_152858.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2171083,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_152900.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_152900.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1809069,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_152921.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_152921.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1539677,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_153024.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153024.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1845096,
+      "size_human": "1.8 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_153112.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153112.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1608084,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_153219.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153219.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1732763,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_153221.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153221.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1586981,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_153440.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153440.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1498149,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250625_153443.jpg",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/20250625_153443.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2235976,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.001",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.001",
+      "extension": "001",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.002",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.002",
+      "extension": "002",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.003",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.003",
+      "extension": "003",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.004",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.004",
+      "extension": "004",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.005",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.005",
+      "extension": "005",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.006",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.006",
+      "extension": "006",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.007",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.007",
+      "extension": "007",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:47+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.008",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.008",
+      "extension": "008",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.009",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.009",
+      "extension": "009",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.010",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.010",
+      "extension": "010",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.011",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/아카이브.zip.011",
+      "extension": "011",
+      "group": "other",
+      "mime_type": null,
+      "size": 8243896,
+      "size_human": "7.9 MB",
+      "modified": "2026-07-09T17:48:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 250625_124645.m4a",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/05_20250625_스마트팜(테스트베드 등) 현장교육_조범식_김동규/음성 250625_124645.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 1279577,
+      "size_human": "1.2 MB",
+      "modified": "2026-07-09T17:48:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

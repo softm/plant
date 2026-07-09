@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/블로그",
+    "path": "교육자료/교육과정별 자료실/블로그",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 76,
+    "directory_count": 2,
+    "direct_file_count": 0,
+    "direct_directory_count": 2,
+    "total_size": 15369175,
+    "total_size_human": "14.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "블로그",
+    "path": "교육자료/교육과정별 자료실/블로그",
+    "index": "교육자료/교육과정별 자료실/블로그/files.json",
+    "modified": "2026-07-09T17:48:51+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "PPT",
+        "path": "교육자료/교육과정별 자료실/블로그/PPT",
+        "index": "교육자료/교육과정별 자료실/블로그/PPT/files.json",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "file_count": 53,
+        "directory_count": 0,
+        "total_size": 3027177,
+        "total_size_human": "2.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "여행앨범",
+        "path": "교육자료/교육과정별 자료실/블로그/여행앨범",
+        "index": "교육자료/교육과정별 자료실/블로그/여행앨범/files.json",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "file_count": 23,
+        "directory_count": 0,
+        "total_size": 12341998,
+        "total_size_human": "11.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 76,
+    "directory_count": 2,
+    "total_size": 15369175,
+    "total_size_human": "14.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "PPT",
+      "path": "교육자료/교육과정별 자료실/블로그/PPT",
+      "index": "교육자료/교육과정별 자료실/블로그/PPT/files.json",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "file_count": 53,
+      "directory_count": 0,
+      "total_size": 3027177,
+      "total_size_human": "2.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "여행앨범",
+      "path": "교육자료/교육과정별 자료실/블로그/여행앨범",
+      "index": "교육자료/교육과정별 자료실/블로그/여행앨범/files.json",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "file_count": 23,
+      "directory_count": 0,
+      "total_size": 12341998,
+      "total_size_human": "11.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

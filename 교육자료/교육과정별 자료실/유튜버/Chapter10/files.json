@@ -1,0 +1,336 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/유튜버/Chapter10",
+    "path": "교육자료/교육과정별 자료실/유튜버/Chapter10",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 10,
+    "directory_count": 0,
+    "direct_file_count": 10,
+    "direct_directory_count": 0,
+    "total_size": 85713643,
+    "total_size_human": "81.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "Chapter10",
+    "path": "교육자료/교육과정별 자료실/유튜버/Chapter10",
+    "index": "교육자료/교육과정별 자료실/유튜버/Chapter10/files.json",
+    "modified": "2026-07-09T17:48:56+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "AlbumArt_{B5020207-474E-4720-D4E8-291DCC6DFF00}_Large.jpg",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/AlbumArt_{B5020207-474E-4720-D4E8-291DCC6DFF00}_Large.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 19439,
+        "size_human": "19.0 KB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "AlbumArt_{B5020207-474E-4720-D4E8-291DCC6DFF00}_Small.jpg",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/AlbumArt_{B5020207-474E-4720-D4E8-291DCC6DFF00}_Small.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4766,
+        "size_human": "4.7 KB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "AlbumArtSmall.jpg",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/AlbumArtSmall.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4766,
+        "size_human": "4.7 KB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch10-Music1.mp3",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Music1.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 424495,
+        "size_human": "414.5 KB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch10-Music2.mp3",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Music2.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 421847,
+        "size_human": "412.0 KB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch10-Music3.mp3",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Music3.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 412107,
+        "size_human": "402.4 KB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch10-Music4.mp3",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Music4.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 422719,
+        "size_human": "412.8 KB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch10-Video1.mp4",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Video1.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 41533771,
+        "size_human": "39.6 MB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch10-Video2.mp4",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Video2.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 42450294,
+        "size_human": "40.5 MB",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Folder.jpg",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Folder.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 19439,
+        "size_human": "19.0 KB",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 10,
+    "directory_count": 0,
+    "total_size": 85713643,
+    "total_size_human": "81.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "AlbumArt_{B5020207-474E-4720-D4E8-291DCC6DFF00}_Large.jpg",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/AlbumArt_{B5020207-474E-4720-D4E8-291DCC6DFF00}_Large.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 19439,
+      "size_human": "19.0 KB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "AlbumArt_{B5020207-474E-4720-D4E8-291DCC6DFF00}_Small.jpg",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/AlbumArt_{B5020207-474E-4720-D4E8-291DCC6DFF00}_Small.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4766,
+      "size_human": "4.7 KB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "AlbumArtSmall.jpg",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/AlbumArtSmall.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4766,
+      "size_human": "4.7 KB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch10-Music1.mp3",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Music1.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 424495,
+      "size_human": "414.5 KB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch10-Music2.mp3",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Music2.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 421847,
+      "size_human": "412.0 KB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch10-Music3.mp3",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Music3.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 412107,
+      "size_human": "402.4 KB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch10-Music4.mp3",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Music4.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 422719,
+      "size_human": "412.8 KB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch10-Video1.mp4",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Video1.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 41533771,
+      "size_human": "39.6 MB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch10-Video2.mp4",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Ch10-Video2.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 42450294,
+      "size_human": "40.5 MB",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Folder.jpg",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter10/Folder.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 19439,
+      "size_human": "19.0 KB",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

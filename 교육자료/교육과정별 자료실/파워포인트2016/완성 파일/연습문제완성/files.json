@@ -1,0 +1,380 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 8,
+    "directory_count": 0,
+    "direct_file_count": 8,
+    "direct_directory_count": 0,
+    "total_size": 2523140,
+    "total_size_human": "2.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "연습문제완성",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성",
+    "index": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "12강연습문제완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/12강연습문제완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 567455,
+        "size_human": "554.2 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/e1392d4725ac3b2f.pptx.txt",
+          "size": 83,
+          "size_human": "83 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "13강연습문제완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/13강연습문제완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 45810,
+        "size_human": "44.7 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "16강연습문제완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/16강연습문제완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 214930,
+        "size_human": "209.9 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/647d342fdccdc740.pptx.txt",
+          "size": 307,
+          "size_human": "307 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "19강연습문제완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/19강연습문제완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 664028,
+        "size_human": "648.5 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/23ab0adce317a982.pptx.txt",
+          "size": 48,
+          "size_human": "48 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "5강연습문제완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/5강연습문제완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 35121,
+        "size_human": "34.3 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/98dbf766a8b95832.pptx.txt",
+          "size": 66,
+          "size_human": "66 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "6강연습문제완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/6강연습문제완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 37859,
+        "size_human": "37.0 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "7강연습문제완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/7강연습문제완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 825538,
+        "size_human": "806.2 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/296d18ad802679cd.pptx.txt",
+          "size": 52,
+          "size_human": "52 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "9강연습문제완성.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/9강연습문제완성.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 132399,
+        "size_human": "129.3 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/b73eb9ae777a1028.pptx.txt",
+          "size": 26,
+          "size_human": "26 B"
+        }
+      }
+    ],
+    "file_count": 8,
+    "directory_count": 0,
+    "total_size": 2523140,
+    "total_size_human": "2.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "12강연습문제완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/12강연습문제완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 567455,
+      "size_human": "554.2 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/e1392d4725ac3b2f.pptx.txt",
+        "size": 83,
+        "size_human": "83 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "13강연습문제완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/13강연습문제완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 45810,
+      "size_human": "44.7 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "16강연습문제완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/16강연습문제완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 214930,
+      "size_human": "209.9 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/647d342fdccdc740.pptx.txt",
+        "size": 307,
+        "size_human": "307 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "19강연습문제완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/19강연습문제완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 664028,
+      "size_human": "648.5 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/23ab0adce317a982.pptx.txt",
+        "size": 48,
+        "size_human": "48 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "5강연습문제완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/5강연습문제완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 35121,
+      "size_human": "34.3 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/98dbf766a8b95832.pptx.txt",
+        "size": 66,
+        "size_human": "66 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "6강연습문제완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/6강연습문제완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 37859,
+      "size_human": "37.0 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "7강연습문제완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/7강연습문제완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 825538,
+      "size_human": "806.2 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/296d18ad802679cd.pptx.txt",
+        "size": 52,
+        "size_human": "52 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "9강연습문제완성.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/완성 파일/연습문제완성/9강연습문제완성.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 132399,
+      "size_human": "129.3 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/b73eb9ae777a1028.pptx.txt",
+        "size": 26,
+        "size_human": "26 B"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,426 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/20240612.구로스마트팜/work_2024_07_17",
+    "path": "교육/20240612.구로스마트팜/work_2024_07_17",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 13,
+    "directory_count": 0,
+    "direct_file_count": 13,
+    "direct_directory_count": 0,
+    "total_size": 4623154,
+    "total_size_human": "4.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "work_2024_07_17",
+    "path": "교육/20240612.구로스마트팜/work_2024_07_17",
+    "index": "교육/20240612.구로스마트팜/work_2024_07_17/files.json",
+    "modified": "2026-07-09T17:48:33+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "1세대모델.jpg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/1세대모델.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 121380,
+        "size_human": "118.5 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2세대모델.jpg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/2세대모델.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 168599,
+        "size_human": "164.6 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "3세대모델.jpg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/3세대모델.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 174072,
+        "size_human": "170.0 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "광합성.jpeg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/광합성.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 322658,
+        "size_human": "315.1 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "순환식 수경재배 시스템 개념도.png",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/순환식 수경재배 시스템 개념도.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 169436,
+        "size_human": "165.5 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스마트_온실_주요_구성요소.png",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트_온실_주요_구성요소.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 50267,
+        "size_human": "49.1 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스마트과수원_주요구성요소.png",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트과수원_주요구성요소.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 37293,
+        "size_human": "36.4 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스마트축사_주요구성요소.png",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트축사_주요구성요소.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 61370,
+        "size_human": "59.9 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스마트팜_구성도.png",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트팜_구성도.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 68320,
+        "size_human": "66.7 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스마트팜_구성도_2.png",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트팜_구성도_2.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 75723,
+        "size_human": "73.9 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스마트팜_구성도_제어부_영상정보.jpg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트팜_구성도_제어부_영상정보.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 153994,
+        "size_human": "150.4 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스마트팜_양돈예시.png",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트팜_양돈예시.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 144147,
+        "size_human": "140.8 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스마트팜_필요한_센서.png",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트팜_필요한_센서.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 3075895,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 13,
+    "directory_count": 0,
+    "total_size": 4623154,
+    "total_size_human": "4.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "1세대모델.jpg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/1세대모델.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 121380,
+      "size_human": "118.5 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2세대모델.jpg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/2세대모델.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 168599,
+      "size_human": "164.6 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "3세대모델.jpg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/3세대모델.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 174072,
+      "size_human": "170.0 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "광합성.jpeg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/광합성.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 322658,
+      "size_human": "315.1 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "순환식 수경재배 시스템 개념도.png",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/순환식 수경재배 시스템 개념도.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 169436,
+      "size_human": "165.5 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스마트_온실_주요_구성요소.png",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트_온실_주요_구성요소.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 50267,
+      "size_human": "49.1 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스마트과수원_주요구성요소.png",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트과수원_주요구성요소.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 37293,
+      "size_human": "36.4 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스마트축사_주요구성요소.png",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트축사_주요구성요소.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 61370,
+      "size_human": "59.9 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스마트팜_구성도.png",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트팜_구성도.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 68320,
+      "size_human": "66.7 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스마트팜_구성도_2.png",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트팜_구성도_2.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 75723,
+      "size_human": "73.9 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스마트팜_구성도_제어부_영상정보.jpg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트팜_구성도_제어부_영상정보.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 153994,
+      "size_human": "150.4 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스마트팜_양돈예시.png",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트팜_양돈예시.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 144147,
+      "size_human": "140.8 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스마트팜_필요한_센서.png",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17/스마트팜_필요한_센서.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 3075895,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

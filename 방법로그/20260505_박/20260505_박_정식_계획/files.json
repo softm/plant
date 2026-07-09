@@ -1,0 +1,336 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/방법로그/20260505_박/20260505_박_정식_계획",
+    "path": "방법로그/20260505_박/20260505_박_정식_계획",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 10,
+    "directory_count": 0,
+    "direct_file_count": 10,
+    "direct_directory_count": 0,
+    "total_size": 8705789,
+    "total_size_human": "8.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260505_박_정식_계획",
+    "path": "방법로그/20260505_박/20260505_박_정식_계획",
+    "index": "방법로그/20260505_박/20260505_박_정식_계획/files.json",
+    "modified": "2026-07-09T17:49:08+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260505_박_농사_밑거름.pdf",
+        "path": "방법로그/20260505_박/20260505_박_정식_계획/20260505_박_농사_밑거름.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 506693,
+        "size_human": "494.8 KB",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "박_고랑_이랑_도식화-1.png",
+        "path": "방법로그/20260505_박/20260505_박_정식_계획/박_고랑_이랑_도식화-1.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 47926,
+        "size_human": "46.8 KB",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "박_고랑_이랑_도식화.md",
+        "path": "방법로그/20260505_박/20260505_박_정식_계획/박_고랑_이랑_도식화.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 4820,
+        "size_human": "4.7 KB",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "박_고랑_이랑_도식화.png",
+        "path": "방법로그/20260505_박/20260505_박_정식_계획/박_고랑_이랑_도식화.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 47926,
+        "size_human": "46.8 KB",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "퇴비_흥부비황골드_뒤_성분표기.jpg",
+        "path": "방법로그/20260505_박/20260505_박_정식_계획/퇴비_흥부비황골드_뒤_성분표기.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 445304,
+        "size_human": "434.9 KB",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "퇴비_흥부비황골드_앞.jpg",
+        "path": "방법로그/20260505_박/20260505_박_정식_계획/퇴비_흥부비황골드_앞.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 413308,
+        "size_human": "403.6 KB",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "화곡_박_밭_위성사진-1.png",
+        "path": "방법로그/20260505_박/20260505_박_정식_계획/화곡_박_밭_위성사진-1.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 1245856,
+        "size_human": "1.2 MB",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "화곡_박_밭_위성사진.png",
+        "path": "방법로그/20260505_박/20260505_박_정식_계획/화곡_박_밭_위성사진.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 1245856,
+        "size_human": "1.2 MB",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "화곡_박_밭_위성사진_1.png",
+        "path": "방법로그/20260505_박/20260505_박_정식_계획/화곡_박_밭_위성사진_1.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 2470444,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "화곡_박_밭_위성사진_2.png",
+        "path": "방법로그/20260505_박/20260505_박_정식_계획/화곡_박_밭_위성사진_2.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 2277656,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 10,
+    "directory_count": 0,
+    "total_size": 8705789,
+    "total_size_human": "8.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260505_박_농사_밑거름.pdf",
+      "path": "방법로그/20260505_박/20260505_박_정식_계획/20260505_박_농사_밑거름.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 506693,
+      "size_human": "494.8 KB",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "박_고랑_이랑_도식화-1.png",
+      "path": "방법로그/20260505_박/20260505_박_정식_계획/박_고랑_이랑_도식화-1.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 47926,
+      "size_human": "46.8 KB",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "박_고랑_이랑_도식화.md",
+      "path": "방법로그/20260505_박/20260505_박_정식_계획/박_고랑_이랑_도식화.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 4820,
+      "size_human": "4.7 KB",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "박_고랑_이랑_도식화.png",
+      "path": "방법로그/20260505_박/20260505_박_정식_계획/박_고랑_이랑_도식화.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 47926,
+      "size_human": "46.8 KB",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "퇴비_흥부비황골드_뒤_성분표기.jpg",
+      "path": "방법로그/20260505_박/20260505_박_정식_계획/퇴비_흥부비황골드_뒤_성분표기.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 445304,
+      "size_human": "434.9 KB",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "퇴비_흥부비황골드_앞.jpg",
+      "path": "방법로그/20260505_박/20260505_박_정식_계획/퇴비_흥부비황골드_앞.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 413308,
+      "size_human": "403.6 KB",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "화곡_박_밭_위성사진-1.png",
+      "path": "방법로그/20260505_박/20260505_박_정식_계획/화곡_박_밭_위성사진-1.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 1245856,
+      "size_human": "1.2 MB",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "화곡_박_밭_위성사진.png",
+      "path": "방법로그/20260505_박/20260505_박_정식_계획/화곡_박_밭_위성사진.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 1245856,
+      "size_human": "1.2 MB",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "화곡_박_밭_위성사진_1.png",
+      "path": "방법로그/20260505_박/20260505_박_정식_계획/화곡_박_밭_위성사진_1.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 2470444,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "화곡_박_밭_위성사진_2.png",
+      "path": "방법로그/20260505_박/20260505_박_정식_계획/화곡_박_밭_위성사진_2.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 2277656,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,486 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠",
+    "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 15,
+    "directory_count": 0,
+    "direct_file_count": 15,
+    "direct_directory_count": 0,
+    "total_size": 297839382,
+    "total_size_human": "284.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠",
+    "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠",
+    "index": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/files.json",
+    "modified": "2026-07-09T17:48:49+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "아카이브.zip.001",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.001",
+        "extension": "001",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.002",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.002",
+        "extension": "002",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.003",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.003",
+        "extension": "003",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.004",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.004",
+        "extension": "004",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.005",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.005",
+        "extension": "005",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.006",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.006",
+        "extension": "006",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.007",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.007",
+        "extension": "007",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.008",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.008",
+        "extension": "008",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.009",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.009",
+        "extension": "009",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.010",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.010",
+        "extension": "010",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.011",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.011",
+        "extension": "011",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.012",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.012",
+        "extension": "012",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.013",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.013",
+        "extension": "013",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.014",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.014",
+        "extension": "014",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.015",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.015",
+        "extension": "015",
+        "group": "other",
+        "mime_type": null,
+        "size": 17839382,
+        "size_human": "17.0 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 15,
+    "directory_count": 0,
+    "total_size": 297839382,
+    "total_size_human": "284.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "아카이브.zip.001",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.001",
+      "extension": "001",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.002",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.002",
+      "extension": "002",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.003",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.003",
+      "extension": "003",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.004",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.004",
+      "extension": "004",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.005",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.005",
+      "extension": "005",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.006",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.006",
+      "extension": "006",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.007",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.007",
+      "extension": "007",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.008",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.008",
+      "extension": "008",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.009",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.009",
+      "extension": "009",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.010",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.010",
+      "extension": "010",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.011",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.011",
+      "extension": "011",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.012",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.012",
+      "extension": "012",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.013",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.013",
+      "extension": "013",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.014",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.014",
+      "extension": "014",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.015",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/06_20250627_농업인을 위한 기초전기 이론과 실습_전병칠/아카이브.zip.015",
+      "extension": "015",
+      "group": "other",
+      "mime_type": null,
+      "size": 17839382,
+      "size_human": "17.0 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

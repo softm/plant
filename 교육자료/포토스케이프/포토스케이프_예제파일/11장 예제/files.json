@@ -1,0 +1,576 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_예제파일/11장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 18,
+    "directory_count": 0,
+    "direct_file_count": 18,
+    "direct_directory_count": 0,
+    "total_size": 3651933,
+    "total_size_human": "3.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "11장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제",
+    "index": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 75776,
+        "size_human": "74.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "낙산사.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/낙산사.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 139561,
+        "size_human": "136.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "뉴욕.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/뉴욕.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 404723,
+        "size_human": "395.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "대관령.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/대관령.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 204462,
+        "size_human": "199.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "동강.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/동강.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 237857,
+        "size_human": "232.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "런던.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/런던.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 171335,
+        "size_human": "167.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "샌프란시스코.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/샌프란시스코.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 339089,
+        "size_human": "331.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "설악산.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/설악산.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 221865,
+        "size_human": "216.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "신발1.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/신발1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 173774,
+        "size_human": "169.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "신발2.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/신발2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 375206,
+        "size_human": "366.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "신발3.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/신발3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 51288,
+        "size_human": "50.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "신발4.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/신발4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 139528,
+        "size_human": "136.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "천사1.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/천사1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 89535,
+        "size_human": "87.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "천사2.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/천사2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 71898,
+        "size_human": "70.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "천사3.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/천사3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 105488,
+        "size_human": "103.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "천사4.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/천사4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 170060,
+        "size_human": "166.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "파리.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/파리.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 349946,
+        "size_human": "341.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "프라하.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/프라하.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 330542,
+        "size_human": "322.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 18,
+    "directory_count": 0,
+    "total_size": 3651933,
+    "total_size_human": "3.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 75776,
+      "size_human": "74.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "낙산사.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/낙산사.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 139561,
+      "size_human": "136.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "뉴욕.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/뉴욕.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 404723,
+      "size_human": "395.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "대관령.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/대관령.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 204462,
+      "size_human": "199.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "동강.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/동강.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 237857,
+      "size_human": "232.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "런던.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/런던.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 171335,
+      "size_human": "167.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "샌프란시스코.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/샌프란시스코.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 339089,
+      "size_human": "331.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "설악산.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/설악산.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 221865,
+      "size_human": "216.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "신발1.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/신발1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 173774,
+      "size_human": "169.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "신발2.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/신발2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 375206,
+      "size_human": "366.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "신발3.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/신발3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 51288,
+      "size_human": "50.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "신발4.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/신발4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 139528,
+      "size_human": "136.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "천사1.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/천사1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 89535,
+      "size_human": "87.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "천사2.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/천사2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 71898,
+      "size_human": "70.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "천사3.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/천사3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 105488,
+      "size_human": "103.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "천사4.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/천사4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 170060,
+      "size_human": "166.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "파리.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/파리.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 349946,
+      "size_human": "341.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "프라하.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/11장 예제/프라하.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 330542,
+      "size_human": "322.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

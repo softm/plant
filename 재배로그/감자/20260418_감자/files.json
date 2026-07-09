@@ -1,0 +1,396 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/감자/20260418_감자",
+    "path": "재배로그/감자/20260418_감자",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 12,
+    "directory_count": 0,
+    "direct_file_count": 12,
+    "direct_directory_count": 0,
+    "total_size": 69792833,
+    "total_size_human": "66.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260418_감자",
+    "path": "재배로그/감자/20260418_감자",
+    "index": "재배로그/감자/20260418_감자/files.json",
+    "modified": "2026-07-09T17:49:43+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260418_160710.jpg",
+        "path": "재배로그/감자/20260418_감자/20260418_160710.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3551563,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_160712.mp4",
+        "path": "재배로그/감자/20260418_감자/20260418_160712.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 26987415,
+        "size_human": "25.7 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_160735.jpg",
+        "path": "재배로그/감자/20260418_감자/20260418_160735.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4466969,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_160737.jpg",
+        "path": "재배로그/감자/20260418_감자/20260418_160737.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4524036,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_160739.jpg",
+        "path": "재배로그/감자/20260418_감자/20260418_160739.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4843840,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_160741.jpg",
+        "path": "재배로그/감자/20260418_감자/20260418_160741.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4817701,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_160742.jpg",
+        "path": "재배로그/감자/20260418_감자/20260418_160742.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4841527,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_160744.jpg",
+        "path": "재배로그/감자/20260418_감자/20260418_160744.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4258807,
+        "size_human": "4.1 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_160749.jpg",
+        "path": "재배로그/감자/20260418_감자/20260418_160749.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2190134,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_160755.jpg",
+        "path": "재배로그/감자/20260418_감자/20260418_160755.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2303013,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_160758.jpg",
+        "path": "재배로그/감자/20260418_감자/20260418_160758.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2270999,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_160804.jpg",
+        "path": "재배로그/감자/20260418_감자/20260418_160804.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4736829,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 12,
+    "directory_count": 0,
+    "total_size": 69792833,
+    "total_size_human": "66.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260418_160710.jpg",
+      "path": "재배로그/감자/20260418_감자/20260418_160710.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3551563,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_160712.mp4",
+      "path": "재배로그/감자/20260418_감자/20260418_160712.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 26987415,
+      "size_human": "25.7 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_160735.jpg",
+      "path": "재배로그/감자/20260418_감자/20260418_160735.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4466969,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_160737.jpg",
+      "path": "재배로그/감자/20260418_감자/20260418_160737.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4524036,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_160739.jpg",
+      "path": "재배로그/감자/20260418_감자/20260418_160739.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4843840,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_160741.jpg",
+      "path": "재배로그/감자/20260418_감자/20260418_160741.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4817701,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_160742.jpg",
+      "path": "재배로그/감자/20260418_감자/20260418_160742.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4841527,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_160744.jpg",
+      "path": "재배로그/감자/20260418_감자/20260418_160744.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4258807,
+      "size_human": "4.1 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_160749.jpg",
+      "path": "재배로그/감자/20260418_감자/20260418_160749.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2190134,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_160755.jpg",
+      "path": "재배로그/감자/20260418_감자/20260418_160755.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2303013,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_160758.jpg",
+      "path": "재배로그/감자/20260418_감자/20260418_160758.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2270999,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_160804.jpg",
+      "path": "재배로그/감자/20260418_감자/20260418_160804.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4736829,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

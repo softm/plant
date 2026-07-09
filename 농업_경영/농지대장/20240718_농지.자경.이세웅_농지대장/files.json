@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장",
+    "path": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 2338638,
+    "total_size_human": "2.2 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20240718_농지.자경.이세웅_농지대장",
+    "path": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장",
+    "index": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장/files.json",
+    "modified": "2026-07-09T17:49:07+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "충청남도 서산시 대산읍 화곡리 0667-0014-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "path": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장/충청남도 서산시 대산읍 화곡리 0667-0014-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 779907,
+        "size_human": "761.6 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "충청남도 서산시 대산읍 화곡리 0667-0015-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "path": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장/충청남도 서산시 대산읍 화곡리 0667-0015-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 780551,
+        "size_human": "762.3 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "충청남도 서산시 대산읍 화곡리 0667-0028-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "path": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장/충청남도 서산시 대산읍 화곡리 0667-0028-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 778180,
+        "size_human": "759.9 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 2338638,
+    "total_size_human": "2.2 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "충청남도 서산시 대산읍 화곡리 0667-0014-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "path": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장/충청남도 서산시 대산읍 화곡리 0667-0014-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 779907,
+      "size_human": "761.6 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "충청남도 서산시 대산읍 화곡리 0667-0015-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "path": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장/충청남도 서산시 대산읍 화곡리 0667-0015-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 780551,
+      "size_human": "762.3 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "충청남도 서산시 대산읍 화곡리 0667-0028-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "path": "농업_경영/농지대장/20240718_농지.자경.이세웅_농지대장/충청남도 서산시 대산읍 화곡리 0667-0028-정부24 - 농지대장 등본발급 _ 문서출력.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 778180,
+      "size_human": "759.9 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

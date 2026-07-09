@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/2024_참깨/20240628_66723_대파_확인",
+    "path": "재배로그/2024_참깨/20240628_66723_대파_확인",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 16273090,
+    "total_size_human": "15.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20240628_66723_대파_확인",
+    "path": "재배로그/2024_참깨/20240628_66723_대파_확인",
+    "index": "재배로그/2024_참깨/20240628_66723_대파_확인/files.json",
+    "modified": "2026-07-09T17:49:14+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20240628_091810.jpg",
+        "path": "재배로그/2024_참깨/20240628_66723_대파_확인/20240628_091810.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4720746,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:49:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240628_091815.jpg",
+        "path": "재배로그/2024_참깨/20240628_66723_대파_확인/20240628_091815.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4862227,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:49:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240628_091818.mp4",
+        "path": "재배로그/2024_참깨/20240628_66723_대파_확인/20240628_091818.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 6690117,
+        "size_human": "6.4 MB",
+        "modified": "2026-07-09T17:49:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 16273090,
+    "total_size_human": "15.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20240628_091810.jpg",
+      "path": "재배로그/2024_참깨/20240628_66723_대파_확인/20240628_091810.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4720746,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:49:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240628_091815.jpg",
+      "path": "재배로그/2024_참깨/20240628_66723_대파_확인/20240628_091815.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4862227,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:49:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240628_091818.mp4",
+      "path": "재배로그/2024_참깨/20240628_66723_대파_확인/20240628_091818.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 6690117,
+      "size_human": "6.4 MB",
+      "modified": "2026-07-09T17:49:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료",
+    "path": "교육자료",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 958,
+    "directory_count": 150,
+    "direct_file_count": 0,
+    "direct_directory_count": 2,
+    "total_size": 2082044789,
+    "total_size_human": "1.9 GB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "교육자료",
+    "path": "교육자료",
+    "index": "교육자료/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "교육과정별 자료실",
+        "path": "교육자료/교육과정별 자료실",
+        "index": "교육자료/교육과정별 자료실/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 645,
+        "directory_count": 115,
+        "total_size": 1793366497,
+        "total_size_human": "1.7 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "포토스케이프",
+        "path": "교육자료/포토스케이프",
+        "index": "교육자료/포토스케이프/files.json",
+        "modified": "2026-07-09T17:48:59+00:00",
+        "file_count": 313,
+        "directory_count": 33,
+        "total_size": 288678292,
+        "total_size_human": "275.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 958,
+    "directory_count": 150,
+    "total_size": 2082044789,
+    "total_size_human": "1.9 GB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "교육과정별 자료실",
+      "path": "교육자료/교육과정별 자료실",
+      "index": "교육자료/교육과정별 자료실/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 645,
+      "directory_count": 115,
+      "total_size": 1793366497,
+      "total_size_human": "1.7 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "포토스케이프",
+      "path": "교육자료/포토스케이프",
+      "index": "교육자료/포토스케이프/files.json",
+      "modified": "2026-07-09T17:48:59+00:00",
+      "file_count": 313,
+      "directory_count": 33,
+      "total_size": 288678292,
+      "total_size_human": "275.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

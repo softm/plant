@@ -2,33 +2,33 @@
   "schema_version": 2,
   "index_type": "directory-manifest",
   "summary": {
-    "root": "/home/runner/work/gitpages-explorer/gitpages-explorer",
+    "root": "/home/runner/work/plant/plant",
     "path": ".",
-    "generated_at": "2026-07-09T17:36:29+00:00",
-    "file_count": 23,
-    "directory_count": 7,
-    "direct_file_count": 2,
-    "direct_directory_count": 2,
-    "total_size": 24116664,
-    "total_size_human": "23.0 MB"
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 6413,
+    "directory_count": 364,
+    "direct_file_count": 4,
+    "direct_directory_count": 13,
+    "total_size": 25565902155,
+    "total_size_human": "23.8 GB"
   },
   "tree": {
     "type": "directory",
-    "name": "gitpages-explorer",
+    "name": "plant",
     "path": ".",
     "index": "files.json",
-    "modified": "2026-07-09T17:36:24+00:00",
+    "modified": "2026-07-09T17:50:17+00:00",
     "children": [
       {
         "type": "directory",
         "name": "교육",
         "path": "교육",
         "index": "교육/files.json",
-        "modified": "2026-07-09T17:36:24+00:00",
-        "file_count": 3,
-        "directory_count": 2,
-        "total_size": 4730097,
-        "total_size_human": "4.5 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "file_count": 1015,
+        "directory_count": 44,
+        "total_size": 7369755024,
+        "total_size_human": "6.9 GB",
         "security": {
           "private": false,
           "source": "public"
@@ -39,7 +39,7 @@
         "name": "교육신청",
         "path": "교육신청",
         "index": "교육신청/files.json",
-        "modified": "2026-07-09T17:36:24+00:00",
+        "modified": "2026-07-09T17:48:49+00:00",
         "file_count": 18,
         "directory_count": 3,
         "total_size": 19361872,
@@ -50,15 +50,210 @@
         }
       },
       {
+        "type": "directory",
+        "name": "교육자료",
+        "path": "교육자료",
+        "index": "교육자료/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 958,
+        "directory_count": 150,
+        "total_size": 2082044789,
+        "total_size_human": "1.9 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "구매로그",
+        "path": "구매로그",
+        "index": "구매로그/files.json",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "file_count": 90,
+        "directory_count": 18,
+        "total_size": 193574816,
+        "total_size_human": "184.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "기타로그",
+        "path": "기타로그",
+        "index": "기타로그/files.json",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "file_count": 46,
+        "directory_count": 2,
+        "total_size": 227458712,
+        "total_size_human": "216.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "농사",
+        "path": "농사",
+        "index": "농사/files.json",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "file_count": 235,
+        "directory_count": 14,
+        "total_size": 619984946,
+        "total_size_human": "591.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "농업_경영",
+        "path": "농업_경영",
+        "index": "농업_경영/files.json",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "file_count": 418,
+        "directory_count": 25,
+        "total_size": 1126296359,
+        "total_size_human": "1.0 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "방법로그",
+        "path": "방법로그",
+        "index": "방법로그/files.json",
+        "modified": "2026-07-09T17:49:08+00:00",
+        "file_count": 1574,
+        "directory_count": 7,
+        "total_size": 800446816,
+        "total_size_human": "763.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "산림조합",
+        "path": "산림조합",
+        "index": "산림조합/files.json",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 32256,
+        "total_size_human": "31.5 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "원예로그",
+        "path": "원예로그",
+        "index": "원예로그/files.json",
+        "modified": "2026-07-09T17:49:12+00:00",
+        "file_count": 178,
+        "directory_count": 13,
+        "total_size": 556463086,
+        "total_size_human": "530.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "장비로그",
+        "path": "장비로그",
+        "index": "장비로그/files.json",
+        "modified": "2026-07-09T17:49:13+00:00",
+        "file_count": 30,
+        "directory_count": 2,
+        "total_size": 70732064,
+        "total_size_human": "67.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "재배로그",
+        "path": "재배로그",
+        "index": "재배로그/files.json",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "file_count": 1840,
+        "directory_count": 72,
+        "total_size": 12492735575,
+        "total_size_human": "11.6 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "지원사업",
+        "path": "지원사업",
+        "index": "지원사업/files.json",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "file_count": 5,
+        "directory_count": 1,
+        "total_size": 7004414,
+        "total_size_human": "6.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
         "type": "file",
-        "name": "20260513_신한은행_부지점장_ISA·ETF·IRP 상담 내용 정리 보고서.md",
-        "path": "20260513_신한은행_부지점장_ISA·ETF·IRP 상담 내용 정리 보고서.md",
+        "name": ".nojekyll",
+        "path": ".nojekyll",
+        "extension": "no-extension",
+        "group": "other",
+        "mime_type": null,
+        "size": 0,
+        "size_human": "0 B",
+        "modified": "2026-07-09T17:48:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 6144,
+        "size_human": "6.0 KB",
+        "modified": "2026-07-09T17:48:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "readme.md",
+        "path": "readme.md",
         "extension": "md",
         "group": "text",
         "mime_type": "text/markdown",
-        "size": 20079,
-        "size_human": "19.6 KB",
-        "modified": "2026-07-09T17:36:24+00:00",
+        "size": 666,
+        "size_human": "666 B",
+        "modified": "2026-07-09T17:48:12+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -73,17 +268,17 @@
         "mime_type": "text/markdown",
         "size": 4616,
         "size_human": "4.5 KB",
-        "modified": "2026-07-09T17:36:24+00:00",
+        "modified": "2026-07-09T17:50:17+00:00",
         "security": {
           "private": true,
           "source": "grant"
         }
       }
     ],
-    "file_count": 23,
-    "directory_count": 7,
-    "total_size": 24116664,
-    "total_size_human": "23.0 MB",
+    "file_count": 6413,
+    "directory_count": 364,
+    "total_size": 25565902155,
+    "total_size_human": "23.8 GB",
     "security": {
       "private": false,
       "source": "public"
@@ -92,14 +287,44 @@
   "files": [
     {
       "type": "file",
-      "name": "20260513_신한은행_부지점장_ISA·ETF·IRP 상담 내용 정리 보고서.md",
-      "path": "20260513_신한은행_부지점장_ISA·ETF·IRP 상담 내용 정리 보고서.md",
+      "name": ".nojekyll",
+      "path": ".nojekyll",
+      "extension": "no-extension",
+      "group": "other",
+      "mime_type": null,
+      "size": 0,
+      "size_human": "0 B",
+      "modified": "2026-07-09T17:48:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 6144,
+      "size_human": "6.0 KB",
+      "modified": "2026-07-09T17:48:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "readme.md",
+      "path": "readme.md",
       "extension": "md",
       "group": "text",
       "mime_type": "text/markdown",
-      "size": 20079,
-      "size_human": "19.6 KB",
-      "modified": "2026-07-09T17:36:24+00:00",
+      "size": 666,
+      "size_human": "666 B",
+      "modified": "2026-07-09T17:48:12+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -114,7 +339,7 @@
       "mime_type": "text/markdown",
       "size": 4616,
       "size_human": "4.5 KB",
-      "modified": "2026-07-09T17:36:24+00:00",
+      "modified": "2026-07-09T17:50:17+00:00",
       "security": {
         "private": true,
         "source": "grant"
@@ -127,11 +352,11 @@
       "name": "교육",
       "path": "교육",
       "index": "교육/files.json",
-      "modified": "2026-07-09T17:36:24+00:00",
-      "file_count": 3,
-      "directory_count": 2,
-      "total_size": 4730097,
-      "total_size_human": "4.5 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "file_count": 1015,
+      "directory_count": 44,
+      "total_size": 7369755024,
+      "total_size_human": "6.9 GB",
       "security": {
         "private": false,
         "source": "public"
@@ -142,11 +367,176 @@
       "name": "교육신청",
       "path": "교육신청",
       "index": "교육신청/files.json",
-      "modified": "2026-07-09T17:36:24+00:00",
+      "modified": "2026-07-09T17:48:49+00:00",
       "file_count": 18,
       "directory_count": 3,
       "total_size": 19361872,
       "total_size_human": "18.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "교육자료",
+      "path": "교육자료",
+      "index": "교육자료/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 958,
+      "directory_count": 150,
+      "total_size": 2082044789,
+      "total_size_human": "1.9 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "구매로그",
+      "path": "구매로그",
+      "index": "구매로그/files.json",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "file_count": 90,
+      "directory_count": 18,
+      "total_size": 193574816,
+      "total_size_human": "184.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "기타로그",
+      "path": "기타로그",
+      "index": "기타로그/files.json",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "file_count": 46,
+      "directory_count": 2,
+      "total_size": 227458712,
+      "total_size_human": "216.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "농사",
+      "path": "농사",
+      "index": "농사/files.json",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "file_count": 235,
+      "directory_count": 14,
+      "total_size": 619984946,
+      "total_size_human": "591.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "농업_경영",
+      "path": "농업_경영",
+      "index": "농업_경영/files.json",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "file_count": 418,
+      "directory_count": 25,
+      "total_size": 1126296359,
+      "total_size_human": "1.0 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "방법로그",
+      "path": "방법로그",
+      "index": "방법로그/files.json",
+      "modified": "2026-07-09T17:49:08+00:00",
+      "file_count": 1574,
+      "directory_count": 7,
+      "total_size": 800446816,
+      "total_size_human": "763.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "산림조합",
+      "path": "산림조합",
+      "index": "산림조합/files.json",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 32256,
+      "total_size_human": "31.5 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "원예로그",
+      "path": "원예로그",
+      "index": "원예로그/files.json",
+      "modified": "2026-07-09T17:49:12+00:00",
+      "file_count": 178,
+      "directory_count": 13,
+      "total_size": 556463086,
+      "total_size_human": "530.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "장비로그",
+      "path": "장비로그",
+      "index": "장비로그/files.json",
+      "modified": "2026-07-09T17:49:13+00:00",
+      "file_count": 30,
+      "directory_count": 2,
+      "total_size": 70732064,
+      "total_size_human": "67.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "재배로그",
+      "path": "재배로그",
+      "index": "재배로그/files.json",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "file_count": 1840,
+      "directory_count": 72,
+      "total_size": 12492735575,
+      "total_size_human": "11.6 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "지원사업",
+      "path": "지원사업",
+      "index": "지원사업/files.json",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "file_count": 5,
+      "directory_count": 1,
+      "total_size": 7004414,
+      "total_size_human": "6.7 MB",
       "security": {
         "private": false,
         "source": "public"

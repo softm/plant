@@ -1,0 +1,576 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_결과파일/11장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 18,
+    "directory_count": 0,
+    "direct_file_count": 18,
+    "direct_directory_count": 0,
+    "total_size": 1024293,
+    "total_size_human": "1000.3 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "11장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과",
+    "index": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "강원도_01.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/강원도_01.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 53976,
+        "size_human": "52.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "강원도_02.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/강원도_02.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 60839,
+        "size_human": "59.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "강원도_03.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/강원도_03.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 69539,
+        "size_human": "67.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "강원도_04.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/강원도_04.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 83474,
+        "size_human": "81.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "다리_뉴욕-01.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/다리_뉴욕-01.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 65350,
+        "size_human": "63.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "다리_런던-02.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/다리_런던-02.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 43459,
+        "size_human": "42.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "다리_샌프란시스코-03.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/다리_샌프란시스코-03.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 53087,
+        "size_human": "51.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "다리_파리-04.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/다리_파리-04.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 59263,
+        "size_human": "57.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "다리_프라하-05.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/다리_프라하-05.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 70334,
+        "size_human": "68.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "주니로고-결과.png",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/주니로고-결과.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 12255,
+        "size_human": "12.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "착한천사1.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/착한천사1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 60894,
+        "size_human": "59.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "착한천사2.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/착한천사2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 44860,
+        "size_human": "43.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "착한천사3.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/착한천사3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 50122,
+        "size_human": "48.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "착한천사4.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/착한천사4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 89910,
+        "size_human": "87.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "하이힐_신발1.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/하이힐_신발1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 45460,
+        "size_human": "44.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "하이힐_신발2.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/하이힐_신발2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 70193,
+        "size_human": "68.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "하이힐_신발3.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/하이힐_신발3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 46126,
+        "size_human": "45.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "하이힐_신발4.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/하이힐_신발4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 45152,
+        "size_human": "44.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 18,
+    "directory_count": 0,
+    "total_size": 1024293,
+    "total_size_human": "1000.3 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "강원도_01.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/강원도_01.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 53976,
+      "size_human": "52.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "강원도_02.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/강원도_02.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 60839,
+      "size_human": "59.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "강원도_03.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/강원도_03.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 69539,
+      "size_human": "67.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "강원도_04.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/강원도_04.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 83474,
+      "size_human": "81.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "다리_뉴욕-01.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/다리_뉴욕-01.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 65350,
+      "size_human": "63.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "다리_런던-02.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/다리_런던-02.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 43459,
+      "size_human": "42.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "다리_샌프란시스코-03.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/다리_샌프란시스코-03.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 53087,
+      "size_human": "51.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "다리_파리-04.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/다리_파리-04.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 59263,
+      "size_human": "57.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "다리_프라하-05.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/다리_프라하-05.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 70334,
+      "size_human": "68.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "주니로고-결과.png",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/주니로고-결과.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 12255,
+      "size_human": "12.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "착한천사1.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/착한천사1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 60894,
+      "size_human": "59.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "착한천사2.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/착한천사2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 44860,
+      "size_human": "43.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "착한천사3.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/착한천사3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 50122,
+      "size_human": "48.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "착한천사4.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/착한천사4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 89910,
+      "size_human": "87.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "하이힐_신발1.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/하이힐_신발1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 45460,
+      "size_human": "44.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "하이힐_신발2.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/하이힐_신발2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 70193,
+      "size_human": "68.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "하이힐_신발3.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/하이힐_신발3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 46126,
+      "size_human": "45.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "하이힐_신발4.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/11장 결과/하이힐_신발4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 45152,
+      "size_human": "44.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

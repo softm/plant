@@ -1,0 +1,996 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/동영상 제작&편집/예제",
+    "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 32,
+    "directory_count": 0,
+    "direct_file_count": 32,
+    "direct_directory_count": 0,
+    "total_size": 219242636,
+    "total_size_human": "209.1 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "예제",
+    "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제",
+    "index": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/files.json",
+    "modified": "2026-07-09T17:48:50+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "2019.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/2019.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 10154571,
+        "size_human": "9.7 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "baby.jpg",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/baby.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 156038,
+        "size_human": "152.4 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "bgm.mp3",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/bgm.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 563041,
+        "size_human": "549.8 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Click On-SoundBible.com-1697535117.mp3",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/Click On-SoundBible.com-1697535117.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 13392,
+        "size_human": "13.1 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Fish.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/Fish.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 8342722,
+        "size_human": "8.0 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "shot_1.2723035438900687.png",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/shot_1.2723035438900687.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 2218337,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "shot_6.372729099136015.png",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/shot_6.372729099136015.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 1303346,
+        "size_human": "1.2 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "ufo.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/ufo.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 6244486,
+        "size_human": "6.0 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "voice20190117213533.mp3",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/voice20190117213533.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 23877,
+        "size_human": "23.3 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "voice20190118222346.mp3",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/voice20190118222346.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 15993,
+        "size_human": "15.6 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "검은고양이.png",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/검은고양이.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 125757,
+        "size_human": "122.8 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "겨울01.jpg",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/겨울01.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 342207,
+        "size_human": "334.2 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "겨울02.jpg",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/겨울02.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 325284,
+        "size_human": "317.7 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "겨울03.jpg",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/겨울03.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1025087,
+        "size_human": "1001.1 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "눈사람.jpg",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/눈사람.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 427079,
+        "size_human": "417.1 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "데이지.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/데이지.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 15105631,
+        "size_human": "14.4 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "로고.jpg",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/로고.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 13015,
+        "size_human": "12.7 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "발소리.mp3",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/발소리.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 76247,
+        "size_human": "74.5 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "배경음악.mp3",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/배경음악.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 2309478,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "별.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/별.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 13552903,
+        "size_human": "12.9 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "북경.MOV",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/북경.MOV",
+        "extension": "mov",
+        "group": "video",
+        "mime_type": "video/quicktime",
+        "size": 71663320,
+        "size_human": "68.3 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "분리음악.mp3",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/분리음악.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 1830721,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "새해인사.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/새해인사.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 4429713,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "소녀.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/소녀.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 14322658,
+        "size_human": "13.7 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "승부.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/승부.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 6208724,
+        "size_human": "5.9 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "에펠탑.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/에펠탑.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 18554731,
+        "size_human": "17.7 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "엔딩음악.mp3",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/엔딩음악.mp3",
+        "extension": "mp3",
+        "group": "audio",
+        "mime_type": "audio/mpeg",
+        "size": 1157164,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "여행.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/여행.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 6632514,
+        "size_human": "6.3 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "코끼리사진.jpg",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/코끼리사진.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 221513,
+        "size_human": "216.3 KB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "펭귄.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/펭귄.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 17202682,
+        "size_human": "16.4 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "풍선.mp4",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/풍선.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 14485911,
+        "size_human": "13.8 MB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "홍콩.jpg",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/홍콩.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 194494,
+        "size_human": "189.9 KB",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 32,
+    "directory_count": 0,
+    "total_size": 219242636,
+    "total_size_human": "209.1 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2019.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/2019.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 10154571,
+      "size_human": "9.7 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "baby.jpg",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/baby.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 156038,
+      "size_human": "152.4 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "bgm.mp3",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/bgm.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 563041,
+      "size_human": "549.8 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Click On-SoundBible.com-1697535117.mp3",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/Click On-SoundBible.com-1697535117.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 13392,
+      "size_human": "13.1 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Fish.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/Fish.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 8342722,
+      "size_human": "8.0 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "shot_1.2723035438900687.png",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/shot_1.2723035438900687.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 2218337,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "shot_6.372729099136015.png",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/shot_6.372729099136015.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 1303346,
+      "size_human": "1.2 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "ufo.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/ufo.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 6244486,
+      "size_human": "6.0 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "voice20190117213533.mp3",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/voice20190117213533.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 23877,
+      "size_human": "23.3 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "voice20190118222346.mp3",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/voice20190118222346.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 15993,
+      "size_human": "15.6 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "검은고양이.png",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/검은고양이.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 125757,
+      "size_human": "122.8 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "겨울01.jpg",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/겨울01.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 342207,
+      "size_human": "334.2 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "겨울02.jpg",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/겨울02.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 325284,
+      "size_human": "317.7 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "겨울03.jpg",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/겨울03.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1025087,
+      "size_human": "1001.1 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "눈사람.jpg",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/눈사람.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 427079,
+      "size_human": "417.1 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "데이지.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/데이지.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 15105631,
+      "size_human": "14.4 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "로고.jpg",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/로고.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 13015,
+      "size_human": "12.7 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "발소리.mp3",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/발소리.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 76247,
+      "size_human": "74.5 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "배경음악.mp3",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/배경음악.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 2309478,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "별.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/별.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 13552903,
+      "size_human": "12.9 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "북경.MOV",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/북경.MOV",
+      "extension": "mov",
+      "group": "video",
+      "mime_type": "video/quicktime",
+      "size": 71663320,
+      "size_human": "68.3 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "분리음악.mp3",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/분리음악.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 1830721,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "새해인사.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/새해인사.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 4429713,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "소녀.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/소녀.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 14322658,
+      "size_human": "13.7 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "승부.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/승부.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 6208724,
+      "size_human": "5.9 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "에펠탑.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/에펠탑.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 18554731,
+      "size_human": "17.7 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "엔딩음악.mp3",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/엔딩음악.mp3",
+      "extension": "mp3",
+      "group": "audio",
+      "mime_type": "audio/mpeg",
+      "size": 1157164,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "여행.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/여행.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 6632514,
+      "size_human": "6.3 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "코끼리사진.jpg",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/코끼리사진.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 221513,
+      "size_human": "216.3 KB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "펭귄.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/펭귄.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 17202682,
+      "size_human": "16.4 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "풍선.mp4",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/풍선.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 14485911,
+      "size_human": "13.8 MB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "홍콩.jpg",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집/예제/홍콩.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 194494,
+      "size_human": "189.9 KB",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

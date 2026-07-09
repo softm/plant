@@ -1,0 +1,247 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/2024_참깨",
+    "path": "재배로그/2024_참깨",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 46,
+    "directory_count": 4,
+    "direct_file_count": 3,
+    "direct_directory_count": 4,
+    "total_size": 332210278,
+    "total_size_human": "316.8 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2024_참깨",
+    "path": "재배로그/2024_참깨",
+    "index": "재배로그/2024_참깨/files.json",
+    "modified": "2026-07-09T17:49:16+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20240628_66723_대파_확인",
+        "path": "재배로그/2024_참깨/20240628_66723_대파_확인",
+        "index": "재배로그/2024_참깨/20240628_66723_대파_확인/files.json",
+        "modified": "2026-07-09T17:49:14+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 16273090,
+        "total_size_human": "15.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20240628_66723_참깨_확인",
+        "path": "재배로그/2024_참깨/20240628_66723_참깨_확인",
+        "index": "재배로그/2024_참깨/20240628_66723_참깨_확인/files.json",
+        "modified": "2026-07-09T17:49:14+00:00",
+        "file_count": 20,
+        "directory_count": 0,
+        "total_size": 122693811,
+        "total_size_human": "117.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20240706_66723_참깨대_고추대_설치",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치",
+        "index": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/files.json",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "file_count": 15,
+        "directory_count": 0,
+        "total_size": 166323659,
+        "total_size_human": "158.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20240706_리도밀_고추끈_구입",
+        "path": "재배로그/2024_참깨/20240706_리도밀_고추끈_구입",
+        "index": "재배로그/2024_참깨/20240706_리도밀_고추끈_구입/files.json",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 10646628,
+        "total_size_human": "10.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "부추_66723_20240628_091810.jpg",
+        "path": "재배로그/2024_참깨/부추_66723_20240628_091810.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4720746,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "부추_66723_20240628_091815.jpg",
+        "path": "재배로그/2024_참깨/부추_66723_20240628_091815.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4862227,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "부추_66723_20240628_091818.mp4",
+        "path": "재배로그/2024_참깨/부추_66723_20240628_091818.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 6690117,
+        "size_human": "6.4 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 46,
+    "directory_count": 4,
+    "total_size": 332210278,
+    "total_size_human": "316.8 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "부추_66723_20240628_091810.jpg",
+      "path": "재배로그/2024_참깨/부추_66723_20240628_091810.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4720746,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "부추_66723_20240628_091815.jpg",
+      "path": "재배로그/2024_참깨/부추_66723_20240628_091815.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4862227,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "부추_66723_20240628_091818.mp4",
+      "path": "재배로그/2024_참깨/부추_66723_20240628_091818.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 6690117,
+      "size_human": "6.4 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20240628_66723_대파_확인",
+      "path": "재배로그/2024_참깨/20240628_66723_대파_확인",
+      "index": "재배로그/2024_참깨/20240628_66723_대파_확인/files.json",
+      "modified": "2026-07-09T17:49:14+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 16273090,
+      "total_size_human": "15.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20240628_66723_참깨_확인",
+      "path": "재배로그/2024_참깨/20240628_66723_참깨_확인",
+      "index": "재배로그/2024_참깨/20240628_66723_참깨_확인/files.json",
+      "modified": "2026-07-09T17:49:14+00:00",
+      "file_count": 20,
+      "directory_count": 0,
+      "total_size": 122693811,
+      "total_size_human": "117.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20240706_66723_참깨대_고추대_설치",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치",
+      "index": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/files.json",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "file_count": 15,
+      "directory_count": 0,
+      "total_size": 166323659,
+      "total_size_human": "158.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20240706_리도밀_고추끈_구입",
+      "path": "재배로그/2024_참깨/20240706_리도밀_고추끈_구입",
+      "index": "재배로그/2024_참깨/20240706_리도밀_고추끈_구입/files.json",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 10646628,
+      "total_size_human": "10.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

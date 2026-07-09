@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠",
+    "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 0,
+    "direct_file_count": 5,
+    "direct_directory_count": 0,
+    "total_size": 8820964,
+    "total_size_human": "8.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260630_비닐하우스_CCTV연결_타포_홈캠",
+    "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠",
+    "index": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/files.json",
+    "modified": "2026-07-09T17:49:13+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "타포_C320WS.png",
+        "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/타포_C320WS.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 5963001,
+        "size_human": "5.7 MB",
+        "modified": "2026-07-09T17:49:13+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "타포_CCTV.jpeg",
+        "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/타포_CCTV.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2498744,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:49:13+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "타포_홈캠_간단비교표.png",
+        "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/타포_홈캠_간단비교표.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 355438,
+        "size_human": "347.1 KB",
+        "modified": "2026-07-09T17:49:13+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "타포_홈캠_구매조사.md",
+        "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/타포_홈캠_구매조사.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 3328,
+        "size_human": "3.2 KB",
+        "modified": "2026-07-09T17:49:13+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "핸드폰 핫스팟_TO_무선익스텐터_랜선CCTV연결.md",
+        "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/핸드폰 핫스팟_TO_무선익스텐터_랜선CCTV연결.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 453,
+        "size_human": "453 B",
+        "modified": "2026-07-09T17:49:13+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 0,
+    "total_size": 8820964,
+    "total_size_human": "8.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "타포_C320WS.png",
+      "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/타포_C320WS.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 5963001,
+      "size_human": "5.7 MB",
+      "modified": "2026-07-09T17:49:13+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "타포_CCTV.jpeg",
+      "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/타포_CCTV.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2498744,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:49:13+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "타포_홈캠_간단비교표.png",
+      "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/타포_홈캠_간단비교표.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 355438,
+      "size_human": "347.1 KB",
+      "modified": "2026-07-09T17:49:13+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "타포_홈캠_구매조사.md",
+      "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/타포_홈캠_구매조사.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 3328,
+      "size_human": "3.2 KB",
+      "modified": "2026-07-09T17:49:13+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "핸드폰 핫스팟_TO_무선익스텐터_랜선CCTV연결.md",
+      "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/핸드폰 핫스팟_TO_무선익스텐터_랜선CCTV연결.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 453,
+      "size_human": "453 B",
+      "modified": "2026-07-09T17:49:13+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

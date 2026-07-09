@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/들깨/2024_들깨",
+    "path": "재배로그/들깨/2024_들깨",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 101,
+    "directory_count": 3,
+    "direct_file_count": 0,
+    "direct_directory_count": 3,
+    "total_size": 709979895,
+    "total_size_human": "677.1 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2024_들깨",
+    "path": "재배로그/들깨/2024_들깨",
+    "index": "재배로그/들깨/2024_들깨/files.json",
+    "modified": "2026-07-09T17:49:55+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20240627_들깨",
+        "path": "재배로그/들깨/2024_들깨/20240627_들깨",
+        "index": "재배로그/들깨/2024_들깨/20240627_들깨/files.json",
+        "modified": "2026-07-09T17:49:55+00:00",
+        "file_count": 75,
+        "directory_count": 0,
+        "total_size": 527295466,
+        "total_size_human": "502.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20240628_들깨",
+        "path": "재배로그/들깨/2024_들깨/20240628_들깨",
+        "index": "재배로그/들깨/2024_들깨/20240628_들깨/files.json",
+        "modified": "2026-07-09T17:49:55+00:00",
+        "file_count": 22,
+        "directory_count": 0,
+        "total_size": 166673355,
+        "total_size_human": "159.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20240706_66732_33_들깨확인",
+        "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인",
+        "index": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인/files.json",
+        "modified": "2026-07-09T17:49:55+00:00",
+        "file_count": 4,
+        "directory_count": 0,
+        "total_size": 16011074,
+        "total_size_human": "15.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 101,
+    "directory_count": 3,
+    "total_size": 709979895,
+    "total_size_human": "677.1 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20240627_들깨",
+      "path": "재배로그/들깨/2024_들깨/20240627_들깨",
+      "index": "재배로그/들깨/2024_들깨/20240627_들깨/files.json",
+      "modified": "2026-07-09T17:49:55+00:00",
+      "file_count": 75,
+      "directory_count": 0,
+      "total_size": 527295466,
+      "total_size_human": "502.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20240628_들깨",
+      "path": "재배로그/들깨/2024_들깨/20240628_들깨",
+      "index": "재배로그/들깨/2024_들깨/20240628_들깨/files.json",
+      "modified": "2026-07-09T17:49:55+00:00",
+      "file_count": 22,
+      "directory_count": 0,
+      "total_size": 166673355,
+      "total_size_human": "159.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20240706_66732_33_들깨확인",
+      "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인",
+      "index": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인/files.json",
+      "modified": "2026-07-09T17:49:55+00:00",
+      "file_count": 4,
+      "directory_count": 0,
+      "total_size": 16011074,
+      "total_size_human": "15.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실",
+    "path": "교육자료/교육과정별 자료실",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 645,
+    "directory_count": 115,
+    "direct_file_count": 0,
+    "direct_directory_count": 8,
+    "total_size": 1793366497,
+    "total_size_human": "1.7 GB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "교육과정별 자료실",
+    "path": "교육자료/교육과정별 자료실",
+    "index": "교육자료/교육과정별 자료실/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "동영상 제작&편집",
+        "path": "교육자료/교육과정별 자료실/동영상 제작&편집",
+        "index": "교육자료/교육과정별 자료실/동영상 제작&편집/files.json",
+        "modified": "2026-07-09T17:48:50+00:00",
+        "file_count": 59,
+        "directory_count": 2,
+        "total_size": 509132893,
+        "total_size_human": "485.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "블로그",
+        "path": "교육자료/교육과정별 자료실/블로그",
+        "index": "교육자료/교육과정별 자료실/블로그/files.json",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "file_count": 76,
+        "directory_count": 2,
+        "total_size": 15369175,
+        "total_size_human": "14.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "스마트폰활용",
+        "path": "교육자료/교육과정별 자료실/스마트폰활용",
+        "index": "교육자료/교육과정별 자료실/스마트폰활용/files.json",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "file_count": 13,
+        "directory_count": 0,
+        "total_size": 26830337,
+        "total_size_human": "25.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "엑셀2016",
+        "path": "교육자료/교육과정별 자료실/엑셀2016",
+        "index": "교육자료/교육과정별 자료실/엑셀2016/files.json",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "file_count": 84,
+        "directory_count": 36,
+        "total_size": 1028393,
+        "total_size_human": "1004.3 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "유튜버",
+        "path": "교육자료/교육과정별 자료실/유튜버",
+        "index": "교육자료/교육과정별 자료실/유튜버/files.json",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "file_count": 67,
+        "directory_count": 14,
+        "total_size": 653922161,
+        "total_size_human": "623.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "파워포인트2016",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016",
+        "index": "교육자료/교육과정별 자료실/파워포인트2016/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 86,
+        "directory_count": 23,
+        "total_size": 397556100,
+        "total_size_human": "379.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "포토스케이프",
+        "path": "교육자료/교육과정별 자료실/포토스케이프",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 186,
+        "directory_count": 27,
+        "total_size": 134445758,
+        "total_size_human": "128.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "한글2020문서",
+        "path": "교육자료/교육과정별 자료실/한글2020문서",
+        "index": "교육자료/교육과정별 자료실/한글2020문서/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 74,
+        "directory_count": 3,
+        "total_size": 55081680,
+        "total_size_human": "52.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 645,
+    "directory_count": 115,
+    "total_size": 1793366497,
+    "total_size_human": "1.7 GB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "동영상 제작&편집",
+      "path": "교육자료/교육과정별 자료실/동영상 제작&편집",
+      "index": "교육자료/교육과정별 자료실/동영상 제작&편집/files.json",
+      "modified": "2026-07-09T17:48:50+00:00",
+      "file_count": 59,
+      "directory_count": 2,
+      "total_size": 509132893,
+      "total_size_human": "485.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "블로그",
+      "path": "교육자료/교육과정별 자료실/블로그",
+      "index": "교육자료/교육과정별 자료실/블로그/files.json",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "file_count": 76,
+      "directory_count": 2,
+      "total_size": 15369175,
+      "total_size_human": "14.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "스마트폰활용",
+      "path": "교육자료/교육과정별 자료실/스마트폰활용",
+      "index": "교육자료/교육과정별 자료실/스마트폰활용/files.json",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "file_count": 13,
+      "directory_count": 0,
+      "total_size": 26830337,
+      "total_size_human": "25.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "엑셀2016",
+      "path": "교육자료/교육과정별 자료실/엑셀2016",
+      "index": "교육자료/교육과정별 자료실/엑셀2016/files.json",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "file_count": 84,
+      "directory_count": 36,
+      "total_size": 1028393,
+      "total_size_human": "1004.3 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "유튜버",
+      "path": "교육자료/교육과정별 자료실/유튜버",
+      "index": "교육자료/교육과정별 자료실/유튜버/files.json",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "file_count": 67,
+      "directory_count": 14,
+      "total_size": 653922161,
+      "total_size_human": "623.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "파워포인트2016",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016",
+      "index": "교육자료/교육과정별 자료실/파워포인트2016/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 86,
+      "directory_count": 23,
+      "total_size": 397556100,
+      "total_size_human": "379.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "포토스케이프",
+      "path": "교육자료/교육과정별 자료실/포토스케이프",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 186,
+      "directory_count": 27,
+      "total_size": 134445758,
+      "total_size_human": "128.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "한글2020문서",
+      "path": "교육자료/교육과정별 자료실/한글2020문서",
+      "index": "교육자료/교육과정별 자료실/한글2020문서/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 74,
+      "directory_count": 3,
+      "total_size": 55081680,
+      "total_size_human": "52.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

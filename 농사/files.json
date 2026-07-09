@@ -1,0 +1,697 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농사",
+    "path": "농사",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 235,
+    "directory_count": 14,
+    "direct_file_count": 8,
+    "direct_directory_count": 14,
+    "total_size": 619984946,
+    "total_size_human": "591.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "농사",
+    "path": "농사",
+    "index": "농사/files.json",
+    "modified": "2026-07-09T17:49:03+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20250501_화곡 이모부 부뚜막",
+        "path": "농사/20250501_화곡 이모부 부뚜막",
+        "index": "농사/20250501_화곡 이모부 부뚜막/files.json",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "file_count": 45,
+        "directory_count": 0,
+        "total_size": 196568874,
+        "total_size_human": "187.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250610_지하수개발공사",
+        "path": "농사/20250610_지하수개발공사",
+        "index": "농사/20250610_지하수개발공사/files.json",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 3808526,
+        "total_size_human": "3.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260310_윌로_압력센서_교체",
+        "path": "농사/20260310_윌로_압력센서_교체",
+        "index": "농사/20260310_윌로_압력센서_교체/files.json",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "file_count": 17,
+        "directory_count": 0,
+        "total_size": 40197948,
+        "total_size_human": "38.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260421_타이머_관수기_구성",
+        "path": "농사/20260421_타이머_관수기_구성",
+        "index": "농사/20260421_타이머_관수기_구성/files.json",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "file_count": 20,
+        "directory_count": 0,
+        "total_size": 3072382,
+        "total_size_human": "2.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260423_자바라_분무_노즐",
+        "path": "농사/20260423_자바라_분무_노즐",
+        "index": "농사/20260423_자바라_분무_노즐/files.json",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "file_count": 44,
+        "directory_count": 0,
+        "total_size": 97318480,
+        "total_size_human": "92.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260423_타이머_관수기_부품_배송완료",
+        "path": "농사/20260423_타이머_관수기_부품_배송완료",
+        "index": "농사/20260423_타이머_관수기_부품_배송완료/files.json",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 12344423,
+        "total_size_human": "11.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260425_옥상_텃밭사진",
+        "path": "농사/20260425_옥상_텃밭사진",
+        "index": "농사/20260425_옥상_텃밭사진/files.json",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "file_count": 8,
+        "directory_count": 0,
+        "total_size": 17500770,
+        "total_size_human": "16.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260425_타이머_관수기_타이머_배송완료",
+        "path": "농사/20260425_타이머_관수기_타이머_배송완료",
+        "index": "농사/20260425_타이머_관수기_타이머_배송완료/files.json",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "file_count": 13,
+        "directory_count": 0,
+        "total_size": 23483578,
+        "total_size_human": "22.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260427_타이머_관수기_타이머_옥상텃밭_설치완료",
+        "path": "농사/20260427_타이머_관수기_타이머_옥상텃밭_설치완료",
+        "index": "농사/20260427_타이머_관수기_타이머_옥상텃밭_설치완료/files.json",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "file_count": 23,
+        "directory_count": 0,
+        "total_size": 126700093,
+        "total_size_human": "120.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260429_자바라분무노즐_미스트노즐_배송완료",
+        "path": "농사/20260429_자바라분무노즐_미스트노즐_배송완료",
+        "index": "농사/20260429_자바라분무노즐_미스트노즐_배송완료/files.json",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "file_count": 14,
+        "directory_count": 0,
+        "total_size": 22308431,
+        "total_size_human": "21.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260430_옥상_수치_측정",
+        "path": "농사/20260430_옥상_수치_측정",
+        "index": "농사/20260430_옥상_수치_측정/files.json",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 2570576,
+        "total_size_human": "2.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260430_타이머_관수기_수도_노즐부착",
+        "path": "농사/20260430_타이머_관수기_수도_노즐부착",
+        "index": "농사/20260430_타이머_관수기_수도_노즐부착/files.json",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 6026128,
+        "total_size_human": "5.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260518_화곡_하우스_내부",
+        "path": "농사/20260518_화곡_하우스_내부",
+        "index": "농사/20260518_화곡_하우스_내부/files.json",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "file_count": 24,
+        "directory_count": 0,
+        "total_size": 58864297,
+        "total_size_human": "56.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "농자재_구매",
+        "path": "농사/농자재_구매",
+        "index": "농사/농자재_구매/files.json",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 90321,
+        "total_size_human": "88.2 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260423_타이머_관수기_구성도-HTC-322-구성도_참고.jpg",
+        "path": "농사/20260423_타이머_관수기_구성도-HTC-322-구성도_참고.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 966742,
+        "size_human": "944.1 KB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260423_타이머_관수기_구성도.png",
+        "path": "농사/20260423_타이머_관수기_구성도.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 186780,
+        "size_human": "182.4 KB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260425_옥상 타이머 관수기 구성도.png",
+        "path": "농사/20260425_옥상 타이머 관수기 구성도.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 957140,
+        "size_human": "934.7 KB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260425_옥상 타이머 관수기 구성도_원본.png",
+        "path": "농사/20260425_옥상 타이머 관수기 구성도_원본.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 1052423,
+        "size_human": "1.0 MB",
+        "modified": "2026-07-09T17:49:02+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "HCT-322_관수타이머.pdf",
+        "path": "농사/HCT-322_관수타이머.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 5955463,
+        "size_human": "5.7 MB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농지.공부.md",
+        "path": "농사/농지.공부.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 2280,
+        "size_human": "2.2 KB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "숲체험 산림경영계획서.md",
+        "path": "농사/숲체험 산림경영계획서.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 5499,
+        "size_human": "5.4 KB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "숲체험 산림경영계획서.txt",
+        "path": "농사/숲체험 산림경영계획서.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 3792,
+        "size_human": "3.7 KB",
+        "modified": "2026-07-09T17:49:03+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 235,
+    "directory_count": 14,
+    "total_size": 619984946,
+    "total_size_human": "591.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260423_타이머_관수기_구성도-HTC-322-구성도_참고.jpg",
+      "path": "농사/20260423_타이머_관수기_구성도-HTC-322-구성도_참고.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 966742,
+      "size_human": "944.1 KB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260423_타이머_관수기_구성도.png",
+      "path": "농사/20260423_타이머_관수기_구성도.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 186780,
+      "size_human": "182.4 KB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260425_옥상 타이머 관수기 구성도.png",
+      "path": "농사/20260425_옥상 타이머 관수기 구성도.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 957140,
+      "size_human": "934.7 KB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260425_옥상 타이머 관수기 구성도_원본.png",
+      "path": "농사/20260425_옥상 타이머 관수기 구성도_원본.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 1052423,
+      "size_human": "1.0 MB",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "HCT-322_관수타이머.pdf",
+      "path": "농사/HCT-322_관수타이머.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 5955463,
+      "size_human": "5.7 MB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농지.공부.md",
+      "path": "농사/농지.공부.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 2280,
+      "size_human": "2.2 KB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "숲체험 산림경영계획서.md",
+      "path": "농사/숲체험 산림경영계획서.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 5499,
+      "size_human": "5.4 KB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "숲체험 산림경영계획서.txt",
+      "path": "농사/숲체험 산림경영계획서.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 3792,
+      "size_human": "3.7 KB",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20250501_화곡 이모부 부뚜막",
+      "path": "농사/20250501_화곡 이모부 부뚜막",
+      "index": "농사/20250501_화곡 이모부 부뚜막/files.json",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "file_count": 45,
+      "directory_count": 0,
+      "total_size": 196568874,
+      "total_size_human": "187.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250610_지하수개발공사",
+      "path": "농사/20250610_지하수개발공사",
+      "index": "농사/20250610_지하수개발공사/files.json",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 3808526,
+      "total_size_human": "3.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260310_윌로_압력센서_교체",
+      "path": "농사/20260310_윌로_압력센서_교체",
+      "index": "농사/20260310_윌로_압력센서_교체/files.json",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "file_count": 17,
+      "directory_count": 0,
+      "total_size": 40197948,
+      "total_size_human": "38.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260421_타이머_관수기_구성",
+      "path": "농사/20260421_타이머_관수기_구성",
+      "index": "농사/20260421_타이머_관수기_구성/files.json",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "file_count": 20,
+      "directory_count": 0,
+      "total_size": 3072382,
+      "total_size_human": "2.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260423_자바라_분무_노즐",
+      "path": "농사/20260423_자바라_분무_노즐",
+      "index": "농사/20260423_자바라_분무_노즐/files.json",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "file_count": 44,
+      "directory_count": 0,
+      "total_size": 97318480,
+      "total_size_human": "92.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260423_타이머_관수기_부품_배송완료",
+      "path": "농사/20260423_타이머_관수기_부품_배송완료",
+      "index": "농사/20260423_타이머_관수기_부품_배송완료/files.json",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 12344423,
+      "total_size_human": "11.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260425_옥상_텃밭사진",
+      "path": "농사/20260425_옥상_텃밭사진",
+      "index": "농사/20260425_옥상_텃밭사진/files.json",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "file_count": 8,
+      "directory_count": 0,
+      "total_size": 17500770,
+      "total_size_human": "16.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260425_타이머_관수기_타이머_배송완료",
+      "path": "농사/20260425_타이머_관수기_타이머_배송완료",
+      "index": "농사/20260425_타이머_관수기_타이머_배송완료/files.json",
+      "modified": "2026-07-09T17:49:02+00:00",
+      "file_count": 13,
+      "directory_count": 0,
+      "total_size": 23483578,
+      "total_size_human": "22.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260427_타이머_관수기_타이머_옥상텃밭_설치완료",
+      "path": "농사/20260427_타이머_관수기_타이머_옥상텃밭_설치완료",
+      "index": "농사/20260427_타이머_관수기_타이머_옥상텃밭_설치완료/files.json",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "file_count": 23,
+      "directory_count": 0,
+      "total_size": 126700093,
+      "total_size_human": "120.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260429_자바라분무노즐_미스트노즐_배송완료",
+      "path": "농사/20260429_자바라분무노즐_미스트노즐_배송완료",
+      "index": "농사/20260429_자바라분무노즐_미스트노즐_배송완료/files.json",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "file_count": 14,
+      "directory_count": 0,
+      "total_size": 22308431,
+      "total_size_human": "21.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260430_옥상_수치_측정",
+      "path": "농사/20260430_옥상_수치_측정",
+      "index": "농사/20260430_옥상_수치_측정/files.json",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 2570576,
+      "total_size_human": "2.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260430_타이머_관수기_수도_노즐부착",
+      "path": "농사/20260430_타이머_관수기_수도_노즐부착",
+      "index": "농사/20260430_타이머_관수기_수도_노즐부착/files.json",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 6026128,
+      "total_size_human": "5.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260518_화곡_하우스_내부",
+      "path": "농사/20260518_화곡_하우스_내부",
+      "index": "농사/20260518_화곡_하우스_내부/files.json",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "file_count": 24,
+      "directory_count": 0,
+      "total_size": 58864297,
+      "total_size_human": "56.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "농자재_구매",
+      "path": "농사/농자재_구매",
+      "index": "농사/농자재_구매/files.json",
+      "modified": "2026-07-09T17:49:03+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 90321,
+      "total_size_human": "88.2 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

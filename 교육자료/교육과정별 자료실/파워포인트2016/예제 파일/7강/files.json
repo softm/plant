@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 360313,
+    "total_size_human": "351.9 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "7강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강",
+    "index": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "7강.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강/7강.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 37794,
+        "size_human": "36.9 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/952d9eba834cda68.pptx.txt",
+          "size": 325,
+          "size_human": "325 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "압정.png",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강/압정.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 147831,
+        "size_human": "144.4 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "이미지1.jpg",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강/이미지1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 56068,
+        "size_human": "54.8 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "자매.jpg",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강/자매.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 118620,
+        "size_human": "115.8 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 360313,
+    "total_size_human": "351.9 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "7강.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강/7강.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 37794,
+      "size_human": "36.9 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/952d9eba834cda68.pptx.txt",
+        "size": 325,
+        "size_human": "325 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "압정.png",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강/압정.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 147831,
+      "size_human": "144.4 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "이미지1.jpg",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강/이미지1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 56068,
+      "size_human": "54.8 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "자매.jpg",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/7강/자매.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 118620,
+      "size_human": "115.8 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

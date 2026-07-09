@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_결과파일/12장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/12장 결과",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 6716385,
+    "total_size_human": "6.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "12장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/12장 결과",
+    "index": "교육자료/포토스케이프/포토스케이프_결과파일/12장 결과/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "공연-결과.gif",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/12장 결과/공연-결과.gif",
+        "extension": "gif",
+        "group": "image",
+        "mime_type": "image/gif",
+        "size": 463150,
+        "size_human": "452.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "여행-결과.gif",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/12장 결과/여행-결과.gif",
+        "extension": "gif",
+        "group": "image",
+        "mime_type": "image/gif",
+        "size": 355424,
+        "size_human": "347.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "여행가방-결과.gif",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/12장 결과/여행가방-결과.gif",
+        "extension": "gif",
+        "group": "image",
+        "mime_type": "image/gif",
+        "size": 769662,
+        "size_human": "751.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "캣1-결과.gif",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/12장 결과/캣1-결과.gif",
+        "extension": "gif",
+        "group": "image",
+        "mime_type": "image/gif",
+        "size": 5128149,
+        "size_human": "4.9 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 6716385,
+    "total_size_human": "6.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "공연-결과.gif",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/12장 결과/공연-결과.gif",
+      "extension": "gif",
+      "group": "image",
+      "mime_type": "image/gif",
+      "size": 463150,
+      "size_human": "452.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "여행-결과.gif",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/12장 결과/여행-결과.gif",
+      "extension": "gif",
+      "group": "image",
+      "mime_type": "image/gif",
+      "size": 355424,
+      "size_human": "347.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "여행가방-결과.gif",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/12장 결과/여행가방-결과.gif",
+      "extension": "gif",
+      "group": "image",
+      "mime_type": "image/gif",
+      "size": 769662,
+      "size_human": "751.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "캣1-결과.gif",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/12장 결과/캣1-결과.gif",
+      "extension": "gif",
+      "group": "image",
+      "mime_type": "image/gif",
+      "size": 5128149,
+      "size_human": "4.9 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

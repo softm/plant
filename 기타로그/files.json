@@ -1,0 +1,187 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/기타로그",
+    "path": "기타로그",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 46,
+    "directory_count": 2,
+    "direct_file_count": 3,
+    "direct_directory_count": 2,
+    "total_size": 227458712,
+    "total_size_human": "216.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "기타로그",
+    "path": "기타로그",
+    "index": "기타로그/files.json",
+    "modified": "2026-07-09T17:49:01+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20241101_사과",
+        "path": "기타로그/20241101_사과",
+        "index": "기타로그/20241101_사과/files.json",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "file_count": 6,
+        "directory_count": 0,
+        "total_size": 23863721,
+        "total_size_human": "22.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250515_화곡_양귀비",
+        "path": "기타로그/20250515_화곡_양귀비",
+        "index": "기타로그/20250515_화곡_양귀비/files.json",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "file_count": 37,
+        "directory_count": 0,
+        "total_size": 189492956,
+        "total_size_human": "180.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250501_134913.jpg",
+        "path": "기타로그/20250501_134913.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3617994,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250501_134915.mp4",
+        "path": "기타로그/20250501_134915.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 8200421,
+        "size_human": "7.8 MB",
+        "modified": "2026-07-09T17:49:00+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "뽑기_AIP_뽑기.jpeg",
+        "path": "기타로그/뽑기_AIP_뽑기.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2283620,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:49:01+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 46,
+    "directory_count": 2,
+    "total_size": 227458712,
+    "total_size_human": "216.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20250501_134913.jpg",
+      "path": "기타로그/20250501_134913.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3617994,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250501_134915.mp4",
+      "path": "기타로그/20250501_134915.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 8200421,
+      "size_human": "7.8 MB",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "뽑기_AIP_뽑기.jpeg",
+      "path": "기타로그/뽑기_AIP_뽑기.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2283620,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20241101_사과",
+      "path": "기타로그/20241101_사과",
+      "index": "기타로그/20241101_사과/files.json",
+      "modified": "2026-07-09T17:49:00+00:00",
+      "file_count": 6,
+      "directory_count": 0,
+      "total_size": 23863721,
+      "total_size_human": "22.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250515_화곡_양귀비",
+      "path": "기타로그/20250515_화곡_양귀비",
+      "index": "기타로그/20250515_화곡_양귀비/files.json",
+      "modified": "2026-07-09T17:49:01+00:00",
+      "file_count": 37,
+      "directory_count": 0,
+      "total_size": 189492956,
+      "total_size_human": "180.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

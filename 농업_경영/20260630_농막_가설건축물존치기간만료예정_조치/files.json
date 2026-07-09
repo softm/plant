@@ -1,0 +1,246 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/20260630_농막_가설건축물존치기간만료예정_조치",
+    "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 7,
+    "directory_count": 0,
+    "direct_file_count": 7,
+    "direct_directory_count": 0,
+    "total_size": 12385223,
+    "total_size_human": "11.8 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260630_농막_가설건축물존치기간만료예정_조치",
+    "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치",
+    "index": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/files.json",
+    "modified": "2026-07-09T17:49:07+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260612_가설건축물존치기간만료예고문.jpeg",
+        "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/20260612_가설건축물존치기간만료예고문.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2076573,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260630_가설건축물_민원신청_완료.md",
+        "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/20260630_가설건축물_민원신청_완료.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 139,
+        "size_human": "139 B",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260630_가설건축물_민원신청_완료.png",
+        "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/20260630_가설건축물_민원신청_완료.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 207180,
+        "size_human": "202.3 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "667-1_농막_앞면.jpeg",
+        "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/667-1_농막_앞면.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3061071,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "667-1_농막_측면_1.jpeg",
+        "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/667-1_농막_측면_1.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2692993,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "667-1_농막_측면_2.jpeg",
+        "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/667-1_농막_측면_2.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2349152,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "667-1_농막_후면.jpeg",
+        "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/667-1_농막_후면.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1998115,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 7,
+    "directory_count": 0,
+    "total_size": 12385223,
+    "total_size_human": "11.8 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260612_가설건축물존치기간만료예고문.jpeg",
+      "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/20260612_가설건축물존치기간만료예고문.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2076573,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260630_가설건축물_민원신청_완료.md",
+      "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/20260630_가설건축물_민원신청_완료.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 139,
+      "size_human": "139 B",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260630_가설건축물_민원신청_완료.png",
+      "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/20260630_가설건축물_민원신청_완료.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 207180,
+      "size_human": "202.3 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "667-1_농막_앞면.jpeg",
+      "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/667-1_농막_앞면.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3061071,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "667-1_농막_측면_1.jpeg",
+      "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/667-1_농막_측면_1.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2692993,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "667-1_농막_측면_2.jpeg",
+      "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/667-1_농막_측면_2.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2349152,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "667-1_농막_후면.jpeg",
+      "path": "농업_경영/20260630_농막_가설건축물존치기간만료예정_조치/667-1_농막_후면.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1998115,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

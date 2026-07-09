@@ -1,0 +1,487 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_예제파일/02장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 18,
+    "directory_count": 1,
+    "direct_file_count": 14,
+    "direct_directory_count": 1,
+    "total_size": 29551353,
+    "total_size_human": "28.2 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "02장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제",
+    "index": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "Originals",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals",
+        "index": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 4,
+        "directory_count": 0,
+        "total_size": 6240932,
+        "total_size_human": "6.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 72704,
+        "size_human": "71.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "버스.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/버스.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4916750,
+        "size_human": "4.7 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "빨간화분.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/빨간화분.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 374371,
+        "size_human": "365.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "빨간화분_.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/빨간화분_.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 734013,
+        "size_human": "716.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "빨간화분__.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/빨간화분__.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1388691,
+        "size_human": "1.3 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "쇼핑.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/쇼핑.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 7665821,
+        "size_human": "7.3 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "점프.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/점프.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 931379,
+        "size_human": "909.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "형진(원본사진비율로자르기)_맥.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/형진(원본사진비율로자르기)_맥.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 63497,
+        "size_human": "62.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "형진(원본사진비율로자리그).JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/형진(원본사진비율로자리그).JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 764683,
+        "size_human": "746.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "형진(원형자르기).JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/형진(원형자르기).JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 484177,
+        "size_human": "472.8 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "형진(원형자르기)_맥.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/형진(원형자르기)_맥.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 96979,
+        "size_human": "94.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "형진.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/형진.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2348426,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "후식(회전후,원형자르기).JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/후식(회전후,원형자르기).JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 969401,
+        "size_human": "946.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "후식.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/후식.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2499529,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 18,
+    "directory_count": 1,
+    "total_size": 29551353,
+    "total_size_human": "28.2 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 72704,
+      "size_human": "71.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "버스.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/버스.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4916750,
+      "size_human": "4.7 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "빨간화분.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/빨간화분.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 374371,
+      "size_human": "365.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "빨간화분_.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/빨간화분_.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 734013,
+      "size_human": "716.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "빨간화분__.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/빨간화분__.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1388691,
+      "size_human": "1.3 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "쇼핑.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/쇼핑.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 7665821,
+      "size_human": "7.3 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "점프.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/점프.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 931379,
+      "size_human": "909.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "형진(원본사진비율로자르기)_맥.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/형진(원본사진비율로자르기)_맥.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 63497,
+      "size_human": "62.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "형진(원본사진비율로자리그).JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/형진(원본사진비율로자리그).JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 764683,
+      "size_human": "746.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "형진(원형자르기).JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/형진(원형자르기).JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 484177,
+      "size_human": "472.8 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "형진(원형자르기)_맥.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/형진(원형자르기)_맥.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 96979,
+      "size_human": "94.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "형진.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/형진.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2348426,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "후식(회전후,원형자르기).JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/후식(회전후,원형자르기).JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 969401,
+      "size_human": "946.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "후식.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/후식.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2499529,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "Originals",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals",
+      "index": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 4,
+      "directory_count": 0,
+      "total_size": 6240932,
+      "total_size_human": "6.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

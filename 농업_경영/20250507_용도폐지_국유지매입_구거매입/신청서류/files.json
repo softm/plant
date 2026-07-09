@@ -1,0 +1,246 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류",
+    "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 6,
+    "directory_count": 0,
+    "direct_file_count": 6,
+    "direct_directory_count": 0,
+    "total_size": 8640440,
+    "total_size_human": "8.2 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "신청서류",
+    "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류",
+    "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/files.json",
+    "modified": "2026-07-09T17:49:06+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "용도폐지 신청서_대산읍_화곡리_29.hwp",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/용도폐지 신청서_대산읍_화곡리_29.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 2502144,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "용도폐지 신청서_대산읍_화곡리_30.hwp",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/용도폐지 신청서_대산읍_화곡리_30.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 2548736,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "용도폐지 신청서_대산읍_화곡리_31.hwp",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/용도폐지 신청서_대산읍_화곡리_31.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 2555392,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "지적도-화곡리-667-29.pdf",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/지적도-화곡리-667-29.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 367400,
+        "size_human": "358.8 KB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "지적도-화곡리-667-30.pdf",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/지적도-화곡리-667-30.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 338118,
+        "size_human": "330.2 KB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "지적도-화곡리-667-31.pdf",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/지적도-화곡리-667-31.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 328650,
+        "size_human": "320.9 KB",
+        "modified": "2026-07-09T17:49:06+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 6,
+    "directory_count": 0,
+    "total_size": 8640440,
+    "total_size_human": "8.2 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "용도폐지 신청서_대산읍_화곡리_29.hwp",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/용도폐지 신청서_대산읍_화곡리_29.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 2502144,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "용도폐지 신청서_대산읍_화곡리_30.hwp",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/용도폐지 신청서_대산읍_화곡리_30.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 2548736,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "용도폐지 신청서_대산읍_화곡리_31.hwp",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/용도폐지 신청서_대산읍_화곡리_31.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 2555392,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "지적도-화곡리-667-29.pdf",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/지적도-화곡리-667-29.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 367400,
+      "size_human": "358.8 KB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "지적도-화곡리-667-30.pdf",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/지적도-화곡리-667-30.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 338118,
+      "size_human": "330.2 KB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "지적도-화곡리-667-31.pdf",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/신청서류/지적도-화곡리-667-31.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 328650,
+      "size_human": "320.9 KB",
+      "modified": "2026-07-09T17:49:06+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

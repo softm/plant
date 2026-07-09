@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/빙그레",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/빙그레",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 2,
+    "directory_count": 0,
+    "direct_file_count": 2,
+    "direct_directory_count": 0,
+    "total_size": 13542048,
+    "total_size_human": "12.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "빙그레",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/빙그레",
+    "index": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/빙그레/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "Binggrae-Bold.ttf",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/빙그레/Binggrae-Bold.ttf",
+        "extension": "ttf",
+        "group": "font",
+        "mime_type": "font/ttf",
+        "size": 6681764,
+        "size_human": "6.4 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Binggrae.ttf",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/빙그레/Binggrae.ttf",
+        "extension": "ttf",
+        "group": "font",
+        "mime_type": "font/ttf",
+        "size": 6860284,
+        "size_human": "6.5 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 2,
+    "directory_count": 0,
+    "total_size": 13542048,
+    "total_size_human": "12.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "Binggrae-Bold.ttf",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/빙그레/Binggrae-Bold.ttf",
+      "extension": "ttf",
+      "group": "font",
+      "mime_type": "font/ttf",
+      "size": 6681764,
+      "size_human": "6.4 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Binggrae.ttf",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/4강/다운로드폰트/빙그레/Binggrae.ttf",
+      "extension": "ttf",
+      "group": "font",
+      "mime_type": "font/ttf",
+      "size": 6860284,
+      "size_human": "6.5 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

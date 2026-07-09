@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/유튜버/프로그램",
+    "path": "교육자료/교육과정별 자료실/유튜버/프로그램",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 2,
+    "directory_count": 0,
+    "direct_file_count": 2,
+    "direct_directory_count": 0,
+    "total_size": 22035344,
+    "total_size_human": "21.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "프로그램",
+    "path": "교육자료/교육과정별 자료실/유튜버/프로그램",
+    "index": "교육자료/교육과정별 자료실/유튜버/프로그램/files.json",
+    "modified": "2026-07-09T17:48:56+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "PhotoScapeSetup_V3.7.exe",
+        "path": "교육자료/교육과정별 자료실/유튜버/프로그램/PhotoScapeSetup_V3.7.exe",
+        "extension": "exe",
+        "group": "application",
+        "mime_type": "application/x-msdos-program",
+        "size": 21025552,
+        "size_human": "20.1 MB",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "VapMixSetup.exe",
+        "path": "교육자료/교육과정별 자료실/유튜버/프로그램/VapMixSetup.exe",
+        "extension": "exe",
+        "group": "application",
+        "mime_type": "application/x-msdos-program",
+        "size": 1009792,
+        "size_human": "986.1 KB",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 2,
+    "directory_count": 0,
+    "total_size": 22035344,
+    "total_size_human": "21.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "PhotoScapeSetup_V3.7.exe",
+      "path": "교육자료/교육과정별 자료실/유튜버/프로그램/PhotoScapeSetup_V3.7.exe",
+      "extension": "exe",
+      "group": "application",
+      "mime_type": "application/x-msdos-program",
+      "size": 21025552,
+      "size_human": "20.1 MB",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "VapMixSetup.exe",
+      "path": "교육자료/교육과정별 자료실/유튜버/프로그램/VapMixSetup.exe",
+      "extension": "exe",
+      "group": "application",
+      "mime_type": "application/x-msdos-program",
+      "size": 1009792,
+      "size_human": "986.1 KB",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

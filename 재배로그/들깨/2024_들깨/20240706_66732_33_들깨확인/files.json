@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인",
+    "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 16011074,
+    "total_size_human": "15.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20240706_66732_33_들깨확인",
+    "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인",
+    "index": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인/files.json",
+    "modified": "2026-07-09T17:49:55+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20240706_193514.jpg",
+        "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인/20240706_193514.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4019033,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_193519.jpg",
+        "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인/20240706_193519.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3438259,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:49:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_193521.jpg",
+        "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인/20240706_193521.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4522292,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:49:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_193523.jpg",
+        "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인/20240706_193523.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4031490,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:49:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 16011074,
+    "total_size_human": "15.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20240706_193514.jpg",
+      "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인/20240706_193514.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4019033,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_193519.jpg",
+      "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인/20240706_193519.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3438259,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:49:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_193521.jpg",
+      "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인/20240706_193521.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4522292,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:49:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_193523.jpg",
+      "path": "재배로그/들깨/2024_들깨/20240706_66732_33_들깨확인/20240706_193523.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4031490,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:49:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

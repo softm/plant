@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 663889,
+    "total_size_human": "648.3 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "9강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강",
+    "index": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "9강.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강/9강.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 33255,
+        "size_human": "32.5 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/0102013aa678a0b1.pptx.txt",
+          "size": 68,
+          "size_human": "68 B"
+        }
+      },
+      {
+        "type": "file",
+        "name": "물고기아이콘.png",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강/물고기아이콘.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 12537,
+        "size_human": "12.2 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "배경.jpg",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강/배경.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 599418,
+        "size_human": "585.4 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "새우아이콘.png",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강/새우아이콘.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 18679,
+        "size_human": "18.2 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 663889,
+    "total_size_human": "648.3 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "9강.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강/9강.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 33255,
+      "size_human": "32.5 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/0102013aa678a0b1.pptx.txt",
+        "size": 68,
+        "size_human": "68 B"
+      }
+    },
+    {
+      "type": "file",
+      "name": "물고기아이콘.png",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강/물고기아이콘.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 12537,
+      "size_human": "12.2 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "배경.jpg",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강/배경.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 599418,
+      "size_human": "585.4 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "새우아이콘.png",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/9강/새우아이콘.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 18679,
+      "size_human": "18.2 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

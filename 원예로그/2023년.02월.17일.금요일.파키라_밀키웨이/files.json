@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/원예로그/2023년.02월.17일.금요일.파키라_밀키웨이",
+    "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 6,
+    "directory_count": 0,
+    "direct_file_count": 6,
+    "direct_directory_count": 0,
+    "total_size": 6714766,
+    "total_size_human": "6.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023년.02월.17일.금요일.파키라_밀키웨이",
+    "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이",
+    "index": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/files.json",
+    "modified": "2026-07-09T17:49:11+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "readme.md",
+        "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/readme.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 2051,
+        "size_human": "2.0 KB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "파키라_밀키웨이_01.jpeg",
+        "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/파키라_밀키웨이_01.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 87202,
+        "size_human": "85.2 KB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "파키라_밀키웨이_02.jpeg",
+        "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/파키라_밀키웨이_02.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2235319,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "파키라_밀키웨이_03.jpeg",
+        "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/파키라_밀키웨이_03.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2159954,
+        "size_human": "2.1 MB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "파키라_밀키웨이_04.jpeg",
+        "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/파키라_밀키웨이_04.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2134181,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "파키라_밀키웨이_05.jpeg",
+        "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/파키라_밀키웨이_05.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 96059,
+        "size_human": "93.8 KB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 6,
+    "directory_count": 0,
+    "total_size": 6714766,
+    "total_size_human": "6.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "readme.md",
+      "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/readme.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 2051,
+      "size_human": "2.0 KB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "파키라_밀키웨이_01.jpeg",
+      "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/파키라_밀키웨이_01.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 87202,
+      "size_human": "85.2 KB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "파키라_밀키웨이_02.jpeg",
+      "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/파키라_밀키웨이_02.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2235319,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "파키라_밀키웨이_03.jpeg",
+      "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/파키라_밀키웨이_03.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2159954,
+      "size_human": "2.1 MB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "파키라_밀키웨이_04.jpeg",
+      "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/파키라_밀키웨이_04.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2134181,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "파키라_밀키웨이_05.jpeg",
+      "path": "원예로그/2023년.02월.17일.금요일.파키라_밀키웨이/파키라_밀키웨이_05.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 96059,
+      "size_human": "93.8 KB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

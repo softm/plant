@@ -1,0 +1,336 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/옥수수/2024_옥수수/원본",
+    "path": "재배로그/옥수수/2024_옥수수/원본",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 10,
+    "directory_count": 0,
+    "direct_file_count": 10,
+    "direct_directory_count": 0,
+    "total_size": 839189,
+    "total_size_human": "819.5 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "원본",
+    "path": "재배로그/옥수수/2024_옥수수/원본",
+    "index": "재배로그/옥수수/2024_옥수수/원본/files.json",
+    "modified": "2026-07-09T17:50:12+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "스크린샷 2024-08-09 오후 2.14.29 중간.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.14.29 중간.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 76105,
+        "size_human": "74.3 KB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스크린샷 2024-08-09 오후 2.18.20 중간.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.18.20 중간.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 95497,
+        "size_human": "93.3 KB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스크린샷 2024-08-09 오후 2.18.37 중간.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.18.37 중간.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 86176,
+        "size_human": "84.2 KB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스크린샷 2024-08-09 오후 2.18.55 중간.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.18.55 중간.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 76940,
+        "size_human": "75.1 KB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스크린샷 2024-08-09 오후 2.19.12 중간.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.19.12 중간.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 81520,
+        "size_human": "79.6 KB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스크린샷 2024-08-09 오후 2.19.23 중간.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.19.23 중간.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 78464,
+        "size_human": "76.6 KB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스크린샷 2024-08-09 오후 2.20.16 중간.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.20.16 중간.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 82535,
+        "size_human": "80.6 KB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스크린샷 2024-08-09 오후 2.20.37 중간.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.20.37 중간.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 85451,
+        "size_human": "83.4 KB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스크린샷 2024-08-09 오후 2.20.53 중간.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.20.53 중간.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 87110,
+        "size_human": "85.1 KB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스크린샷 2024-08-09 오후 2.21.32 중간.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.21.32 중간.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 89391,
+        "size_human": "87.3 KB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 10,
+    "directory_count": 0,
+    "total_size": 839189,
+    "total_size_human": "819.5 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "스크린샷 2024-08-09 오후 2.14.29 중간.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.14.29 중간.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 76105,
+      "size_human": "74.3 KB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스크린샷 2024-08-09 오후 2.18.20 중간.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.18.20 중간.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 95497,
+      "size_human": "93.3 KB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스크린샷 2024-08-09 오후 2.18.37 중간.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.18.37 중간.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 86176,
+      "size_human": "84.2 KB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스크린샷 2024-08-09 오후 2.18.55 중간.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.18.55 중간.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 76940,
+      "size_human": "75.1 KB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스크린샷 2024-08-09 오후 2.19.12 중간.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.19.12 중간.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 81520,
+      "size_human": "79.6 KB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스크린샷 2024-08-09 오후 2.19.23 중간.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.19.23 중간.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 78464,
+      "size_human": "76.6 KB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스크린샷 2024-08-09 오후 2.20.16 중간.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.20.16 중간.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 82535,
+      "size_human": "80.6 KB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스크린샷 2024-08-09 오후 2.20.37 중간.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.20.37 중간.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 85451,
+      "size_human": "83.4 KB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스크린샷 2024-08-09 오후 2.20.53 중간.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.20.53 중간.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 87110,
+      "size_human": "85.1 KB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스크린샷 2024-08-09 오후 2.21.32 중간.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/원본/스크린샷 2024-08-09 오후 2.21.32 중간.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 89391,
+      "size_human": "87.3 KB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

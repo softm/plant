@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/엑셀2016/완성 파일/5장",
+    "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/5장",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 33577,
+    "total_size_human": "32.8 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "5장",
+    "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/5장",
+    "index": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/5장/files.json",
+    "modified": "2026-07-09T17:48:51+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "동호회 명단(완성).xlsx",
+        "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/5장/동호회 명단(완성).xlsx",
+        "extension": "xlsx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 11174,
+        "size_human": "10.9 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "참가자 모집(완성).xlsx",
+        "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/5장/참가자 모집(완성).xlsx",
+        "extension": "xlsx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 11134,
+        "size_human": "10.9 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "판매 현황(완성).xlsx",
+        "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/5장/판매 현황(완성).xlsx",
+        "extension": "xlsx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 11269,
+        "size_human": "11.0 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 33577,
+    "total_size_human": "32.8 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "동호회 명단(완성).xlsx",
+      "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/5장/동호회 명단(완성).xlsx",
+      "extension": "xlsx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 11174,
+      "size_human": "10.9 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "참가자 모집(완성).xlsx",
+      "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/5장/참가자 모집(완성).xlsx",
+      "extension": "xlsx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 11134,
+      "size_human": "10.9 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "판매 현황(완성).xlsx",
+      "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/5장/판매 현황(완성).xlsx",
+      "extension": "xlsx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 11269,
+      "size_human": "11.0 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

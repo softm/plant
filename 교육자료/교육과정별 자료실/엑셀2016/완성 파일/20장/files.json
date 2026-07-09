@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/엑셀2016/완성 파일/20장",
+    "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/20장",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 45071,
+    "total_size_human": "44.0 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20장",
+    "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/20장",
+    "index": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/20장/files.json",
+    "modified": "2026-07-09T17:48:51+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "동아리 회원 명단(완성).xlsx",
+        "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/20장/동아리 회원 명단(완성).xlsx",
+        "extension": "xlsx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 13247,
+        "size_human": "12.9 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "한국관광 100선 목록(완성).xlsx",
+        "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/20장/한국관광 100선 목록(완성).xlsx",
+        "extension": "xlsx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 14099,
+        "size_human": "13.8 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "한국관광 100선(완성).xlsx",
+        "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/20장/한국관광 100선(완성).xlsx",
+        "extension": "xlsx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 17725,
+        "size_human": "17.3 KB",
+        "modified": "2026-07-09T17:48:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 45071,
+    "total_size_human": "44.0 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "동아리 회원 명단(완성).xlsx",
+      "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/20장/동아리 회원 명단(완성).xlsx",
+      "extension": "xlsx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 13247,
+      "size_human": "12.9 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "한국관광 100선 목록(완성).xlsx",
+      "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/20장/한국관광 100선 목록(완성).xlsx",
+      "extension": "xlsx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 14099,
+      "size_human": "13.8 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "한국관광 100선(완성).xlsx",
+      "path": "교육자료/교육과정별 자료실/엑셀2016/완성 파일/20장/한국관광 100선(완성).xlsx",
+      "extension": "xlsx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 17725,
+      "size_human": "17.3 KB",
+      "modified": "2026-07-09T17:48:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

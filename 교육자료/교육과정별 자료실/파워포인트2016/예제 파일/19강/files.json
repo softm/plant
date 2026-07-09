@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/파워포인트2016/예제 파일/19강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/19강",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 1,
+    "directory_count": 0,
+    "direct_file_count": 1,
+    "direct_directory_count": 0,
+    "total_size": 24280106,
+    "total_size_human": "23.2 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "19강",
+    "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/19강",
+    "index": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/19강/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "19강.pptx",
+        "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/19강/19강.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 24280106,
+        "size_human": "23.2 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/9a01f875ce5a9c9e.pptx.txt",
+          "size": 1240,
+          "size_human": "1.2 KB"
+        }
+      }
+    ],
+    "file_count": 1,
+    "directory_count": 0,
+    "total_size": 24280106,
+    "total_size_human": "23.2 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "19강.pptx",
+      "path": "교육자료/교육과정별 자료실/파워포인트2016/예제 파일/19강/19강.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 24280106,
+      "size_human": "23.2 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/9a01f875ce5a9c9e.pptx.txt",
+        "size": 1240,
+        "size_human": "1.2 KB"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

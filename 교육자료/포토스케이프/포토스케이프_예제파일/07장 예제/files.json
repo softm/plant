@@ -1,0 +1,516 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_예제파일/07장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 16,
+    "directory_count": 0,
+    "direct_file_count": 16,
+    "direct_directory_count": 0,
+    "total_size": 4971576,
+    "total_size_human": "4.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "07장 예제",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제",
+    "index": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 39936,
+        "size_human": "39.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "단풍배경.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/단풍배경.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 318826,
+        "size_human": "311.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "딸기.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/딸기.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 378923,
+        "size_human": "370.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "딸기배경.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/딸기배경.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 422998,
+        "size_human": "413.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "라임.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/라임.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 286124,
+        "size_human": "279.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "야자수배경.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/야자수배경.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 562747,
+        "size_human": "549.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "칵테일.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/칵테일.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 193941,
+        "size_human": "189.4 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피자-1.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/피자-1.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 431310,
+        "size_human": "421.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피자-2.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/피자-2.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 465923,
+        "size_human": "455.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피자-3.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/피자-3.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 416078,
+        "size_human": "406.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피자배경.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/피자배경.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 564854,
+        "size_human": "551.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "허브.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/허브.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 187394,
+        "size_human": "183.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "휴가1.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/휴가1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 119549,
+        "size_human": "116.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "휴가2.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/휴가2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 227208,
+        "size_human": "221.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "휴가3.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/휴가3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 150482,
+        "size_human": "147.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "휴가4.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/휴가4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 205283,
+        "size_human": "200.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 16,
+    "directory_count": 0,
+    "total_size": 4971576,
+    "total_size_human": "4.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 39936,
+      "size_human": "39.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "단풍배경.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/단풍배경.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 318826,
+      "size_human": "311.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "딸기.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/딸기.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 378923,
+      "size_human": "370.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "딸기배경.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/딸기배경.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 422998,
+      "size_human": "413.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "라임.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/라임.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 286124,
+      "size_human": "279.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "야자수배경.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/야자수배경.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 562747,
+      "size_human": "549.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "칵테일.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/칵테일.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 193941,
+      "size_human": "189.4 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피자-1.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/피자-1.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 431310,
+      "size_human": "421.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피자-2.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/피자-2.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 465923,
+      "size_human": "455.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피자-3.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/피자-3.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 416078,
+      "size_human": "406.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피자배경.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/피자배경.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 564854,
+      "size_human": "551.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "허브.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/허브.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 187394,
+      "size_human": "183.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "휴가1.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/휴가1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 119549,
+      "size_human": "116.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "휴가2.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/휴가2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 227208,
+      "size_human": "221.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "휴가3.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/휴가3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 150482,
+      "size_human": "147.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "휴가4.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/07장 예제/휴가4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 205283,
+      "size_human": "200.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

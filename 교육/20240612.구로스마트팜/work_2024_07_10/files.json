@@ -1,0 +1,336 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/20240612.구로스마트팜/work_2024_07_10",
+    "path": "교육/20240612.구로스마트팜/work_2024_07_10",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 10,
+    "directory_count": 0,
+    "direct_file_count": 10,
+    "direct_directory_count": 0,
+    "total_size": 27169811,
+    "total_size_human": "25.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "work_2024_07_10",
+    "path": "교육/20240612.구로스마트팜/work_2024_07_10",
+    "index": "교육/20240612.구로스마트팜/work_2024_07_10/files.json",
+    "modified": "2026-07-09T17:48:33+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "미생물의역할.jpeg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10/미생물의역할.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 202978,
+        "size_human": "198.2 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "박막식식_수경재배.jpeg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10/박막식식_수경재배.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 108865,
+        "size_human": "106.3 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "수경재배_고형재배.jpeg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10/수경재배_고형재배.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 146667,
+        "size_human": "143.2 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "수경재배_원리.jpeg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10/수경재배_원리.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 100922,
+        "size_human": "98.6 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "식물_역활_결핍증상_다량원소.jpeg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10/식물_역활_결핍증상_다량원소.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 95706,
+        "size_human": "93.5 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "식물_역활_결핍증상_미량원소.jpeg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10/식물_역활_결핍증상_미량원소.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 142693,
+        "size_human": "139.3 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "식물_역활_결핍증상_소량원소.jpeg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10/식물_역활_결핍증상_소량원소.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 108760,
+        "size_human": "106.2 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "양액_원소농도.jpeg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10/양액_원소농도.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 274447,
+        "size_human": "268.0 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "항동 5.m4a",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10/항동 5.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 25758553,
+        "size_human": "24.6 MB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "효소만들기_EM_양액만들기.jpeg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10/효소만들기_EM_양액만들기.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 230220,
+        "size_human": "224.8 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 10,
+    "directory_count": 0,
+    "total_size": 27169811,
+    "total_size_human": "25.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "미생물의역할.jpeg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10/미생물의역할.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 202978,
+      "size_human": "198.2 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "박막식식_수경재배.jpeg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10/박막식식_수경재배.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 108865,
+      "size_human": "106.3 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "수경재배_고형재배.jpeg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10/수경재배_고형재배.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 146667,
+      "size_human": "143.2 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "수경재배_원리.jpeg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10/수경재배_원리.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 100922,
+      "size_human": "98.6 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "식물_역활_결핍증상_다량원소.jpeg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10/식물_역활_결핍증상_다량원소.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 95706,
+      "size_human": "93.5 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "식물_역활_결핍증상_미량원소.jpeg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10/식물_역활_결핍증상_미량원소.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 142693,
+      "size_human": "139.3 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "식물_역활_결핍증상_소량원소.jpeg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10/식물_역활_결핍증상_소량원소.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 108760,
+      "size_human": "106.2 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "양액_원소농도.jpeg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10/양액_원소농도.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 274447,
+      "size_human": "268.0 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "항동 5.m4a",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10/항동 5.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 25758553,
+      "size_human": "24.6 MB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "효소만들기_EM_양액만들기.jpeg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10/효소만들기_EM_양액만들기.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 230220,
+      "size_human": "224.8 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

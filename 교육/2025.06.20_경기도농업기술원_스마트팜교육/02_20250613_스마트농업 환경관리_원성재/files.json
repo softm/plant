@@ -1,0 +1,516 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재",
+    "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 16,
+    "directory_count": 0,
+    "direct_file_count": 16,
+    "direct_directory_count": 0,
+    "total_size": 308379615,
+    "total_size_human": "294.1 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "02_20250613_스마트농업 환경관리_원성재",
+    "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재",
+    "index": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/files.json",
+    "modified": "2026-07-09T17:48:38+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "아카이브.zip.001",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.001",
+        "extension": "001",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.002",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.002",
+        "extension": "002",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.003",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.003",
+        "extension": "003",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:36+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.004",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.004",
+        "extension": "004",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:37+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.005",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.005",
+        "extension": "005",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:37+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.006",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.006",
+        "extension": "006",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:37+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.007",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.007",
+        "extension": "007",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:37+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.008",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.008",
+        "extension": "008",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:37+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.009",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.009",
+        "extension": "009",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:37+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.010",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.010",
+        "extension": "010",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.011",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.011",
+        "extension": "011",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.012",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.012",
+        "extension": "012",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.013",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.013",
+        "extension": "013",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.014",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.014",
+        "extension": "014",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.015",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.015",
+        "extension": "015",
+        "group": "other",
+        "mime_type": null,
+        "size": 20000000,
+        "size_human": "19.1 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "아카이브.zip.016",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.016",
+        "extension": "016",
+        "group": "other",
+        "mime_type": null,
+        "size": 8379615,
+        "size_human": "8.0 MB",
+        "modified": "2026-07-09T17:48:38+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 16,
+    "directory_count": 0,
+    "total_size": 308379615,
+    "total_size_human": "294.1 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "아카이브.zip.001",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.001",
+      "extension": "001",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.002",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.002",
+      "extension": "002",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.003",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.003",
+      "extension": "003",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:36+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.004",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.004",
+      "extension": "004",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:37+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.005",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.005",
+      "extension": "005",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:37+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.006",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.006",
+      "extension": "006",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:37+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.007",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.007",
+      "extension": "007",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:37+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.008",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.008",
+      "extension": "008",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:37+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.009",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.009",
+      "extension": "009",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:37+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.010",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.010",
+      "extension": "010",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.011",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.011",
+      "extension": "011",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.012",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.012",
+      "extension": "012",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.013",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.013",
+      "extension": "013",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.014",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.014",
+      "extension": "014",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.015",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.015",
+      "extension": "015",
+      "group": "other",
+      "mime_type": null,
+      "size": 20000000,
+      "size_human": "19.1 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "아카이브.zip.016",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육/02_20250613_스마트농업 환경관리_원성재/아카이브.zip.016",
+      "extension": "016",
+      "group": "other",
+      "mime_type": null,
+      "size": 8379615,
+      "size_human": "8.0 MB",
+      "modified": "2026-07-09T17:48:38+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_결과파일/09장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/09장 결과",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 4051447,
+    "total_size_human": "3.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "09장 결과",
+    "path": "교육자료/포토스케이프/포토스케이프_결과파일/09장 결과",
+    "index": "교육자료/포토스케이프/포토스케이프_결과파일/09장 결과/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "단발머리명함_ 결과.tif",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/09장 결과/단발머리명함_ 결과.tif",
+        "extension": "tif",
+        "group": "image",
+        "mime_type": "image/tiff",
+        "size": 1025960,
+        "size_human": "1001.9 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "호연-결과.tif",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/09장 결과/호연-결과.tif",
+        "extension": "tif",
+        "group": "image",
+        "mime_type": "image/tiff",
+        "size": 1510057,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "호연명함-결과.tif",
+        "path": "교육자료/포토스케이프/포토스케이프_결과파일/09장 결과/호연명함-결과.tif",
+        "extension": "tif",
+        "group": "image",
+        "mime_type": "image/tiff",
+        "size": 1515430,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 4051447,
+    "total_size_human": "3.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "단발머리명함_ 결과.tif",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/09장 결과/단발머리명함_ 결과.tif",
+      "extension": "tif",
+      "group": "image",
+      "mime_type": "image/tiff",
+      "size": 1025960,
+      "size_human": "1001.9 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "호연-결과.tif",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/09장 결과/호연-결과.tif",
+      "extension": "tif",
+      "group": "image",
+      "mime_type": "image/tiff",
+      "size": 1510057,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "호연명함-결과.tif",
+      "path": "교육자료/포토스케이프/포토스케이프_결과파일/09장 결과/호연명함-결과.tif",
+      "extension": "tif",
+      "group": "image",
+      "mime_type": "image/tiff",
+      "size": 1515430,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

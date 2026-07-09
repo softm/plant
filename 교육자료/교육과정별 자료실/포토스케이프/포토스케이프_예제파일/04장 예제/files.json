@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 8,
+    "directory_count": 0,
+    "direct_file_count": 8,
+    "direct_directory_count": 0,
+    "total_size": 5614087,
+    "total_size_human": "5.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "04장 예제",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제",
+    "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 38912,
+        "size_human": "38.0 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "눈동자.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/눈동자.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 783316,
+        "size_human": "765.0 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "모녀.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/모녀.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 110035,
+        "size_human": "107.5 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "미소.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/미소.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 450159,
+        "size_human": "439.6 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "제천.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/제천.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 855541,
+        "size_human": "835.5 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "지하철.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/지하철.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3138156,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "타투.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/타투.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 108491,
+        "size_human": "105.9 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "후두티.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/후두티.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 129477,
+        "size_human": "126.4 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 8,
+    "directory_count": 0,
+    "total_size": 5614087,
+    "total_size_human": "5.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 38912,
+      "size_human": "38.0 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "눈동자.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/눈동자.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 783316,
+      "size_human": "765.0 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "모녀.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/모녀.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 110035,
+      "size_human": "107.5 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "미소.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/미소.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 450159,
+      "size_human": "439.6 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "제천.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/제천.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 855541,
+      "size_human": "835.5 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "지하철.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/지하철.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3138156,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "타투.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/타투.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 108491,
+      "size_human": "105.9 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "후두티.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/후두티.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 129477,
+      "size_human": "126.4 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

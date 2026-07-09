@@ -1,0 +1,327 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청",
+    "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 37,
+    "directory_count": 2,
+    "direct_file_count": 7,
+    "direct_directory_count": 2,
+    "total_size": 418354659,
+    "total_size_human": "399.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "피해보상신청",
+    "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청",
+    "index": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/files.json",
+    "modified": "2026-07-09T17:49:48+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "00.신청서_원본",
+        "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/00.신청서_원본",
+        "index": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/00.신청서_원본/files.json",
+        "modified": "2026-07-09T17:49:45+00:00",
+        "file_count": 4,
+        "directory_count": 0,
+        "total_size": 215363,
+        "total_size_human": "210.3 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "선별",
+        "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/선별",
+        "index": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/선별/files.json",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "file_count": 26,
+        "directory_count": 0,
+        "total_size": 398627485,
+        "total_size_human": "380.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "01_경작사실확인서.pdf",
+        "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/01_경작사실확인서.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 785393,
+        "size_human": "767.0 KB",
+        "modified": "2026-07-09T17:49:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "02_야생동물에 의한 농작물 피해보상 신청서.hwp",
+        "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/02_야생동물에 의한 농작물 피해보상 신청서.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 41472,
+        "size_human": "40.5 KB",
+        "modified": "2026-07-09T17:49:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "02_야생동물에 의한 농작물 피해보상 신청서.pdf",
+        "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/02_야생동물에 의한 농작물 피해보상 신청서.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 254315,
+        "size_human": "248.4 KB",
+        "modified": "2026-07-09T17:49:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "02_야생동물에 의한 농작물 피해보상 신청서_완료.hwp",
+        "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/02_야생동물에 의한 농작물 피해보상 신청서_완료.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 13073408,
+        "size_human": "12.5 MB",
+        "modified": "2026-07-09T17:49:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "대산읍_화곡리_667_23_필지정보_위성사진.png",
+        "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/대산읍_화곡리_667_23_필지정보_위성사진.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4477504,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:49:45+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "영농사실 확인서 등.pdf",
+        "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/영농사실 확인서 등.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 75838,
+        "size_human": "74.1 KB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "영농사실 확인서.pdf",
+        "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/영농사실 확인서.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 803881,
+        "size_human": "785.0 KB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 37,
+    "directory_count": 2,
+    "total_size": 418354659,
+    "total_size_human": "399.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "01_경작사실확인서.pdf",
+      "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/01_경작사실확인서.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 785393,
+      "size_human": "767.0 KB",
+      "modified": "2026-07-09T17:49:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "02_야생동물에 의한 농작물 피해보상 신청서.hwp",
+      "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/02_야생동물에 의한 농작물 피해보상 신청서.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 41472,
+      "size_human": "40.5 KB",
+      "modified": "2026-07-09T17:49:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "02_야생동물에 의한 농작물 피해보상 신청서.pdf",
+      "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/02_야생동물에 의한 농작물 피해보상 신청서.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 254315,
+      "size_human": "248.4 KB",
+      "modified": "2026-07-09T17:49:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "02_야생동물에 의한 농작물 피해보상 신청서_완료.hwp",
+      "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/02_야생동물에 의한 농작물 피해보상 신청서_완료.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 13073408,
+      "size_human": "12.5 MB",
+      "modified": "2026-07-09T17:49:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "대산읍_화곡리_667_23_필지정보_위성사진.png",
+      "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/대산읍_화곡리_667_23_필지정보_위성사진.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4477504,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:49:45+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "영농사실 확인서 등.pdf",
+      "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/영농사실 확인서 등.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 75838,
+      "size_human": "74.1 KB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "영농사실 확인서.pdf",
+      "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/영농사실 확인서.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 803881,
+      "size_human": "785.0 KB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "00.신청서_원본",
+      "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/00.신청서_원본",
+      "index": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/00.신청서_원본/files.json",
+      "modified": "2026-07-09T17:49:45+00:00",
+      "file_count": 4,
+      "directory_count": 0,
+      "total_size": 215363,
+      "total_size_human": "210.3 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "선별",
+      "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/선별",
+      "index": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/피해보상신청/선별/files.json",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "file_count": 26,
+      "directory_count": 0,
+      "total_size": 398627485,
+      "total_size_human": "380.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

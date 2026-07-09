@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 6240932,
+    "total_size_human": "6.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "Originals",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals",
+    "index": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 18432,
+        "size_human": "18.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "버스.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals/버스.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4916750,
+        "size_human": "4.7 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "빨간화분.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals/빨간화분.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 374371,
+        "size_human": "365.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "점프.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals/점프.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 931379,
+        "size_human": "909.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 6240932,
+    "total_size_human": "6.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 18432,
+      "size_human": "18.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "버스.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals/버스.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4916750,
+      "size_human": "4.7 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "빨간화분.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals/빨간화분.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 374371,
+      "size_human": "365.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "점프.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/02장 예제/Originals/점프.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 931379,
+      "size_human": "909.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송",
+    "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 2,
+    "directory_count": 0,
+    "direct_file_count": 2,
+    "direct_directory_count": 0,
+    "total_size": 1081658,
+    "total_size_human": "1.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송",
+    "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송",
+    "index": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송/files.json",
+    "modified": "2026-07-09T17:49:07+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "김상경_농지대장 신규 및 변경 신청서(자경).pdf",
+        "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송/김상경_농지대장 신규 및 변경 신청서(자경).pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 764395,
+        "size_human": "746.5 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "김상경_임대차 합의해지 계약서.pdf",
+        "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송/김상경_임대차 합의해지 계약서.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 317263,
+        "size_human": "309.8 KB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 2,
+    "directory_count": 0,
+    "total_size": 1081658,
+    "total_size_human": "1.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "김상경_농지대장 신규 및 변경 신청서(자경).pdf",
+      "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송/김상경_농지대장 신규 및 변경 신청서(자경).pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 764395,
+      "size_human": "746.5 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "김상경_임대차 합의해지 계약서.pdf",
+      "path": "농업_경영/농지대장/20260629_농지대장_다시_자경등록_세웅아저씨가_가져가서/20260629_대산읍 행정복지센터 산업팀_ 조민정_메일발송/김상경_임대차 합의해지 계약서.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 317263,
+      "size_human": "309.8 KB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

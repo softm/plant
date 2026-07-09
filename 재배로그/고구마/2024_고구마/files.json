@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/고구마/2024_고구마",
+    "path": "재배로그/고구마/2024_고구마",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 61,
+    "directory_count": 6,
+    "direct_file_count": 0,
+    "direct_directory_count": 3,
+    "total_size": 518934823,
+    "total_size_human": "494.9 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2024_고구마",
+    "path": "재배로그/고구마/2024_고구마",
+    "index": "재배로그/고구마/2024_고구마/files.json",
+    "modified": "2026-07-09T17:49:48+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20240706_고구마_멧돼지_피해",
+        "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해",
+        "index": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/files.json",
+        "modified": "2026-07-09T17:49:45+00:00",
+        "file_count": 51,
+        "directory_count": 3,
+        "total_size": 469486921,
+        "total_size_human": "447.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260628_고구마_확인",
+        "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인",
+        "index": "재배로그/고구마/2024_고구마/20260628_고구마_확인/files.json",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 48826950,
+        "total_size_human": "46.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구",
+        "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구",
+        "index": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/files.json",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 620952,
+        "total_size_human": "606.4 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 61,
+    "directory_count": 6,
+    "total_size": 518934823,
+    "total_size_human": "494.9 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20240706_고구마_멧돼지_피해",
+      "path": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해",
+      "index": "재배로그/고구마/2024_고구마/20240706_고구마_멧돼지_피해/files.json",
+      "modified": "2026-07-09T17:49:45+00:00",
+      "file_count": 51,
+      "directory_count": 3,
+      "total_size": 469486921,
+      "total_size_human": "447.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260628_고구마_확인",
+      "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인",
+      "index": "재배로그/고구마/2024_고구마/20260628_고구마_확인/files.json",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 48826950,
+      "total_size_human": "46.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구",
+      "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구",
+      "index": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/files.json",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 620952,
+      "total_size_human": "606.4 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/산림조합",
+    "path": "산림조합",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 2,
+    "directory_count": 0,
+    "direct_file_count": 2,
+    "direct_directory_count": 0,
+    "total_size": 32256,
+    "total_size_human": "31.5 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "산림조합",
+    "path": "산림조합",
+    "index": "산림조합/files.json",
+    "modified": "2026-07-09T17:49:11+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "form_personal_infomation.hwp",
+        "path": "산림조합/form_personal_infomation.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 16384,
+        "size_human": "16.0 KB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "form_union.hwp",
+        "path": "산림조합/form_union.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 15872,
+        "size_human": "15.5 KB",
+        "modified": "2026-07-09T17:49:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      }
+    ],
+    "file_count": 2,
+    "directory_count": 0,
+    "total_size": 32256,
+    "total_size_human": "31.5 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "form_personal_infomation.hwp",
+      "path": "산림조합/form_personal_infomation.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 16384,
+      "size_human": "16.0 KB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "form_union.hwp",
+      "path": "산림조합/form_union.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 15872,
+      "size_human": "15.5 KB",
+      "modified": "2026-07-09T17:49:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

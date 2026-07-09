@@ -1,0 +1,427 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육",
+    "path": "교육",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 1015,
+    "directory_count": 44,
+    "direct_file_count": 3,
+    "direct_directory_count": 10,
+    "total_size": 7369755024,
+    "total_size_human": "6.9 GB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "교육",
+    "path": "교육",
+    "index": "교육/files.json",
+    "modified": "2026-07-09T17:48:49+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "2023 2기 귀농귀촌교육.0823.매주.수요일.",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일.",
+        "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./files.json",
+        "modified": "2026-07-09T17:48:24+00:00",
+        "file_count": 437,
+        "directory_count": 14,
+        "total_size": 2562043655,
+        "total_size_human": "2.4 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2023.12.07.반려식물의이해",
+        "path": "교육/2023.12.07.반려식물의이해",
+        "index": "교육/2023.12.07.반려식물의이해/files.json",
+        "modified": "2026-07-09T17:48:24+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 81334186,
+        "total_size_human": "77.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화",
+        "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/files.json",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "file_count": 158,
+        "directory_count": 8,
+        "total_size": 1116832704,
+        "total_size_human": "1.0 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 ",
+        "path": "교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 ",
+        "index": "교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 /files.json",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 81212836,
+        "total_size_human": "77.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2024.06.12.스마트팜인재양성프로젝트",
+        "path": "교육/2024.06.12.스마트팜인재양성프로젝트",
+        "index": "교육/2024.06.12.스마트팜인재양성프로젝트/files.json",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 261047,
+        "total_size_human": "254.9 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20240612.구로스마트팜",
+        "path": "교육/20240612.구로스마트팜",
+        "index": "교육/20240612.구로스마트팜/files.json",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "file_count": 134,
+        "directory_count": 5,
+        "total_size": 515217936,
+        "total_size_human": "491.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2025.06.20_경기도농업기술원_스마트팜교육",
+        "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육",
+        "index": "교육/2025.06.20_경기도농업기술원_스마트팜교육/files.json",
+        "modified": "2026-07-09T17:48:48+00:00",
+        "file_count": 243,
+        "directory_count": 6,
+        "total_size": 2901829713,
+        "total_size_human": "2.7 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260311_경기도농업대학",
+        "path": "교육/20260311_경기도농업대학",
+        "index": "교육/20260311_경기도농업대학/files.json",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "file_count": 16,
+        "directory_count": 1,
+        "total_size": 59552394,
+        "total_size_human": "56.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "수료증_교육이수_me",
+        "path": "교육/수료증_교육이수_me",
+        "index": "교육/수료증_교육이수_me/files.json",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 692115,
+        "total_size_human": "675.9 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "화훼품목교육",
+        "path": "교육/화훼품목교육",
+        "index": "교육/화훼품목교육/files.json",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "file_count": 14,
+        "directory_count": 0,
+        "total_size": 5373252,
+        "total_size_human": "5.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "00.교육정보.자격증.웹사이트.정보.교육.기관.신청기간.md",
+        "path": "교육/00.교육정보.자격증.웹사이트.정보.교육.기관.신청기간.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 12556,
+        "size_human": "12.3 KB",
+        "modified": "2026-07-09T17:48:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023.12.08.윤팀장님면담.음성 063_sd.m4a",
+        "path": "교육/2023.12.08.윤팀장님면담.음성 063_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 44913508,
+        "size_human": "42.8 MB",
+        "modified": "2026-07-09T17:48:24+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2024.경기창업준비농장.jpeg",
+        "path": "교육/2024.경기창업준비농장.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 479122,
+        "size_human": "467.9 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 1015,
+    "directory_count": 44,
+    "total_size": 7369755024,
+    "total_size_human": "6.9 GB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "00.교육정보.자격증.웹사이트.정보.교육.기관.신청기간.md",
+      "path": "교육/00.교육정보.자격증.웹사이트.정보.교육.기관.신청기간.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 12556,
+      "size_human": "12.3 KB",
+      "modified": "2026-07-09T17:48:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023.12.08.윤팀장님면담.음성 063_sd.m4a",
+      "path": "교육/2023.12.08.윤팀장님면담.음성 063_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 44913508,
+      "size_human": "42.8 MB",
+      "modified": "2026-07-09T17:48:24+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2024.경기창업준비농장.jpeg",
+      "path": "교육/2024.경기창업준비농장.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 479122,
+      "size_human": "467.9 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "2023 2기 귀농귀촌교육.0823.매주.수요일.",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일.",
+      "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./files.json",
+      "modified": "2026-07-09T17:48:24+00:00",
+      "file_count": 437,
+      "directory_count": 14,
+      "total_size": 2562043655,
+      "total_size_human": "2.4 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2023.12.07.반려식물의이해",
+      "path": "교육/2023.12.07.반려식물의이해",
+      "index": "교육/2023.12.07.반려식물의이해/files.json",
+      "modified": "2026-07-09T17:48:24+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 81334186,
+      "total_size_human": "77.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화",
+      "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/files.json",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "file_count": 158,
+      "directory_count": 8,
+      "total_size": 1116832704,
+      "total_size_human": "1.0 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 ",
+      "path": "교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 ",
+      "index": "교육/2023.스마트 농업인 SNS 서포터즈 운영 교육 계획.AI chatGPT를 활용한 SNS 마케팅 /files.json",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 81212836,
+      "total_size_human": "77.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2024.06.12.스마트팜인재양성프로젝트",
+      "path": "교육/2024.06.12.스마트팜인재양성프로젝트",
+      "index": "교육/2024.06.12.스마트팜인재양성프로젝트/files.json",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 261047,
+      "total_size_human": "254.9 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20240612.구로스마트팜",
+      "path": "교육/20240612.구로스마트팜",
+      "index": "교육/20240612.구로스마트팜/files.json",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "file_count": 134,
+      "directory_count": 5,
+      "total_size": 515217936,
+      "total_size_human": "491.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2025.06.20_경기도농업기술원_스마트팜교육",
+      "path": "교육/2025.06.20_경기도농업기술원_스마트팜교육",
+      "index": "교육/2025.06.20_경기도농업기술원_스마트팜교육/files.json",
+      "modified": "2026-07-09T17:48:48+00:00",
+      "file_count": 243,
+      "directory_count": 6,
+      "total_size": 2901829713,
+      "total_size_human": "2.7 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260311_경기도농업대학",
+      "path": "교육/20260311_경기도농업대학",
+      "index": "교육/20260311_경기도농업대학/files.json",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "file_count": 16,
+      "directory_count": 1,
+      "total_size": 59552394,
+      "total_size_human": "56.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "수료증_교육이수_me",
+      "path": "교육/수료증_교육이수_me",
+      "index": "교육/수료증_교육이수_me/files.json",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 692115,
+      "total_size_human": "675.9 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "화훼품목교육",
+      "path": "교육/화훼품목교육",
+      "index": "교육/화훼품목교육/files.json",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "file_count": 14,
+      "directory_count": 0,
+      "total_size": 5373252,
+      "total_size_human": "5.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

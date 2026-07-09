@@ -1,0 +1,456 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/화훼품목교육",
+    "path": "교육/화훼품목교육",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 14,
+    "directory_count": 0,
+    "direct_file_count": 14,
+    "direct_directory_count": 0,
+    "total_size": 5373252,
+    "total_size_human": "5.1 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "화훼품목교육",
+    "path": "교육/화훼품목교육",
+    "index": "교육/화훼품목교육/files.json",
+    "modified": "2026-07-09T17:48:49+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "2023.06.19_07.10_화훼품목교육_교육.md",
+        "path": "교육/화훼품목교육/2023.06.19_07.10_화훼품목교육_교육.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 506,
+        "size_human": "506 B",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년06월19일.평탯.농업기술센터.화훼교육_01.jpeg",
+        "path": "교육/화훼품목교육/2023년06월19일.평탯.농업기술센터.화훼교육_01.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 671462,
+        "size_human": "655.7 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년06월19일.평탯.농업기술센터.화훼교육_02.jpeg",
+        "path": "교육/화훼품목교육/2023년06월19일.평탯.농업기술센터.화훼교육_02.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 597696,
+        "size_human": "583.7 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년06월26일.평탯.농업기술센터.화훼교육_01.jpeg",
+        "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_01.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 359231,
+        "size_human": "350.8 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년06월26일.평탯.농업기술센터.화훼교육_02.jpeg",
+        "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_02.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 386801,
+        "size_human": "377.7 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년06월26일.평탯.농업기술센터.화훼교육_03.jpeg",
+        "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_03.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 403176,
+        "size_human": "393.7 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년06월26일.평탯.농업기술센터.화훼교육_04.jpeg",
+        "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_04.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 336372,
+        "size_human": "328.5 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년06월26일.평탯.농업기술센터.화훼교육_05.jpeg",
+        "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_05.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 357300,
+        "size_human": "348.9 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년06월26일.평탯.농업기술센터.화훼교육_06.jpeg",
+        "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_06.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 729234,
+        "size_human": "712.1 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년07월XX일.평텍.농업기술센터.화훼교육_01.jpeg",
+        "path": "교육/화훼품목교육/2023년07월XX일.평텍.농업기술센터.화훼교육_01.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 292555,
+        "size_human": "285.7 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년07월XX일.평텍.농업기술센터.화훼교육_02.jpeg",
+        "path": "교육/화훼품목교육/2023년07월XX일.평텍.농업기술센터.화훼교육_02.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 438540,
+        "size_human": "428.3 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년07월XX일.평텍.농업기술센터.화훼교육_03.jpeg",
+        "path": "교육/화훼품목교육/2023년07월XX일.평텍.농업기술센터.화훼교육_03.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 108250,
+        "size_human": "105.7 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년07월XX일.평텍.농업기술센터.화훼교육_04.jpeg",
+        "path": "교육/화훼품목교육/2023년07월XX일.평텍.농업기술센터.화훼교육_04.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 337819,
+        "size_human": "329.9 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2023년07월XX일.평텍.농업기술센터.화훼교육_05.jpeg",
+        "path": "교육/화훼품목교육/2023년07월XX일.평텍.농업기술센터.화훼교육_05.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 354310,
+        "size_human": "346.0 KB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 14,
+    "directory_count": 0,
+    "total_size": 5373252,
+    "total_size_human": "5.1 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2023.06.19_07.10_화훼품목교육_교육.md",
+      "path": "교육/화훼품목교육/2023.06.19_07.10_화훼품목교육_교육.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 506,
+      "size_human": "506 B",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년06월19일.평탯.농업기술센터.화훼교육_01.jpeg",
+      "path": "교육/화훼품목교육/2023년06월19일.평탯.농업기술센터.화훼교육_01.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 671462,
+      "size_human": "655.7 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년06월19일.평탯.농업기술센터.화훼교육_02.jpeg",
+      "path": "교육/화훼품목교육/2023년06월19일.평탯.농업기술센터.화훼교육_02.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 597696,
+      "size_human": "583.7 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년06월26일.평탯.농업기술센터.화훼교육_01.jpeg",
+      "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_01.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 359231,
+      "size_human": "350.8 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년06월26일.평탯.농업기술센터.화훼교육_02.jpeg",
+      "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_02.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 386801,
+      "size_human": "377.7 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년06월26일.평탯.농업기술센터.화훼교육_03.jpeg",
+      "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_03.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 403176,
+      "size_human": "393.7 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년06월26일.평탯.농업기술센터.화훼교육_04.jpeg",
+      "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_04.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 336372,
+      "size_human": "328.5 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년06월26일.평탯.농업기술센터.화훼교육_05.jpeg",
+      "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_05.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 357300,
+      "size_human": "348.9 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년06월26일.평탯.농업기술센터.화훼교육_06.jpeg",
+      "path": "교육/화훼품목교육/2023년06월26일.평탯.농업기술센터.화훼교육_06.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 729234,
+      "size_human": "712.1 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년07월XX일.평텍.농업기술센터.화훼교육_01.jpeg",
+      "path": "교육/화훼품목교육/2023년07월XX일.평텍.농업기술센터.화훼교육_01.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 292555,
+      "size_human": "285.7 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년07월XX일.평텍.농업기술센터.화훼교육_02.jpeg",
+      "path": "교육/화훼품목교육/2023년07월XX일.평텍.농업기술센터.화훼교육_02.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 438540,
+      "size_human": "428.3 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년07월XX일.평텍.농업기술센터.화훼교육_03.jpeg",
+      "path": "교육/화훼품목교육/2023년07월XX일.평텍.농업기술센터.화훼교육_03.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 108250,
+      "size_human": "105.7 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년07월XX일.평텍.농업기술센터.화훼교육_04.jpeg",
+      "path": "교육/화훼품목교육/2023년07월XX일.평텍.농업기술센터.화훼교육_04.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 337819,
+      "size_human": "329.9 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "2023년07월XX일.평텍.농업기술센터.화훼교육_05.jpeg",
+      "path": "교육/화훼품목교육/2023년07월XX일.평텍.농업기술센터.화훼교육_05.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 354310,
+      "size_human": "346.0 KB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

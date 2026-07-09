@@ -1,0 +1,336 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/감자",
+    "path": "재배로그/감자",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 628,
+    "directory_count": 13,
+    "direct_file_count": 0,
+    "direct_directory_count": 10,
+    "total_size": 5271636841,
+    "total_size_human": "4.9 GB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "감자",
+    "path": "재배로그/감자",
+    "index": "재배로그/감자/files.json",
+    "modified": "2026-07-09T17:49:43+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "2024.03.17.화곡.감자",
+        "path": "재배로그/감자/2024.03.17.화곡.감자",
+        "index": "재배로그/감자/2024.03.17.화곡.감자/files.json",
+        "modified": "2026-07-09T17:49:30+00:00",
+        "file_count": 224,
+        "directory_count": 0,
+        "total_size": 1917347929,
+        "total_size_human": "1.8 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20240428_화곡 감자 재배중",
+        "path": "재배로그/감자/20240428_화곡 감자 재배중",
+        "index": "재배로그/감자/20240428_화곡 감자 재배중/files.json",
+        "modified": "2026-07-09T17:49:31+00:00",
+        "file_count": 17,
+        "directory_count": 0,
+        "total_size": 196236162,
+        "total_size_human": "187.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250425_화곡 감자 재배중",
+        "path": "재배로그/감자/20250425_화곡 감자 재배중",
+        "index": "재배로그/감자/20250425_화곡 감자 재배중/files.json",
+        "modified": "2026-07-09T17:49:32+00:00",
+        "file_count": 27,
+        "directory_count": 0,
+        "total_size": 152320445,
+        "total_size_human": "145.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250501_화곡 감자 재배중",
+        "path": "재배로그/감자/20250501_화곡 감자 재배중",
+        "index": "재배로그/감자/20250501_화곡 감자 재배중/files.json",
+        "modified": "2026-07-09T17:49:32+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 50382097,
+        "total_size_human": "48.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250513_화곡 감자 재배중",
+        "path": "재배로그/감자/20250513_화곡 감자 재배중",
+        "index": "재배로그/감자/20250513_화곡 감자 재배중/files.json",
+        "modified": "2026-07-09T17:49:32+00:00",
+        "file_count": 41,
+        "directory_count": 0,
+        "total_size": 342286314,
+        "total_size_human": "326.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250623_화곡_감자 수확",
+        "path": "재배로그/감자/20250623_화곡_감자 수확",
+        "index": "재배로그/감자/20250623_화곡_감자 수확/files.json",
+        "modified": "2026-07-09T17:49:34+00:00",
+        "file_count": 121,
+        "directory_count": 0,
+        "total_size": 625011943,
+        "total_size_human": "596.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260312_화곡_감자_정식",
+        "path": "재배로그/감자/20260312_화곡_감자_정식",
+        "index": "재배로그/감자/20260312_화곡_감자_정식/files.json",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "file_count": 133,
+        "directory_count": 3,
+        "total_size": 1642422655,
+        "total_size_human": "1.5 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260418_감자",
+        "path": "재배로그/감자/20260418_감자",
+        "index": "재배로그/감자/20260418_감자/files.json",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "file_count": 12,
+        "directory_count": 0,
+        "total_size": 69792833,
+        "total_size_human": "66.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260424_감자_재배중",
+        "path": "재배로그/감자/20260424_감자_재배중",
+        "index": "재배로그/감자/20260424_감자_재배중/files.json",
+        "modified": "2026-07-09T17:49:43+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 30047316,
+        "total_size_human": "28.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260428_감자_재배중_북주기",
+        "path": "재배로그/감자/20260428_감자_재배중_북주기",
+        "index": "재배로그/감자/20260428_감자_재배중_북주기/files.json",
+        "modified": "2026-07-09T17:49:44+00:00",
+        "file_count": 45,
+        "directory_count": 0,
+        "total_size": 245789147,
+        "total_size_human": "234.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 628,
+    "directory_count": 13,
+    "total_size": 5271636841,
+    "total_size_human": "4.9 GB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "2024.03.17.화곡.감자",
+      "path": "재배로그/감자/2024.03.17.화곡.감자",
+      "index": "재배로그/감자/2024.03.17.화곡.감자/files.json",
+      "modified": "2026-07-09T17:49:30+00:00",
+      "file_count": 224,
+      "directory_count": 0,
+      "total_size": 1917347929,
+      "total_size_human": "1.8 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20240428_화곡 감자 재배중",
+      "path": "재배로그/감자/20240428_화곡 감자 재배중",
+      "index": "재배로그/감자/20240428_화곡 감자 재배중/files.json",
+      "modified": "2026-07-09T17:49:31+00:00",
+      "file_count": 17,
+      "directory_count": 0,
+      "total_size": 196236162,
+      "total_size_human": "187.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250425_화곡 감자 재배중",
+      "path": "재배로그/감자/20250425_화곡 감자 재배중",
+      "index": "재배로그/감자/20250425_화곡 감자 재배중/files.json",
+      "modified": "2026-07-09T17:49:32+00:00",
+      "file_count": 27,
+      "directory_count": 0,
+      "total_size": 152320445,
+      "total_size_human": "145.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250501_화곡 감자 재배중",
+      "path": "재배로그/감자/20250501_화곡 감자 재배중",
+      "index": "재배로그/감자/20250501_화곡 감자 재배중/files.json",
+      "modified": "2026-07-09T17:49:32+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 50382097,
+      "total_size_human": "48.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250513_화곡 감자 재배중",
+      "path": "재배로그/감자/20250513_화곡 감자 재배중",
+      "index": "재배로그/감자/20250513_화곡 감자 재배중/files.json",
+      "modified": "2026-07-09T17:49:32+00:00",
+      "file_count": 41,
+      "directory_count": 0,
+      "total_size": 342286314,
+      "total_size_human": "326.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250623_화곡_감자 수확",
+      "path": "재배로그/감자/20250623_화곡_감자 수확",
+      "index": "재배로그/감자/20250623_화곡_감자 수확/files.json",
+      "modified": "2026-07-09T17:49:34+00:00",
+      "file_count": 121,
+      "directory_count": 0,
+      "total_size": 625011943,
+      "total_size_human": "596.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260312_화곡_감자_정식",
+      "path": "재배로그/감자/20260312_화곡_감자_정식",
+      "index": "재배로그/감자/20260312_화곡_감자_정식/files.json",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "file_count": 133,
+      "directory_count": 3,
+      "total_size": 1642422655,
+      "total_size_human": "1.5 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260418_감자",
+      "path": "재배로그/감자/20260418_감자",
+      "index": "재배로그/감자/20260418_감자/files.json",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "file_count": 12,
+      "directory_count": 0,
+      "total_size": 69792833,
+      "total_size_human": "66.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260424_감자_재배중",
+      "path": "재배로그/감자/20260424_감자_재배중",
+      "index": "재배로그/감자/20260424_감자_재배중/files.json",
+      "modified": "2026-07-09T17:49:43+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 30047316,
+      "total_size_human": "28.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260428_감자_재배중_북주기",
+      "path": "재배로그/감자/20260428_감자_재배중_북주기",
+      "index": "재배로그/감자/20260428_감자_재배중_북주기/files.json",
+      "modified": "2026-07-09T17:49:44+00:00",
+      "file_count": 45,
+      "directory_count": 0,
+      "total_size": 245789147,
+      "total_size_human": "234.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,306 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 9,
+    "directory_count": 0,
+    "direct_file_count": 9,
+    "direct_directory_count": 0,
+    "total_size": 13219768,
+    "total_size_human": "12.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "Originals",
+    "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals",
+    "index": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 36864,
+        "size_human": "36.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "단풍배경_포스터.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/단풍배경_포스터.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 678639,
+        "size_human": "662.7 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "분홍꽃(밝기조정.커브.채도50.콘트라스트).JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/분홍꽃(밝기조정.커브.채도50.콘트라스트).JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3572979,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "블로그_투명.로고.png",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/블로그_투명.로고.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 11586,
+        "size_human": "11.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "엠티_오래된사진.필터.JPG",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/엠티_오래된사진.필터.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4157378,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "제천_도장툴.지우기.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/제천_도장툴.지우기.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3191830,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "카메라.개체.여행.기본.액자.필름01.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/카메라.개체.여행.기본.액자.필름01.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 477417,
+        "size_human": "466.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "피자배경_포스터.작업.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/피자배경_포스터.작업.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 809222,
+        "size_human": "790.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "후두티_모자이크처리.jpg",
+        "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/후두티_모자이크처리.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 283853,
+        "size_human": "277.2 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 9,
+    "directory_count": 0,
+    "total_size": 13219768,
+    "total_size_human": "12.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 36864,
+      "size_human": "36.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "단풍배경_포스터.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/단풍배경_포스터.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 678639,
+      "size_human": "662.7 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "분홍꽃(밝기조정.커브.채도50.콘트라스트).JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/분홍꽃(밝기조정.커브.채도50.콘트라스트).JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3572979,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "블로그_투명.로고.png",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/블로그_투명.로고.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 11586,
+      "size_human": "11.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "엠티_오래된사진.필터.JPG",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/엠티_오래된사진.필터.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4157378,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "제천_도장툴.지우기.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/제천_도장툴.지우기.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3191830,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "카메라.개체.여행.기본.액자.필름01.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/카메라.개체.여행.기본.액자.필름01.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 477417,
+      "size_human": "466.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "피자배경_포스터.작업.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/피자배경_포스터.작업.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 809222,
+      "size_human": "790.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "후두티_모자이크처리.jpg",
+      "path": "교육자료/포토스케이프/포토스케이프_예제파일/편집사진/Originals/후두티_모자이크처리.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 283853,
+      "size_human": "277.2 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

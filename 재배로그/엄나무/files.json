@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/엄나무",
+    "path": "재배로그/엄나무",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 209,
+    "directory_count": 8,
+    "direct_file_count": 0,
+    "direct_directory_count": 8,
+    "total_size": 1129181984,
+    "total_size_human": "1.1 GB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "엄나무",
+    "path": "재배로그/엄나무",
+    "index": "재배로그/엄나무/files.json",
+    "modified": "2026-07-09T17:50:11+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20250425_화곡 엄나무 재배중",
+        "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중",
+        "index": "재배로그/엄나무/20250425_화곡 엄나무 재배중/files.json",
+        "modified": "2026-07-09T17:50:06+00:00",
+        "file_count": 6,
+        "directory_count": 0,
+        "total_size": 57351607,
+        "total_size_human": "54.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20250513_화곡 엄나무 재배중",
+        "path": "재배로그/엄나무/20250513_화곡 엄나무 재배중",
+        "index": "재배로그/엄나무/20250513_화곡 엄나무 재배중/files.json",
+        "modified": "2026-07-09T17:50:07+00:00",
+        "file_count": 41,
+        "directory_count": 0,
+        "total_size": 256892093,
+        "total_size_human": "245.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260324_화곡_엄나무_200주",
+        "path": "재배로그/엄나무/20260324_화곡_엄나무_200주",
+        "index": "재배로그/엄나무/20260324_화곡_엄나무_200주/files.json",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "file_count": 42,
+        "directory_count": 0,
+        "total_size": 203352107,
+        "total_size_human": "193.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260418_엄나무_1년_재배",
+        "path": "재배로그/엄나무/20260418_엄나무_1년_재배",
+        "index": "재배로그/엄나무/20260418_엄나무_1년_재배/files.json",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "file_count": 40,
+        "directory_count": 0,
+        "total_size": 203883807,
+        "total_size_human": "194.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260418_엄나무_큰거_길가",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가",
+        "index": "재배로그/엄나무/20260418_엄나무_큰거_길가/files.json",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "file_count": 13,
+        "directory_count": 0,
+        "total_size": 70298638,
+        "total_size_human": "67.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260424_엄나무_2년차_10cm정도남기고_전정",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정",
+        "index": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/files.json",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "file_count": 44,
+        "directory_count": 0,
+        "total_size": 186698330,
+        "total_size_human": "178.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나",
+        "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나",
+        "index": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/files.json",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "file_count": 18,
+        "directory_count": 0,
+        "total_size": 118885601,
+        "total_size_human": "113.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260428_엄나무_큰거_길가_번식",
+        "path": "재배로그/엄나무/20260428_엄나무_큰거_길가_번식",
+        "index": "재배로그/엄나무/20260428_엄나무_큰거_길가_번식/files.json",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 31819801,
+        "total_size_human": "30.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 209,
+    "directory_count": 8,
+    "total_size": 1129181984,
+    "total_size_human": "1.1 GB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20250425_화곡 엄나무 재배중",
+      "path": "재배로그/엄나무/20250425_화곡 엄나무 재배중",
+      "index": "재배로그/엄나무/20250425_화곡 엄나무 재배중/files.json",
+      "modified": "2026-07-09T17:50:06+00:00",
+      "file_count": 6,
+      "directory_count": 0,
+      "total_size": 57351607,
+      "total_size_human": "54.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20250513_화곡 엄나무 재배중",
+      "path": "재배로그/엄나무/20250513_화곡 엄나무 재배중",
+      "index": "재배로그/엄나무/20250513_화곡 엄나무 재배중/files.json",
+      "modified": "2026-07-09T17:50:07+00:00",
+      "file_count": 41,
+      "directory_count": 0,
+      "total_size": 256892093,
+      "total_size_human": "245.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260324_화곡_엄나무_200주",
+      "path": "재배로그/엄나무/20260324_화곡_엄나무_200주",
+      "index": "재배로그/엄나무/20260324_화곡_엄나무_200주/files.json",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "file_count": 42,
+      "directory_count": 0,
+      "total_size": 203352107,
+      "total_size_human": "193.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260418_엄나무_1년_재배",
+      "path": "재배로그/엄나무/20260418_엄나무_1년_재배",
+      "index": "재배로그/엄나무/20260418_엄나무_1년_재배/files.json",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "file_count": 40,
+      "directory_count": 0,
+      "total_size": 203883807,
+      "total_size_human": "194.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260418_엄나무_큰거_길가",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가",
+      "index": "재배로그/엄나무/20260418_엄나무_큰거_길가/files.json",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "file_count": 13,
+      "directory_count": 0,
+      "total_size": 70298638,
+      "total_size_human": "67.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260424_엄나무_2년차_10cm정도남기고_전정",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정",
+      "index": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/files.json",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "file_count": 44,
+      "directory_count": 0,
+      "total_size": 186698330,
+      "total_size_human": "178.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나",
+      "path": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나",
+      "index": "재배로그/엄나무/20260428_엄나무_아랫밭_2년생_전지한거_확인_더키워야했나/files.json",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "file_count": 18,
+      "directory_count": 0,
+      "total_size": 118885601,
+      "total_size_human": "113.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260428_엄나무_큰거_길가_번식",
+      "path": "재배로그/엄나무/20260428_엄나무_큰거_길가_번식",
+      "index": "재배로그/엄나무/20260428_엄나무_큰거_길가_번식/files.json",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 31819801,
+      "total_size_human": "30.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

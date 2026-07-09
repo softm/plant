@@ -1,0 +1,1356 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/20240612.구로스마트팜/교육_사진_동영상",
+    "path": "교육/20240612.구로스마트팜/교육_사진_동영상",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 44,
+    "directory_count": 0,
+    "direct_file_count": 44,
+    "direct_directory_count": 0,
+    "total_size": 121894831,
+    "total_size_human": "116.2 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "교육_사진_동영상",
+    "path": "교육/20240612.구로스마트팜/교육_사진_동영상",
+    "index": "교육/20240612.구로스마트팜/교육_사진_동영상/files.json",
+    "modified": "2026-07-09T17:48:35+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-31-54.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-31-54.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 314063,
+        "size_human": "306.7 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-32-38.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-32-38.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 582749,
+        "size_human": "569.1 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-32-52.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-32-52.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 551784,
+        "size_human": "538.9 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-36-08.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-36-08.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 498285,
+        "size_human": "486.6 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-36-22.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-36-22.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 476986,
+        "size_human": "465.8 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-36-31.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-36-31.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 478309,
+        "size_human": "467.1 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-37-21.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-37-21.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 527623,
+        "size_human": "515.3 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-37-30.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-37-30.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 512075,
+        "size_human": "500.1 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-37-40.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-37-40.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 460780,
+        "size_human": "450.0 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-37-53.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-37-53.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 496343,
+        "size_human": "484.7 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-38-03.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-03.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 534987,
+        "size_human": "522.4 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-38-16.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-16.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 555752,
+        "size_human": "542.7 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-38-26.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-26.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 506494,
+        "size_human": "494.6 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-38-37.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-37.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 578156,
+        "size_human": "564.6 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-38-47.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-47.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 474607,
+        "size_human": "463.5 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-38-55.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-55.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 489512,
+        "size_human": "478.0 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-40-37.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-40-37.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 553214,
+        "size_human": "540.2 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-41-07.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-41-07.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 487477,
+        "size_human": "476.1 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-41-20.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-41-20.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 487127,
+        "size_human": "475.7 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-41-42.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-41-42.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 399537,
+        "size_human": "390.2 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-42-39.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-42-39.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 481195,
+        "size_human": "469.9 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-43-43.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-43-43.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 527143,
+        "size_human": "514.8 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-45-34.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-45-34.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 493233,
+        "size_human": "481.7 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-45-47.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-45-47.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 554550,
+        "size_human": "541.6 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-46-04.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-46-04.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 513558,
+        "size_human": "501.5 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-47-44.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-47-44.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 500638,
+        "size_human": "488.9 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-07-25-01-48-48.jpeg",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-48-48.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 632495,
+        "size_human": "617.7 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-31-01.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-31-01.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 4702265,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-31-27.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-31-27.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 5540834,
+        "size_human": "5.3 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-34-04.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-34-04.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 27127201,
+        "size_human": "25.9 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-34-27.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-34-27.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 4479029,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-34-48.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-34-48.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 2950373,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-34-59.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-34-59.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 5159970,
+        "size_human": "4.9 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-35-04.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-35-04.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 1665082,
+        "size_human": "1.6 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-35-18.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-35-18.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 4834214,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-35-45.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-35-45.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 6505061,
+        "size_human": "6.2 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-42-10.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-42-10.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 5602296,
+        "size_human": "5.3 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-44-20.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-44-20.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 2293181,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-44-37.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-44-37.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 3861352,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-44-48.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-44-48.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 22234364,
+        "size_human": "21.2 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-46-36.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-46-36.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 1871911,
+        "size_human": "1.8 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-46-59.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-46-59.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 3890952,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-47-07.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-47-07.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 3886428,
+        "size_human": "3.7 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-07-25-01-48-20.mp4",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-48-20.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 1621646,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 44,
+    "directory_count": 0,
+    "total_size": 121894831,
+    "total_size_human": "116.2 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-31-54.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-31-54.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 314063,
+      "size_human": "306.7 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-32-38.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-32-38.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 582749,
+      "size_human": "569.1 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-32-52.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-32-52.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 551784,
+      "size_human": "538.9 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-36-08.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-36-08.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 498285,
+      "size_human": "486.6 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-36-22.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-36-22.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 476986,
+      "size_human": "465.8 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-36-31.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-36-31.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 478309,
+      "size_human": "467.1 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-37-21.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-37-21.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 527623,
+      "size_human": "515.3 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-37-30.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-37-30.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 512075,
+      "size_human": "500.1 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-37-40.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-37-40.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 460780,
+      "size_human": "450.0 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-37-53.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-37-53.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 496343,
+      "size_human": "484.7 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-38-03.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-03.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 534987,
+      "size_human": "522.4 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-38-16.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-16.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 555752,
+      "size_human": "542.7 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-38-26.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-26.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 506494,
+      "size_human": "494.6 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-38-37.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-37.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 578156,
+      "size_human": "564.6 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-38-47.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-47.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 474607,
+      "size_human": "463.5 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-38-55.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-38-55.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 489512,
+      "size_human": "478.0 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-40-37.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-40-37.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 553214,
+      "size_human": "540.2 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-41-07.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-41-07.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 487477,
+      "size_human": "476.1 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-41-20.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-41-20.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 487127,
+      "size_human": "475.7 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-41-42.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-41-42.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 399537,
+      "size_human": "390.2 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-42-39.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-42-39.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 481195,
+      "size_human": "469.9 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-43-43.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-43-43.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 527143,
+      "size_human": "514.8 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-45-34.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-45-34.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 493233,
+      "size_human": "481.7 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-45-47.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-45-47.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 554550,
+      "size_human": "541.6 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-46-04.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-46-04.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 513558,
+      "size_human": "501.5 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-47-44.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-47-44.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 500638,
+      "size_human": "488.9 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-07-25-01-48-48.jpeg",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Photo_2024-07-25-01-48-48.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 632495,
+      "size_human": "617.7 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-31-01.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-31-01.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 4702265,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-31-27.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-31-27.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 5540834,
+      "size_human": "5.3 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-34-04.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-34-04.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 27127201,
+      "size_human": "25.9 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-34-27.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-34-27.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 4479029,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-34-48.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-34-48.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 2950373,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-34-59.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-34-59.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 5159970,
+      "size_human": "4.9 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-35-04.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-35-04.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 1665082,
+      "size_human": "1.6 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-35-18.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-35-18.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 4834214,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-35-45.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-35-45.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 6505061,
+      "size_human": "6.2 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-42-10.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-42-10.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 5602296,
+      "size_human": "5.3 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-44-20.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-44-20.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 2293181,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-44-37.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-44-37.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 3861352,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-44-48.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-44-48.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 22234364,
+      "size_human": "21.2 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-46-36.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-46-36.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 1871911,
+      "size_human": "1.8 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-46-59.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-46-59.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 3890952,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-47-07.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-47-07.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 3886428,
+      "size_human": "3.7 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-07-25-01-48-20.mp4",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상/KakaoTalk_Video_2024-07-25-01-48-20.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 1621646,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

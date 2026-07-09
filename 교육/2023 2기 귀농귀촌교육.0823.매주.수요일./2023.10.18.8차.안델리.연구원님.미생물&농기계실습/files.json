@@ -1,0 +1,261 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 57,
+    "directory_count": 2,
+    "direct_file_count": 5,
+    "direct_directory_count": 2,
+    "total_size": 319978574,
+    "total_size_human": "305.2 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.10.18.8차.안델리.연구원님.미생물&농기계실습",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습",
+    "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/files.json",
+    "modified": "2026-07-09T17:48:16+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "농기계실습사진",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/농기계실습사진",
+        "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/농기계실습사진/files.json",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "file_count": 42,
+        "directory_count": 0,
+        "total_size": 147029156,
+        "total_size_human": "140.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "친환경농업관리실.미생물.견학",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학",
+        "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/files.json",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "file_count": 10,
+        "directory_count": 0,
+        "total_size": 23034854,
+        "total_size_human": "22.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "23년 귀농귀촌 교육(안델리)미생물의이해와.토양처방서.활용법.pptx",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/23년 귀농귀촌 교육(안델리)미생물의이해와.토양처방서.활용법.pptx",
+        "extension": "pptx",
+        "group": "application",
+        "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 30834600,
+        "size_human": "29.4 MB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": true,
+          "kind": "text",
+          "path": ".viewer-previews/fea7135250b71624.pptx.txt",
+          "size": 22187,
+          "size_human": "21.7 KB"
+        }
+      },
+      {
+        "type": "file",
+        "name": "play_07_2023.10.18.md",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/play_07_2023.10.18.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 12101,
+        "size_human": "11.8 KB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 026_sd.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/음성 026_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 57006909,
+        "size_human": "54.4 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 027_sd.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/음성 027_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 17274306,
+        "size_human": "16.5 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 028_sd.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/음성 028_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 44786648,
+        "size_human": "42.7 MB",
+        "modified": "2026-07-09T17:48:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 57,
+    "directory_count": 2,
+    "total_size": 319978574,
+    "total_size_human": "305.2 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "23년 귀농귀촌 교육(안델리)미생물의이해와.토양처방서.활용법.pptx",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/23년 귀농귀촌 교육(안델리)미생물의이해와.토양처방서.활용법.pptx",
+      "extension": "pptx",
+      "group": "application",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size": 30834600,
+      "size_human": "29.4 MB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": true,
+        "kind": "text",
+        "path": ".viewer-previews/fea7135250b71624.pptx.txt",
+        "size": 22187,
+        "size_human": "21.7 KB"
+      }
+    },
+    {
+      "type": "file",
+      "name": "play_07_2023.10.18.md",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/play_07_2023.10.18.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 12101,
+      "size_human": "11.8 KB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 026_sd.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/음성 026_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 57006909,
+      "size_human": "54.4 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 027_sd.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/음성 027_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 17274306,
+      "size_human": "16.5 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 028_sd.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/음성 028_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 44786648,
+      "size_human": "42.7 MB",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "농기계실습사진",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/농기계실습사진",
+      "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/농기계실습사진/files.json",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "file_count": 42,
+      "directory_count": 0,
+      "total_size": 147029156,
+      "total_size_human": "140.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "친환경농업관리실.미생물.견학",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학",
+      "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/files.json",
+      "modified": "2026-07-09T17:48:16+00:00",
+      "file_count": 10,
+      "directory_count": 0,
+      "total_size": 23034854,
+      "total_size_human": "22.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

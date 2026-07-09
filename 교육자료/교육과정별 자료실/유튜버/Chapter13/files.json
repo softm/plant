@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/유튜버/Chapter13",
+    "path": "교육자료/교육과정별 자료실/유튜버/Chapter13",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 101871786,
+    "total_size_human": "97.2 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "Chapter13",
+    "path": "교육자료/교육과정별 자료실/유튜버/Chapter13",
+    "index": "교육자료/교육과정별 자료실/유튜버/Chapter13/files.json",
+    "modified": "2026-07-09T17:48:56+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "Ch13-Video1.mp4",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter13/Ch13-Video1.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 37812846,
+        "size_human": "36.1 MB",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch13-Video2.mp4",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter13/Ch13-Video2.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 13692573,
+        "size_human": "13.1 MB",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch13-Video3.mp4",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter13/Ch13-Video3.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 37404353,
+        "size_human": "35.7 MB",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch13-Video4.mp4",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter13/Ch13-Video4.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 12962014,
+        "size_human": "12.4 MB",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 101871786,
+    "total_size_human": "97.2 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "Ch13-Video1.mp4",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter13/Ch13-Video1.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 37812846,
+      "size_human": "36.1 MB",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch13-Video2.mp4",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter13/Ch13-Video2.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 13692573,
+      "size_human": "13.1 MB",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch13-Video3.mp4",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter13/Ch13-Video3.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 37404353,
+      "size_human": "35.7 MB",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch13-Video4.mp4",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter13/Ch13-Video4.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 12962014,
+      "size_human": "12.4 MB",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

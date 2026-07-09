@@ -1,0 +1,726 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식",
+    "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 23,
+    "directory_count": 0,
+    "direct_file_count": 23,
+    "direct_directory_count": 0,
+    "total_size": 139744472,
+    "total_size_human": "133.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20250514 화곡 울릉도쑥부쟁이 이식",
+    "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식",
+    "index": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/files.json",
+    "modified": "2026-07-09T17:50:12+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20250514_103426(0).jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103426(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5252674,
+        "size_human": "5.0 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_103426.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103426.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5933941,
+        "size_human": "5.7 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_103427.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103427.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4396270,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_103428.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103428.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4702442,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_103429(0).jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103429(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4849924,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_103429.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103429.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4401931,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_103431.mp4",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103431.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 5152088,
+        "size_human": "4.9 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_103438.mp4",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103438.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 5687358,
+        "size_human": "5.4 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_103843.mp4",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103843.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 8891808,
+        "size_human": "8.5 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_103945.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103945.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3712193,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_103951.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103951.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5106335,
+        "size_human": "4.9 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_103954.mp4",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103954.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 4126805,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_121547.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121547.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5012075,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_121548.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121548.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5231565,
+        "size_human": "5.0 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_121550.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121550.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4451093,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_121552.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121552.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5504506,
+        "size_human": "5.2 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_121555.mp4",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121555.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 22445482,
+        "size_human": "21.4 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_121611.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121611.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5630433,
+        "size_human": "5.4 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_121613.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121613.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5774313,
+        "size_human": "5.5 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_121616.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121616.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6221618,
+        "size_human": "5.9 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_121621.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121621.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 6148798,
+        "size_human": "5.9 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_121622.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121622.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5880260,
+        "size_human": "5.6 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20250514_121623.jpg",
+        "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121623.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5230560,
+        "size_human": "5.0 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 23,
+    "directory_count": 0,
+    "total_size": 139744472,
+    "total_size_human": "133.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20250514_103426(0).jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103426(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5252674,
+      "size_human": "5.0 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_103426.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103426.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5933941,
+      "size_human": "5.7 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_103427.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103427.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4396270,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_103428.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103428.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4702442,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_103429(0).jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103429(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4849924,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_103429.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103429.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4401931,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_103431.mp4",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103431.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 5152088,
+      "size_human": "4.9 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_103438.mp4",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103438.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 5687358,
+      "size_human": "5.4 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_103843.mp4",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103843.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 8891808,
+      "size_human": "8.5 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_103945.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103945.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3712193,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_103951.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103951.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5106335,
+      "size_human": "4.9 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_103954.mp4",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_103954.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 4126805,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_121547.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121547.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5012075,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_121548.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121548.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5231565,
+      "size_human": "5.0 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_121550.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121550.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4451093,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_121552.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121552.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5504506,
+      "size_human": "5.2 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_121555.mp4",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121555.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 22445482,
+      "size_human": "21.4 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_121611.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121611.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5630433,
+      "size_human": "5.4 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_121613.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121613.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5774313,
+      "size_human": "5.5 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_121616.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121616.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6221618,
+      "size_human": "5.9 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_121621.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121621.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 6148798,
+      "size_human": "5.9 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_121622.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121622.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5880260,
+      "size_human": "5.6 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20250514_121623.jpg",
+      "path": "재배로그/울릉도쑥부쟁이/20250514 화곡 울릉도쑥부쟁이 이식/20250514_121623.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5230560,
+      "size_human": "5.0 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

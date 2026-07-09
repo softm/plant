@@ -1,0 +1,426 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/엄나무/20260418_엄나무_큰거_길가",
+    "path": "재배로그/엄나무/20260418_엄나무_큰거_길가",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 13,
+    "directory_count": 0,
+    "direct_file_count": 13,
+    "direct_directory_count": 0,
+    "total_size": 70298638,
+    "total_size_human": "67.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260418_엄나무_큰거_길가",
+    "path": "재배로그/엄나무/20260418_엄나무_큰거_길가",
+    "index": "재배로그/엄나무/20260418_엄나무_큰거_길가/files.json",
+    "modified": "2026-07-09T17:50:10+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260418_163951.jpg",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_163951.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5832156,
+        "size_human": "5.6 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_163954.mp4",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_163954.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 9608840,
+        "size_human": "9.2 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_164005.jpg",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164005.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5655502,
+        "size_human": "5.4 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_164008.jpg",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164008.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3703428,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_164018.jpg",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164018.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3378261,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_164020.jpg",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164020.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3626562,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_164023.jpg",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164023.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3465115,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_164026.jpg",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164026.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3117781,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_164028.jpg",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164028.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3410300,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_164034.jpg",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164034.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3382682,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_164204.jpg",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164204.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2567242,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_164205.jpg",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164205.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2115867,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:50:10+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260418_164208.mp4",
+        "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164208.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 20434902,
+        "size_human": "19.5 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 13,
+    "directory_count": 0,
+    "total_size": 70298638,
+    "total_size_human": "67.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260418_163951.jpg",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_163951.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5832156,
+      "size_human": "5.6 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_163954.mp4",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_163954.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 9608840,
+      "size_human": "9.2 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_164005.jpg",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164005.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5655502,
+      "size_human": "5.4 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_164008.jpg",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164008.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3703428,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_164018.jpg",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164018.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3378261,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_164020.jpg",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164020.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3626562,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_164023.jpg",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164023.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3465115,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_164026.jpg",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164026.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3117781,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_164028.jpg",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164028.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3410300,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_164034.jpg",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164034.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3382682,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_164204.jpg",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164204.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2567242,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_164205.jpg",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164205.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2115867,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:50:10+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260418_164208.mp4",
+      "path": "재배로그/엄나무/20260418_엄나무_큰거_길가/20260418_164208.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 20434902,
+      "size_human": "19.5 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

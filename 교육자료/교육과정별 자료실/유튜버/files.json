@@ -1,0 +1,487 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/유튜버",
+    "path": "교육자료/교육과정별 자료실/유튜버",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 67,
+    "directory_count": 14,
+    "direct_file_count": 1,
+    "direct_directory_count": 14,
+    "total_size": 653922161,
+    "total_size_human": "623.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "유튜버",
+    "path": "교육자료/교육과정별 자료실/유튜버",
+    "index": "교육자료/교육과정별 자료실/유튜버/files.json",
+    "modified": "2026-07-09T17:48:56+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "Chapter02",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter02",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter02/files.json",
+        "modified": "2026-07-09T17:48:52+00:00",
+        "file_count": 6,
+        "directory_count": 0,
+        "total_size": 14800575,
+        "total_size_human": "14.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter03",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter03",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter03/files.json",
+        "modified": "2026-07-09T17:48:52+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 1571340,
+        "total_size_human": "1.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter04",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter04",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter04/files.json",
+        "modified": "2026-07-09T17:48:52+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 3136416,
+        "total_size_human": "3.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter05",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter05",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter05/files.json",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "file_count": 9,
+        "directory_count": 0,
+        "total_size": 34178879,
+        "total_size_human": "32.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter06",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter06",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter06/files.json",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "file_count": 9,
+        "directory_count": 0,
+        "total_size": 61807707,
+        "total_size_human": "58.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter07",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter07",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter07/files.json",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 27846067,
+        "total_size_human": "26.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter08",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter08",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter08/files.json",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 50113452,
+        "total_size_human": "47.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter09",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter09",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter09/files.json",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 32054447,
+        "total_size_human": "30.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter10",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter10",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter10/files.json",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "file_count": 10,
+        "directory_count": 0,
+        "total_size": 85713643,
+        "total_size_human": "81.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter11",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter11",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter11/files.json",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 45986856,
+        "total_size_human": "43.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter12",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter12",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter12/files.json",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 77821485,
+        "total_size_human": "74.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter13",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter13",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter13/files.json",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "file_count": 4,
+        "directory_count": 0,
+        "total_size": 101871786,
+        "total_size_human": "97.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "Chapter14",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter14",
+        "index": "교육자료/교육과정별 자료실/유튜버/Chapter14/files.json",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 92883112,
+        "total_size_human": "88.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "프로그램",
+        "path": "교육자료/교육과정별 자료실/유튜버/프로그램",
+        "index": "교육자료/교육과정별 자료실/유튜버/프로그램/files.json",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 22035344,
+        "total_size_human": "21.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스마트정보화4_프로그램 사용 방법.pdf",
+        "path": "교육자료/교육과정별 자료실/유튜버/스마트정보화4_프로그램 사용 방법.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 2101052,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:48:56+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 67,
+    "directory_count": 14,
+    "total_size": 653922161,
+    "total_size_human": "623.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "스마트정보화4_프로그램 사용 방법.pdf",
+      "path": "교육자료/교육과정별 자료실/유튜버/스마트정보화4_프로그램 사용 방법.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 2101052,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "Chapter02",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter02",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter02/files.json",
+      "modified": "2026-07-09T17:48:52+00:00",
+      "file_count": 6,
+      "directory_count": 0,
+      "total_size": 14800575,
+      "total_size_human": "14.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter03",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter03",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter03/files.json",
+      "modified": "2026-07-09T17:48:52+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 1571340,
+      "total_size_human": "1.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter04",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter04",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter04/files.json",
+      "modified": "2026-07-09T17:48:52+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 3136416,
+      "total_size_human": "3.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter05",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter05",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter05/files.json",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "file_count": 9,
+      "directory_count": 0,
+      "total_size": 34178879,
+      "total_size_human": "32.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter06",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter06",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter06/files.json",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "file_count": 9,
+      "directory_count": 0,
+      "total_size": 61807707,
+      "total_size_human": "58.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter07",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter07",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter07/files.json",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 27846067,
+      "total_size_human": "26.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter08",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter08",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter08/files.json",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 50113452,
+      "total_size_human": "47.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter09",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter09",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter09/files.json",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 32054447,
+      "total_size_human": "30.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter10",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter10",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter10/files.json",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "file_count": 10,
+      "directory_count": 0,
+      "total_size": 85713643,
+      "total_size_human": "81.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter11",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter11",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter11/files.json",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 45986856,
+      "total_size_human": "43.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter12",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter12",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter12/files.json",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 77821485,
+      "total_size_human": "74.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter13",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter13",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter13/files.json",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "file_count": 4,
+      "directory_count": 0,
+      "total_size": 101871786,
+      "total_size_human": "97.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "Chapter14",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter14",
+      "index": "교육자료/교육과정별 자료실/유튜버/Chapter14/files.json",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 92883112,
+      "total_size_human": "88.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "프로그램",
+      "path": "교육자료/교육과정별 자료실/유튜버/프로그램",
+      "index": "교육자료/교육과정별 자료실/유튜버/프로그램/files.json",
+      "modified": "2026-07-09T17:48:56+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 22035344,
+      "total_size_human": "21.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

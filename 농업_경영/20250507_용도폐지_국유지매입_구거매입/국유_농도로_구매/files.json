@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매",
+    "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 8038175,
+    "total_size_human": "7.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "국유_농도로_구매",
+    "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매",
+    "index": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매/files.json",
+    "modified": "2026-07-09T17:49:05+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "구거.페지.png",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매/구거.페지.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 1146278,
+        "size_human": "1.1 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "구거.폐지.pdf",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매/구거.폐지.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 959309,
+        "size_human": "936.8 KB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "대상_국유_구거_도로_정보.png",
+        "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매/대상_국유_구거_도로_정보.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 5932588,
+        "size_human": "5.7 MB",
+        "modified": "2026-07-09T17:49:05+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 8038175,
+    "total_size_human": "7.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "구거.페지.png",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매/구거.페지.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 1146278,
+      "size_human": "1.1 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "구거.폐지.pdf",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매/구거.폐지.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 959309,
+      "size_human": "936.8 KB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "대상_국유_구거_도로_정보.png",
+      "path": "농업_경영/20250507_용도폐지_국유지매입_구거매입/국유_농도로_구매/대상_국유_구거_도로_정보.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 5932588,
+      "size_human": "5.7 MB",
+      "modified": "2026-07-09T17:49:05+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

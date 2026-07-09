@@ -1,0 +1,306 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 9,
+    "directory_count": 0,
+    "direct_file_count": 9,
+    "direct_directory_count": 0,
+    "total_size": 96875149,
+    "total_size_human": "92.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.10.04.6차.오구연 원장님.강사님.강의자료",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료",
+    "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/files.json",
+    "modified": "2026-07-09T17:48:15+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "06_01.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/06_01.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 26009258,
+        "size_human": "24.8 MB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "06_02.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/06_02.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 20697304,
+        "size_human": "19.7 MB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "06_03.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/06_03.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 37444882,
+        "size_human": "35.7 MB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "play_06.농가.디자인md",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/play_06.농가.디자인md",
+        "extension": "디자인md",
+        "group": "other",
+        "mime_type": null,
+        "size": 3712,
+        "size_human": "3.6 KB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "play_06_2023.10.04.md",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/play_06_2023.10.04.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 9339,
+        "size_human": "9.1 KB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농장디자인계획._농장.디자인.귀농교육.png",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/농장디자인계획._농장.디자인.귀농교육.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 1695763,
+        "size_human": "1.6 MB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농장디자인계획.귀농교육.jpg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/농장디자인계획.귀농교육.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 344068,
+        "size_human": "336.0 KB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농장디자인계획.귀농교육_테스트만_확대.jpg",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/농장디자인계획.귀농교육_테스트만_확대.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 232872,
+        "size_human": "227.4 KB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "화곡농장.기본.png",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/화곡농장.기본.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 10437951,
+        "size_human": "10.0 MB",
+        "modified": "2026-07-09T17:48:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 9,
+    "directory_count": 0,
+    "total_size": 96875149,
+    "total_size_human": "92.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "06_01.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/06_01.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 26009258,
+      "size_human": "24.8 MB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "06_02.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/06_02.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 20697304,
+      "size_human": "19.7 MB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "06_03.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/06_03.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 37444882,
+      "size_human": "35.7 MB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "play_06.농가.디자인md",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/play_06.농가.디자인md",
+      "extension": "디자인md",
+      "group": "other",
+      "mime_type": null,
+      "size": 3712,
+      "size_human": "3.6 KB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "play_06_2023.10.04.md",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/play_06_2023.10.04.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 9339,
+      "size_human": "9.1 KB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농장디자인계획._농장.디자인.귀농교육.png",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/농장디자인계획._농장.디자인.귀농교육.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 1695763,
+      "size_human": "1.6 MB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농장디자인계획.귀농교육.jpg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/농장디자인계획.귀농교육.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 344068,
+      "size_human": "336.0 KB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농장디자인계획.귀농교육_테스트만_확대.jpg",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/농장디자인계획.귀농교육_테스트만_확대.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 232872,
+      "size_human": "227.4 KB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "화곡농장.기본.png",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.04.6차.오구연 원장님.강사님.강의자료/화곡농장.기본.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 10437951,
+      "size_human": "10.0 MB",
+      "modified": "2026-07-09T17:48:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

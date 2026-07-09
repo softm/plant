@@ -1,0 +1,1447 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/20240612.구로스마트팜",
+    "path": "교육/20240612.구로스마트팜",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 134,
+    "directory_count": 5,
+    "direct_file_count": 42,
+    "direct_directory_count": 5,
+    "total_size": 515217936,
+    "total_size_human": "491.4 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20240612.구로스마트팜",
+    "path": "교육/20240612.구로스마트팜",
+    "index": "교육/20240612.구로스마트팜/files.json",
+    "modified": "2026-07-09T17:48:35+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "work_2024_06_12",
+        "path": "교육/20240612.구로스마트팜/work_2024_06_12",
+        "index": "교육/20240612.구로스마트팜/work_2024_06_12/files.json",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "file_count": 6,
+        "directory_count": 0,
+        "total_size": 11857168,
+        "total_size_human": "11.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "work_2024_06_19",
+        "path": "교육/20240612.구로스마트팜/work_2024_06_19",
+        "index": "교육/20240612.구로스마트팜/work_2024_06_19/files.json",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "file_count": 19,
+        "directory_count": 0,
+        "total_size": 36277783,
+        "total_size_human": "34.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "work_2024_07_10",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10",
+        "index": "교육/20240612.구로스마트팜/work_2024_07_10/files.json",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "file_count": 10,
+        "directory_count": 0,
+        "total_size": 27169811,
+        "total_size_human": "25.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "work_2024_07_17",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17",
+        "index": "교육/20240612.구로스마트팜/work_2024_07_17/files.json",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "file_count": 13,
+        "directory_count": 0,
+        "total_size": 4623154,
+        "total_size_human": "4.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "교육_사진_동영상",
+        "path": "교육/20240612.구로스마트팜/교육_사진_동영상",
+        "index": "교육/20240612.구로스마트팜/교육_사진_동영상/files.json",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "file_count": 44,
+        "directory_count": 0,
+        "total_size": 121894831,
+        "total_size_human": "116.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "2022년 전국 벼 품종별 재배면적 및 수량성.jpeg",
+        "path": "교육/20240612.구로스마트팜/2022년 전국 벼 품종별 재배면적 및 수량성.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 479341,
+        "size_human": "468.1 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_06_12.md",
+        "path": "교육/20240612.구로스마트팜/work_2024_06_12.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 4947,
+        "size_human": "4.8 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_06_19.md",
+        "path": "교육/20240612.구로스마트팜/work_2024_06_19.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 1644,
+        "size_human": "1.6 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_06_26_결시.md",
+        "path": "교육/20240612.구로스마트팜/work_2024_06_26_결시.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 26,
+        "size_human": "26 B",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_03.md",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_03.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 1617,
+        "size_human": "1.6 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_03_강의녹음_01.m4a",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_01.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 27243835,
+        "size_human": "26.0 MB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_03_강의녹음_01.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_01.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 40667,
+        "size_human": "39.7 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_03_강의녹음_01_메모.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_01_메모.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 4229,
+        "size_human": "4.1 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_03_강의녹음_02.m4a",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_02.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 14454104,
+        "size_human": "13.8 MB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_03_강의녹음_02.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_02.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 19556,
+        "size_human": "19.1 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_03_강의녹음_02_메모.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_02_메모.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 2778,
+        "size_human": "2.7 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_03_강의녹음_03.m4a",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_03.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 13299359,
+        "size_human": "12.7 MB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_03_강의녹음_03.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_03.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 19992,
+        "size_human": "19.5 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_03_강의녹음_03_메모.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_03_메모.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 2648,
+        "size_human": "2.6 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_10_수경재배 메모.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10_수경재배 메모.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 9104,
+        "size_human": "8.9 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_10_수경재배.m4a",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10_수경재배.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 58575002,
+        "size_human": "55.9 MB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_10_수경재배.md",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10_수경재배.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 8409,
+        "size_human": "8.2 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_10_수경재배.pdf",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10_수경재배.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 1609323,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_10_수경재배.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_10_수경재배.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 89517,
+        "size_human": "87.4 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_17.jpeg",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 757160,
+        "size_human": "739.4 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_17.md",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 3419,
+        "size_human": "3.3 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_17_01 메모.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17_01 메모.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 4656,
+        "size_human": "4.5 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_17_01.m4a",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17_01.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 23462542,
+        "size_human": "22.4 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_17_01.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17_01.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 39968,
+        "size_human": "39.0 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_17_01_mac.m4a",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17_01_mac.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 25758553,
+        "size_human": "24.6 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_17_02 메모.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17_02 메모.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 6605,
+        "size_human": "6.5 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_17_02.m4a",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17_02.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 38649318,
+        "size_human": "36.9 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_17_02.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17_02.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 62278,
+        "size_human": "60.8 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_17_02_mac.m4a",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_17_02_mac.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 63122469,
+        "size_human": "60.2 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_24.md",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_24.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 2040,
+        "size_human": "2.0 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_24_01 메모.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_24_01 메모.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 3877,
+        "size_human": "3.8 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_24_01.m4a",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_24_01.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 23908148,
+        "size_human": "22.8 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_24_01.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_24_01.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 34918,
+        "size_human": "34.1 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_24_02 메모.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_24_02 메모.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 3068,
+        "size_human": "3.0 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_24_02.m4a",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_24_02.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 15909660,
+        "size_human": "15.2 MB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "work_2024_07_24_02.txt",
+        "path": "교육/20240612.구로스마트팜/work_2024_07_24_02.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 26175,
+        "size_human": "25.6 KB",
+        "modified": "2026-07-09T17:48:34+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "녹비.jpeg",
+        "path": "교육/20240612.구로스마트팜/녹비.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 509083,
+        "size_human": "497.2 KB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농업분야변화_01.jpeg",
+        "path": "교육/20240612.구로스마트팜/농업분야변화_01.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1592937,
+        "size_human": "1.5 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농업분야변화_02.jpeg",
+        "path": "교육/20240612.구로스마트팜/농업분야변화_02.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1457131,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농업분야변화_03.jpeg",
+        "path": "교육/20240612.구로스마트팜/농업분야변화_03.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1501936,
+        "size_human": "1.4 MB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "윤작.jpeg",
+        "path": "교육/20240612.구로스마트팜/윤작.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 350478,
+        "size_human": "342.3 KB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "천연농약.jpeg",
+        "path": "교육/20240612.구로스마트팜/천연농약.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 362672,
+        "size_human": "354.2 KB",
+        "modified": "2026-07-09T17:48:35+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 134,
+    "directory_count": 5,
+    "total_size": 515217936,
+    "total_size_human": "491.4 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2022년 전국 벼 품종별 재배면적 및 수량성.jpeg",
+      "path": "교육/20240612.구로스마트팜/2022년 전국 벼 품종별 재배면적 및 수량성.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 479341,
+      "size_human": "468.1 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_06_12.md",
+      "path": "교육/20240612.구로스마트팜/work_2024_06_12.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 4947,
+      "size_human": "4.8 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_06_19.md",
+      "path": "교육/20240612.구로스마트팜/work_2024_06_19.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 1644,
+      "size_human": "1.6 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_06_26_결시.md",
+      "path": "교육/20240612.구로스마트팜/work_2024_06_26_결시.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 26,
+      "size_human": "26 B",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_03.md",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_03.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 1617,
+      "size_human": "1.6 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_03_강의녹음_01.m4a",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_01.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 27243835,
+      "size_human": "26.0 MB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_03_강의녹음_01.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_01.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 40667,
+      "size_human": "39.7 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_03_강의녹음_01_메모.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_01_메모.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 4229,
+      "size_human": "4.1 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_03_강의녹음_02.m4a",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_02.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 14454104,
+      "size_human": "13.8 MB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_03_강의녹음_02.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_02.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 19556,
+      "size_human": "19.1 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_03_강의녹음_02_메모.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_02_메모.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 2778,
+      "size_human": "2.7 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_03_강의녹음_03.m4a",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_03.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 13299359,
+      "size_human": "12.7 MB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_03_강의녹음_03.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_03.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 19992,
+      "size_human": "19.5 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_03_강의녹음_03_메모.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_03_강의녹음_03_메모.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 2648,
+      "size_human": "2.6 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_10_수경재배 메모.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10_수경재배 메모.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 9104,
+      "size_human": "8.9 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_10_수경재배.m4a",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10_수경재배.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 58575002,
+      "size_human": "55.9 MB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_10_수경재배.md",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10_수경재배.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 8409,
+      "size_human": "8.2 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_10_수경재배.pdf",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10_수경재배.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 1609323,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_10_수경재배.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10_수경재배.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 89517,
+      "size_human": "87.4 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_17.jpeg",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 757160,
+      "size_human": "739.4 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_17.md",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 3419,
+      "size_human": "3.3 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_17_01 메모.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17_01 메모.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 4656,
+      "size_human": "4.5 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_17_01.m4a",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17_01.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 23462542,
+      "size_human": "22.4 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_17_01.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17_01.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 39968,
+      "size_human": "39.0 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_17_01_mac.m4a",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17_01_mac.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 25758553,
+      "size_human": "24.6 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_17_02 메모.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17_02 메모.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 6605,
+      "size_human": "6.5 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_17_02.m4a",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17_02.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 38649318,
+      "size_human": "36.9 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_17_02.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17_02.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 62278,
+      "size_human": "60.8 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_17_02_mac.m4a",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17_02_mac.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 63122469,
+      "size_human": "60.2 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_24.md",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_24.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 2040,
+      "size_human": "2.0 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_24_01 메모.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_24_01 메모.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 3877,
+      "size_human": "3.8 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_24_01.m4a",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_24_01.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 23908148,
+      "size_human": "22.8 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_24_01.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_24_01.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 34918,
+      "size_human": "34.1 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_24_02 메모.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_24_02 메모.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 3068,
+      "size_human": "3.0 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_24_02.m4a",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_24_02.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 15909660,
+      "size_human": "15.2 MB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "work_2024_07_24_02.txt",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_24_02.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 26175,
+      "size_human": "25.6 KB",
+      "modified": "2026-07-09T17:48:34+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "녹비.jpeg",
+      "path": "교육/20240612.구로스마트팜/녹비.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 509083,
+      "size_human": "497.2 KB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농업분야변화_01.jpeg",
+      "path": "교육/20240612.구로스마트팜/농업분야변화_01.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1592937,
+      "size_human": "1.5 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농업분야변화_02.jpeg",
+      "path": "교육/20240612.구로스마트팜/농업분야변화_02.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1457131,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농업분야변화_03.jpeg",
+      "path": "교육/20240612.구로스마트팜/농업분야변화_03.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1501936,
+      "size_human": "1.4 MB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "윤작.jpeg",
+      "path": "교육/20240612.구로스마트팜/윤작.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 350478,
+      "size_human": "342.3 KB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "천연농약.jpeg",
+      "path": "교육/20240612.구로스마트팜/천연농약.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 362672,
+      "size_human": "354.2 KB",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "work_2024_06_12",
+      "path": "교육/20240612.구로스마트팜/work_2024_06_12",
+      "index": "교육/20240612.구로스마트팜/work_2024_06_12/files.json",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "file_count": 6,
+      "directory_count": 0,
+      "total_size": 11857168,
+      "total_size_human": "11.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "work_2024_06_19",
+      "path": "교육/20240612.구로스마트팜/work_2024_06_19",
+      "index": "교육/20240612.구로스마트팜/work_2024_06_19/files.json",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "file_count": 19,
+      "directory_count": 0,
+      "total_size": 36277783,
+      "total_size_human": "34.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "work_2024_07_10",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_10",
+      "index": "교육/20240612.구로스마트팜/work_2024_07_10/files.json",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "file_count": 10,
+      "directory_count": 0,
+      "total_size": 27169811,
+      "total_size_human": "25.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "work_2024_07_17",
+      "path": "교육/20240612.구로스마트팜/work_2024_07_17",
+      "index": "교육/20240612.구로스마트팜/work_2024_07_17/files.json",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "file_count": 13,
+      "directory_count": 0,
+      "total_size": 4623154,
+      "total_size_human": "4.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "교육_사진_동영상",
+      "path": "교육/20240612.구로스마트팜/교육_사진_동영상",
+      "index": "교육/20240612.구로스마트팜/교육_사진_동영상/files.json",
+      "modified": "2026-07-09T17:48:35+00:00",
+      "file_count": 44,
+      "directory_count": 0,
+      "total_size": 121894831,
+      "total_size_human": "116.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

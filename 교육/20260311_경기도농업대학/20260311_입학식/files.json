@@ -1,0 +1,516 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/20260311_경기도농업대학/20260311_입학식",
+    "path": "교육/20260311_경기도농업대학/20260311_입학식",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 16,
+    "directory_count": 0,
+    "direct_file_count": 16,
+    "direct_directory_count": 0,
+    "total_size": 59552394,
+    "total_size_human": "56.8 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260311_입학식",
+    "path": "교육/20260311_경기도농업대학/20260311_입학식",
+    "index": "교육/20260311_경기도농업대학/20260311_입학식/files.json",
+    "modified": "2026-07-09T17:48:49+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260311_입학식.md",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/20260311_입학식.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 223,
+        "size_human": "223 B",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-14-35.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-35.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1668733,
+        "size_human": "1.6 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-14-37.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-37.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2050367,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-14-43.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-43.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2128900,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-14-45.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-45.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2375533,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-14-48.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-48.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1886431,
+        "size_human": "1.8 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-14-50.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-50.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2032308,
+        "size_human": "1.9 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-14-52.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-52.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3963093,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-14-54.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-54.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2291284,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-14-56.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-56.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2313791,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-14-58.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-58.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3299513,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-15-00.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-15-00.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3428381,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2026-03-13-15-15-01.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-15-01.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3575530,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "스마트농업과_교육일정_KakaoTalk_Photo_2026-03-13-15-14-47.jpeg",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/스마트농업과_교육일정_KakaoTalk_Photo_2026-03-13-15-14-47.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2521556,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 260311_144649.m4a",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/음성 260311_144649.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 3590207,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 260311_151314.m4a",
+        "path": "교육/20260311_경기도농업대학/20260311_입학식/음성 260311_151314.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 22426544,
+        "size_human": "21.4 MB",
+        "modified": "2026-07-09T17:48:49+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 16,
+    "directory_count": 0,
+    "total_size": 59552394,
+    "total_size_human": "56.8 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260311_입학식.md",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/20260311_입학식.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 223,
+      "size_human": "223 B",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-14-35.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-35.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1668733,
+      "size_human": "1.6 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-14-37.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-37.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2050367,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-14-43.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-43.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2128900,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-14-45.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-45.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2375533,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-14-48.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-48.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1886431,
+      "size_human": "1.8 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-14-50.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-50.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2032308,
+      "size_human": "1.9 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-14-52.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-52.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3963093,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-14-54.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-54.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2291284,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-14-56.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-56.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2313791,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-14-58.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-14-58.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3299513,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-15-00.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-15-00.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3428381,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2026-03-13-15-15-01.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/KakaoTalk_Photo_2026-03-13-15-15-01.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3575530,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "스마트농업과_교육일정_KakaoTalk_Photo_2026-03-13-15-14-47.jpeg",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/스마트농업과_교육일정_KakaoTalk_Photo_2026-03-13-15-14-47.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2521556,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 260311_144649.m4a",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/음성 260311_144649.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 3590207,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 260311_151314.m4a",
+      "path": "교육/20260311_경기도농업대학/20260311_입학식/음성 260311_151314.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 22426544,
+      "size_human": "21.4 MB",
+      "modified": "2026-07-09T17:48:49+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

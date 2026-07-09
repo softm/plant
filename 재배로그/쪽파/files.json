@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/쪽파",
+    "path": "재배로그/쪽파",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 23,
+    "directory_count": 3,
+    "direct_file_count": 0,
+    "direct_directory_count": 3,
+    "total_size": 155011427,
+    "total_size_human": "147.8 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "쪽파",
+    "path": "재배로그/쪽파",
+    "index": "재배로그/쪽파/files.json",
+    "modified": "2026-07-09T17:50:15+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20250328_화곡 쪽파",
+        "path": "재배로그/쪽파/20250328_화곡 쪽파",
+        "index": "재배로그/쪽파/20250328_화곡 쪽파/files.json",
+        "modified": "2026-07-09T17:50:13+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 62034405,
+        "total_size_human": "59.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260412_화곡_쪽파_수확",
+        "path": "재배로그/쪽파/20260412_화곡_쪽파_수확",
+        "index": "재배로그/쪽파/20260412_화곡_쪽파_수확/files.json",
+        "modified": "2026-07-09T17:50:15+00:00",
+        "file_count": 8,
+        "directory_count": 0,
+        "total_size": 45498132,
+        "total_size_human": "43.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260428_화곡_쪽파_수확",
+        "path": "재배로그/쪽파/20260428_화곡_쪽파_수확",
+        "index": "재배로그/쪽파/20260428_화곡_쪽파_수확/files.json",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "file_count": 8,
+        "directory_count": 0,
+        "total_size": 47478890,
+        "total_size_human": "45.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 23,
+    "directory_count": 3,
+    "total_size": 155011427,
+    "total_size_human": "147.8 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20250328_화곡 쪽파",
+      "path": "재배로그/쪽파/20250328_화곡 쪽파",
+      "index": "재배로그/쪽파/20250328_화곡 쪽파/files.json",
+      "modified": "2026-07-09T17:50:13+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 62034405,
+      "total_size_human": "59.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260412_화곡_쪽파_수확",
+      "path": "재배로그/쪽파/20260412_화곡_쪽파_수확",
+      "index": "재배로그/쪽파/20260412_화곡_쪽파_수확/files.json",
+      "modified": "2026-07-09T17:50:15+00:00",
+      "file_count": 8,
+      "directory_count": 0,
+      "total_size": 45498132,
+      "total_size_human": "43.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260428_화곡_쪽파_수확",
+      "path": "재배로그/쪽파/20260428_화곡_쪽파_수확",
+      "index": "재배로그/쪽파/20260428_화곡_쪽파_수확/files.json",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "file_count": 8,
+      "directory_count": 0,
+      "total_size": 47478890,
+      "total_size_human": "45.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

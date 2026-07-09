@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/고구마/2024_고구마/20260628_고구마_확인",
+    "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 0,
+    "direct_file_count": 5,
+    "direct_directory_count": 0,
+    "total_size": 48826950,
+    "total_size_human": "46.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260628_고구마_확인",
+    "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인",
+    "index": "재배로그/고구마/2024_고구마/20260628_고구마_확인/files.json",
+    "modified": "2026-07-09T17:49:48+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20240628_091939.mp4",
+        "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인/20240628_091939.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 20564895,
+        "size_human": "19.6 MB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240628_091954.mp4",
+        "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인/20240628_091954.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 15915400,
+        "size_human": "15.2 MB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240628_092013.jpg",
+        "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인/20240628_092013.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3083915,
+        "size_human": "2.9 MB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240628_092015.jpg",
+        "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인/20240628_092015.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5500797,
+        "size_human": "5.2 MB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240628_092057.jpg",
+        "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인/20240628_092057.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3761943,
+        "size_human": "3.6 MB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 0,
+    "total_size": 48826950,
+    "total_size_human": "46.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20240628_091939.mp4",
+      "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인/20240628_091939.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 20564895,
+      "size_human": "19.6 MB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240628_091954.mp4",
+      "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인/20240628_091954.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 15915400,
+      "size_human": "15.2 MB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240628_092013.jpg",
+      "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인/20240628_092013.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3083915,
+      "size_human": "2.9 MB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240628_092015.jpg",
+      "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인/20240628_092015.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5500797,
+      "size_human": "5.2 MB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240628_092057.jpg",
+      "path": "재배로그/고구마/2024_고구마/20260628_고구마_확인/20240628_092057.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3761943,
+      "size_human": "3.6 MB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

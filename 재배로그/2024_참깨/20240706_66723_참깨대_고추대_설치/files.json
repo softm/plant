@@ -1,0 +1,486 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치",
+    "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 15,
+    "directory_count": 0,
+    "direct_file_count": 15,
+    "direct_directory_count": 0,
+    "total_size": 166323659,
+    "total_size_human": "158.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20240706_66723_참깨대_고추대_설치",
+    "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치",
+    "index": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/files.json",
+    "modified": "2026-07-09T17:49:16+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20240706_181133.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181133.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4718381,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:49:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_181137.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181137.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4483727,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:49:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_181141.mp4",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181141.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 42362328,
+        "size_human": "40.4 MB",
+        "modified": "2026-07-09T17:49:14+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_181205.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181205.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4530373,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:49:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_181207.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181207.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4706420,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:49:15+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_181208.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181208.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4332016,
+        "size_human": "4.1 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_181211.mp4",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181211.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 16296514,
+        "size_human": "15.5 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_181225.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181225.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4809877,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_181227.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181227.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3742745,
+        "size_human": "3.6 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_181228.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181228.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4099230,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240706_181233.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181233.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5290554,
+        "size_human": "5.0 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "다른아저씨_고추대_묶은사진_20240628_135133.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/다른아저씨_고추대_묶은사진_20240628_135133.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3150891,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "다른아저씨_고추대_묶은사진_20240628_135136.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/다른아저씨_고추대_묶은사진_20240628_135136.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2861307,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "다른아저씨_고추대_묶은사진_20240628_135138.jpg",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/다른아저씨_고추대_묶은사진_20240628_135138.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3792491,
+        "size_human": "3.6 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "다른아저씨_고추대_묶은사진_20240628_135146.mp4",
+        "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/다른아저씨_고추대_묶은사진_20240628_135146.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 57146805,
+        "size_human": "54.5 MB",
+        "modified": "2026-07-09T17:49:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 15,
+    "directory_count": 0,
+    "total_size": 166323659,
+    "total_size_human": "158.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20240706_181133.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181133.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4718381,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:49:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_181137.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181137.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4483727,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:49:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_181141.mp4",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181141.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 42362328,
+      "size_human": "40.4 MB",
+      "modified": "2026-07-09T17:49:14+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_181205.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181205.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4530373,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:49:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_181207.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181207.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4706420,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:49:15+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_181208.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181208.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4332016,
+      "size_human": "4.1 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_181211.mp4",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181211.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 16296514,
+      "size_human": "15.5 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_181225.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181225.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4809877,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_181227.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181227.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3742745,
+      "size_human": "3.6 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_181228.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181228.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4099230,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240706_181233.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/20240706_181233.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5290554,
+      "size_human": "5.0 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "다른아저씨_고추대_묶은사진_20240628_135133.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/다른아저씨_고추대_묶은사진_20240628_135133.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3150891,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "다른아저씨_고추대_묶은사진_20240628_135136.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/다른아저씨_고추대_묶은사진_20240628_135136.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2861307,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "다른아저씨_고추대_묶은사진_20240628_135138.jpg",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/다른아저씨_고추대_묶은사진_20240628_135138.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3792491,
+      "size_human": "3.6 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "다른아저씨_고추대_묶은사진_20240628_135146.mp4",
+      "path": "재배로그/2024_참깨/20240706_66723_참깨대_고추대_설치/다른아저씨_고추대_묶은사진_20240628_135146.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 57146805,
+      "size_human": "54.5 MB",
+      "modified": "2026-07-09T17:49:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

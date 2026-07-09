@@ -1,0 +1,396 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 117,
+    "directory_count": 12,
+    "direct_file_count": 0,
+    "direct_directory_count": 12,
+    "total_size": 92480672,
+    "total_size_human": "88.2 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "포토스케이프_예제파일",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일",
+    "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "01장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/01장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/01장 예제/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 9,
+        "directory_count": 0,
+        "total_size": 19732378,
+        "total_size_human": "18.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "02장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/02장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/02장 예제/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 18770068,
+        "total_size_human": "17.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "03장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/03장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/03장 예제/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 8,
+        "directory_count": 0,
+        "total_size": 16068972,
+        "total_size_human": "15.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "04장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 8,
+        "directory_count": 0,
+        "total_size": 5614087,
+        "total_size_human": "5.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "05장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/05장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/05장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 10755236,
+        "total_size_human": "10.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "06장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 9,
+        "directory_count": 0,
+        "total_size": 2734003,
+        "total_size_human": "2.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "07장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/07장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/07장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 16,
+        "directory_count": 0,
+        "total_size": 4971576,
+        "total_size_human": "4.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "08장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/08장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/08장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 1130838,
+        "total_size_human": "1.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "09장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/09장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/09장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 3602092,
+        "total_size_human": "3.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "10장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 19,
+        "directory_count": 0,
+        "total_size": 3017769,
+        "total_size_human": "2.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "11장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/11장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/11장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 18,
+        "directory_count": 0,
+        "total_size": 3651933,
+        "total_size_human": "3.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "12장 예제",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/12장 예제",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/12장 예제/files.json",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "file_count": 9,
+        "directory_count": 0,
+        "total_size": 2431720,
+        "total_size_human": "2.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 117,
+    "directory_count": 12,
+    "total_size": 92480672,
+    "total_size_human": "88.2 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "01장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/01장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/01장 예제/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 9,
+      "directory_count": 0,
+      "total_size": 19732378,
+      "total_size_human": "18.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "02장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/02장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/02장 예제/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 18770068,
+      "total_size_human": "17.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "03장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/03장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/03장 예제/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 8,
+      "directory_count": 0,
+      "total_size": 16068972,
+      "total_size_human": "15.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "04장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/04장 예제/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 8,
+      "directory_count": 0,
+      "total_size": 5614087,
+      "total_size_human": "5.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "05장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/05장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/05장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 10755236,
+      "total_size_human": "10.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "06장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 9,
+      "directory_count": 0,
+      "total_size": 2734003,
+      "total_size_human": "2.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "07장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/07장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/07장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 16,
+      "directory_count": 0,
+      "total_size": 4971576,
+      "total_size_human": "4.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "08장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/08장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/08장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 1130838,
+      "total_size_human": "1.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "09장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/09장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/09장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 3602092,
+      "total_size_human": "3.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "10장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/10장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 19,
+      "directory_count": 0,
+      "total_size": 3017769,
+      "total_size_human": "2.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "11장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/11장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/11장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 18,
+      "directory_count": 0,
+      "total_size": 3651933,
+      "total_size_human": "3.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "12장 예제",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/12장 예제",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/12장 예제/files.json",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "file_count": 9,
+      "directory_count": 0,
+      "total_size": 2431720,
+      "total_size_human": "2.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

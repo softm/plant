@@ -1,0 +1,226 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/지원사업/산불예방.숲가꾸기.20250218",
+    "path": "지원사업/산불예방.숲가꾸기.20250218",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 0,
+    "direct_file_count": 5,
+    "direct_directory_count": 0,
+    "total_size": 7004414,
+    "total_size_human": "6.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "산불예방.숲가꾸기.20250218",
+    "path": "지원사업/산불예방.숲가꾸기.20250218",
+    "index": "지원사업/산불예방.숲가꾸기.20250218/files.json",
+    "modified": "2026-07-09T17:50:17+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "★2025년 숲가꾸기 사업 동의서 .hwp",
+        "path": "지원사업/산불예방.숲가꾸기.20250218/★2025년 숲가꾸기 사업 동의서 .hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 30720,
+        "size_human": "30.0 KB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "★2025년 숲가꾸기 사업 동의서_웅도리.hwp",
+        "path": "지원사업/산불예방.숲가꾸기.20250218/★2025년 숲가꾸기 사업 동의서_웅도리.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 116224,
+        "size_human": "113.5 KB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "★2025년 숲가꾸기 사업 동의서_화곡리.hwp",
+        "path": "지원사업/산불예방.숲가꾸기.20250218/★2025년 숲가꾸기 사업 동의서_화곡리.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 149504,
+        "size_human": "146.0 KB",
+        "modified": "2026-07-09T17:50:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "산불예방 숲가꾸기 참고자료 .hwp",
+        "path": "지원사업/산불예방.숲가꾸기.20250218/산불예방 숲가꾸기 참고자료 .hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 6707200,
+        "size_human": "6.4 MB",
+        "modified": "2026-07-09T17:50:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "산불예방 숲가꾸기.웅도리.md",
+        "path": "지원사업/산불예방.숲가꾸기.20250218/산불예방 숲가꾸기.웅도리.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 766,
+        "size_human": "766 B",
+        "modified": "2026-07-09T17:50:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 0,
+    "total_size": 7004414,
+    "total_size_human": "6.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "★2025년 숲가꾸기 사업 동의서 .hwp",
+      "path": "지원사업/산불예방.숲가꾸기.20250218/★2025년 숲가꾸기 사업 동의서 .hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 30720,
+      "size_human": "30.0 KB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "★2025년 숲가꾸기 사업 동의서_웅도리.hwp",
+      "path": "지원사업/산불예방.숲가꾸기.20250218/★2025년 숲가꾸기 사업 동의서_웅도리.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 116224,
+      "size_human": "113.5 KB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "★2025년 숲가꾸기 사업 동의서_화곡리.hwp",
+      "path": "지원사업/산불예방.숲가꾸기.20250218/★2025년 숲가꾸기 사업 동의서_화곡리.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 149504,
+      "size_human": "146.0 KB",
+      "modified": "2026-07-09T17:50:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "산불예방 숲가꾸기 참고자료 .hwp",
+      "path": "지원사업/산불예방.숲가꾸기.20250218/산불예방 숲가꾸기 참고자료 .hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 6707200,
+      "size_human": "6.4 MB",
+      "modified": "2026-07-09T17:50:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "산불예방 숲가꾸기.웅도리.md",
+      "path": "지원사업/산불예방.숲가꾸기.20250218/산불예방 숲가꾸기.웅도리.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 766,
+      "size_human": "766 B",
+      "modified": "2026-07-09T17:50:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

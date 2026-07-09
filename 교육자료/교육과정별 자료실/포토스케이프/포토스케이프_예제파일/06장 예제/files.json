@@ -1,0 +1,306 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 9,
+    "directory_count": 0,
+    "direct_file_count": 9,
+    "direct_directory_count": 0,
+    "total_size": 2734003,
+    "total_size_human": "2.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "06장 예제",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제",
+    "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/files.json",
+    "modified": "2026-07-09T17:48:58+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 18432,
+        "size_human": "18.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "숙녀.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/숙녀.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 686339,
+        "size_human": "670.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "안경.png",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/안경.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 95715,
+        "size_human": "93.5 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "얼굴.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/얼굴.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 193540,
+        "size_human": "189.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "올리브.png",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/올리브.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 234798,
+        "size_human": "229.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "카메라.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/카메라.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 163807,
+        "size_human": "160.0 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "커피.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/커피.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 730402,
+        "size_human": "713.3 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "쿠키.png",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/쿠키.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 205394,
+        "size_human": "200.6 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "튤립.png",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/튤립.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 405576,
+        "size_human": "396.1 KB",
+        "modified": "2026-07-09T17:48:58+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 9,
+    "directory_count": 0,
+    "total_size": 2734003,
+    "total_size_human": "2.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 18432,
+      "size_human": "18.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "숙녀.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/숙녀.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 686339,
+      "size_human": "670.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "안경.png",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/안경.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 95715,
+      "size_human": "93.5 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "얼굴.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/얼굴.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 193540,
+      "size_human": "189.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "올리브.png",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/올리브.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 234798,
+      "size_human": "229.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "카메라.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/카메라.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 163807,
+      "size_human": "160.0 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "커피.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/커피.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 730402,
+      "size_human": "713.3 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "쿠키.png",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/쿠키.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 205394,
+      "size_human": "200.6 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "튤립.png",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_예제파일/06장 예제/튤립.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 405576,
+      "size_human": "396.1 KB",
+      "modified": "2026-07-09T17:48:58+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

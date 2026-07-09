@@ -1,0 +1,1356 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정",
+    "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 44,
+    "directory_count": 0,
+    "direct_file_count": 44,
+    "direct_directory_count": 0,
+    "total_size": 186698330,
+    "total_size_human": "178.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260424_엄나무_2년차_10cm정도남기고_전정",
+    "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정",
+    "index": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/files.json",
+    "modified": "2026-07-09T17:50:11+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260424_081159.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081159.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2870332,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081201.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081201.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2753457,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081202.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081202.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3574314,
+        "size_human": "3.4 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081203.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081203.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2943847,
+        "size_human": "2.8 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081204(0).jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081204(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2694855,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081204.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081204.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2828755,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081205.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081205.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2448582,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081206.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081206.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2542857,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081209.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081209.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4420878,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081211.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081211.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4136708,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081212(0).jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081212(0).jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4478536,
+        "size_human": "4.3 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081212.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081212.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4641982,
+        "size_human": "4.4 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081213.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081213.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4194030,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_081214.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081214.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4378672,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_093926.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093926.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4662304,
+        "size_human": "4.4 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_093927.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093927.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4986378,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_093932.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093932.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3297460,
+        "size_human": "3.1 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_093937.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093937.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3955090,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_093941.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093941.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3119795,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_093947.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093947.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4016756,
+        "size_human": "3.8 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_093948.mp4",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093948.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 4399881,
+        "size_human": "4.2 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_093954.mp4",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093954.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 8274988,
+        "size_human": "7.9 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105656.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105656.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4683998,
+        "size_human": "4.5 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105659.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105659.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5121239,
+        "size_human": "4.9 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105704.mp4",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105704.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 5997119,
+        "size_human": "5.7 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105710.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105710.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2733280,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105711.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105711.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2772135,
+        "size_human": "2.6 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105713.mp4",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105713.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 2566612,
+        "size_human": "2.4 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105716.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105716.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3459678,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105718.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105718.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5928690,
+        "size_human": "5.7 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105720.mp4",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105720.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 5626076,
+        "size_human": "5.4 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105730.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105730.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4845729,
+        "size_human": "4.6 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105731.mp4",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105731.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 4972119,
+        "size_human": "4.7 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105738.mp4",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105738.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 2798615,
+        "size_human": "2.7 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105801.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105801.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3156667,
+        "size_human": "3.0 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105823.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105823.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 4067984,
+        "size_human": "3.9 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105824.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105824.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3814725,
+        "size_human": "3.6 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105826.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105826.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 5977521,
+        "size_human": "5.7 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105828.mp4",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105828.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 8875461,
+        "size_human": "8.5 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105837.mp4",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105837.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 7771234,
+        "size_human": "7.4 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105845.mp4",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105845.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 1797875,
+        "size_human": "1.7 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105850.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105850.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3619489,
+        "size_human": "3.5 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105858.jpg",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105858.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 3342120,
+        "size_human": "3.2 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260424_105902.mp4",
+        "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105902.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 7149507,
+        "size_human": "6.8 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 44,
+    "directory_count": 0,
+    "total_size": 186698330,
+    "total_size_human": "178.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260424_081159.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081159.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2870332,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081201.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081201.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2753457,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081202.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081202.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3574314,
+      "size_human": "3.4 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081203.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081203.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2943847,
+      "size_human": "2.8 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081204(0).jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081204(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2694855,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081204.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081204.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2828755,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081205.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081205.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2448582,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081206.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081206.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2542857,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081209.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081209.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4420878,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081211.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081211.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4136708,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081212(0).jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081212(0).jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4478536,
+      "size_human": "4.3 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081212.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081212.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4641982,
+      "size_human": "4.4 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081213.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081213.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4194030,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_081214.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_081214.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4378672,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_093926.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093926.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4662304,
+      "size_human": "4.4 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_093927.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093927.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4986378,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_093932.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093932.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3297460,
+      "size_human": "3.1 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_093937.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093937.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3955090,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_093941.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093941.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3119795,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_093947.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093947.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4016756,
+      "size_human": "3.8 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_093948.mp4",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093948.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 4399881,
+      "size_human": "4.2 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_093954.mp4",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_093954.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 8274988,
+      "size_human": "7.9 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105656.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105656.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4683998,
+      "size_human": "4.5 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105659.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105659.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5121239,
+      "size_human": "4.9 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105704.mp4",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105704.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 5997119,
+      "size_human": "5.7 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105710.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105710.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2733280,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105711.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105711.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2772135,
+      "size_human": "2.6 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105713.mp4",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105713.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 2566612,
+      "size_human": "2.4 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105716.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105716.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3459678,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105718.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105718.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5928690,
+      "size_human": "5.7 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105720.mp4",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105720.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 5626076,
+      "size_human": "5.4 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105730.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105730.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4845729,
+      "size_human": "4.6 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105731.mp4",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105731.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 4972119,
+      "size_human": "4.7 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105738.mp4",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105738.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 2798615,
+      "size_human": "2.7 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105801.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105801.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3156667,
+      "size_human": "3.0 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105823.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105823.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 4067984,
+      "size_human": "3.9 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105824.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105824.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3814725,
+      "size_human": "3.6 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105826.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105826.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 5977521,
+      "size_human": "5.7 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105828.mp4",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105828.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 8875461,
+      "size_human": "8.5 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105837.mp4",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105837.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 7771234,
+      "size_human": "7.4 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105845.mp4",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105845.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 1797875,
+      "size_human": "1.7 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105850.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105850.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3619489,
+      "size_human": "3.5 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105858.jpg",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105858.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 3342120,
+      "size_human": "3.2 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260424_105902.mp4",
+      "path": "재배로그/엄나무/20260424_엄나무_2년차_10cm정도남기고_전정/20260424_105902.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 7149507,
+      "size_human": "6.8 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

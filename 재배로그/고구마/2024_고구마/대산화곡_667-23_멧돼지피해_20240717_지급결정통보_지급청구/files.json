@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구",
+    "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 0,
+    "direct_file_count": 5,
+    "direct_directory_count": 0,
+    "total_size": 620952,
+    "total_size_human": "606.4 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구",
+    "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구",
+    "index": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/files.json",
+    "modified": "2026-07-09T17:49:48+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "보상금 지급청구서 (2024)_김지훈_20240718.hwp",
+        "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/보상금 지급청구서 (2024)_김지훈_20240718.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 231424,
+        "size_human": "226.0 KB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "보상금 지급청구서 (2024)_서식.hwp",
+        "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/보상금 지급청구서 (2024)_서식.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 43520,
+        "size_human": "42.5 KB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "야생동물로 인한 피해보상금 지급 결정 통보서(김지훈).hwp",
+        "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/야생동물로 인한 피해보상금 지급 결정 통보서(김지훈).hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 41984,
+        "size_human": "41.0 KB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "야생동물로 인한 피해보상금 지급 결정 통보서(김지훈).pdf",
+        "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/야생동물로 인한 피해보상금 지급 결정 통보서(김지훈).pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 66631,
+        "size_human": "65.1 KB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "통장사본.png",
+        "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/통장사본.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 237393,
+        "size_human": "231.8 KB",
+        "modified": "2026-07-09T17:49:48+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 0,
+    "total_size": 620952,
+    "total_size_human": "606.4 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "보상금 지급청구서 (2024)_김지훈_20240718.hwp",
+      "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/보상금 지급청구서 (2024)_김지훈_20240718.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 231424,
+      "size_human": "226.0 KB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "보상금 지급청구서 (2024)_서식.hwp",
+      "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/보상금 지급청구서 (2024)_서식.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 43520,
+      "size_human": "42.5 KB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "야생동물로 인한 피해보상금 지급 결정 통보서(김지훈).hwp",
+      "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/야생동물로 인한 피해보상금 지급 결정 통보서(김지훈).hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 41984,
+      "size_human": "41.0 KB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "야생동물로 인한 피해보상금 지급 결정 통보서(김지훈).pdf",
+      "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/야생동물로 인한 피해보상금 지급 결정 통보서(김지훈).pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 66631,
+      "size_human": "65.1 KB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "통장사본.png",
+      "path": "재배로그/고구마/2024_고구마/대산화곡_667-23_멧돼지피해_20240717_지급결정통보_지급청구/통장사본.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 237393,
+      "size_human": "231.8 KB",
+      "modified": "2026-07-09T17:49:48+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

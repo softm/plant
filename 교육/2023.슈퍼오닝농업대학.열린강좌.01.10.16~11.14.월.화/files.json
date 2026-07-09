@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 158,
+    "directory_count": 8,
+    "direct_file_count": 0,
+    "direct_directory_count": 8,
+    "total_size": 1116832704,
+    "total_size_human": "1.0 GB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화",
+    "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화",
+    "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/files.json",
+    "modified": "2026-07-09T17:48:32+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "2023.슈퍼오닝농업대학.열린강좌.01.10.16",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.01.10.16",
+        "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.01.10.16/files.json",
+        "modified": "2026-07-09T17:48:25+00:00",
+        "file_count": 17,
+        "directory_count": 0,
+        "total_size": 99087957,
+        "total_size_human": "94.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2023.슈퍼오닝농업대학.열린강좌.02.10.17",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.02.10.17",
+        "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.02.10.17/files.json",
+        "modified": "2026-07-09T17:48:25+00:00",
+        "file_count": 9,
+        "directory_count": 0,
+        "total_size": 152972768,
+        "total_size_human": "145.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2023.슈퍼오닝농업대학.열린강좌.03.10.23",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.03.10.23",
+        "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.03.10.23/files.json",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "file_count": 3,
+        "directory_count": 0,
+        "total_size": 94424192,
+        "total_size_human": "90.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2023.슈퍼오닝농업대학.열린강좌.05.10.30",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30",
+        "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/files.json",
+        "modified": "2026-07-09T17:48:26+00:00",
+        "file_count": 32,
+        "directory_count": 0,
+        "total_size": 136419895,
+        "total_size_human": "130.1 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2023.슈퍼오닝농업대학.열린강좌.06.10.31",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31",
+        "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/files.json",
+        "modified": "2026-07-09T17:48:30+00:00",
+        "file_count": 19,
+        "directory_count": 0,
+        "total_size": 140363640,
+        "total_size_human": "133.9 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2023.슈퍼오닝농업대학.열린강좌.07.11.06",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06",
+        "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/files.json",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "file_count": 47,
+        "directory_count": 0,
+        "total_size": 156879467,
+        "total_size_human": "149.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2023.슈퍼오닝농업대학.열린강좌.08.11.07",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07",
+        "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/files.json",
+        "modified": "2026-07-09T17:48:31+00:00",
+        "file_count": 17,
+        "directory_count": 0,
+        "total_size": 158694323,
+        "total_size_human": "151.3 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "2023.슈퍼오닝농업대학.열린강좌.09.11.13",
+        "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13",
+        "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/files.json",
+        "modified": "2026-07-09T17:48:32+00:00",
+        "file_count": 14,
+        "directory_count": 0,
+        "total_size": 177990462,
+        "total_size_human": "169.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 158,
+    "directory_count": 8,
+    "total_size": 1116832704,
+    "total_size_human": "1.0 GB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "2023.슈퍼오닝농업대학.열린강좌.01.10.16",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.01.10.16",
+      "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.01.10.16/files.json",
+      "modified": "2026-07-09T17:48:25+00:00",
+      "file_count": 17,
+      "directory_count": 0,
+      "total_size": 99087957,
+      "total_size_human": "94.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2023.슈퍼오닝농업대학.열린강좌.02.10.17",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.02.10.17",
+      "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.02.10.17/files.json",
+      "modified": "2026-07-09T17:48:25+00:00",
+      "file_count": 9,
+      "directory_count": 0,
+      "total_size": 152972768,
+      "total_size_human": "145.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2023.슈퍼오닝농업대학.열린강좌.03.10.23",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.03.10.23",
+      "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.03.10.23/files.json",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "file_count": 3,
+      "directory_count": 0,
+      "total_size": 94424192,
+      "total_size_human": "90.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2023.슈퍼오닝농업대학.열린강좌.05.10.30",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30",
+      "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.05.10.30/files.json",
+      "modified": "2026-07-09T17:48:26+00:00",
+      "file_count": 32,
+      "directory_count": 0,
+      "total_size": 136419895,
+      "total_size_human": "130.1 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2023.슈퍼오닝농업대학.열린강좌.06.10.31",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31",
+      "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.06.10.31/files.json",
+      "modified": "2026-07-09T17:48:30+00:00",
+      "file_count": 19,
+      "directory_count": 0,
+      "total_size": 140363640,
+      "total_size_human": "133.9 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2023.슈퍼오닝농업대학.열린강좌.07.11.06",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06",
+      "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.07.11.06/files.json",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "file_count": 47,
+      "directory_count": 0,
+      "total_size": 156879467,
+      "total_size_human": "149.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2023.슈퍼오닝농업대학.열린강좌.08.11.07",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07",
+      "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.08.11.07/files.json",
+      "modified": "2026-07-09T17:48:31+00:00",
+      "file_count": 17,
+      "directory_count": 0,
+      "total_size": 158694323,
+      "total_size_human": "151.3 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "2023.슈퍼오닝농업대학.열린강좌.09.11.13",
+      "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13",
+      "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.09.11.13/files.json",
+      "modified": "2026-07-09T17:48:32+00:00",
+      "file_count": 14,
+      "directory_count": 0,
+      "total_size": 177990462,
+      "total_size_human": "169.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

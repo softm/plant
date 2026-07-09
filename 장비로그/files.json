@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/장비로그",
+    "path": "장비로그",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 30,
+    "directory_count": 2,
+    "direct_file_count": 0,
+    "direct_directory_count": 2,
+    "total_size": 70732064,
+    "total_size_human": "67.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "장비로그",
+    "path": "장비로그",
+    "index": "장비로그/files.json",
+    "modified": "2026-07-09T17:49:13+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20260518_농막_내부_사진",
+        "path": "장비로그/20260518_농막_내부_사진",
+        "index": "장비로그/20260518_농막_내부_사진/files.json",
+        "modified": "2026-07-09T17:49:13+00:00",
+        "file_count": 25,
+        "directory_count": 0,
+        "total_size": 61911100,
+        "total_size_human": "59.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260630_비닐하우스_CCTV연결_타포_홈캠",
+        "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠",
+        "index": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/files.json",
+        "modified": "2026-07-09T17:49:13+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 8820964,
+        "total_size_human": "8.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 30,
+    "directory_count": 2,
+    "total_size": 70732064,
+    "total_size_human": "67.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20260518_농막_내부_사진",
+      "path": "장비로그/20260518_농막_내부_사진",
+      "index": "장비로그/20260518_농막_내부_사진/files.json",
+      "modified": "2026-07-09T17:49:13+00:00",
+      "file_count": 25,
+      "directory_count": 0,
+      "total_size": 61911100,
+      "total_size_human": "59.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260630_비닐하우스_CCTV연결_타포_홈캠",
+      "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠",
+      "index": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/files.json",
+      "modified": "2026-07-09T17:49:13+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 8820964,
+      "total_size_human": "8.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

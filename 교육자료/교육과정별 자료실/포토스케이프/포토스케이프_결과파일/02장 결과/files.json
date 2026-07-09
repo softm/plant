@@ -1,0 +1,247 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 7,
+    "directory_count": 1,
+    "direct_file_count": 6,
+    "direct_directory_count": 1,
+    "total_size": 1053067,
+    "total_size_human": "1.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "02장 결과",
+    "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과",
+    "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/files.json",
+    "modified": "2026-07-09T17:48:57+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "Originals",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/Originals",
+        "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/Originals/files.json",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "file_count": 1,
+        "directory_count": 0,
+        "total_size": 96739,
+        "total_size_human": "94.5 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "버스-결과.JPG",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/버스-결과.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 112793,
+        "size_human": "110.1 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "빨간화분-결과.JPG",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/빨간화분-결과.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 370509,
+        "size_human": "361.8 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "쇼핑-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/쇼핑-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 81194,
+        "size_human": "79.3 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "점프-결과.jpg",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/점프-결과.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 78193,
+        "size_human": "76.4 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "형진-결과.JPG",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/형진-결과.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 166147,
+        "size_human": "162.3 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "후식-결과.JPG",
+        "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/후식-결과.JPG",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 147492,
+        "size_human": "144.0 KB",
+        "modified": "2026-07-09T17:48:57+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 7,
+    "directory_count": 1,
+    "total_size": 1053067,
+    "total_size_human": "1.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "버스-결과.JPG",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/버스-결과.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 112793,
+      "size_human": "110.1 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "빨간화분-결과.JPG",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/빨간화분-결과.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 370509,
+      "size_human": "361.8 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "쇼핑-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/쇼핑-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 81194,
+      "size_human": "79.3 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "점프-결과.jpg",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/점프-결과.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 78193,
+      "size_human": "76.4 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "형진-결과.JPG",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/형진-결과.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 166147,
+      "size_human": "162.3 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "후식-결과.JPG",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/후식-결과.JPG",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 147492,
+      "size_human": "144.0 KB",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "Originals",
+      "path": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/Originals",
+      "index": "교육자료/교육과정별 자료실/포토스케이프/포토스케이프_결과파일/02장 결과/Originals/files.json",
+      "modified": "2026-07-09T17:48:57+00:00",
+      "file_count": 1,
+      "directory_count": 0,
+      "total_size": 96739,
+      "total_size_human": "94.5 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/방법로그/20260425_참두릅_개두릅_땅두릅_비교",
+    "path": "방법로그/20260425_참두릅_개두릅_땅두릅_비교",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 14819870,
+    "total_size_human": "14.1 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260425_참두릅_개두릅_땅두릅_비교",
+    "path": "방법로그/20260425_참두릅_개두릅_땅두릅_비교",
+    "index": "방법로그/20260425_참두릅_개두릅_땅두릅_비교/files.json",
+    "modified": "2026-07-09T17:49:07+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "참 두 릅 , 개 두 릅 , 땅 두 릅 완 벽 비 교.pdf",
+        "path": "방법로그/20260425_참두릅_개두릅_땅두릅_비교/참 두 릅 , 개 두 릅 , 땅 두 릅 완 벽 비 교.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 5002857,
+        "size_human": "4.8 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "참 두 릅 V S 땅 두 릅 V S 개 두 릅 , 두 릅 에 도 종 류 .pdf",
+        "path": "방법로그/20260425_참두릅_개두릅_땅두릅_비교/참 두 릅 V S 땅 두 릅 V S 개 두 릅 , 두 릅 에 도 종 류 .pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 3461966,
+        "size_human": "3.3 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "참두릅_개두릅_땅두릅.pdf",
+        "path": "방법로그/20260425_참두릅_개두릅_땅두릅_비교/참두릅_개두릅_땅두릅.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 6355047,
+        "size_human": "6.1 MB",
+        "modified": "2026-07-09T17:49:07+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 14819870,
+    "total_size_human": "14.1 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "참 두 릅 , 개 두 릅 , 땅 두 릅 완 벽 비 교.pdf",
+      "path": "방법로그/20260425_참두릅_개두릅_땅두릅_비교/참 두 릅 , 개 두 릅 , 땅 두 릅 완 벽 비 교.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 5002857,
+      "size_human": "4.8 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "참 두 릅 V S 땅 두 릅 V S 개 두 릅 , 두 릅 에 도 종 류 .pdf",
+      "path": "방법로그/20260425_참두릅_개두릅_땅두릅_비교/참 두 릅 V S 땅 두 릅 V S 개 두 릅 , 두 릅 에 도 종 류 .pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 3461966,
+      "size_human": "3.3 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "참두릅_개두릅_땅두릅.pdf",
+      "path": "방법로그/20260425_참두릅_개두릅_땅두릅_비교/참두릅_개두릅_땅두릅.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 6355047,
+      "size_human": "6.1 MB",
+      "modified": "2026-07-09T17:49:07+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

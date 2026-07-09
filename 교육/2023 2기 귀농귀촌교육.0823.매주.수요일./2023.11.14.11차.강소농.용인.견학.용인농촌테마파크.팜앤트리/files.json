@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 288,
+    "directory_count": 1,
+    "direct_file_count": 3,
+    "direct_directory_count": 1,
+    "total_size": 1334582106,
+    "total_size_human": "1.2 GB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리",
+    "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리",
+    "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리/files.json",
+    "modified": "2026-07-09T17:48:24+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "2023년11월14일.강소농.귀농.용인.견학",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리/2023년11월14일.강소농.귀농.용인.견학",
+        "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리/2023년11월14일.강소농.귀농.용인.견학/files.json",
+        "modified": "2026-07-09T17:48:24+00:00",
+        "file_count": 285,
+        "directory_count": 0,
+        "total_size": 1307744719,
+        "total_size_human": "1.2 GB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "play_11_2023.11.14.md",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리/play_11_2023.11.14.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 887,
+        "size_human": "887 B",
+        "modified": "2026-07-09T17:48:24+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 049_sd.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리/음성 049_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 18554144,
+        "size_human": "17.7 MB",
+        "modified": "2026-07-09T17:48:24+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "음성 050_sd.m4a",
+        "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리/음성 050_sd.m4a",
+        "extension": "m4a",
+        "group": "audio",
+        "mime_type": "audio/mp4",
+        "size": 8282356,
+        "size_human": "7.9 MB",
+        "modified": "2026-07-09T17:48:24+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 288,
+    "directory_count": 1,
+    "total_size": 1334582106,
+    "total_size_human": "1.2 GB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "play_11_2023.11.14.md",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리/play_11_2023.11.14.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 887,
+      "size_human": "887 B",
+      "modified": "2026-07-09T17:48:24+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 049_sd.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리/음성 049_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 18554144,
+      "size_human": "17.7 MB",
+      "modified": "2026-07-09T17:48:24+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "음성 050_sd.m4a",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리/음성 050_sd.m4a",
+      "extension": "m4a",
+      "group": "audio",
+      "mime_type": "audio/mp4",
+      "size": 8282356,
+      "size_human": "7.9 MB",
+      "modified": "2026-07-09T17:48:24+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "2023년11월14일.강소농.귀농.용인.견학",
+      "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리/2023년11월14일.강소농.귀농.용인.견학",
+      "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.11.14.11차.강소농.용인.견학.용인농촌테마파크.팜앤트리/2023년11월14일.강소농.귀농.용인.견학/files.json",
+      "modified": "2026-07-09T17:48:24+00:00",
+      "file_count": 285,
+      "directory_count": 0,
+      "total_size": 1307744719,
+      "total_size_human": "1.2 GB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

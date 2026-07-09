@@ -1,0 +1,377 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/재배로그/옥수수/2024_옥수수",
+    "path": "재배로그/옥수수/2024_옥수수",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 29,
+    "directory_count": 2,
+    "direct_file_count": 9,
+    "direct_directory_count": 2,
+    "total_size": 114809191,
+    "total_size_human": "109.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2024_옥수수",
+    "path": "재배로그/옥수수/2024_옥수수",
+    "index": "재배로그/옥수수/2024_옥수수/files.json",
+    "modified": "2026-07-09T17:50:12+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "용량줄임",
+        "path": "재배로그/옥수수/2024_옥수수/용량줄임",
+        "index": "재배로그/옥수수/2024_옥수수/용량줄임/files.json",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "file_count": 10,
+        "directory_count": 0,
+        "total_size": 79895161,
+        "total_size_human": "76.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "원본",
+        "path": "재배로그/옥수수/2024_옥수수/원본",
+        "index": "재배로그/옥수수/2024_옥수수/원본/files.json",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "file_count": 10,
+        "directory_count": 0,
+        "total_size": 839189,
+        "total_size_human": "819.5 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-08-09-14-26-41 001.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/KakaoTalk_Photo_2024-08-09-14-26-41 001.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 821241,
+        "size_human": "802.0 KB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-08-09-14-26-42 002.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/KakaoTalk_Photo_2024-08-09-14-26-42 002.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 920241,
+        "size_human": "898.7 KB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-08-09-14-26-42 003.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/KakaoTalk_Photo_2024-08-09-14-26-42 003.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 883848,
+        "size_human": "863.1 KB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Photo_2024-08-09-14-26-42 004.jpeg",
+        "path": "재배로그/옥수수/2024_옥수수/KakaoTalk_Photo_2024-08-09-14-26-42 004.jpeg",
+        "extension": "jpeg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 884598,
+        "size_human": "863.9 KB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "KakaoTalk_Video_2024-08-09-14-17-27.mp4",
+        "path": "재배로그/옥수수/2024_옥수수/KakaoTalk_Video_2024-08-09-14-17-27.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 21344390,
+        "size_human": "20.4 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "김지선_도장_사진.jpg",
+        "path": "재배로그/옥수수/2024_옥수수/김지선_도장_사진.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 22935,
+        "size_human": "22.4 KB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "김지선_도장_투명.png",
+        "path": "재배로그/옥수수/2024_옥수수/김지선_도장_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 72669,
+        "size_human": "71.0 KB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "김지선_야생동물에 의한 농작물 피해보상 신청서_완료.hwp",
+        "path": "재배로그/옥수수/2024_옥수수/김지선_야생동물에 의한 농작물 피해보상 신청서_완료.hwp",
+        "extension": "hwp",
+        "group": "application",
+        "mime_type": "application/x-hwp",
+        "size": 4926976,
+        "size_human": "4.7 MB",
+        "modified": "2026-07-09T17:50:11+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        },
+        "preview": {
+          "available": false,
+          "kind": "text",
+          "error": "no-text-extracted"
+        }
+      },
+      {
+        "type": "file",
+        "name": "지적도_사진_01.png",
+        "path": "재배로그/옥수수/2024_옥수수/지적도_사진_01.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4197943,
+        "size_human": "4.0 MB",
+        "modified": "2026-07-09T17:50:12+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 29,
+    "directory_count": 2,
+    "total_size": 114809191,
+    "total_size_human": "109.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-08-09-14-26-41 001.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/KakaoTalk_Photo_2024-08-09-14-26-41 001.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 821241,
+      "size_human": "802.0 KB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-08-09-14-26-42 002.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/KakaoTalk_Photo_2024-08-09-14-26-42 002.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 920241,
+      "size_human": "898.7 KB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-08-09-14-26-42 003.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/KakaoTalk_Photo_2024-08-09-14-26-42 003.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 883848,
+      "size_human": "863.1 KB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Photo_2024-08-09-14-26-42 004.jpeg",
+      "path": "재배로그/옥수수/2024_옥수수/KakaoTalk_Photo_2024-08-09-14-26-42 004.jpeg",
+      "extension": "jpeg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 884598,
+      "size_human": "863.9 KB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "KakaoTalk_Video_2024-08-09-14-17-27.mp4",
+      "path": "재배로그/옥수수/2024_옥수수/KakaoTalk_Video_2024-08-09-14-17-27.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 21344390,
+      "size_human": "20.4 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "김지선_도장_사진.jpg",
+      "path": "재배로그/옥수수/2024_옥수수/김지선_도장_사진.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 22935,
+      "size_human": "22.4 KB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "김지선_도장_투명.png",
+      "path": "재배로그/옥수수/2024_옥수수/김지선_도장_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 72669,
+      "size_human": "71.0 KB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "김지선_야생동물에 의한 농작물 피해보상 신청서_완료.hwp",
+      "path": "재배로그/옥수수/2024_옥수수/김지선_야생동물에 의한 농작물 피해보상 신청서_완료.hwp",
+      "extension": "hwp",
+      "group": "application",
+      "mime_type": "application/x-hwp",
+      "size": 4926976,
+      "size_human": "4.7 MB",
+      "modified": "2026-07-09T17:50:11+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      },
+      "preview": {
+        "available": false,
+        "kind": "text",
+        "error": "no-text-extracted"
+      }
+    },
+    {
+      "type": "file",
+      "name": "지적도_사진_01.png",
+      "path": "재배로그/옥수수/2024_옥수수/지적도_사진_01.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4197943,
+      "size_human": "4.0 MB",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "용량줄임",
+      "path": "재배로그/옥수수/2024_옥수수/용량줄임",
+      "index": "재배로그/옥수수/2024_옥수수/용량줄임/files.json",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "file_count": 10,
+      "directory_count": 0,
+      "total_size": 79895161,
+      "total_size_human": "76.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "원본",
+      "path": "재배로그/옥수수/2024_옥수수/원본",
+      "index": "재배로그/옥수수/2024_옥수수/원본/files.json",
+      "modified": "2026-07-09T17:50:12+00:00",
+      "file_count": 10,
+      "directory_count": 0,
+      "total_size": 839189,
+      "total_size_human": "819.5 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

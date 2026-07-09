@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육/2024.06.12.스마트팜인재양성프로젝트",
+    "path": "교육/2024.06.12.스마트팜인재양성프로젝트",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 2,
+    "directory_count": 0,
+    "direct_file_count": 2,
+    "direct_directory_count": 0,
+    "total_size": 261047,
+    "total_size_human": "254.9 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "2024.06.12.스마트팜인재양성프로젝트",
+    "path": "교육/2024.06.12.스마트팜인재양성프로젝트",
+    "index": "교육/2024.06.12.스마트팜인재양성프로젝트/files.json",
+    "modified": "2026-07-09T17:48:33+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "2024.05.24.구로구 정보화 교육.md",
+        "path": "교육/2024.06.12.스마트팜인재양성프로젝트/2024.05.24.구로구 정보화 교육.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 1173,
+        "size_human": "1.1 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "교육일정.webp",
+        "path": "교육/2024.06.12.스마트팜인재양성프로젝트/교육일정.webp",
+        "extension": "webp",
+        "group": "image",
+        "mime_type": "image/webp",
+        "size": 259874,
+        "size_human": "253.8 KB",
+        "modified": "2026-07-09T17:48:33+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 2,
+    "directory_count": 0,
+    "total_size": 261047,
+    "total_size_human": "254.9 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "2024.05.24.구로구 정보화 교육.md",
+      "path": "교육/2024.06.12.스마트팜인재양성프로젝트/2024.05.24.구로구 정보화 교육.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 1173,
+      "size_human": "1.1 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "교육일정.webp",
+      "path": "교육/2024.06.12.스마트팜인재양성프로젝트/교육일정.webp",
+      "extension": "webp",
+      "group": "image",
+      "mime_type": "image/webp",
+      "size": 259874,
+      "size_human": "253.8 KB",
+      "modified": "2026-07-09T17:48:33+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

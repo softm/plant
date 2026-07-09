@@ -1,0 +1,246 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/교육자료/교육과정별 자료실/유튜버/Chapter08",
+    "path": "교육자료/교육과정별 자료실/유튜버/Chapter08",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 7,
+    "directory_count": 0,
+    "direct_file_count": 7,
+    "direct_directory_count": 0,
+    "total_size": 50113452,
+    "total_size_human": "47.8 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "Chapter08",
+    "path": "교육자료/교육과정별 자료실/유튜버/Chapter08",
+    "index": "교육자료/교육과정별 자료실/유튜버/Chapter08/files.json",
+    "modified": "2026-07-09T17:48:55+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "Ch08-Photo1.jpg",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Photo1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2085944,
+        "size_human": "2.0 MB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch08-Photo2.jpg",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Photo2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2411912,
+        "size_human": "2.3 MB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch08-Photo3.jpg",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Photo3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2646717,
+        "size_human": "2.5 MB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch08-Photo4.jpg",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Photo4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2263139,
+        "size_human": "2.2 MB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch08-Video1.mp4",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Video1.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 19872293,
+        "size_human": "19.0 MB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "Ch08-Video2.mp4",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Video2.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 20817063,
+        "size_human": "19.9 MB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "photothumb.db",
+        "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/photothumb.db",
+        "extension": "db",
+        "group": "other",
+        "mime_type": null,
+        "size": 16384,
+        "size_human": "16.0 KB",
+        "modified": "2026-07-09T17:48:55+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 7,
+    "directory_count": 0,
+    "total_size": 50113452,
+    "total_size_human": "47.8 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "Ch08-Photo1.jpg",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Photo1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2085944,
+      "size_human": "2.0 MB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch08-Photo2.jpg",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Photo2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2411912,
+      "size_human": "2.3 MB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch08-Photo3.jpg",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Photo3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2646717,
+      "size_human": "2.5 MB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch08-Photo4.jpg",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Photo4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2263139,
+      "size_human": "2.2 MB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch08-Video1.mp4",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Video1.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 19872293,
+      "size_human": "19.0 MB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "Ch08-Video2.mp4",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/Ch08-Video2.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 20817063,
+      "size_human": "19.9 MB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "photothumb.db",
+      "path": "교육자료/교육과정별 자료실/유튜버/Chapter08/photothumb.db",
+      "extension": "db",
+      "group": "other",
+      "mime_type": null,
+      "size": 16384,
+      "size_human": "16.0 KB",
+      "modified": "2026-07-09T17:48:55+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

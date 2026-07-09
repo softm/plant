@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/지원사업",
+    "path": "지원사업",
+    "generated_at": "2026-07-09T17:50:19+00:00",
+    "file_count": 5,
+    "directory_count": 1,
+    "direct_file_count": 0,
+    "direct_directory_count": 1,
+    "total_size": 7004414,
+    "total_size_human": "6.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "지원사업",
+    "path": "지원사업",
+    "index": "지원사업/files.json",
+    "modified": "2026-07-09T17:50:16+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "산불예방.숲가꾸기.20250218",
+        "path": "지원사업/산불예방.숲가꾸기.20250218",
+        "index": "지원사업/산불예방.숲가꾸기.20250218/files.json",
+        "modified": "2026-07-09T17:50:17+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 7004414,
+        "total_size_human": "6.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 5,
+    "directory_count": 1,
+    "total_size": 7004414,
+    "total_size_human": "6.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "산불예방.숲가꾸기.20250218",
+      "path": "지원사업/산불예방.숲가꾸기.20250218",
+      "index": "지원사업/산불예방.숲가꾸기.20250218/files.json",
+      "modified": "2026-07-09T17:50:17+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 7004414,
+      "total_size_human": "6.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}
