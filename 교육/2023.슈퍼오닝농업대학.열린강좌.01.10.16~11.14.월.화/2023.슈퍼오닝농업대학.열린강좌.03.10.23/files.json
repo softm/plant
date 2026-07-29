@@ -4,7 +4,7 @@
   "summary": {
     "root": "/home/runner/work/plant/plant/교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.03.10.23",
     "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.03.10.23",
-    "generated_at": "2026-07-29T08:31:11+00:00",
+    "generated_at": "2026-07-29T08:42:13+00:00",
     "file_count": 3,
     "directory_count": 0,
     "direct_file_count": 3,
@@ -17,7 +17,7 @@
     "name": "2023.슈퍼오닝농업대학.열린강좌.03.10.23",
     "path": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.03.10.23",
     "index": "교육/2023.슈퍼오닝농업대학.열린강좌.01.10.16~11.14.월.화/2023.슈퍼오닝농업대학.열린강좌.03.10.23/files.json",
-    "modified": "2026-07-29T08:26:37+00:00",
+    "modified": "2026-07-29T08:38:56+00:00",
     "children": [
       {
         "type": "file",
@@ -28,7 +28,7 @@
         "mime_type": "text/markdown",
         "size": 15276,
         "size_human": "14.9 KB",
-        "modified": "2026-07-29T08:26:36+00:00",
+        "modified": "2026-07-29T08:38:55+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -43,7 +43,7 @@
         "mime_type": "audio/mp4",
         "size": 52338021,
         "size_human": "49.9 MB",
-        "modified": "2026-07-29T08:26:37+00:00",
+        "modified": "2026-07-29T08:38:56+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -58,7 +58,7 @@
         "mime_type": "audio/mp4",
         "size": 42070895,
         "size_human": "40.1 MB",
-        "modified": "2026-07-29T08:26:37+00:00",
+        "modified": "2026-07-29T08:38:56+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -84,7 +84,7 @@
       "mime_type": "text/markdown",
       "size": 15276,
       "size_human": "14.9 KB",
-      "modified": "2026-07-29T08:26:36+00:00",
+      "modified": "2026-07-29T08:38:55+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -99,7 +99,7 @@
       "mime_type": "audio/mp4",
       "size": 52338021,
       "size_human": "49.9 MB",
-      "modified": "2026-07-29T08:26:37+00:00",
+      "modified": "2026-07-29T08:38:56+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -114,7 +114,7 @@
       "mime_type": "audio/mp4",
       "size": 42070895,
       "size_human": "40.1 MB",
-      "modified": "2026-07-29T08:26:37+00:00",
+      "modified": "2026-07-29T08:38:56+00:00",
       "security": {
         "private": false,
         "source": "public"
