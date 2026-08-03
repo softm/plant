@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/장비로그/20260711_화곡농장_냉동고_전기증설_작업기록",
+    "path": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록",
+    "generated_at": "2026-08-03T18:05:39+00:00",
+    "file_count": 12,
+    "directory_count": 1,
+    "direct_file_count": 2,
+    "direct_directory_count": 1,
+    "total_size": 3973173,
+    "total_size_human": "3.8 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260711_화곡농장_냉동고_전기증설_작업기록",
+    "path": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록",
+    "index": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록/files.json",
+    "modified": "2026-08-03T18:04:31+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "images",
+        "path": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록/images",
+        "index": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록/images/files.json",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "file_count": 10,
+        "directory_count": 0,
+        "total_size": 3961830,
+        "total_size_human": "3.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260711_화곡농장_냉동고_전기증설_이미지보기.html",
+        "path": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록/20260711_화곡농장_냉동고_전기증설_이미지보기.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 3905,
+        "size_human": "3.8 KB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260711_화곡농장_냉동고_전기증설_작업기록.md",
+        "path": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록/20260711_화곡농장_냉동고_전기증설_작업기록.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 7438,
+        "size_human": "7.3 KB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 12,
+    "directory_count": 1,
+    "total_size": 3973173,
+    "total_size_human": "3.8 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260711_화곡농장_냉동고_전기증설_이미지보기.html",
+      "path": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록/20260711_화곡농장_냉동고_전기증설_이미지보기.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 3905,
+      "size_human": "3.8 KB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260711_화곡농장_냉동고_전기증설_작업기록.md",
+      "path": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록/20260711_화곡농장_냉동고_전기증설_작업기록.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 7438,
+      "size_human": "7.3 KB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "images",
+      "path": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록/images",
+      "index": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록/images/files.json",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "file_count": 10,
+      "directory_count": 0,
+      "total_size": 3961830,
+      "total_size_human": "3.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

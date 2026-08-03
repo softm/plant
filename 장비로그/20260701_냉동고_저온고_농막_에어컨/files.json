@@ -1,0 +1,366 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/장비로그/20260701_냉동고_저온고_농막_에어컨",
+    "path": "장비로그/20260701_냉동고_저온고_농막_에어컨",
+    "generated_at": "2026-08-03T18:05:39+00:00",
+    "file_count": 11,
+    "directory_count": 0,
+    "direct_file_count": 11,
+    "direct_directory_count": 0,
+    "total_size": 13389028,
+    "total_size_human": "12.8 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260701_냉동고_저온고_농막_에어컨",
+    "path": "장비로그/20260701_냉동고_저온고_농막_에어컨",
+    "index": "장비로그/20260701_냉동고_저온고_농막_에어컨/files.json",
+    "modified": "2026-08-03T18:04:31+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "냉동고_실외기1.jpg",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/냉동고_실외기1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1715338,
+        "size_human": "1.6 MB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "냉동고_실외기2.jpg",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/냉동고_실외기2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 1171052,
+        "size_human": "1.1 MB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "냉동고_실외기3.jpg",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/냉동고_실외기3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 292557,
+        "size_human": "285.7 KB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "냉동고_실외기4.jpg",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/냉동고_실외기4.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 503763,
+        "size_human": "492.0 KB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "냉동고_전면사진.jpg",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/냉동고_전면사진.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2734501,
+        "size_human": "2.6 MB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농막_에어컨_본체_1.jpg",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/농막_에어컨_본체_1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2144376,
+        "size_human": "2.0 MB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농막_에어컨_실외기_1.jpg",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/농막_에어컨_실외기_1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 428546,
+        "size_human": "418.5 KB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농막_에어컨_실외기_2.jpg",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/농막_에어컨_실외기_2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 328806,
+        "size_human": "321.1 KB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "농막_에어컨_실외기_3.jpg",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/농막_에어컨_실외기_3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 864774,
+        "size_human": "844.5 KB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "저온고_실외기1.jpg",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/저온고_실외기1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 982328,
+        "size_human": "959.3 KB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "저온고_전면사진.jpg",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/저온고_전면사진.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 2222987,
+        "size_human": "2.1 MB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 11,
+    "directory_count": 0,
+    "total_size": 13389028,
+    "total_size_human": "12.8 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "냉동고_실외기1.jpg",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/냉동고_실외기1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1715338,
+      "size_human": "1.6 MB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "냉동고_실외기2.jpg",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/냉동고_실외기2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 1171052,
+      "size_human": "1.1 MB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "냉동고_실외기3.jpg",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/냉동고_실외기3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 292557,
+      "size_human": "285.7 KB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "냉동고_실외기4.jpg",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/냉동고_실외기4.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 503763,
+      "size_human": "492.0 KB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "냉동고_전면사진.jpg",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/냉동고_전면사진.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2734501,
+      "size_human": "2.6 MB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농막_에어컨_본체_1.jpg",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/농막_에어컨_본체_1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2144376,
+      "size_human": "2.0 MB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농막_에어컨_실외기_1.jpg",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/농막_에어컨_실외기_1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 428546,
+      "size_human": "418.5 KB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농막_에어컨_실외기_2.jpg",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/농막_에어컨_실외기_2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 328806,
+      "size_human": "321.1 KB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "농막_에어컨_실외기_3.jpg",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/농막_에어컨_실외기_3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 864774,
+      "size_human": "844.5 KB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "저온고_실외기1.jpg",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/저온고_실외기1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 982328,
+      "size_human": "959.3 KB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "저온고_전면사진.jpg",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨/저온고_전면사진.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 2222987,
+      "size_human": "2.1 MB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

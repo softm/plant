@@ -4,27 +4,27 @@
   "summary": {
     "root": "/home/runner/work/plant/plant/장비로그",
     "path": "장비로그",
-    "generated_at": "2026-07-30T01:44:06+00:00",
-    "file_count": 30,
-    "directory_count": 2,
+    "generated_at": "2026-08-03T18:05:39+00:00",
+    "file_count": 126,
+    "directory_count": 10,
     "direct_file_count": 0,
-    "direct_directory_count": 2,
-    "total_size": 70732064,
-    "total_size_human": "67.5 MB"
+    "direct_directory_count": 5,
+    "total_size": 125792955,
+    "total_size_human": "120.0 MB"
   },
   "tree": {
     "type": "directory",
     "name": "장비로그",
     "path": "장비로그",
     "index": "장비로그/files.json",
-    "modified": "2026-07-30T01:43:02+00:00",
+    "modified": "2026-08-03T18:04:31+00:00",
     "children": [
       {
         "type": "directory",
         "name": "20260518_농막_내부_사진",
         "path": "장비로그/20260518_농막_내부_사진",
         "index": "장비로그/20260518_농막_내부_사진/files.json",
-        "modified": "2026-07-30T01:43:02+00:00",
+        "modified": "2026-08-03T18:04:31+00:00",
         "file_count": 25,
         "directory_count": 0,
         "total_size": 61911100,
@@ -39,7 +39,7 @@
         "name": "20260630_비닐하우스_CCTV연결_타포_홈캠",
         "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠",
         "index": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/files.json",
-        "modified": "2026-07-30T01:43:02+00:00",
+        "modified": "2026-08-03T18:04:31+00:00",
         "file_count": 5,
         "directory_count": 0,
         "total_size": 8820964,
@@ -48,12 +48,57 @@
           "private": false,
           "source": "public"
         }
+      },
+      {
+        "type": "directory",
+        "name": "20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2",
+        "path": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2",
+        "index": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/files.json",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "file_count": 73,
+        "directory_count": 4,
+        "total_size": 37698690,
+        "total_size_human": "36.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260701_냉동고_저온고_농막_에어컨",
+        "path": "장비로그/20260701_냉동고_저온고_농막_에어컨",
+        "index": "장비로그/20260701_냉동고_저온고_농막_에어컨/files.json",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "file_count": 11,
+        "directory_count": 0,
+        "total_size": 13389028,
+        "total_size_human": "12.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260711_화곡농장_냉동고_전기증설_작업기록",
+        "path": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록",
+        "index": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록/files.json",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "file_count": 12,
+        "directory_count": 1,
+        "total_size": 3973173,
+        "total_size_human": "3.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
       }
     ],
-    "file_count": 30,
-    "directory_count": 2,
-    "total_size": 70732064,
-    "total_size_human": "67.5 MB",
+    "file_count": 126,
+    "directory_count": 10,
+    "total_size": 125792955,
+    "total_size_human": "120.0 MB",
     "security": {
       "private": false,
       "source": "public"
@@ -66,7 +111,7 @@
       "name": "20260518_농막_내부_사진",
       "path": "장비로그/20260518_농막_내부_사진",
       "index": "장비로그/20260518_농막_내부_사진/files.json",
-      "modified": "2026-07-30T01:43:02+00:00",
+      "modified": "2026-08-03T18:04:31+00:00",
       "file_count": 25,
       "directory_count": 0,
       "total_size": 61911100,
@@ -81,11 +126,56 @@
       "name": "20260630_비닐하우스_CCTV연결_타포_홈캠",
       "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠",
       "index": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/files.json",
-      "modified": "2026-07-30T01:43:02+00:00",
+      "modified": "2026-08-03T18:04:31+00:00",
       "file_count": 5,
       "directory_count": 0,
       "total_size": 8820964,
       "total_size_human": "8.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2",
+      "path": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2",
+      "index": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/files.json",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "file_count": 73,
+      "directory_count": 4,
+      "total_size": 37698690,
+      "total_size_human": "36.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260701_냉동고_저온고_농막_에어컨",
+      "path": "장비로그/20260701_냉동고_저온고_농막_에어컨",
+      "index": "장비로그/20260701_냉동고_저온고_농막_에어컨/files.json",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "file_count": 11,
+      "directory_count": 0,
+      "total_size": 13389028,
+      "total_size_human": "12.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260711_화곡농장_냉동고_전기증설_작업기록",
+      "path": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록",
+      "index": "장비로그/20260711_화곡농장_냉동고_전기증설_작업기록/files.json",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "file_count": 12,
+      "directory_count": 1,
+      "total_size": 3973173,
+      "total_size_human": "3.8 MB",
       "security": {
         "private": false,
         "source": "public"

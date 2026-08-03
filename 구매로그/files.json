@@ -4,27 +4,42 @@
   "summary": {
     "root": "/home/runner/work/plant/plant/구매로그",
     "path": "구매로그",
-    "generated_at": "2026-07-30T01:44:06+00:00",
-    "file_count": 55,
-    "directory_count": 11,
-    "direct_file_count": 4,
-    "direct_directory_count": 8,
-    "total_size": 120857755,
-    "total_size_human": "115.3 MB"
+    "generated_at": "2026-08-03T18:05:39+00:00",
+    "file_count": 71,
+    "directory_count": 14,
+    "direct_file_count": 6,
+    "direct_directory_count": 10,
+    "total_size": 130191291,
+    "total_size_human": "124.2 MB"
   },
   "tree": {
     "type": "directory",
     "name": "구매로그",
     "path": "구매로그",
     "index": "구매로그/files.json",
-    "modified": "2026-07-30T01:42:50+00:00",
+    "modified": "2026-08-03T18:04:17+00:00",
     "children": [
+      {
+        "type": "directory",
+        "name": "20230903_서산.전기온수기.보일러",
+        "path": "구매로그/20230903_서산.전기온수기.보일러",
+        "index": "구매로그/20230903_서산.전기온수기.보일러/files.json",
+        "modified": "2026-08-03T18:04:16+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 6330306,
+        "total_size_human": "6.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
       {
         "type": "directory",
         "name": "20260428_루팅파우더_발근제",
         "path": "구매로그/20260428_루팅파우더_발근제",
         "index": "구매로그/20260428_루팅파우더_발근제/files.json",
-        "modified": "2026-07-30T01:42:48+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "file_count": 7,
         "directory_count": 0,
         "total_size": 15498633,
@@ -39,7 +54,7 @@
         "name": "20260501_호스릴_호스감개_모자_알리",
         "path": "구매로그/20260501_호스릴_호스감개_모자_알리",
         "index": "구매로그/20260501_호스릴_호스감개_모자_알리/files.json",
-        "modified": "2026-07-30T01:42:50+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "file_count": 11,
         "directory_count": 0,
         "total_size": 23032378,
@@ -54,7 +69,7 @@
         "name": "20260503_4방향_플라스틱_볼밸브_전지가위_테무",
         "path": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무",
         "index": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무/files.json",
-        "modified": "2026-07-30T01:42:50+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "file_count": 8,
         "directory_count": 0,
         "total_size": 20245576,
@@ -69,7 +84,7 @@
         "name": "20260512_잡초제거기_삽자루_테무_주문이력",
         "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력",
         "index": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력/files.json",
-        "modified": "2026-07-30T01:42:50+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "file_count": 3,
         "directory_count": 0,
         "total_size": 3111678,
@@ -84,7 +99,7 @@
         "name": "20260519_삽자루_테무",
         "path": "구매로그/20260519_삽자루_테무",
         "index": "구매로그/20260519_삽자루_테무/files.json",
-        "modified": "2026-07-30T01:42:50+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "file_count": 9,
         "directory_count": 3,
         "total_size": 18447666,
@@ -99,7 +114,7 @@
         "name": "20260519_새로운 3-In-1 다기능 양동력 제초기_테무",
         "path": "구매로그/20260519_새로운 3-In-1 다기능 양동력 제초기_테무",
         "index": "구매로그/20260519_새로운 3-In-1 다기능 양동력 제초기_테무/files.json",
-        "modified": "2026-07-30T01:42:50+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "file_count": 8,
         "directory_count": 0,
         "total_size": 19768431,
@@ -114,7 +129,7 @@
         "name": "20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무",
         "path": "구매로그/20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무",
         "index": "구매로그/20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무/files.json",
-        "modified": "2026-07-30T01:42:50+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "file_count": 2,
         "directory_count": 0,
         "total_size": 3814356,
@@ -129,11 +144,56 @@
         "name": "20260522_IDOLPA 모션식 자동 회전 스프링클러_테무",
         "path": "구매로그/20260522_IDOLPA 모션식 자동 회전 스프링클러_테무",
         "index": "구매로그/20260522_IDOLPA 모션식 자동 회전 스프링클러_테무/files.json",
-        "modified": "2026-07-30T01:42:50+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "file_count": 3,
         "directory_count": 0,
         "total_size": 6914340,
         "total_size_human": "6.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록",
+        "path": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록",
+        "index": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록/files.json",
+        "modified": "2026-08-03T18:04:17+00:00",
+        "file_count": 7,
+        "directory_count": 1,
+        "total_size": 2747353,
+        "total_size_human": "2.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240819_예초기구매.md",
+        "path": "구매로그/20240819_예초기구매.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 2628,
+        "size_human": "2.6 KB",
+        "modified": "2026-08-03T18:04:16+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20240819_예초기구매.png",
+        "path": "구매로그/20240819_예초기구매.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 253249,
+        "size_human": "247.3 KB",
+        "modified": "2026-08-03T18:04:16+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -148,7 +208,7 @@
         "mime_type": "image/jpeg",
         "size": 3075484,
         "size_human": "2.9 MB",
-        "modified": "2026-07-30T01:42:50+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -163,7 +223,7 @@
         "mime_type": "image/jpeg",
         "size": 1996189,
         "size_human": "1.9 MB",
-        "modified": "2026-07-30T01:42:50+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -178,7 +238,7 @@
         "mime_type": "image/jpeg",
         "size": 2403375,
         "size_human": "2.3 MB",
-        "modified": "2026-07-30T01:42:50+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -193,23 +253,53 @@
         "mime_type": "image/jpeg",
         "size": 2549649,
         "size_human": "2.4 MB",
-        "modified": "2026-07-30T01:42:50+00:00",
+        "modified": "2026-08-03T18:04:17+00:00",
         "security": {
           "private": false,
           "source": "public"
         }
       }
     ],
-    "file_count": 55,
-    "directory_count": 11,
-    "total_size": 120857755,
-    "total_size_human": "115.3 MB",
+    "file_count": 71,
+    "directory_count": 14,
+    "total_size": 130191291,
+    "total_size_human": "124.2 MB",
     "security": {
       "private": false,
       "source": "public"
     }
   },
   "files": [
+    {
+      "type": "file",
+      "name": "20240819_예초기구매.md",
+      "path": "구매로그/20240819_예초기구매.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 2628,
+      "size_human": "2.6 KB",
+      "modified": "2026-08-03T18:04:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20240819_예초기구매.png",
+      "path": "구매로그/20240819_예초기구매.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 253249,
+      "size_human": "247.3 KB",
+      "modified": "2026-08-03T18:04:16+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
     {
       "type": "file",
       "name": "20260519_온실 후프_25개입_또는 더 넓은 식물 터널용_테무.jpg",
@@ -219,7 +309,7 @@
       "mime_type": "image/jpeg",
       "size": 3075484,
       "size_human": "2.9 MB",
-      "modified": "2026-07-30T01:42:50+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -234,7 +324,7 @@
       "mime_type": "image/jpeg",
       "size": 1996189,
       "size_human": "1.9 MB",
-      "modified": "2026-07-30T01:42:50+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -249,7 +339,7 @@
       "mime_type": "image/jpeg",
       "size": 2403375,
       "size_human": "2.3 MB",
-      "modified": "2026-07-30T01:42:50+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -264,7 +354,7 @@
       "mime_type": "image/jpeg",
       "size": 2549649,
       "size_human": "2.4 MB",
-      "modified": "2026-07-30T01:42:50+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -274,10 +364,25 @@
   "child_indexes": [
     {
       "type": "directory",
+      "name": "20230903_서산.전기온수기.보일러",
+      "path": "구매로그/20230903_서산.전기온수기.보일러",
+      "index": "구매로그/20230903_서산.전기온수기.보일러/files.json",
+      "modified": "2026-08-03T18:04:16+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 6330306,
+      "total_size_human": "6.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
       "name": "20260428_루팅파우더_발근제",
       "path": "구매로그/20260428_루팅파우더_발근제",
       "index": "구매로그/20260428_루팅파우더_발근제/files.json",
-      "modified": "2026-07-30T01:42:48+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "file_count": 7,
       "directory_count": 0,
       "total_size": 15498633,
@@ -292,7 +397,7 @@
       "name": "20260501_호스릴_호스감개_모자_알리",
       "path": "구매로그/20260501_호스릴_호스감개_모자_알리",
       "index": "구매로그/20260501_호스릴_호스감개_모자_알리/files.json",
-      "modified": "2026-07-30T01:42:50+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "file_count": 11,
       "directory_count": 0,
       "total_size": 23032378,
@@ -307,7 +412,7 @@
       "name": "20260503_4방향_플라스틱_볼밸브_전지가위_테무",
       "path": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무",
       "index": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무/files.json",
-      "modified": "2026-07-30T01:42:50+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "file_count": 8,
       "directory_count": 0,
       "total_size": 20245576,
@@ -322,7 +427,7 @@
       "name": "20260512_잡초제거기_삽자루_테무_주문이력",
       "path": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력",
       "index": "구매로그/20260512_잡초제거기_삽자루_테무_주문이력/files.json",
-      "modified": "2026-07-30T01:42:50+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "file_count": 3,
       "directory_count": 0,
       "total_size": 3111678,
@@ -337,7 +442,7 @@
       "name": "20260519_삽자루_테무",
       "path": "구매로그/20260519_삽자루_테무",
       "index": "구매로그/20260519_삽자루_테무/files.json",
-      "modified": "2026-07-30T01:42:50+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "file_count": 9,
       "directory_count": 3,
       "total_size": 18447666,
@@ -352,7 +457,7 @@
       "name": "20260519_새로운 3-In-1 다기능 양동력 제초기_테무",
       "path": "구매로그/20260519_새로운 3-In-1 다기능 양동력 제초기_테무",
       "index": "구매로그/20260519_새로운 3-In-1 다기능 양동력 제초기_테무/files.json",
-      "modified": "2026-07-30T01:42:50+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "file_count": 8,
       "directory_count": 0,
       "total_size": 19768431,
@@ -367,7 +472,7 @@
       "name": "20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무",
       "path": "구매로그/20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무",
       "index": "구매로그/20260522_10개입 정원 호스 접이식 엔드 플러그 16mm_테무/files.json",
-      "modified": "2026-07-30T01:42:50+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "file_count": 2,
       "directory_count": 0,
       "total_size": 3814356,
@@ -382,11 +487,26 @@
       "name": "20260522_IDOLPA 모션식 자동 회전 스프링클러_테무",
       "path": "구매로그/20260522_IDOLPA 모션식 자동 회전 스프링클러_테무",
       "index": "구매로그/20260522_IDOLPA 모션식 자동 회전 스프링클러_테무/files.json",
-      "modified": "2026-07-30T01:42:50+00:00",
+      "modified": "2026-08-03T18:04:17+00:00",
       "file_count": 3,
       "directory_count": 0,
       "total_size": 6914340,
       "total_size_human": "6.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록",
+      "path": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록",
+      "index": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록/files.json",
+      "modified": "2026-08-03T18:04:17+00:00",
+      "file_count": 7,
+      "directory_count": 1,
+      "total_size": 2747353,
+      "total_size_human": "2.6 MB",
       "security": {
         "private": false,
         "source": "public"

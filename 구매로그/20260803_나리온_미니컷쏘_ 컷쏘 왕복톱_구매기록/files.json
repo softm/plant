@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록",
+    "path": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록",
+    "generated_at": "2026-08-03T18:05:39+00:00",
+    "file_count": 7,
+    "directory_count": 1,
+    "direct_file_count": 2,
+    "direct_directory_count": 1,
+    "total_size": 2747353,
+    "total_size_human": "2.6 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록",
+    "path": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록",
+    "index": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록/files.json",
+    "modified": "2026-08-03T18:04:17+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "images",
+        "path": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록/images",
+        "index": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록/images/files.json",
+        "modified": "2026-08-03T18:04:17+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 2728817,
+        "total_size_human": "2.6 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260803_나리온_미니컷쏘_구매기록.html",
+        "path": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록/20260803_나리온_미니컷쏘_구매기록.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 12298,
+        "size_human": "12.0 KB",
+        "modified": "2026-08-03T18:04:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260803_나리온_미니컷쏘_구매기록.md",
+        "path": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록/20260803_나리온_미니컷쏘_구매기록.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 6238,
+        "size_human": "6.1 KB",
+        "modified": "2026-08-03T18:04:17+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 7,
+    "directory_count": 1,
+    "total_size": 2747353,
+    "total_size_human": "2.6 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260803_나리온_미니컷쏘_구매기록.html",
+      "path": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록/20260803_나리온_미니컷쏘_구매기록.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 12298,
+      "size_human": "12.0 KB",
+      "modified": "2026-08-03T18:04:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260803_나리온_미니컷쏘_구매기록.md",
+      "path": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록/20260803_나리온_미니컷쏘_구매기록.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 6238,
+      "size_human": "6.1 KB",
+      "modified": "2026-08-03T18:04:17+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "images",
+      "path": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록/images",
+      "index": "구매로그/20260803_나리온_미니컷쏘_ 컷쏘 왕복톱_구매기록/images/files.json",
+      "modified": "2026-08-03T18:04:17+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 2728817,
+      "total_size_human": "2.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

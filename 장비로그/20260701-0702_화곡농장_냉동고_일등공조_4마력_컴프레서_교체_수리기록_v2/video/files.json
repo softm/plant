@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/video",
+    "path": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/video",
+    "generated_at": "2026-08-03T18:05:39+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 16932523,
+    "total_size_human": "16.1 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "video",
+    "path": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/video",
+    "index": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/video/files.json",
+    "modified": "2026-08-03T18:04:31+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260702_102155(1).mp4",
+        "path": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/video/20260702_102155(1).mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 9266717,
+        "size_human": "8.8 MB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260702_102155_h264.mp4",
+        "path": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/video/20260702_102155_h264.mp4",
+        "extension": "mp4",
+        "group": "video",
+        "mime_type": "video/mp4",
+        "size": 7581798,
+        "size_human": "7.2 MB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260702_102155_poster.jpg",
+        "path": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/video/20260702_102155_poster.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 84008,
+        "size_human": "82.0 KB",
+        "modified": "2026-08-03T18:04:31+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 16932523,
+    "total_size_human": "16.1 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260702_102155(1).mp4",
+      "path": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/video/20260702_102155(1).mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 9266717,
+      "size_human": "8.8 MB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260702_102155_h264.mp4",
+      "path": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/video/20260702_102155_h264.mp4",
+      "extension": "mp4",
+      "group": "video",
+      "mime_type": "video/mp4",
+      "size": 7581798,
+      "size_human": "7.2 MB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260702_102155_poster.jpg",
+      "path": "장비로그/20260701-0702_화곡농장_냉동고_일등공조_4마력_컴프레서_교체_수리기록_v2/video/20260702_102155_poster.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 84008,
+      "size_human": "82.0 KB",
+      "modified": "2026-08-03T18:04:31+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

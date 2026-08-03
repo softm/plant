@@ -4,27 +4,27 @@
   "summary": {
     "root": "/home/runner/work/plant/plant/농약로그",
     "path": "농약로그",
-    "generated_at": "2026-07-30T01:44:06+00:00",
-    "file_count": 12,
-    "directory_count": 1,
+    "generated_at": "2026-08-03T18:05:39+00:00",
+    "file_count": 39,
+    "directory_count": 6,
     "direct_file_count": 0,
-    "direct_directory_count": 1,
-    "total_size": 6871794,
-    "total_size_human": "6.6 MB"
+    "direct_directory_count": 5,
+    "total_size": 23189212,
+    "total_size_human": "22.1 MB"
   },
   "tree": {
     "type": "directory",
     "name": "농약로그",
     "path": "농약로그",
     "index": "농약로그/files.json",
-    "modified": "2026-07-30T01:42:52+00:00",
+    "modified": "2026-08-03T18:04:20+00:00",
     "children": [
       {
         "type": "directory",
         "name": "20260527_모스킬_방제기록_최종",
         "path": "농약로그/20260527_모스킬_방제기록_최종",
         "index": "농약로그/20260527_모스킬_방제기록_최종/files.json",
-        "modified": "2026-07-30T01:42:52+00:00",
+        "modified": "2026-08-03T18:04:20+00:00",
         "file_count": 12,
         "directory_count": 0,
         "total_size": 6871794,
@@ -33,12 +33,72 @@
           "private": false,
           "source": "public"
         }
+      },
+      {
+        "type": "directory",
+        "name": "20260605_서산_화곡농장_엄마무밭_예초기작업_타랑제초제살포",
+        "path": "농약로그/20260605_서산_화곡농장_엄마무밭_예초기작업_타랑제초제살포",
+        "index": "농약로그/20260605_서산_화곡농장_엄마무밭_예초기작업_타랑제초제살포/files.json",
+        "modified": "2026-08-03T18:04:20+00:00",
+        "file_count": 1,
+        "directory_count": 0,
+        "total_size": 1672,
+        "total_size_human": "1.6 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260701_서산화곡농장_감자밭가생이_카랑제초제살포",
+        "path": "농약로그/20260701_서산화곡농장_감자밭가생이_카랑제초제살포",
+        "index": "농약로그/20260701_서산화곡농장_감자밭가생이_카랑제초제살포/files.json",
+        "modified": "2026-08-03T18:04:20+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 1516271,
+        "total_size_human": "1.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20270605_농약_보유목록",
+        "path": "농약로그/20270605_농약_보유목록",
+        "index": "농약로그/20270605_농약_보유목록/files.json",
+        "modified": "2026-08-03T18:04:20+00:00",
+        "file_count": 9,
+        "directory_count": 1,
+        "total_size": 1765825,
+        "total_size_human": "1.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20270708_제초제 - 풀앤짱 vs 푸리타",
+        "path": "농약로그/20270708_제초제 - 풀앤짱 vs 푸리타",
+        "index": "농약로그/20270708_제초제 - 풀앤짱 vs 푸리타/files.json",
+        "modified": "2026-08-03T18:04:20+00:00",
+        "file_count": 10,
+        "directory_count": 0,
+        "total_size": 13033650,
+        "total_size_human": "12.4 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
       }
     ],
-    "file_count": 12,
-    "directory_count": 1,
-    "total_size": 6871794,
-    "total_size_human": "6.6 MB",
+    "file_count": 39,
+    "directory_count": 6,
+    "total_size": 23189212,
+    "total_size_human": "22.1 MB",
     "security": {
       "private": false,
       "source": "public"
@@ -51,11 +111,71 @@
       "name": "20260527_모스킬_방제기록_최종",
       "path": "농약로그/20260527_모스킬_방제기록_최종",
       "index": "농약로그/20260527_모스킬_방제기록_최종/files.json",
-      "modified": "2026-07-30T01:42:52+00:00",
+      "modified": "2026-08-03T18:04:20+00:00",
       "file_count": 12,
       "directory_count": 0,
       "total_size": 6871794,
       "total_size_human": "6.6 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260605_서산_화곡농장_엄마무밭_예초기작업_타랑제초제살포",
+      "path": "농약로그/20260605_서산_화곡농장_엄마무밭_예초기작업_타랑제초제살포",
+      "index": "농약로그/20260605_서산_화곡농장_엄마무밭_예초기작업_타랑제초제살포/files.json",
+      "modified": "2026-08-03T18:04:20+00:00",
+      "file_count": 1,
+      "directory_count": 0,
+      "total_size": 1672,
+      "total_size_human": "1.6 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260701_서산화곡농장_감자밭가생이_카랑제초제살포",
+      "path": "농약로그/20260701_서산화곡농장_감자밭가생이_카랑제초제살포",
+      "index": "농약로그/20260701_서산화곡농장_감자밭가생이_카랑제초제살포/files.json",
+      "modified": "2026-08-03T18:04:20+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 1516271,
+      "total_size_human": "1.4 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20270605_농약_보유목록",
+      "path": "농약로그/20270605_농약_보유목록",
+      "index": "농약로그/20270605_농약_보유목록/files.json",
+      "modified": "2026-08-03T18:04:20+00:00",
+      "file_count": 9,
+      "directory_count": 1,
+      "total_size": 1765825,
+      "total_size_human": "1.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20270708_제초제 - 풀앤짱 vs 푸리타",
+      "path": "농약로그/20270708_제초제 - 풀앤짱 vs 푸리타",
+      "index": "농약로그/20270708_제초제 - 풀앤짱 vs 푸리타/files.json",
+      "modified": "2026-08-03T18:04:20+00:00",
+      "file_count": 10,
+      "directory_count": 0,
+      "total_size": 13033650,
+      "total_size_human": "12.4 MB",
       "security": {
         "private": false,
         "source": "public"
