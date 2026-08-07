@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/장비로그/20260806_나리온_미니컷쏘_구매기록",
+    "path": "장비로그/20260806_나리온_미니컷쏘_구매기록",
+    "generated_at": "2026-08-07T10:01:49+00:00",
+    "file_count": 18,
+    "directory_count": 1,
+    "direct_file_count": 2,
+    "direct_directory_count": 1,
+    "total_size": 5082736,
+    "total_size_human": "4.8 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260806_나리온_미니컷쏘_구매기록",
+    "path": "장비로그/20260806_나리온_미니컷쏘_구매기록",
+    "index": "장비로그/20260806_나리온_미니컷쏘_구매기록/files.json",
+    "modified": "2026-08-07T10:00:42+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "images",
+        "path": "장비로그/20260806_나리온_미니컷쏘_구매기록/images",
+        "index": "장비로그/20260806_나리온_미니컷쏘_구매기록/images/files.json",
+        "modified": "2026-08-07T10:00:42+00:00",
+        "file_count": 16,
+        "directory_count": 0,
+        "total_size": 5053306,
+        "total_size_human": "4.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260803_나리온_미니컷쏘_구매기록.html",
+        "path": "장비로그/20260806_나리온_미니컷쏘_구매기록/20260803_나리온_미니컷쏘_구매기록.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 18329,
+        "size_human": "17.9 KB",
+        "modified": "2026-08-07T10:00:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260803_나리온_미니컷쏘_구매기록.md",
+        "path": "장비로그/20260806_나리온_미니컷쏘_구매기록/20260803_나리온_미니컷쏘_구매기록.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 11101,
+        "size_human": "10.8 KB",
+        "modified": "2026-08-07T10:00:42+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 18,
+    "directory_count": 1,
+    "total_size": 5082736,
+    "total_size_human": "4.8 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260803_나리온_미니컷쏘_구매기록.html",
+      "path": "장비로그/20260806_나리온_미니컷쏘_구매기록/20260803_나리온_미니컷쏘_구매기록.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 18329,
+      "size_human": "17.9 KB",
+      "modified": "2026-08-07T10:00:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260803_나리온_미니컷쏘_구매기록.md",
+      "path": "장비로그/20260806_나리온_미니컷쏘_구매기록/20260803_나리온_미니컷쏘_구매기록.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 11101,
+      "size_human": "10.8 KB",
+      "modified": "2026-08-07T10:00:42+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "images",
+      "path": "장비로그/20260806_나리온_미니컷쏘_구매기록/images",
+      "index": "장비로그/20260806_나리온_미니컷쏘_구매기록/images/files.json",
+      "modified": "2026-08-07T10:00:42+00:00",
+      "file_count": 16,
+      "directory_count": 0,
+      "total_size": 5053306,
+      "total_size_human": "4.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}
