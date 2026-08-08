@@ -1,0 +1,336 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs",
+    "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs",
+    "generated_at": "2026-08-08T03:26:57+00:00",
+    "file_count": 10,
+    "directory_count": 0,
+    "direct_file_count": 10,
+    "direct_directory_count": 0,
+    "total_size": 754827,
+    "total_size_human": "737.1 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "thumbs",
+    "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs",
+    "index": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/files.json",
+    "modified": "2026-08-08T03:24:50+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "01_원본_전면사선_초기_thumb.jpg",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/01_원본_전면사선_초기_thumb.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 77419,
+        "size_human": "75.6 KB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "02_원본_전면사선_20260711_thumb.jpg",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/02_원본_전면사선_20260711_thumb.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 77419,
+        "size_human": "75.6 KB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "03_원본_긴면_thumb.jpg",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/03_원본_긴면_thumb.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 68387,
+        "size_human": "66.8 KB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "04_원본_짧은면_thumb.jpg",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/04_원본_짧은면_thumb.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 67393,
+        "size_human": "65.8 KB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "05_원본_반대긴면_thumb.jpg",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/05_원본_반대긴면_thumb.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 63210,
+        "size_human": "61.7 KB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "06_예상설치도_긴면_1_thumb.jpg",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/06_예상설치도_긴면_1_thumb.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 82745,
+        "size_human": "80.8 KB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "07_예상설치도_긴면_2_thumb.jpg",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/07_예상설치도_긴면_2_thumb.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 76369,
+        "size_human": "74.6 KB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "08_예상설치도_짧은면_thumb.jpg",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/08_예상설치도_짧은면_thumb.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 68885,
+        "size_human": "67.3 KB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "09_예상설치도_추가_thumb.jpg",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/09_예상설치도_추가_thumb.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 65796,
+        "size_human": "64.3 KB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "10_바닥기준_종합치수도_thumb.jpg",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/10_바닥기준_종합치수도_thumb.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 107204,
+        "size_human": "104.7 KB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 10,
+    "directory_count": 0,
+    "total_size": 754827,
+    "total_size_human": "737.1 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "01_원본_전면사선_초기_thumb.jpg",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/01_원본_전면사선_초기_thumb.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 77419,
+      "size_human": "75.6 KB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "02_원본_전면사선_20260711_thumb.jpg",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/02_원본_전면사선_20260711_thumb.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 77419,
+      "size_human": "75.6 KB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "03_원본_긴면_thumb.jpg",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/03_원본_긴면_thumb.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 68387,
+      "size_human": "66.8 KB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "04_원본_짧은면_thumb.jpg",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/04_원본_짧은면_thumb.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 67393,
+      "size_human": "65.8 KB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "05_원본_반대긴면_thumb.jpg",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/05_원본_반대긴면_thumb.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 63210,
+      "size_human": "61.7 KB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "06_예상설치도_긴면_1_thumb.jpg",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/06_예상설치도_긴면_1_thumb.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 82745,
+      "size_human": "80.8 KB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "07_예상설치도_긴면_2_thumb.jpg",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/07_예상설치도_긴면_2_thumb.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 76369,
+      "size_human": "74.6 KB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "08_예상설치도_짧은면_thumb.jpg",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/08_예상설치도_짧은면_thumb.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 68885,
+      "size_human": "67.3 KB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "09_예상설치도_추가_thumb.jpg",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/09_예상설치도_추가_thumb.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 65796,
+      "size_human": "64.3 KB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "10_바닥기준_종합치수도_thumb.jpg",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/thumbs/10_바닥기준_종합치수도_thumb.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 107204,
+      "size_human": "104.7 KB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

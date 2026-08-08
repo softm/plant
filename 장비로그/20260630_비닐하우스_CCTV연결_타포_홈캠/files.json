@@ -4,21 +4,36 @@
   "summary": {
     "root": "/home/runner/work/plant/plant/장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠",
     "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠",
-    "generated_at": "2026-08-07T10:01:49+00:00",
-    "file_count": 5,
-    "directory_count": 0,
+    "generated_at": "2026-08-08T03:26:57+00:00",
+    "file_count": 6,
+    "directory_count": 1,
     "direct_file_count": 5,
-    "direct_directory_count": 0,
-    "total_size": 8820964,
-    "total_size_human": "8.4 MB"
+    "direct_directory_count": 1,
+    "total_size": 8873090,
+    "total_size_human": "8.5 MB"
   },
   "tree": {
     "type": "directory",
     "name": "20260630_비닐하우스_CCTV연결_타포_홈캠",
     "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠",
     "index": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/files.json",
-    "modified": "2026-08-07T10:00:42+00:00",
+    "modified": "2026-08-08T03:25:51+00:00",
     "children": [
+      {
+        "type": "directory",
+        "name": "20260628_다경당숙_대화",
+        "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/20260628_다경당숙_대화",
+        "index": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/20260628_다경당숙_대화/files.json",
+        "modified": "2026-08-08T03:25:51+00:00",
+        "file_count": 1,
+        "directory_count": 0,
+        "total_size": 52126,
+        "total_size_human": "50.9 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
       {
         "type": "file",
         "name": "타포_C320WS.png",
@@ -28,7 +43,7 @@
         "mime_type": "image/png",
         "size": 5963001,
         "size_human": "5.7 MB",
-        "modified": "2026-08-07T10:00:41+00:00",
+        "modified": "2026-08-08T03:25:51+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -43,7 +58,7 @@
         "mime_type": "image/jpeg",
         "size": 2498744,
         "size_human": "2.4 MB",
-        "modified": "2026-08-07T10:00:42+00:00",
+        "modified": "2026-08-08T03:25:51+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -58,7 +73,7 @@
         "mime_type": "image/png",
         "size": 355438,
         "size_human": "347.1 KB",
-        "modified": "2026-08-07T10:00:42+00:00",
+        "modified": "2026-08-08T03:25:51+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -73,7 +88,7 @@
         "mime_type": "text/markdown",
         "size": 3328,
         "size_human": "3.2 KB",
-        "modified": "2026-08-07T10:00:42+00:00",
+        "modified": "2026-08-08T03:25:51+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -88,17 +103,17 @@
         "mime_type": "text/markdown",
         "size": 453,
         "size_human": "453 B",
-        "modified": "2026-08-07T10:00:42+00:00",
+        "modified": "2026-08-08T03:25:51+00:00",
         "security": {
           "private": false,
           "source": "public"
         }
       }
     ],
-    "file_count": 5,
-    "directory_count": 0,
-    "total_size": 8820964,
-    "total_size_human": "8.4 MB",
+    "file_count": 6,
+    "directory_count": 1,
+    "total_size": 8873090,
+    "total_size_human": "8.5 MB",
     "security": {
       "private": false,
       "source": "public"
@@ -114,7 +129,7 @@
       "mime_type": "image/png",
       "size": 5963001,
       "size_human": "5.7 MB",
-      "modified": "2026-08-07T10:00:41+00:00",
+      "modified": "2026-08-08T03:25:51+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -129,7 +144,7 @@
       "mime_type": "image/jpeg",
       "size": 2498744,
       "size_human": "2.4 MB",
-      "modified": "2026-08-07T10:00:42+00:00",
+      "modified": "2026-08-08T03:25:51+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -144,7 +159,7 @@
       "mime_type": "image/png",
       "size": 355438,
       "size_human": "347.1 KB",
-      "modified": "2026-08-07T10:00:42+00:00",
+      "modified": "2026-08-08T03:25:51+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -159,7 +174,7 @@
       "mime_type": "text/markdown",
       "size": 3328,
       "size_human": "3.2 KB",
-      "modified": "2026-08-07T10:00:42+00:00",
+      "modified": "2026-08-08T03:25:51+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -174,13 +189,29 @@
       "mime_type": "text/markdown",
       "size": 453,
       "size_human": "453 B",
-      "modified": "2026-08-07T10:00:42+00:00",
+      "modified": "2026-08-08T03:25:51+00:00",
       "security": {
         "private": false,
         "source": "public"
       }
     }
   ],
-  "child_indexes": [],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20260628_다경당숙_대화",
+      "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/20260628_다경당숙_대화",
+      "index": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/20260628_다경당숙_대화/files.json",
+      "modified": "2026-08-08T03:25:51+00:00",
+      "file_count": 1,
+      "directory_count": 0,
+      "total_size": 52126,
+      "total_size_human": "50.9 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
   "errors": []
 }

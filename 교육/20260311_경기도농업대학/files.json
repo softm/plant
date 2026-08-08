@@ -4,27 +4,27 @@
   "summary": {
     "root": "/home/runner/work/plant/plant/교육/20260311_경기도농업대학",
     "path": "교육/20260311_경기도농업대학",
-    "generated_at": "2026-08-07T10:01:49+00:00",
-    "file_count": 16,
-    "directory_count": 1,
+    "generated_at": "2026-08-08T03:26:57+00:00",
+    "file_count": 22,
+    "directory_count": 2,
     "direct_file_count": 0,
-    "direct_directory_count": 1,
-    "total_size": 59552394,
-    "total_size_human": "56.8 MB"
+    "direct_directory_count": 2,
+    "total_size": 137152554,
+    "total_size_human": "130.8 MB"
   },
   "tree": {
     "type": "directory",
     "name": "20260311_경기도농업대학",
     "path": "교육/20260311_경기도농업대학",
     "index": "교육/20260311_경기도농업대학/files.json",
-    "modified": "2026-08-07T10:00:15+00:00",
+    "modified": "2026-08-08T03:25:24+00:00",
     "children": [
       {
         "type": "directory",
         "name": "20260311_입학식",
         "path": "교육/20260311_경기도농업대학/20260311_입학식",
         "index": "교육/20260311_경기도농업대학/20260311_입학식/files.json",
-        "modified": "2026-08-07T10:00:15+00:00",
+        "modified": "2026-08-08T03:25:23+00:00",
         "file_count": 16,
         "directory_count": 0,
         "total_size": 59552394,
@@ -33,12 +33,27 @@
           "private": false,
           "source": "public"
         }
+      },
+      {
+        "type": "directory",
+        "name": "20260317_하우스조성_기초상식",
+        "path": "교육/20260311_경기도농업대학/20260317_하우스조성_기초상식",
+        "index": "교육/20260311_경기도농업대학/20260317_하우스조성_기초상식/files.json",
+        "modified": "2026-08-08T03:25:24+00:00",
+        "file_count": 6,
+        "directory_count": 0,
+        "total_size": 77600160,
+        "total_size_human": "74.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
       }
     ],
-    "file_count": 16,
-    "directory_count": 1,
-    "total_size": 59552394,
-    "total_size_human": "56.8 MB",
+    "file_count": 22,
+    "directory_count": 2,
+    "total_size": 137152554,
+    "total_size_human": "130.8 MB",
     "security": {
       "private": false,
       "source": "public"
@@ -51,11 +66,26 @@
       "name": "20260311_입학식",
       "path": "교육/20260311_경기도농업대학/20260311_입학식",
       "index": "교육/20260311_경기도농업대학/20260311_입학식/files.json",
-      "modified": "2026-08-07T10:00:15+00:00",
+      "modified": "2026-08-08T03:25:23+00:00",
       "file_count": 16,
       "directory_count": 0,
       "total_size": 59552394,
       "total_size_human": "56.8 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260317_하우스조성_기초상식",
+      "path": "교육/20260311_경기도농업대학/20260317_하우스조성_기초상식",
+      "index": "교육/20260311_경기도농업대학/20260317_하우스조성_기초상식/files.json",
+      "modified": "2026-08-08T03:25:24+00:00",
+      "file_count": 6,
+      "directory_count": 0,
+      "total_size": 77600160,
+      "total_size_human": "74.0 MB",
       "security": {
         "private": false,
         "source": "public"

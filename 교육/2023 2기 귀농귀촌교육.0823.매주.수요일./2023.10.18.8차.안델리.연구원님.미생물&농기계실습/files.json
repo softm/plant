@@ -4,7 +4,7 @@
   "summary": {
     "root": "/home/runner/work/plant/plant/교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습",
     "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습",
-    "generated_at": "2026-08-07T10:01:49+00:00",
+    "generated_at": "2026-08-08T03:26:57+00:00",
     "file_count": 57,
     "directory_count": 2,
     "direct_file_count": 5,
@@ -17,14 +17,14 @@
     "name": "2023.10.18.8차.안델리.연구원님.미생물&농기계실습",
     "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습",
     "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/files.json",
-    "modified": "2026-08-07T09:59:46+00:00",
+    "modified": "2026-08-08T03:24:54+00:00",
     "children": [
       {
         "type": "directory",
         "name": "농기계실습사진",
         "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/농기계실습사진",
         "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/농기계실습사진/files.json",
-        "modified": "2026-08-07T09:59:45+00:00",
+        "modified": "2026-08-08T03:24:53+00:00",
         "file_count": 42,
         "directory_count": 0,
         "total_size": 147029156,
@@ -39,7 +39,7 @@
         "name": "친환경농업관리실.미생물.견학",
         "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학",
         "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/files.json",
-        "modified": "2026-08-07T09:59:46+00:00",
+        "modified": "2026-08-08T03:24:54+00:00",
         "file_count": 10,
         "directory_count": 0,
         "total_size": 23034854,
@@ -58,7 +58,7 @@
         "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
         "size": 30834600,
         "size_human": "29.4 MB",
-        "modified": "2026-08-07T09:59:45+00:00",
+        "modified": "2026-08-08T03:24:53+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -80,7 +80,7 @@
         "mime_type": "text/markdown",
         "size": 12101,
         "size_human": "11.8 KB",
-        "modified": "2026-08-07T09:59:45+00:00",
+        "modified": "2026-08-08T03:24:53+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -95,7 +95,7 @@
         "mime_type": "audio/mp4",
         "size": 57006909,
         "size_human": "54.4 MB",
-        "modified": "2026-08-07T09:59:46+00:00",
+        "modified": "2026-08-08T03:24:54+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -110,7 +110,7 @@
         "mime_type": "audio/mp4",
         "size": 17274306,
         "size_human": "16.5 MB",
-        "modified": "2026-08-07T09:59:46+00:00",
+        "modified": "2026-08-08T03:24:54+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -125,7 +125,7 @@
         "mime_type": "audio/mp4",
         "size": 44786648,
         "size_human": "42.7 MB",
-        "modified": "2026-08-07T09:59:46+00:00",
+        "modified": "2026-08-08T03:24:54+00:00",
         "security": {
           "private": false,
           "source": "public"
@@ -151,7 +151,7 @@
       "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       "size": 30834600,
       "size_human": "29.4 MB",
-      "modified": "2026-08-07T09:59:45+00:00",
+      "modified": "2026-08-08T03:24:53+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -173,7 +173,7 @@
       "mime_type": "text/markdown",
       "size": 12101,
       "size_human": "11.8 KB",
-      "modified": "2026-08-07T09:59:45+00:00",
+      "modified": "2026-08-08T03:24:53+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -188,7 +188,7 @@
       "mime_type": "audio/mp4",
       "size": 57006909,
       "size_human": "54.4 MB",
-      "modified": "2026-08-07T09:59:46+00:00",
+      "modified": "2026-08-08T03:24:54+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -203,7 +203,7 @@
       "mime_type": "audio/mp4",
       "size": 17274306,
       "size_human": "16.5 MB",
-      "modified": "2026-08-07T09:59:46+00:00",
+      "modified": "2026-08-08T03:24:54+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -218,7 +218,7 @@
       "mime_type": "audio/mp4",
       "size": 44786648,
       "size_human": "42.7 MB",
-      "modified": "2026-08-07T09:59:46+00:00",
+      "modified": "2026-08-08T03:24:54+00:00",
       "security": {
         "private": false,
         "source": "public"
@@ -231,7 +231,7 @@
       "name": "농기계실습사진",
       "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/농기계실습사진",
       "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/농기계실습사진/files.json",
-      "modified": "2026-08-07T09:59:45+00:00",
+      "modified": "2026-08-08T03:24:53+00:00",
       "file_count": 42,
       "directory_count": 0,
       "total_size": 147029156,
@@ -246,7 +246,7 @@
       "name": "친환경농업관리실.미생물.견학",
       "path": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학",
       "index": "교육/2023 2기 귀농귀촌교육.0823.매주.수요일./2023.10.18.8차.안델리.연구원님.미생물&농기계실습/친환경농업관리실.미생물.견학/files.json",
-      "modified": "2026-08-07T09:59:46+00:00",
+      "modified": "2026-08-08T03:24:54+00:00",
       "file_count": 10,
       "directory_count": 0,
       "total_size": 23034854,

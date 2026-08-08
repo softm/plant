@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/20260628_다경당숙_대화",
+    "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/20260628_다경당숙_대화",
+    "generated_at": "2026-08-08T03:26:57+00:00",
+    "file_count": 1,
+    "directory_count": 0,
+    "direct_file_count": 1,
+    "direct_directory_count": 0,
+    "total_size": 52126,
+    "total_size_human": "50.9 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260628_다경당숙_대화",
+    "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/20260628_다경당숙_대화",
+    "index": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/20260628_다경당숙_대화/files.json",
+    "modified": "2026-08-08T03:25:51+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "음성 260628_114736.txt",
+        "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/20260628_다경당숙_대화/음성 260628_114736.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 52126,
+        "size_human": "50.9 KB",
+        "modified": "2026-08-08T03:25:51+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 1,
+    "directory_count": 0,
+    "total_size": 52126,
+    "total_size_human": "50.9 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "음성 260628_114736.txt",
+      "path": "장비로그/20260630_비닐하우스_CCTV연결_타포_홈캠/20260628_다경당숙_대화/음성 260628_114736.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 52126,
+      "size_human": "50.9 KB",
+      "modified": "2026-08-08T03:25:51+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리",
+    "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리",
+    "generated_at": "2026-08-08T03:26:57+00:00",
+    "file_count": 23,
+    "directory_count": 2,
+    "direct_file_count": 3,
+    "direct_directory_count": 1,
+    "total_size": 36224008,
+    "total_size_human": "34.5 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260807_화곡농장_농막_그늘막_예상설치_정리",
+    "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리",
+    "index": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/files.json",
+    "modified": "2026-08-08T03:24:50+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "images",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images",
+        "index": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/files.json",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "file_count": 20,
+        "directory_count": 1,
+        "total_size": 14158353,
+        "total_size_human": "13.5 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260807_화곡농장_농막_그늘막_예상설치_정리.html",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/20260807_화곡농장_농막_그늘막_예상설치_정리.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 22061402,
+        "size_human": "21.0 MB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260807_화곡농장_농막_그늘막_예상설치_정리.md",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/20260807_화곡농장_농막_그늘막_예상설치_정리.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 3506,
+        "size_human": "3.4 KB",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "이미지_목록.txt",
+        "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/이미지_목록.txt",
+        "extension": "txt",
+        "group": "text",
+        "mime_type": "text/plain",
+        "size": 747,
+        "size_human": "747 B",
+        "modified": "2026-08-08T03:24:50+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 23,
+    "directory_count": 2,
+    "total_size": 36224008,
+    "total_size_human": "34.5 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260807_화곡농장_농막_그늘막_예상설치_정리.html",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/20260807_화곡농장_농막_그늘막_예상설치_정리.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 22061402,
+      "size_human": "21.0 MB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260807_화곡농장_농막_그늘막_예상설치_정리.md",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/20260807_화곡농장_농막_그늘막_예상설치_정리.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 3506,
+      "size_human": "3.4 KB",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "이미지_목록.txt",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/이미지_목록.txt",
+      "extension": "txt",
+      "group": "text",
+      "mime_type": "text/plain",
+      "size": 747,
+      "size_human": "747 B",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "images",
+      "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images",
+      "index": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/images/files.json",
+      "modified": "2026-08-08T03:24:50+00:00",
+      "file_count": 20,
+      "directory_count": 1,
+      "total_size": 14158353,
+      "total_size_human": "13.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}
