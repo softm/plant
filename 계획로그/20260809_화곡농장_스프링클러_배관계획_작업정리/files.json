@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리",
+    "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리",
+    "generated_at": "2026-08-31T11:33:37+00:00",
+    "file_count": 67,
+    "directory_count": 11,
+    "direct_file_count": 2,
+    "direct_directory_count": 2,
+    "total_size": 71307218,
+    "total_size_human": "68.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260809_화곡농장_스프링클러_배관계획_작업정리",
+    "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리",
+    "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/files.json",
+    "modified": "2026-08-31T11:31:30+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "images",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images",
+        "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/files.json",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "file_count": 32,
+        "directory_count": 7,
+        "total_size": 33774348,
+        "total_size_human": "32.2 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "원본이미지",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지",
+        "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/files.json",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "file_count": 33,
+        "directory_count": 2,
+        "total_size": 37447181,
+        "total_size_human": "35.7 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_스프링클러_배관계획_작업정리.html",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/20260809_화곡농장_스프링클러_배관계획_작업정리.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 44369,
+        "size_human": "43.3 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_스프링클러_배관계획_작업정리.md",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/20260809_화곡농장_스프링클러_배관계획_작업정리.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 41320,
+        "size_human": "40.4 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 67,
+    "directory_count": 11,
+    "total_size": 71307218,
+    "total_size_human": "68.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_스프링클러_배관계획_작업정리.html",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/20260809_화곡농장_스프링클러_배관계획_작업정리.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 44369,
+      "size_human": "43.3 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_스프링클러_배관계획_작업정리.md",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/20260809_화곡농장_스프링클러_배관계획_작업정리.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 41320,
+      "size_human": "40.4 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "images",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images",
+      "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/files.json",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "file_count": 32,
+      "directory_count": 7,
+      "total_size": 33774348,
+      "total_size_human": "32.2 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "원본이미지",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지",
+      "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/files.json",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "file_count": 33,
+      "directory_count": 2,
+      "total_size": 37447181,
+      "total_size_human": "35.7 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

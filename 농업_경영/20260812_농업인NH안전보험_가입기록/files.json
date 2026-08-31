@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/20260812_농업인NH안전보험_가입기록",
+    "path": "농업_경영/20260812_농업인NH안전보험_가입기록",
+    "generated_at": "2026-08-31T11:33:37+00:00",
+    "file_count": 6,
+    "directory_count": 2,
+    "direct_file_count": 2,
+    "direct_directory_count": 1,
+    "total_size": 1055087,
+    "total_size_human": "1.0 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260812_농업인NH안전보험_가입기록",
+    "path": "농업_경영/20260812_농업인NH안전보험_가입기록",
+    "index": "농업_경영/20260812_농업인NH안전보험_가입기록/files.json",
+    "modified": "2026-08-31T11:32:23+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "assets",
+        "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets",
+        "index": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/files.json",
+        "modified": "2026-08-31T11:32:23+00:00",
+        "file_count": 4,
+        "directory_count": 1,
+        "total_size": 1041239,
+        "total_size_human": "1016.8 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260812_농업인NH안전보험_가입기록.html",
+        "path": "농업_경영/20260812_농업인NH안전보험_가입기록/20260812_농업인NH안전보험_가입기록.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 9957,
+        "size_human": "9.7 KB",
+        "modified": "2026-08-31T11:32:23+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260812_농업인NH안전보험_가입기록.md",
+        "path": "농업_경영/20260812_농업인NH안전보험_가입기록/20260812_농업인NH안전보험_가입기록.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 3891,
+        "size_human": "3.8 KB",
+        "modified": "2026-08-31T11:32:23+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 6,
+    "directory_count": 2,
+    "total_size": 1055087,
+    "total_size_human": "1.0 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260812_농업인NH안전보험_가입기록.html",
+      "path": "농업_경영/20260812_농업인NH안전보험_가입기록/20260812_농업인NH안전보험_가입기록.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 9957,
+      "size_human": "9.7 KB",
+      "modified": "2026-08-31T11:32:23+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260812_농업인NH안전보험_가입기록.md",
+      "path": "농업_경영/20260812_농업인NH안전보험_가입기록/20260812_농업인NH안전보험_가입기록.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 3891,
+      "size_human": "3.8 KB",
+      "modified": "2026-08-31T11:32:23+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "assets",
+      "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets",
+      "index": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/files.json",
+      "modified": "2026-08-31T11:32:23+00:00",
+      "file_count": 4,
+      "directory_count": 1,
+      "total_size": 1041239,
+      "total_size_human": "1016.8 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

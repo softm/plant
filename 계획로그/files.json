@@ -4,27 +4,27 @@
   "summary": {
     "root": "/home/runner/work/plant/plant/계획로그",
     "path": "계획로그",
-    "generated_at": "2026-08-08T07:37:49+00:00",
-    "file_count": 23,
-    "directory_count": 3,
+    "generated_at": "2026-08-31T11:33:37+00:00",
+    "file_count": 97,
+    "directory_count": 18,
     "direct_file_count": 0,
-    "direct_directory_count": 1,
-    "total_size": 36224008,
-    "total_size_human": "34.5 MB"
+    "direct_directory_count": 4,
+    "total_size": 112544266,
+    "total_size_human": "107.3 MB"
   },
   "tree": {
     "type": "directory",
     "name": "계획로그",
     "path": "계획로그",
     "index": "계획로그/files.json",
-    "modified": "2026-08-08T07:35:44+00:00",
+    "modified": "2026-08-31T11:31:30+00:00",
     "children": [
       {
         "type": "directory",
         "name": "20260807_화곡농장_농막_그늘막_예상설치_정리",
         "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리",
         "index": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/files.json",
-        "modified": "2026-08-08T07:35:44+00:00",
+        "modified": "2026-08-31T11:31:30+00:00",
         "file_count": 23,
         "directory_count": 2,
         "total_size": 36224008,
@@ -33,12 +33,57 @@
           "private": false,
           "source": "public"
         }
+      },
+      {
+        "type": "directory",
+        "name": "20260809_화곡농장_스프링클러_배관계획_작업정리",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리",
+        "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/files.json",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "file_count": 67,
+        "directory_count": 11,
+        "total_size": 71307218,
+        "total_size_human": "68.0 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260818_화곡농장_서산시농기계임대운반서비스",
+        "path": "계획로그/20260818_화곡농장_서산시농기계임대운반서비스",
+        "index": "계획로그/20260818_화곡농장_서산시농기계임대운반서비스/files.json",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 23403,
+        "total_size_human": "22.9 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260818_화곡농장_화이트클로버_파종계획_보고서",
+        "path": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서",
+        "index": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/files.json",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "file_count": 5,
+        "directory_count": 1,
+        "total_size": 4989637,
+        "total_size_human": "4.8 MB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
       }
     ],
-    "file_count": 23,
-    "directory_count": 3,
-    "total_size": 36224008,
-    "total_size_human": "34.5 MB",
+    "file_count": 97,
+    "directory_count": 18,
+    "total_size": 112544266,
+    "total_size_human": "107.3 MB",
     "security": {
       "private": false,
       "source": "public"
@@ -51,11 +96,56 @@
       "name": "20260807_화곡농장_농막_그늘막_예상설치_정리",
       "path": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리",
       "index": "계획로그/20260807_화곡농장_농막_그늘막_예상설치_정리/files.json",
-      "modified": "2026-08-08T07:35:44+00:00",
+      "modified": "2026-08-31T11:31:30+00:00",
       "file_count": 23,
       "directory_count": 2,
       "total_size": 36224008,
       "total_size_human": "34.5 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260809_화곡농장_스프링클러_배관계획_작업정리",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리",
+      "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/files.json",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "file_count": 67,
+      "directory_count": 11,
+      "total_size": 71307218,
+      "total_size_human": "68.0 MB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260818_화곡농장_서산시농기계임대운반서비스",
+      "path": "계획로그/20260818_화곡농장_서산시농기계임대운반서비스",
+      "index": "계획로그/20260818_화곡농장_서산시농기계임대운반서비스/files.json",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 23403,
+      "total_size_human": "22.9 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260818_화곡농장_화이트클로버_파종계획_보고서",
+      "path": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서",
+      "index": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/files.json",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "file_count": 5,
+      "directory_count": 1,
+      "total_size": 4989637,
+      "total_size_human": "4.8 MB",
       "security": {
         "private": false,
         "source": "public"

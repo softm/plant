@@ -1,0 +1,577 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지",
+    "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지",
+    "generated_at": "2026-08-31T11:33:37+00:00",
+    "file_count": 33,
+    "directory_count": 2,
+    "direct_file_count": 16,
+    "direct_directory_count": 2,
+    "total_size": 37447181,
+    "total_size_human": "35.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "원본이미지",
+    "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지",
+    "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/files.json",
+    "modified": "2026-08-31T11:31:30+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "20260809_화곡농장_배관5m_각도별_투명이미지",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_배관5m_각도별_투명이미지",
+        "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_배관5m_각도별_투명이미지/files.json",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "file_count": 10,
+        "directory_count": 0,
+        "total_size": 110201,
+        "total_size_human": "107.6 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "directory",
+        "name": "20260809_화곡농장_배관연결부_투명이미지",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_배관연결부_투명이미지",
+        "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_배관연결부_투명이미지/files.json",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "file_count": 7,
+        "directory_count": 0,
+        "total_size": 33220,
+        "total_size_human": "32.4 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809 화곡농장, 스프링쿨러, 배관 계획.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809 화곡농장, 스프링쿨러, 배관 계획.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 2210750,
+        "size_human": "2.1 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809 화곡농장, 스프링쿨러, 배관 계획도.pdf",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809 화곡농장, 스프링쿨러, 배관 계획도.pdf",
+        "extension": "pdf",
+        "group": "application",
+        "mime_type": "application/pdf",
+        "size": 3617600,
+        "size_human": "3.5 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809 화곡농장, 스프링쿨러, 배관 계획도.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809 화곡농장, 스프링쿨러, 배관 계획도.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 2365501,
+        "size_human": "2.3 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_지번.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_지번.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4320904,
+        "size_human": "4.1 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_평면.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_평면.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4312455,
+        "size_human": "4.1 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_지번.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_지번.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4376955,
+        "size_human": "4.2 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_평면.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_평면.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4368193,
+        "size_human": "4.2 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_수도위치_원본_지번.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_수도위치_원본_지번.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 2102509,
+        "size_human": "2.0 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_수도위치_원본_평면.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_수도위치_원본_평면.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 1402534,
+        "size_human": "1.3 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_스프링클러_반경5m_무문자_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_스프링클러_반경5m_무문자_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 16749,
+        "size_human": "16.4 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_스프링클러_반경5m영역_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_스프링클러_반경5m영역_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 16190,
+        "size_human": "15.8 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_스프링클러_직경10m_대형심벌_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_스프링클러_직경10m_대형심벌_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 39257,
+        "size_human": "38.3 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_스프링클러_직경5m_대형심벌_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_스프링클러_직경5m_대형심벌_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 36198,
+        "size_human": "35.3 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_스프링클러만_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_스프링클러만_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 23645,
+        "size_human": "23.1 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_점선영역_가로세로만_지번.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_점선영역_가로세로만_지번.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4137568,
+        "size_human": "3.9 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_점선영역_가로세로만_평면.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_점선영역_가로세로만_평면.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 3956752,
+        "size_human": "3.8 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 33,
+    "directory_count": 2,
+    "total_size": 37447181,
+    "total_size_human": "35.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260809 화곡농장, 스프링쿨러, 배관 계획.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809 화곡농장, 스프링쿨러, 배관 계획.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 2210750,
+      "size_human": "2.1 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809 화곡농장, 스프링쿨러, 배관 계획도.pdf",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809 화곡농장, 스프링쿨러, 배관 계획도.pdf",
+      "extension": "pdf",
+      "group": "application",
+      "mime_type": "application/pdf",
+      "size": 3617600,
+      "size_human": "3.5 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809 화곡농장, 스프링쿨러, 배관 계획도.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809 화곡농장, 스프링쿨러, 배관 계획도.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 2365501,
+      "size_human": "2.3 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_지번.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_지번.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4320904,
+      "size_human": "4.1 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_평면.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_평면.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4312455,
+      "size_human": "4.1 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_지번.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_지번.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4376955,
+      "size_human": "4.2 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_평면.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_평면.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4368193,
+      "size_human": "4.2 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_수도위치_원본_지번.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_수도위치_원본_지번.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 2102509,
+      "size_human": "2.0 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_수도위치_원본_평면.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_수도위치_원본_평면.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 1402534,
+      "size_human": "1.3 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_스프링클러_반경5m_무문자_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_스프링클러_반경5m_무문자_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 16749,
+      "size_human": "16.4 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_스프링클러_반경5m영역_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_스프링클러_반경5m영역_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 16190,
+      "size_human": "15.8 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_스프링클러_직경10m_대형심벌_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_스프링클러_직경10m_대형심벌_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 39257,
+      "size_human": "38.3 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_스프링클러_직경5m_대형심벌_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_스프링클러_직경5m_대형심벌_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 36198,
+      "size_human": "35.3 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_스프링클러만_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_스프링클러만_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 23645,
+      "size_human": "23.1 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_점선영역_가로세로만_지번.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_점선영역_가로세로만_지번.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4137568,
+      "size_human": "3.9 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_점선영역_가로세로만_평면.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_점선영역_가로세로만_평면.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 3956752,
+      "size_human": "3.8 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "20260809_화곡농장_배관5m_각도별_투명이미지",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_배관5m_각도별_투명이미지",
+      "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_배관5m_각도별_투명이미지/files.json",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "file_count": 10,
+      "directory_count": 0,
+      "total_size": 110201,
+      "total_size_human": "107.6 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "directory",
+      "name": "20260809_화곡농장_배관연결부_투명이미지",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_배관연결부_투명이미지",
+      "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/원본이미지/20260809_화곡농장_배관연결부_투명이미지/files.json",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "file_count": 7,
+      "directory_count": 0,
+      "total_size": 33220,
+      "total_size_human": "32.4 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

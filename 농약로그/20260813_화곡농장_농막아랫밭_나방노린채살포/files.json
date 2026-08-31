@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포",
+    "path": "농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포",
+    "generated_at": "2026-08-31T11:33:37+00:00",
+    "file_count": 7,
+    "directory_count": 1,
+    "direct_file_count": 2,
+    "direct_directory_count": 1,
+    "total_size": 884359,
+    "total_size_human": "863.6 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260813_화곡농장_농막아랫밭_나방노린채살포",
+    "path": "농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포",
+    "index": "농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포/files.json",
+    "modified": "2026-08-31T11:32:20+00:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "images",
+        "path": "농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포/images",
+        "index": "농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포/images/files.json",
+        "modified": "2026-08-31T11:32:20+00:00",
+        "file_count": 5,
+        "directory_count": 0,
+        "total_size": 877467,
+        "total_size_human": "856.9 KB",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260813_화곡농장_농막아랫밭_나방노린채살포.html",
+        "path": "농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포/20260813_화곡농장_농막아랫밭_나방노린채살포.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 4735,
+        "size_human": "4.6 KB",
+        "modified": "2026-08-31T11:32:20+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260813_화곡농장_농막아랫밭_나방노린채살포.md",
+        "path": "농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포/20260813_화곡농장_농막아랫밭_나방노린채살포.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 2157,
+        "size_human": "2.1 KB",
+        "modified": "2026-08-31T11:32:20+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 7,
+    "directory_count": 1,
+    "total_size": 884359,
+    "total_size_human": "863.6 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260813_화곡농장_농막아랫밭_나방노린채살포.html",
+      "path": "농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포/20260813_화곡농장_농막아랫밭_나방노린채살포.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 4735,
+      "size_human": "4.6 KB",
+      "modified": "2026-08-31T11:32:20+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260813_화곡농장_농막아랫밭_나방노린채살포.md",
+      "path": "농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포/20260813_화곡농장_농막아랫밭_나방노린채살포.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 2157,
+      "size_human": "2.1 KB",
+      "modified": "2026-08-31T11:32:20+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "images",
+      "path": "농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포/images",
+      "index": "농약로그/20260813_화곡농장_농막아랫밭_나방노린채살포/images/files.json",
+      "modified": "2026-08-31T11:32:20+00:00",
+      "file_count": 5,
+      "directory_count": 0,
+      "total_size": 877467,
+      "total_size_human": "856.9 KB",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "errors": []
+}

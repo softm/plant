@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/01_현재배치확대본",
+    "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/01_현재배치확대본",
+    "generated_at": "2026-08-31T11:33:37+00:00",
+    "file_count": 1,
+    "directory_count": 0,
+    "direct_file_count": 1,
+    "direct_directory_count": 0,
+    "total_size": 2365501,
+    "total_size_human": "2.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "01_현재배치확대본",
+    "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/01_현재배치확대본",
+    "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/01_현재배치확대본/files.json",
+    "modified": "2026-08-31T11:31:30+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260809 화곡농장, 스프링쿨러, 배관 계획도.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/01_현재배치확대본/20260809 화곡농장, 스프링쿨러, 배관 계획도.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 2365501,
+        "size_human": "2.3 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 1,
+    "directory_count": 0,
+    "total_size": 2365501,
+    "total_size_human": "2.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260809 화곡농장, 스프링쿨러, 배관 계획도.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/01_현재배치확대본/20260809 화곡농장, 스프링쿨러, 배관 계획도.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 2365501,
+      "size_human": "2.3 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

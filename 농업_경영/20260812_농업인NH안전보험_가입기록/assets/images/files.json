@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/농업_경영/20260812_농업인NH안전보험_가입기록/assets/images",
+    "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/images",
+    "generated_at": "2026-08-31T11:33:37+00:00",
+    "file_count": 4,
+    "directory_count": 0,
+    "direct_file_count": 4,
+    "direct_directory_count": 0,
+    "total_size": 1041239,
+    "total_size_human": "1016.8 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "images",
+    "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/images",
+    "index": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/images/files.json",
+    "modified": "2026-08-31T11:32:23+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "01_보험가입내역확인서.jpg",
+        "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/images/01_보험가입내역확인서.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 208283,
+        "size_human": "203.4 KB",
+        "modified": "2026-08-31T11:32:23+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "02_청약명세서_납부기록_1.jpg",
+        "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/images/02_청약명세서_납부기록_1.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 298723,
+        "size_human": "291.7 KB",
+        "modified": "2026-08-31T11:32:23+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "03_청약명세서_납부기록_2.jpg",
+        "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/images/03_청약명세서_납부기록_2.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 255582,
+        "size_human": "249.6 KB",
+        "modified": "2026-08-31T11:32:23+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "04_청약명세서_납부기록_3.jpg",
+        "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/images/04_청약명세서_납부기록_3.jpg",
+        "extension": "jpg",
+        "group": "image",
+        "mime_type": "image/jpeg",
+        "size": 278651,
+        "size_human": "272.1 KB",
+        "modified": "2026-08-31T11:32:23+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 4,
+    "directory_count": 0,
+    "total_size": 1041239,
+    "total_size_human": "1016.8 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "01_보험가입내역확인서.jpg",
+      "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/images/01_보험가입내역확인서.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 208283,
+      "size_human": "203.4 KB",
+      "modified": "2026-08-31T11:32:23+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "02_청약명세서_납부기록_1.jpg",
+      "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/images/02_청약명세서_납부기록_1.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 298723,
+      "size_human": "291.7 KB",
+      "modified": "2026-08-31T11:32:23+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "03_청약명세서_납부기록_2.jpg",
+      "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/images/03_청약명세서_납부기록_2.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 255582,
+      "size_human": "249.6 KB",
+      "modified": "2026-08-31T11:32:23+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "04_청약명세서_납부기록_3.jpg",
+      "path": "농업_경영/20260812_농업인NH안전보험_가입기록/assets/images/04_청약명세서_납부기록_3.jpg",
+      "extension": "jpg",
+      "group": "image",
+      "mime_type": "image/jpeg",
+      "size": 278651,
+      "size_human": "272.1 KB",
+      "modified": "2026-08-31T11:32:23+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

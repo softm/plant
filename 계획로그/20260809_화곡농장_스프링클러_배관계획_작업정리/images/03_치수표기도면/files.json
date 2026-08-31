@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면",
+    "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면",
+    "generated_at": "2026-08-31T11:33:37+00:00",
+    "file_count": 6,
+    "directory_count": 0,
+    "direct_file_count": 6,
+    "direct_directory_count": 0,
+    "total_size": 25472827,
+    "total_size_human": "24.3 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "03_치수표기도면",
+    "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면",
+    "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/files.json",
+    "modified": "2026-08-31T11:31:30+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_지번.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_지번.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4320904,
+        "size_human": "4.1 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_평면.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_평면.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4312455,
+        "size_human": "4.1 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_지번.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_지번.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4376955,
+        "size_human": "4.2 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_평면.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_평면.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4368193,
+        "size_human": "4.2 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_점선영역_가로세로만_지번.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_점선영역_가로세로만_지번.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 4137568,
+        "size_human": "3.9 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_점선영역_가로세로만_평면.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_점선영역_가로세로만_평면.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 3956752,
+        "size_human": "3.8 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 6,
+    "directory_count": 0,
+    "total_size": 25472827,
+    "total_size_human": "24.3 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_지번.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_지번.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4320904,
+      "size_human": "4.1 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_평면.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관_스프링클러직경5m10m기준_평면.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4312455,
+      "size_human": "4.1 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_지번.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_지번.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4376955,
+      "size_human": "4.2 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_평면.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_보완다각형_예각전체길이_5m10m20m배관기준_평면.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4368193,
+      "size_human": "4.2 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_점선영역_가로세로만_지번.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_점선영역_가로세로만_지번.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 4137568,
+      "size_human": "3.9 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_점선영역_가로세로만_평면.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/03_치수표기도면/20260809_화곡농장_점선영역_가로세로만_평면.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 3956752,
+      "size_human": "3.8 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

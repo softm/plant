@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/계획로그/20260818_화곡농장_서산시농기계임대운반서비스",
+    "path": "계획로그/20260818_화곡농장_서산시농기계임대운반서비스",
+    "generated_at": "2026-08-31T11:33:37+00:00",
+    "file_count": 2,
+    "directory_count": 0,
+    "direct_file_count": 2,
+    "direct_directory_count": 0,
+    "total_size": 23403,
+    "total_size_human": "22.9 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "20260818_화곡농장_서산시농기계임대운반서비스",
+    "path": "계획로그/20260818_화곡농장_서산시농기계임대운반서비스",
+    "index": "계획로그/20260818_화곡농장_서산시농기계임대운반서비스/files.json",
+    "modified": "2026-08-31T11:31:30+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260818_화곡농장_서산시농기계임대운반서비스_정리.html",
+        "path": "계획로그/20260818_화곡농장_서산시농기계임대운반서비스/20260818_화곡농장_서산시농기계임대운반서비스_정리.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 14380,
+        "size_human": "14.0 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260818_화곡농장_서산시농기계임대운반서비스_정리.md",
+        "path": "계획로그/20260818_화곡농장_서산시농기계임대운반서비스/20260818_화곡농장_서산시농기계임대운반서비스_정리.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": "text/markdown",
+        "size": 9023,
+        "size_human": "8.8 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 2,
+    "directory_count": 0,
+    "total_size": 23403,
+    "total_size_human": "22.9 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260818_화곡농장_서산시농기계임대운반서비스_정리.html",
+      "path": "계획로그/20260818_화곡농장_서산시농기계임대운반서비스/20260818_화곡농장_서산시농기계임대운반서비스_정리.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 14380,
+      "size_human": "14.0 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260818_화곡농장_서산시농기계임대운반서비스_정리.md",
+      "path": "계획로그/20260818_화곡농장_서산시농기계임대운반서비스/20260818_화곡농장_서산시농기계임대운반서비스_정리.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": "text/markdown",
+      "size": 9023,
+      "size_human": "8.8 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

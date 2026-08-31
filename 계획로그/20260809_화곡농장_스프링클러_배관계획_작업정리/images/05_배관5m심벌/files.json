@@ -1,0 +1,336 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌",
+    "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌",
+    "generated_at": "2026-08-31T11:33:37+00:00",
+    "file_count": 10,
+    "directory_count": 0,
+    "direct_file_count": 10,
+    "direct_directory_count": 0,
+    "total_size": 110201,
+    "total_size_human": "107.6 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "05_배관5m심벌",
+    "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌",
+    "index": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/files.json",
+    "modified": "2026-08-31T11:31:30+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_배관5m_000도_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_000도_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 5587,
+        "size_human": "5.5 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_배관5m_030도_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_030도_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 7354,
+        "size_human": "7.2 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_배관5m_045도_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_045도_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 6802,
+        "size_human": "6.6 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_배관5m_060도_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_060도_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 7901,
+        "size_human": "7.7 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_배관5m_090도_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_090도_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 6878,
+        "size_human": "6.7 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_배관5m_120도_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_120도_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 8067,
+        "size_human": "7.9 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_배관5m_135도_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_135도_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 7211,
+        "size_human": "7.0 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_배관5m_150도_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_150도_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 7373,
+        "size_human": "7.2 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_배관5m_각도별_모음_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_각도별_모음_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 51445,
+        "size_human": "50.2 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "20260809_화곡농장_배관5m_무문자_가로_투명.png",
+        "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_무문자_가로_투명.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 1583,
+        "size_human": "1.5 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 10,
+    "directory_count": 0,
+    "total_size": 110201,
+    "total_size_human": "107.6 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_배관5m_000도_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_000도_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 5587,
+      "size_human": "5.5 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_배관5m_030도_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_030도_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 7354,
+      "size_human": "7.2 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_배관5m_045도_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_045도_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 6802,
+      "size_human": "6.6 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_배관5m_060도_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_060도_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 7901,
+      "size_human": "7.7 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_배관5m_090도_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_090도_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 6878,
+      "size_human": "6.7 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_배관5m_120도_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_120도_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 8067,
+      "size_human": "7.9 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_배관5m_135도_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_135도_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 7211,
+      "size_human": "7.0 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_배관5m_150도_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_150도_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 7373,
+      "size_human": "7.2 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_배관5m_각도별_모음_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_각도별_모음_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 51445,
+      "size_human": "50.2 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "20260809_화곡농장_배관5m_무문자_가로_투명.png",
+      "path": "계획로그/20260809_화곡농장_스프링클러_배관계획_작업정리/images/05_배관5m심벌/20260809_화곡농장_배관5m_무문자_가로_투명.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 1583,
+      "size_human": "1.5 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}

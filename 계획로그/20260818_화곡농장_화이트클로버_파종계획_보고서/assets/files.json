@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/assets",
+    "path": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/assets",
+    "generated_at": "2026-08-31T11:33:37+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 4957435,
+    "total_size_human": "4.7 MB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "assets",
+    "path": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/assets",
+    "index": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/assets/files.json",
+    "modified": "2026-08-31T11:31:30+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "01_화이트클로버_살포대상_파란영역.png",
+        "path": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/assets/01_화이트클로버_살포대상_파란영역.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 2679390,
+        "size_human": "2.6 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "02_화이트클로버_상품_파종정보.png",
+        "path": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/assets/02_화이트클로버_상품_파종정보.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 346679,
+        "size_human": "338.6 KB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "03_화이트클로버_75평_살포구역도.png",
+        "path": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/assets/03_화이트클로버_75평_살포구역도.png",
+        "extension": "png",
+        "group": "image",
+        "mime_type": "image/png",
+        "size": 1931366,
+        "size_human": "1.8 MB",
+        "modified": "2026-08-31T11:31:30+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 4957435,
+    "total_size_human": "4.7 MB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "01_화이트클로버_살포대상_파란영역.png",
+      "path": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/assets/01_화이트클로버_살포대상_파란영역.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 2679390,
+      "size_human": "2.6 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "02_화이트클로버_상품_파종정보.png",
+      "path": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/assets/02_화이트클로버_상품_파종정보.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 346679,
+      "size_human": "338.6 KB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "03_화이트클로버_75평_살포구역도.png",
+      "path": "계획로그/20260818_화곡농장_화이트클로버_파종계획_보고서/assets/03_화이트클로버_75평_살포구역도.png",
+      "extension": "png",
+      "group": "image",
+      "mime_type": "image/png",
+      "size": 1931366,
+      "size_human": "1.8 MB",
+      "modified": "2026-08-31T11:31:30+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}
