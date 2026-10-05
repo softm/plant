@@ -4,12 +4,12 @@
   "summary": {
     "root": "/home/runner/work/plant/plant",
     "path": ".",
-    "generated_at": "2026-08-31T11:33:37+00:00",
-    "file_count": 6837,
+    "generated_at": "2026-10-05T09:44:00+00:00",
+    "file_count": 6838,
     "directory_count": 416,
     "direct_file_count": 4,
     "direct_directory_count": 15,
-    "total_size": 25993449168,
+    "total_size": 25993471142,
     "total_size_human": "24.2 GB"
   },
   "tree": {
@@ -129,10 +129,10 @@
         "name": "농약로그",
         "path": "농약로그",
         "index": "농약로그/files.json",
-        "modified": "2026-08-31T11:32:20+00:00",
-        "file_count": 83,
+        "modified": "2026-10-05T09:44:00+00:00",
+        "file_count": 84,
         "directory_count": 11,
-        "total_size": 41478404,
+        "total_size": 41500378,
         "total_size_human": "39.6 MB",
         "security": {
           "private": false,
@@ -305,9 +305,9 @@
         }
       }
     ],
-    "file_count": 6837,
+    "file_count": 6838,
     "directory_count": 416,
-    "total_size": 25993449168,
+    "total_size": 25993471142,
     "total_size_human": "24.2 GB",
     "security": {
       "private": false,
@@ -487,10 +487,10 @@
       "name": "농약로그",
       "path": "농약로그",
       "index": "농약로그/files.json",
-      "modified": "2026-08-31T11:32:20+00:00",
-      "file_count": 83,
+      "modified": "2026-10-05T09:44:00+00:00",
+      "file_count": 84,
       "directory_count": 11,
-      "total_size": 41478404,
+      "total_size": 41500378,
       "total_size_human": "39.6 MB",
       "security": {
         "private": false,
