@@ -4,12 +4,12 @@
   "summary": {
     "root": "/home/runner/work/plant/plant/농약로그/20260527_모스킬_방제기록_최종",
     "path": "농약로그/20260527_모스킬_방제기록_최종",
-    "generated_at": "2026-08-31T11:33:37+00:00",
-    "file_count": 12,
+    "generated_at": "2026-10-05T09:44:00+00:00",
+    "file_count": 13,
     "directory_count": 0,
-    "direct_file_count": 12,
+    "direct_file_count": 13,
     "direct_directory_count": 0,
-    "total_size": 6871794,
+    "total_size": 6893768,
     "total_size_human": "6.6 MB"
   },
   "tree": {
@@ -17,8 +17,23 @@
     "name": "20260527_모스킬_방제기록_최종",
     "path": "농약로그/20260527_모스킬_방제기록_최종",
     "index": "농약로그/20260527_모스킬_방제기록_최종/files.json",
-    "modified": "2026-08-31T11:32:19+00:00",
+    "modified": "2026-10-05T09:44:00+00:00",
     "children": [
+      {
+        "type": "file",
+        "name": "index.html",
+        "path": "농약로그/20260527_모스킬_방제기록_최종/index.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 21974,
+        "size_human": "21.5 KB",
+        "modified": "2026-10-05T09:44:00+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
       {
         "type": "file",
         "name": "20260527_모스킬_방제기록_최종.html",
@@ -200,9 +215,9 @@
         }
       }
     ],
-    "file_count": 12,
+    "file_count": 13,
     "directory_count": 0,
-    "total_size": 6871794,
+    "total_size": 6893768,
     "total_size_human": "6.6 MB",
     "security": {
       "private": false,
@@ -210,6 +225,21 @@
     }
   },
   "files": [
+    {
+      "type": "file",
+      "name": "index.html",
+      "path": "농약로그/20260527_모스킬_방제기록_최종/index.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 21974,
+      "size_human": "21.5 KB",
+      "modified": "2026-10-05T09:44:00+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
     {
       "type": "file",
       "name": "20260527_모스킬_방제기록_최종.html",
