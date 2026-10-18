@@ -385,6 +385,10 @@
       let touchStartX = 0;
       let currentView = 'table';
 
+      /* SOFTM-GRAFT-NFC-PATH START: GitHub Pages에서 한글 원본 파일 경로를 조합형으로 요청 (2026-10-18) */
+      const originalAssetPath = value => String(value || '').normalize('NFC');
+      /* SOFTM-GRAFT-NFC-PATH END: GitHub Pages에서 한글 원본 파일 경로를 조합형으로 요청 (2026-10-18) */
+
       [...new Set(items.map(item => item.group))].forEach(value => {
         const option = document.createElement('option');
         option.value = value;
@@ -528,7 +532,8 @@
         media.replaceChildren();
         const img = new Image();
         img.alt = item.caption;
-        img.src = item.file;
+        const originalPath = originalAssetPath(item.file);
+        img.src = originalPath;
         img.decoding = 'async';
         img.style.transform = `scale(${scale})`;
         media.append(img);
@@ -536,8 +541,8 @@
         group.textContent = item.subtitle ? `${item.group} · 추출 자막` : `${item.group} · 자막 없음`;
         caption.textContent = item.subtitle || `자막 없음 · 화면 설명: ${item.caption}`;
         counter.textContent = `${activeIndex + 1} / ${visibleItems.length}`;
-        openOriginal.href = item.file;
-        downloadOriginal.href = item.file;
+        openOriginal.href = originalPath;
+        downloadOriginal.href = originalPath;
         stage.scrollTo({ top: 0, left: 0 });
       }
 

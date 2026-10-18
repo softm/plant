@@ -13,7 +13,7 @@
   "visibility": "public",
   "category": "재배 · 접목",
   "entry": "index.html",
-  "entrySha256": "18eaf232eb8cde9dbeb0ba615f281d8ef08aeee340bbd011deade22028fb48a8",
+  "entrySha256": "0335ca2e37b4a6415585470063c995af7adbd543e1e74969c46ae642680929d2",
   "sourceInventory": "source-inventory.csv",
   "sourceInventorySha256": "d207e945cbd0d938a8514eb7318a70be037f4a4d198698978983b9b83472eeb1",
   "originalSetSha256": "093ba3cc73d793f31b28b7aecc55ab63711d468d64bb1819de465cbd0254a74e",
@@ -25,7 +25,7 @@
     "extractedCaptions": 130,
     "imagesWithoutCaptions": 16,
     "generatedFiles": 158,
-    "generatedBytes": 5645536,
+    "generatedBytes": 5645934,
     "listedFilesExcludingManifest": 304,
     "missingFiles": 0
   },
@@ -132,8 +132,8 @@
       "originalName": "index.html",
       "mediaType": "text/html",
       "role": "canonical_html_entry",
-      "size": 38659,
-      "sha256": "18eaf232eb8cde9dbeb0ba615f281d8ef08aeee340bbd011deade22028fb48a8",
+      "size": 39057,
+      "sha256": "0335ca2e37b4a6415585470063c995af7adbd543e1e74969c46ae642680929d2",
       "original": false,
       "generated": true
     },
