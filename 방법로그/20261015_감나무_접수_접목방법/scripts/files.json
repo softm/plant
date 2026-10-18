@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/home/runner/work/plant/plant/방법로그/20261015_감나무_접수_접목방법/scripts",
+    "path": "방법로그/20261015_감나무_접수_접목방법/scripts",
+    "generated_at": "2026-10-18T11:48:59+00:00",
+    "file_count": 3,
+    "directory_count": 0,
+    "direct_file_count": 3,
+    "direct_directory_count": 0,
+    "total_size": 13922,
+    "total_size_human": "13.6 KB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "scripts",
+    "path": "방법로그/20261015_감나무_접수_접목방법/scripts",
+    "index": "방법로그/20261015_감나무_접수_접목방법/scripts/files.json",
+    "modified": "2026-10-18T11:47:46+00:00",
+    "children": [
+      {
+        "type": "file",
+        "name": "build-caption-data.mjs",
+        "path": "방법로그/20261015_감나무_접수_접목방법/scripts/build-caption-data.mjs",
+        "extension": "mjs",
+        "group": "text",
+        "mime_type": "text/javascript",
+        "size": 4248,
+        "size_human": "4.1 KB",
+        "modified": "2026-10-18T11:47:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "extract-captions.swift",
+        "path": "방법로그/20261015_감나무_접수_접목방법/scripts/extract-captions.swift",
+        "extension": "swift",
+        "group": "other",
+        "mime_type": null,
+        "size": 4521,
+        "size_human": "4.4 KB",
+        "modified": "2026-10-18T11:47:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      },
+      {
+        "type": "file",
+        "name": "update-manifest.mjs",
+        "path": "방법로그/20261015_감나무_접수_접목방법/scripts/update-manifest.mjs",
+        "extension": "mjs",
+        "group": "text",
+        "mime_type": "text/javascript",
+        "size": 5153,
+        "size_human": "5.0 KB",
+        "modified": "2026-10-18T11:47:46+00:00",
+        "security": {
+          "private": false,
+          "source": "public"
+        }
+      }
+    ],
+    "file_count": 3,
+    "directory_count": 0,
+    "total_size": 13922,
+    "total_size_human": "13.6 KB",
+    "security": {
+      "private": false,
+      "source": "public"
+    }
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "build-caption-data.mjs",
+      "path": "방법로그/20261015_감나무_접수_접목방법/scripts/build-caption-data.mjs",
+      "extension": "mjs",
+      "group": "text",
+      "mime_type": "text/javascript",
+      "size": 4248,
+      "size_human": "4.1 KB",
+      "modified": "2026-10-18T11:47:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "extract-captions.swift",
+      "path": "방법로그/20261015_감나무_접수_접목방법/scripts/extract-captions.swift",
+      "extension": "swift",
+      "group": "other",
+      "mime_type": null,
+      "size": 4521,
+      "size_human": "4.4 KB",
+      "modified": "2026-10-18T11:47:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    },
+    {
+      "type": "file",
+      "name": "update-manifest.mjs",
+      "path": "방법로그/20261015_감나무_접수_접목방법/scripts/update-manifest.mjs",
+      "extension": "mjs",
+      "group": "text",
+      "mime_type": "text/javascript",
+      "size": 5153,
+      "size_human": "5.0 KB",
+      "modified": "2026-10-18T11:47:46+00:00",
+      "security": {
+        "private": false,
+        "source": "public"
+      }
+    }
+  ],
+  "child_indexes": [],
+  "errors": []
+}
